@@ -460,5 +460,47 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=c341a0666468bd41",
     "scraped_at": "2026-06-05T12:43:00.237862"
+  },
+  {
+    "title": "Software Engineer, Data Infrastructure & Acquisition - Sydney, Australia",
+    "company": "Speechify",
+    "url": "https://au.indeed.com/viewjob?jk=20b749f327f5e7bd",
+    "scraped_at": "2026-06-05T17:48:34.910202"
+  },
+  {
+    "title": "AI Engineer - Manager - AI GTM Engine Room",
+    "company": "EY",
+    "url": "https://au.indeed.com/viewjob?jk=90422d1ab9d87f92",
+    "scraped_at": "2026-06-05T17:48:34.913316"
+  },
+  {
+    "title": "Analyst",
+    "company": "Westlake Corporation",
+    "url": "https://au.indeed.com/viewjob?jk=85552d5e2a0f8f3e",
+    "scraped_at": "2026-06-05T17:48:34.921725"
+  },
+  {
+    "title": "Software Engineer, Site Reliability Engineering, Logs",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=4c67bf5812698706",
+    "scraped_at": "2026-06-05T17:48:34.925693"
+  },
+  {
+    "title": "Information Security Operations Analyst (Sydney, Australia)",
+    "company": "Starling",
+    "url": "https://au.indeed.com/viewjob?jk=40908546855c85c7",
+    "scraped_at": "2026-06-05T17:48:34.927276"
+  },
+  {
+    "title": "Product Designer",
+    "company": "UntilNow",
+    "url": "https://au.indeed.com/viewjob?jk=5670555aad6125fb",
+    "scraped_at": "2026-06-05T17:48:34.934183"
+  },
+  {
+    "title": "Software Architect",
+    "company": "University of Sydney",
+    "url": "https://au.indeed.com/viewjob?jk=48b701ecf322a9f6",
+    "scraped_at": "2026-06-05T17:48:34.935217"
   }
 ]
