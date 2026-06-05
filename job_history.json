@@ -1,1 +1,464 @@
-[]
+[
+  {
+    "title": "Data Scientist",
+    "company": "hipages Group",
+    "url": "https://au.indeed.com/viewjob?jk=bb4f3760c4c49c82",
+    "scraped_at": "2026-06-05T12:43:00.148878"
+  },
+  {
+    "title": "Computational Biologist",
+    "company": "The Garvan Institute of Medical Research",
+    "url": "https://au.indeed.com/viewjob?jk=4e1d6a39631ae250",
+    "scraped_at": "2026-06-05T12:43:00.150269"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "IKEA",
+    "url": "https://au.indeed.com/viewjob?jk=e4af33b4fd6dce67",
+    "scraped_at": "2026-06-05T12:43:00.151120"
+  },
+  {
+    "title": "Binance Accelerator Program - Applied Data Scientist",
+    "company": "Binance",
+    "url": "https://au.indeed.com/viewjob?jk=5bae6308f955f822",
+    "scraped_at": "2026-06-05T12:43:00.155126"
+  },
+  {
+    "title": "Legal AI Researcher/Analyst \u2013 Regulatory Compliance",
+    "company": "RELX Group",
+    "url": "https://au.indeed.com/viewjob?jk=46289f7ce9f898f3",
+    "scraped_at": "2026-06-05T12:43:00.155737"
+  },
+  {
+    "title": "Legal AI Researcher/Analyst \u2013 Regulatory Compliance",
+    "company": "LexisNexis Legal & Professional",
+    "url": "https://au.indeed.com/viewjob?jk=324d054dc6985723",
+    "scraped_at": "2026-06-05T12:43:00.156357"
+  },
+  {
+    "title": "2027 | APEJ | Sydney | Global Investment Research | Summer Analyst",
+    "company": "Goldman Sachs",
+    "url": "https://au.indeed.com/viewjob?jk=8d7bdd9b7446d860",
+    "scraped_at": "2026-06-05T12:43:00.156651"
+  },
+  {
+    "title": "2027 | APEJ | Sydney | Global Investment Research | New Analyst",
+    "company": "Goldman Sachs",
+    "url": "https://au.indeed.com/viewjob?jk=2bc9d174435758a5",
+    "scraped_at": "2026-06-05T12:43:00.156929"
+  },
+  {
+    "title": "Binance Accelerator Program - Data Scientist (CV, Agentic AI)",
+    "company": "Binance",
+    "url": "https://au.indeed.com/viewjob?jk=258c4a7d3c2d38a7",
+    "scraped_at": "2026-06-05T12:43:00.157567"
+  },
+  {
+    "title": "Vonwiller Research Associate",
+    "company": "University of Sydney",
+    "url": "https://au.indeed.com/viewjob?jk=a2ca6b4610e890dd",
+    "scraped_at": "2026-06-05T12:43:00.159110"
+  },
+  {
+    "title": "Supplier Quality Assurance Associate Scientist (12\u2011Month Fixed Term Contract)",
+    "company": "PepsiCo",
+    "url": "https://au.indeed.com/viewjob?jk=e0d83a0899be0180",
+    "scraped_at": "2026-06-05T12:43:00.159879"
+  },
+  {
+    "title": "Postdoctoral Research Associate",
+    "company": "University of Sydney",
+    "url": "https://au.indeed.com/viewjob?jk=8ec9d2778329c5b3",
+    "scraped_at": "2026-06-05T12:43:00.162314"
+  },
+  {
+    "title": "Data Scientist (Fraud)",
+    "company": "Kasada",
+    "url": "https://au.indeed.com/viewjob?jk=8ce269987e011044",
+    "scraped_at": "2026-06-05T12:43:00.163727"
+  },
+  {
+    "title": "Full Stack Software Engineer - Agentic AI",
+    "company": "NinjaTech AI",
+    "url": "https://au.indeed.com/viewjob?jk=9c648ae7db17f77f",
+    "scraped_at": "2026-06-05T12:43:00.164428"
+  },
+  {
+    "title": "Systems Management Specialist",
+    "company": "AECOM",
+    "url": "https://au.indeed.com/viewjob?jk=014c4f2e753d72a2",
+    "scraped_at": "2026-06-05T12:43:00.165695"
+  },
+  {
+    "title": "Product Manager - Video Analytics",
+    "company": "Unleash Live",
+    "url": "https://au.indeed.com/viewjob?jk=6335e74b0e8db383",
+    "scraped_at": "2026-06-05T12:43:00.167308"
+  },
+  {
+    "title": "Chief Engineer",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=d52fb285afd15368",
+    "scraped_at": "2026-06-05T12:43:00.167969"
+  },
+  {
+    "title": "Data Engineer (Spaceship)",
+    "company": "Spaceship",
+    "url": "https://au.indeed.com/viewjob?jk=21602b8340245273",
+    "scraped_at": "2026-06-05T12:43:00.168632"
+  },
+  {
+    "title": "Critical Search Engineer",
+    "company": "Particular Audience",
+    "url": "https://au.indeed.com/viewjob?jk=a0a54a353f59fb4a",
+    "scraped_at": "2026-06-05T12:43:00.168963"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Info Techno Digital Services",
+    "url": "https://au.indeed.com/viewjob?jk=0edc7a9580ab29a7",
+    "scraped_at": "2026-06-05T12:43:00.169401"
+  },
+  {
+    "title": "Azure Fabric Data Engineer",
+    "company": "AI Talent",
+    "url": "https://au.indeed.com/viewjob?jk=78032442d84c64f9",
+    "scraped_at": "2026-06-05T12:43:00.170055"
+  },
+  {
+    "title": "Manager, Data Science",
+    "company": "Visa",
+    "url": "https://au.indeed.com/viewjob?jk=b618711e4cd52ff8",
+    "scraped_at": "2026-06-05T12:43:00.170869"
+  },
+  {
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "company": "Databricks",
+    "url": "https://au.indeed.com/viewjob?jk=9ef9c623922387ca",
+    "scraped_at": "2026-06-05T12:43:00.171850"
+  },
+  {
+    "title": "2027 | APEJ | Sydney | Engineering | Summer Analyst",
+    "company": "Goldman Sachs",
+    "url": "https://au.indeed.com/viewjob?jk=8147f987f9591970",
+    "scraped_at": "2026-06-05T12:43:00.173153"
+  },
+  {
+    "title": "Machine Learning Engineer Graduate (Trust and Safety Engineering) - 2027 Start (BS/MS)",
+    "company": "TikTok",
+    "url": "https://au.indeed.com/viewjob?jk=be440c688971c4c0",
+    "scraped_at": "2026-06-05T12:43:00.174132"
+  },
+  {
+    "title": "Binance Accelerator Program - Web3 AI Engineer(For blockchain student)",
+    "company": "Binance",
+    "url": "https://au.indeed.com/viewjob?jk=61e7783b252c9ff3",
+    "scraped_at": "2026-06-05T12:43:00.174846"
+  },
+  {
+    "title": "Microsoft Azure GenAI \u2013 Presales Solution Architect",
+    "company": "SoftwareOne",
+    "url": "https://au.indeed.com/viewjob?jk=f891bac9e03a6569",
+    "scraped_at": "2026-06-05T12:43:00.175729"
+  },
+  {
+    "title": "Global Advisory & Markets, Goldman Sachs Electronic Trading ( GSET ) Java/ C++ Developer, Associate,",
+    "company": "Goldman Sachs",
+    "url": "https://au.indeed.com/viewjob?jk=0f4c0f8f3138557f",
+    "scraped_at": "2026-06-05T12:43:00.176836"
+  },
+  {
+    "title": "Global Advisory & Markets, Synthetics Products Group Engineer, Associate, Sydney",
+    "company": "Goldman Sachs",
+    "url": "https://au.indeed.com/viewjob?jk=9c5b690ab5d3b8c6",
+    "scraped_at": "2026-06-05T12:43:00.178279"
+  },
+  {
+    "title": "Data Engineer (AI Adoption)",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=d4f58315cc08ea67",
+    "scraped_at": "2026-06-05T12:43:00.180346"
+  },
+  {
+    "title": "Strategic Cloud Engineer, Platform and AI Infrastructure",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=071b52e111e46db1",
+    "scraped_at": "2026-06-05T12:43:00.181139"
+  },
+  {
+    "title": "Engineer - Software",
+    "company": "Origin Energy",
+    "url": "https://au.indeed.com/viewjob?jk=24d337577f5f5b96",
+    "scraped_at": "2026-06-05T12:43:00.181950"
+  },
+  {
+    "title": "Customer Engineer, AI Infrastructure Modernization, Google Cloud",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=fb64dfec3094079e",
+    "scraped_at": "2026-06-05T12:43:00.182721"
+  },
+  {
+    "title": "Full Stack Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=e21db6f9fd51b836",
+    "scraped_at": "2026-06-05T12:43:00.183510"
+  },
+  {
+    "title": "ServiceNow ITOM Engineer",
+    "company": "FinXL",
+    "url": "https://au.indeed.com/viewjob?jk=71ac37729f7ea538",
+    "scraped_at": "2026-06-05T12:43:00.184095"
+  },
+  {
+    "title": "ServiceNow Team Lead - ServiceNow Engineer",
+    "company": "FinXL",
+    "url": "https://au.indeed.com/viewjob?jk=b926d625e307372a",
+    "scraped_at": "2026-06-05T12:43:00.184359"
+  },
+  {
+    "title": "Forward Deployed Engineer, Gen AI, Google Cloud",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=6fc2a43584c71681",
+    "scraped_at": "2026-06-05T12:43:00.185248"
+  },
+  {
+    "title": "Lead Data Consultant",
+    "company": "DIUS",
+    "url": "https://au.indeed.com/viewjob?jk=4483e74e1699f961",
+    "scraped_at": "2026-06-05T12:43:00.186195"
+  },
+  {
+    "title": "Lead AI Consultant",
+    "company": "DIUS",
+    "url": "https://au.indeed.com/viewjob?jk=4816cf42a9678196",
+    "scraped_at": "2026-06-05T12:43:00.187400"
+  },
+  {
+    "title": "AI Engineer (12 Month Contract)",
+    "company": "Chubb Insurance",
+    "url": "https://au.indeed.com/viewjob?jk=bf0f0ca49d23e06d",
+    "scraped_at": "2026-06-05T12:43:00.188578"
+  },
+  {
+    "title": "Platform Engineer",
+    "company": "Breaker",
+    "url": "https://au.indeed.com/viewjob?jk=c68c78601dc8dcd6",
+    "scraped_at": "2026-06-05T12:43:00.190481"
+  },
+  {
+    "title": "Advanced Software Engineer -AI R&D",
+    "company": "Honeywell",
+    "url": "https://au.indeed.com/viewjob?jk=5ef24f86dba4d275",
+    "scraped_at": "2026-06-05T12:43:00.191656"
+  },
+  {
+    "title": "Software Engineer, Network Security, GGI Security Team",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=da9580ae5ff0fa25",
+    "scraped_at": "2026-06-05T12:43:00.192451"
+  },
+  {
+    "title": "Software Development Engineer, Public Sector Customer Engineering",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=f08466d4de1f537d",
+    "scraped_at": "2026-06-05T12:43:00.193137"
+  },
+  {
+    "title": "Controls Technician, APAC Controls Deployment & Service",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=e8a8fa6c900508c6",
+    "scraped_at": "2026-06-05T12:43:00.194398"
+  },
+  {
+    "title": "Full Stack Engineer",
+    "company": "NAB - National Australia Bank",
+    "url": "https://au.indeed.com/viewjob?jk=479703a11c5991bf",
+    "scraped_at": "2026-06-05T12:43:00.194931"
+  },
+  {
+    "title": "Technical Onboarding & Engagement Manager New",
+    "company": "Algolia",
+    "url": "https://au.indeed.com/viewjob?jk=a1586e88c075b263",
+    "scraped_at": "2026-06-05T12:43:00.195759"
+  },
+  {
+    "title": "Finance Analytics Engineer",
+    "company": "SAFETYCULTURE",
+    "url": "https://au.indeed.com/viewjob?jk=fce1dcdc96adf514",
+    "scraped_at": "2026-06-05T12:43:00.197164"
+  },
+  {
+    "title": "Business Intelligence Specialist - Construction Industry",
+    "company": "HKA Global Limited",
+    "url": "https://au.indeed.com/viewjob?jk=a6107412d1c9d7fd",
+    "scraped_at": "2026-06-05T12:43:00.198746"
+  },
+  {
+    "title": "Power Systems Engineer",
+    "company": "Transgrid",
+    "url": "https://au.indeed.com/viewjob?jk=75610341e1b1066a",
+    "scraped_at": "2026-06-05T12:43:00.199630"
+  },
+  {
+    "title": "Software Engineer, Doshii",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=7fbca828f6410df8",
+    "scraped_at": "2026-06-05T12:43:00.200771"
+  },
+  {
+    "title": "Research & Analytics Analyst",
+    "company": "MLC Life Insurance",
+    "url": "https://au.indeed.com/viewjob?jk=0a4311e3579abb2c",
+    "scraped_at": "2026-06-05T12:43:00.202624"
+  },
+  {
+    "title": "Global Markets Full Time Analyst - 2027 - Sydney",
+    "company": "Bank of America",
+    "url": "https://au.indeed.com/viewjob?jk=6f0ee4318b3d4952",
+    "scraped_at": "2026-06-05T12:43:00.204475"
+  },
+  {
+    "title": "Pricing Analyst (Graduate)",
+    "company": "Blackwoods",
+    "url": "https://au.indeed.com/viewjob?jk=2067d25a310ebe3d",
+    "scraped_at": "2026-06-05T12:43:00.205232"
+  },
+  {
+    "title": "Business Intelligence (BI) Analyst, Fleet, Equipment and Sustainability",
+    "company": "NSW Health",
+    "url": "https://au.indeed.com/viewjob?jk=261957479b1bc1ea",
+    "scraped_at": "2026-06-05T12:43:00.206422"
+  },
+  {
+    "title": "Assistant Commercial Analyst",
+    "company": "Metcash",
+    "url": "https://au.indeed.com/viewjob?jk=0714777a2c86ffb6",
+    "scraped_at": "2026-06-05T12:43:00.209630"
+  },
+  {
+    "title": "UX Researcher",
+    "company": "Dentsu",
+    "url": "https://au.indeed.com/viewjob?jk=da60863a58d9ffc7",
+    "scraped_at": "2026-06-05T12:43:00.210437"
+  },
+  {
+    "title": "Associate, Australian Equity Research",
+    "company": "RBC",
+    "url": "https://au.indeed.com/viewjob?jk=7734a8a993cf40fb",
+    "scraped_at": "2026-06-05T12:43:00.212410"
+  },
+  {
+    "title": "Fraud Analyst",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=88b9b4371164696b",
+    "scraped_at": "2026-06-05T12:43:00.214632"
+  },
+  {
+    "title": "Data and Workforce Analyst",
+    "company": "QBE",
+    "url": "https://au.indeed.com/viewjob?jk=90c649e178b4cd04",
+    "scraped_at": "2026-06-05T12:43:00.215482"
+  },
+  {
+    "title": "Sales Performance & Insights Analyst",
+    "company": "CoStar Group",
+    "url": "https://au.indeed.com/viewjob?jk=f1fd9d2c1408ed97",
+    "scraped_at": "2026-06-05T12:43:00.217747"
+  },
+  {
+    "title": "Product Marketing Manager",
+    "company": "Nuix",
+    "url": "https://au.indeed.com/viewjob?jk=f4197607f9cc83d2",
+    "scraped_at": "2026-06-05T12:43:00.219895"
+  },
+  {
+    "title": "Mid-level Software Engineer (Full Stack)",
+    "company": "PerformID",
+    "url": "https://au.indeed.com/viewjob?jk=f43a6231605800a9",
+    "scraped_at": "2026-06-05T12:43:00.220644"
+  },
+  {
+    "title": "Analyst",
+    "company": "NSW Department of Communities and Justice",
+    "url": "https://au.indeed.com/viewjob?jk=915b9c98d9427f2c",
+    "scraped_at": "2026-06-05T12:43:00.222644"
+  },
+  {
+    "title": "Customer Insights & Data Analyst",
+    "company": "Mirvac",
+    "url": "https://au.indeed.com/viewjob?jk=4f7dfad421b7de2a",
+    "scraped_at": "2026-06-05T12:43:00.223448"
+  },
+  {
+    "title": "IQC Manager",
+    "company": "Techtronic Industries Co. Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=ed0879ffa4b403e0",
+    "scraped_at": "2026-06-05T12:43:00.224982"
+  },
+  {
+    "title": "iOS Engineer",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=eb452b7ec7f8321e",
+    "scraped_at": "2026-06-05T12:43:00.226078"
+  },
+  {
+    "title": "Lead Integration Engineer",
+    "company": "KPMG",
+    "url": "https://au.indeed.com/viewjob?jk=c2216fbd123d2240",
+    "scraped_at": "2026-06-05T12:43:00.230941"
+  },
+  {
+    "title": "Lead Integration Engineer",
+    "company": "KPMG",
+    "url": "https://au.indeed.com/viewjob?jk=23bc03f69c042da6",
+    "scraped_at": "2026-06-05T12:43:00.231808"
+  },
+  {
+    "title": "Snowflake Developer",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=acd4df4418e7fa9c",
+    "scraped_at": "2026-06-05T12:43:00.232094"
+  },
+  {
+    "title": "Practice Customer Engineer, Artificial Intelligence, Google Cloud",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=84517f1d176cfd78",
+    "scraped_at": "2026-06-05T12:43:00.234094"
+  },
+  {
+    "title": "Platform Engineer \u2013 AI & Agent Platforms",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=ca89c737d4740f01",
+    "scraped_at": "2026-06-05T12:43:00.234732"
+  },
+  {
+    "title": "Bioinformatics Research Engineer",
+    "company": "Children's Cancer Institute",
+    "url": "https://au.indeed.com/viewjob?jk=6ad6e00125c046b9",
+    "scraped_at": "2026-06-05T12:43:00.235442"
+  },
+  {
+    "title": "Data Labeling Specialist",
+    "company": "OpsArmy",
+    "url": "https://au.indeed.com/viewjob?jk=381a75264cc4e584",
+    "scraped_at": "2026-06-05T12:43:00.235968"
+  },
+  {
+    "title": "Internal Auditor",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=6a923d67e598d0fb",
+    "scraped_at": "2026-06-05T12:43:00.236555"
+  },
+  {
+    "title": "Digital Product / Project Coordinator",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=27b0c017d581061b",
+    "scraped_at": "2026-06-05T12:43:00.237087"
+  },
+  {
+    "title": "Security Architect | AI & DevSecOps",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=c341a0666468bd41",
+    "scraped_at": "2026-06-05T12:43:00.237862"
+  }
+]
