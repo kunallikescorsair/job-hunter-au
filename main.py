@@ -57,16 +57,14 @@ def save_history(history):
 def send_telegram(message):
     """
     Send a message to all configured Telegram chat IDs.
-    
-    Args:
-        message (str): Message to send (supports Markdown formatting)
     """
     if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_IDS:
         logger.error("❌ Telegram credentials missing.")
-        return
+        return False
 
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
-    
+    success = True
+
     for chat_id in TELEGRAM_CHAT_IDS:
         payload = {
             "chat_id": chat_id,
@@ -74,12 +72,48 @@ def send_telegram(message):
             "parse_mode": "Markdown",
             "disable_web_page_preview": True
         }
+
         try:
-            requests.post(url, json=payload, timeout=10)
-            logger.info(f"✅ Sent to chat ID: {chat_id}")
-            time.sleep(1)  # Rate limiting to be respectful to Telegram API
+            response = requests.post(url, json=payload, timeout=10)
+
+            if response.status_code == 200:
+                logger.info(f"✅ Sent to chat ID: {chat_id}")
+            else:
+                success = False
+                logger.error(
+                    f"❌ Telegram API error {response.status_code}: {response.text}"
+                )
+
+            time.sleep(1)
+
         except Exception as e:
+            success = False
             logger.error(f"❌ Failed to send to {chat_id}: {e}")
+
+    return success
+
+def send_telegram_chunks(header, jobs, chunk_size=8):
+    """
+    Send job alerts in smaller Telegram-safe chunks.
+    This avoids Telegram message length limits and Markdown failures.
+    """
+    if not jobs:
+        return
+
+    total = len(jobs)
+
+    for start in range(0, total, chunk_size):
+        end = min(start + chunk_size, total)
+        chunk_jobs = jobs[start:end]
+
+        message = (
+            f"{header}\n"
+            f"Showing jobs {start + 1}-{end} of {total}\n\n"
+            + "\n\n".join(chunk_jobs)
+        )
+
+        send_telegram(message)
+        time.sleep(1)
 
 def matches_keywords(text, keywords):
     """
@@ -117,7 +151,7 @@ def run_scraper():
     2. Remove duplicates from current run
     3. Filter against job history to find new jobs
     4. Apply blacklist and keyword filters
-    5. Categorize by location (Darwin, Remote, Other)
+    5. Categorize by location (Sydney, Remote, Other)
     6. Send Telegram alerts for new matching jobs
     7. Update job history
     """
@@ -231,14 +265,15 @@ def run_scraper():
         send_telegram(intro)
         
         # Send alerts by category
+        # Send alerts by category in smaller chunks
         if sydney_jobs:
-            send_telegram("🐊 *NEW SYDNEY JOBS*\n" + "\n\n".join(sydney_jobs))
-        
+            send_telegram_chunks("🏙️ *NEW SYDNEY JOBS*", sydney_jobs, chunk_size=8)
+
+        if hybrid_jobs:
+            send_telegram_chunks("🏢 *NEW HYBRID JOBS*", hybrid_jobs, chunk_size=8)
+
         if remote_jobs:
-            send_telegram("🌏 *NEW REMOTE JOBS*\n" + "\n\n".join(remote_jobs))
-        
-        if other_jobs:
-            send_telegram("💼 *NEW PART-TIME JOBS*\n" + "\n\n".join(other_jobs))
+            send_telegram_chunks("🌏 *NEW REMOTE JOBS*", remote_jobs, chunk_size=8)
             
         # Step 8: Update job history
         history.extend(new_history_entries)

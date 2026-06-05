@@ -18,7 +18,7 @@ Target: Specific roles for BIT + MICT + nursing background that support PR goals
 LOCATION = "Sydney, NSW, Australia"
 
 # Number of results to fetch per search term (keep low to avoid rate limiting)
-RESULTS_PER_TERM = 25
+RESULTS_PER_TERM = 10
 
 # =============================================================================
 # SEARCH TERMS BY JOB CATEGORY
