@@ -610,5 +610,53 @@
     "company": "Virtusa Consulting & Services Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=619a12758abc7a13",
     "scraped_at": "2026-06-09T07:38:28.249417"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Xero",
+    "url": "https://au.indeed.com/viewjob?jk=82f8e3a0c20d6e3a",
+    "scraped_at": "2026-06-09T10:52:49.307006"
+  },
+  {
+    "title": "Presales ITAM & FinOps",
+    "company": "SoftwareOne",
+    "url": "https://au.indeed.com/viewjob?jk=13bbf0f36374b5d6",
+    "scraped_at": "2026-06-09T10:52:49.317920"
+  },
+  {
+    "title": "Applications Support Analyst/Solution Engineer - IT Application Services",
+    "company": "Catholic Healthcare Limited",
+    "url": "https://au.indeed.com/viewjob?jk=7d4125567833f465",
+    "scraped_at": "2026-06-09T10:52:49.318695"
+  },
+  {
+    "title": "Product Specialist / Solution Architect - Agentforce Contact Center",
+    "company": "Salesforce",
+    "url": "https://au.indeed.com/viewjob?jk=29eee2e173f71d42",
+    "scraped_at": "2026-06-09T10:52:49.319914"
+  },
+  {
+    "title": "ICT Commercial Account Executive",
+    "company": "Datadog",
+    "url": "https://au.indeed.com/viewjob?jk=82b8f5adc4811b4a",
+    "scraped_at": "2026-06-09T10:52:49.320485"
+  },
+  {
+    "title": "Delivery Consultant: Full Stack Engineer, AWS Professional Services",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=87adf51021dee18b",
+    "scraped_at": "2026-06-09T10:52:49.321437"
+  },
+  {
+    "title": "Product Actuary",
+    "company": "UniSuper",
+    "url": "https://au.indeed.com/viewjob?jk=acb8b08f35b6de97",
+    "scraped_at": "2026-06-09T10:52:49.335648"
+  },
+  {
+    "title": "Data Center Technical Operations Engineer",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=8b29895b69413825",
+    "scraped_at": "2026-06-09T10:52:49.344040"
   }
 ]
