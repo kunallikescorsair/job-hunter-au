@@ -664,5 +664,17 @@
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=e38d281cf8c89f8b",
     "scraped_at": "2026-06-09T17:53:58.388907"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "IKEA",
+    "url": "https://au.indeed.com/viewjob?jk=acdc30ae5f3b2fad",
+    "scraped_at": "2026-06-09T21:42:10.014505"
+  },
+  {
+    "title": "Presales ITAM & FinOps",
+    "company": "SoftwareOne",
+    "url": "https://au.indeed.com/viewjob?jk=44085c06d5e54667",
+    "scraped_at": "2026-06-09T21:42:10.032701"
   }
 ]
