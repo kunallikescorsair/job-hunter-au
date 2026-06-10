@@ -688,5 +688,35 @@
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=d57e873a2feea038",
     "scraped_at": "2026-06-10T02:33:03.133957"
+  },
+  {
+    "title": "Product Design Manager",
+    "company": "Sitemate",
+    "url": "https://au.indeed.com/viewjob?jk=eaf8af94865306c7",
+    "scraped_at": "2026-06-10T08:01:24.345093"
+  },
+  {
+    "title": "Transcriber",
+    "company": "Epiq",
+    "url": "https://au.indeed.com/viewjob?jk=8d489126cae1b2dd",
+    "scraped_at": "2026-06-10T08:01:24.357340"
+  },
+  {
+    "title": "Commercial Analyst",
+    "company": "Linfox",
+    "url": "https://au.indeed.com/viewjob?jk=72b4a50b11920fd7",
+    "scraped_at": "2026-06-10T08:01:24.362063"
+  },
+  {
+    "title": "Junior Software Engineer",
+    "company": "Ebix Australia",
+    "url": "https://au.indeed.com/viewjob?jk=6bdebfba5813b76c",
+    "scraped_at": "2026-06-10T08:01:24.363998"
+  },
+  {
+    "title": "Property Editor",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=01b027c4e0f1edb3",
+    "scraped_at": "2026-06-10T08:01:24.369656"
   }
 ]
