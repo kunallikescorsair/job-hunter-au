@@ -796,5 +796,23 @@
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=232d1086a64e478f",
     "scraped_at": "2026-06-11T02:43:01.184663"
+  },
+  {
+    "title": "UX Developer",
+    "company": "HammondCare",
+    "url": "https://au.indeed.com/viewjob?jk=73bf00300dcd71d1",
+    "scraped_at": "2026-06-11T08:29:10.399149"
+  },
+  {
+    "title": "Professional Services Project Manager, Associate",
+    "company": "Epicor Software",
+    "url": "https://au.indeed.com/viewjob?jk=f6ef0333a17f179c",
+    "scraped_at": "2026-06-11T08:29:10.399613"
+  },
+  {
+    "title": "Business Analyst - Payments (12 month contract)",
+    "company": "Cuscal",
+    "url": "https://au.indeed.com/viewjob?jk=7e9fc3179b8a062b",
+    "scraped_at": "2026-06-11T08:29:10.404274"
   }
 ]
