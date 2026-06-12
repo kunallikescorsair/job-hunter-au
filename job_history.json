@@ -1000,5 +1000,11 @@
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=bffcccb132f22a50",
     "scraped_at": "2026-06-12T14:35:55.172908"
+  },
+  {
+    "title": "Front-End Software Engineer, Google Photos",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=544ad668f857cdd1",
+    "scraped_at": "2026-06-12T18:00:20.631547"
   }
 ]
