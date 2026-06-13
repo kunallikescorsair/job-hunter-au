@@ -1006,5 +1006,11 @@
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=544ad668f857cdd1",
     "scraped_at": "2026-06-12T18:00:20.631547"
+  },
+  {
+    "title": "Product Manager",
+    "company": "Nuix",
+    "url": "https://au.indeed.com/viewjob?jk=86a664a480b1a561",
+    "scraped_at": "2026-06-13T02:31:31.987327"
   }
 ]
