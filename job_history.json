@@ -1066,5 +1066,17 @@
     "company": "CSR",
     "url": "https://au.indeed.com/viewjob?jk=873e7488f0ca250e",
     "scraped_at": "2026-06-14T08:08:58.372240"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Dipole Group",
+    "url": "https://au.indeed.com/viewjob?jk=5d551c4f1a83b1ed",
+    "scraped_at": "2026-06-14T13:29:34.451847"
+  },
+  {
+    "title": "Federal Programs Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=68dc9dd0cddf9ce1",
+    "scraped_at": "2026-06-14T13:29:34.456101"
   }
 ]
