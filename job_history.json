@@ -1210,5 +1210,29 @@
     "company": "Marsh McLennan",
     "url": "https://au.indeed.com/viewjob?jk=a2a5dccb5058df38",
     "scraped_at": "2026-06-15T16:59:22.879440"
+  },
+  {
+    "title": "Network Design Engineer",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=4928f411c4e8e30b",
+    "scraped_at": "2026-06-15T22:11:16.010544"
+  },
+  {
+    "title": "Account Executive",
+    "company": "Zone & Co",
+    "url": "https://au.indeed.com/viewjob?jk=5df8d278cefae419",
+    "scraped_at": "2026-06-15T22:11:16.016030"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=e15fdc307008a3c3",
+    "scraped_at": "2026-06-15T22:11:16.016599"
+  },
+  {
+    "title": "Investment Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=a9050165a6f341f6",
+    "scraped_at": "2026-06-15T22:11:16.023316"
   }
 ]
