@@ -1174,5 +1174,41 @@
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=9b1f15854c98d9fc",
     "scraped_at": "2026-06-15T09:53:26.485084"
+  },
+  {
+    "title": "Data & AI Analyst (Sydney or Melbourne)",
+    "company": "Deloitte",
+    "url": "https://au.indeed.com/viewjob?jk=780a7d8ad49344e1",
+    "scraped_at": "2026-06-15T16:59:22.861913"
+  },
+  {
+    "title": "Technical Solutions Consultant, Google Photos (English, Mandarin)",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=d707055d3054349d",
+    "scraped_at": "2026-06-15T16:59:22.863074"
+  },
+  {
+    "title": "Analyst - Enterprise Risk Advisory 5A",
+    "company": "Genpact Australia",
+    "url": "https://au.indeed.com/viewjob?jk=569825fff7d3115e",
+    "scraped_at": "2026-06-15T16:59:22.867664"
+  },
+  {
+    "title": "Azure DevOps Platform Engineer",
+    "company": "Planit Testing",
+    "url": "https://au.indeed.com/viewjob?jk=d6df2ae4f72a16c5",
+    "scraped_at": "2026-06-15T16:59:22.877503"
+  },
+  {
+    "title": "Data Engineer \u2013 Snowflake & AWS",
+    "company": "Neuronimbus Digital Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=405b4f79fd54ce34",
+    "scraped_at": "2026-06-15T16:59:22.878074"
+  },
+  {
+    "title": "Consultant \u2013 Property Risk",
+    "company": "Marsh McLennan",
+    "url": "https://au.indeed.com/viewjob?jk=a2a5dccb5058df38",
+    "scraped_at": "2026-06-15T16:59:22.879440"
   }
 ]
