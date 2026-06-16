@@ -1318,5 +1318,59 @@
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=8f87e9680719c878",
     "scraped_at": "2026-06-16T09:16:50.975203"
+  },
+  {
+    "title": "Software Engineer III, Securities Services Technology",
+    "company": "JPMorganChase",
+    "url": "https://au.indeed.com/viewjob?jk=c853453095c0d2ef",
+    "scraped_at": "2026-06-16T16:25:07.119589"
+  },
+  {
+    "title": "AI & Automation Engineer",
+    "company": "FinXL",
+    "url": "https://au.indeed.com/viewjob?jk=b6833b0e3d447a7f",
+    "scraped_at": "2026-06-16T16:25:07.123332"
+  },
+  {
+    "title": "Junior Software Engineer",
+    "company": "Objective Corporation",
+    "url": "https://au.indeed.com/viewjob?jk=5191fa17cf3b78bc",
+    "scraped_at": "2026-06-16T16:25:07.124495"
+  },
+  {
+    "title": "Product Delivery Lead",
+    "company": "Macquarie Technology Group",
+    "url": "https://au.indeed.com/viewjob?jk=28f6659474037a62",
+    "scraped_at": "2026-06-16T16:25:07.125222"
+  },
+  {
+    "title": "Payroll Specialist Lead - Australia",
+    "company": "Remote",
+    "url": "https://au.indeed.com/viewjob?jk=b3d0f1ec8da45316",
+    "scraped_at": "2026-06-16T16:25:07.125846"
+  },
+  {
+    "title": "Cloud Security Engineer",
+    "company": "Microsoft",
+    "url": "https://au.indeed.com/viewjob?jk=06422878439a1a0b",
+    "scraped_at": "2026-06-16T16:25:07.130026"
+  },
+  {
+    "title": "Product Manager \u2013 Cardiac Surgery",
+    "company": "Medtronic",
+    "url": "https://au.indeed.com/viewjob?jk=e5ac284303daa81f",
+    "scraped_at": "2026-06-16T16:25:07.138089"
+  },
+  {
+    "title": "Automation Engineer, Amazon Logistics",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=734a05c04d211221",
+    "scraped_at": "2026-06-16T16:25:07.140319"
+  },
+  {
+    "title": "ServiceNow Project Manager",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=a7ea6c6f7dc73fe4",
+    "scraped_at": "2026-06-16T16:25:07.146998"
   }
 ]
