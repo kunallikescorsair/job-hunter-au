@@ -1396,5 +1396,59 @@
     "company": "UBS",
     "url": "https://au.indeed.com/viewjob?jk=d00aede37785274e",
     "scraped_at": "2026-06-17T02:46:22.544346"
+  },
+  {
+    "title": "Chief Engineer, Data and AI",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=14f8903827abb50f",
+    "scraped_at": "2026-06-17T08:54:35.456038"
+  },
+  {
+    "title": "Lead Cloud DevOps Engineer - GCP",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=d9071e9428c256a5",
+    "scraped_at": "2026-06-17T08:54:35.458865"
+  },
+  {
+    "title": "Lead Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=b318032b55085a59",
+    "scraped_at": "2026-06-17T08:54:35.459922"
+  },
+  {
+    "title": "Infrastructure Solution Engineer",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=c3d103eb162b6ad5",
+    "scraped_at": "2026-06-17T08:54:35.461812"
+  },
+  {
+    "title": "Data Solutions Analyst",
+    "company": "IRI Worldwide (Australia)",
+    "url": "https://au.indeed.com/viewjob?jk=f168f807a8f9aef7",
+    "scraped_at": "2026-06-17T08:54:35.464185"
+  },
+  {
+    "title": "Reporting and Insights Analyst, myWorkZone Project",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=5275d3663031b2e4",
+    "scraped_at": "2026-06-17T08:54:35.465342"
+  },
+  {
+    "title": "Logistics Specialist",
+    "company": "Kenvue",
+    "url": "https://au.indeed.com/viewjob?jk=d676729dad6de668",
+    "scraped_at": "2026-06-17T08:54:35.467951"
+  },
+  {
+    "title": "Data Architect - 2 Year Fixed Term",
+    "company": "Reserve Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=da52feeaf4fbb6d7",
+    "scraped_at": "2026-06-17T08:54:35.470027"
+  },
+  {
+    "title": "Software Development Engineer, Network Health Service (NHS)",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=bdf1056b10f30071",
+    "scraped_at": "2026-06-17T08:54:35.471854"
   }
 ]
