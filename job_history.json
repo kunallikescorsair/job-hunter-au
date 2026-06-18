@@ -1564,5 +1564,41 @@
     "company": "Lion",
     "url": "https://au.indeed.com/viewjob?jk=5274267cc7710b46",
     "scraped_at": "2026-06-18T08:38:48.140166"
+  },
+  {
+    "title": "Technical Business Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=0ef54f57d84743e4",
+    "scraped_at": "2026-06-18T14:48:14.607229"
+  },
+  {
+    "title": "Creative Activations Assistant",
+    "company": "Omnicom Group",
+    "url": "https://au.indeed.com/viewjob?jk=958fd9962e932243",
+    "scraped_at": "2026-06-18T14:48:14.610355"
+  },
+  {
+    "title": "SOC Analyst",
+    "company": "NCC Group",
+    "url": "https://au.indeed.com/viewjob?jk=8e31db03257dadc2",
+    "scraped_at": "2026-06-18T14:48:14.612151"
+  },
+  {
+    "title": "Retail Systems Analyst",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=84db518c43064079",
+    "scraped_at": "2026-06-18T14:48:14.612747"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=011ffee447665005",
+    "scraped_at": "2026-06-18T14:48:14.618026"
+  },
+  {
+    "title": ".Net Developer",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=76750fd055ad0cbb",
+    "scraped_at": "2026-06-18T14:48:14.625623"
   }
 ]
