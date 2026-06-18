@@ -1540,5 +1540,29 @@
     "company": "HCLTech",
     "url": "https://au.indeed.com/viewjob?jk=02308e22ead9f564",
     "scraped_at": "2026-06-18T02:42:39.295221"
+  },
+  {
+    "title": "Manager, Data Analytics",
+    "company": "SAFETYCULTURE",
+    "url": "https://au.indeed.com/viewjob?jk=d922f9faf3221c31",
+    "scraped_at": "2026-06-18T08:38:48.113366"
+  },
+  {
+    "title": "Data Ops Engineer",
+    "company": "Australian Payments Plus",
+    "url": "https://au.indeed.com/viewjob?jk=c22ebed87a25004c",
+    "scraped_at": "2026-06-18T08:38:48.125287"
+  },
+  {
+    "title": "Demand Analyst",
+    "company": "Haleon",
+    "url": "https://au.indeed.com/viewjob?jk=535ccced869491ae",
+    "scraped_at": "2026-06-18T08:38:48.129199"
+  },
+  {
+    "title": "Finance Business Partner - Sales",
+    "company": "Lion",
+    "url": "https://au.indeed.com/viewjob?jk=5274267cc7710b46",
+    "scraped_at": "2026-06-18T08:38:48.140166"
   }
 ]
