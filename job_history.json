@@ -1528,5 +1528,17 @@
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=51c6f18bd90785c1",
     "scraped_at": "2026-06-17T18:10:29.169611"
+  },
+  {
+    "title": "Google Platform Engineer - GCP",
+    "company": "NCS",
+    "url": "https://au.indeed.com/viewjob?jk=e32a5504015fcb74",
+    "scraped_at": "2026-06-18T02:42:39.292609"
+  },
+  {
+    "title": "Domain Architect - DynaTrace, Windows PowerShell",
+    "company": "HCLTech",
+    "url": "https://au.indeed.com/viewjob?jk=02308e22ead9f564",
+    "scraped_at": "2026-06-18T02:42:39.295221"
   }
 ]
