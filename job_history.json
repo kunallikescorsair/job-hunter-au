@@ -1600,5 +1600,17 @@
     "company": "Employment Hero",
     "url": "https://au.indeed.com/viewjob?jk=76750fd055ad0cbb",
     "scraped_at": "2026-06-18T14:48:14.625623"
+  },
+  {
+    "title": "Forward Deployed Engineer, Gen AI, Google Cloud",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=488d5b174cf27c70",
+    "scraped_at": "2026-06-18T18:22:24.843515"
+  },
+  {
+    "title": "Asset Data & Systems Analyst",
+    "company": "Ventia",
+    "url": "https://au.indeed.com/viewjob?jk=930a235641b28ef5",
+    "scraped_at": "2026-06-18T18:22:24.851207"
   }
 ]
