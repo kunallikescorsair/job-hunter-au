@@ -1660,5 +1660,29 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=7bfe98ff7551cf8c",
     "scraped_at": "2026-06-19T08:59:15.452632"
+  },
+  {
+    "title": "Microsoft Copilot and AI Ops Engineer",
+    "company": "Avanade",
+    "url": "https://au.indeed.com/viewjob?jk=629bc0a688d12810",
+    "scraped_at": "2026-06-19T14:44:01.876825"
+  },
+  {
+    "title": "Team Lead, Support Engineer",
+    "company": "Heidi",
+    "url": "https://au.indeed.com/viewjob?jk=42487affe1c0e0bf",
+    "scraped_at": "2026-06-19T14:44:01.878020"
+  },
+  {
+    "title": "Lead Front End Engineer (React)",
+    "company": "EPAM Systems",
+    "url": "https://au.indeed.com/viewjob?jk=b45b46676d18655e",
+    "scraped_at": "2026-06-19T14:44:01.879267"
+  },
+  {
+    "title": "Test Manager",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=c99849a7ffb4ad32",
+    "scraped_at": "2026-06-19T14:44:01.896713"
   }
 ]
