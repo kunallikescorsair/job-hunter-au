@@ -1612,5 +1612,17 @@
     "company": "Ventia",
     "url": "https://au.indeed.com/viewjob?jk=930a235641b28ef5",
     "scraped_at": "2026-06-18T18:22:24.851207"
+  },
+  {
+    "title": "Lead AI Engineer",
+    "company": "H2O.ai",
+    "url": "https://au.indeed.com/viewjob?jk=baa5c839f2833cef",
+    "scraped_at": "2026-06-19T02:59:22.260700"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "NATIONAL HEAVY VEHICLE REGULATOR",
+    "url": "https://au.indeed.com/viewjob?jk=c947d5f28505a9de",
+    "scraped_at": "2026-06-19T02:59:22.284353"
   }
 ]
