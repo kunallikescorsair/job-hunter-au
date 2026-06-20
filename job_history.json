@@ -1714,5 +1714,11 @@
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=1be20f171f23adb4",
     "scraped_at": "2026-06-19T17:48:36.790830"
+  },
+  {
+    "title": "Azure Data Engineer",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=276bc8391721f749",
+    "scraped_at": "2026-06-20T02:31:46.084516"
   }
 ]
