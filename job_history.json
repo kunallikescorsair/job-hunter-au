@@ -1720,5 +1720,29 @@
     "company": "Cognizant",
     "url": "https://au.indeed.com/viewjob?jk=276bc8391721f749",
     "scraped_at": "2026-06-20T02:31:46.084516"
+  },
+  {
+    "title": "Graduate Software Engineer",
+    "company": "Resmed",
+    "url": "https://au.indeed.com/viewjob?jk=0fa716fb3eddd32c",
+    "scraped_at": "2026-06-20T07:43:51.177056"
+  },
+  {
+    "title": "Geologist",
+    "company": "AI Talent",
+    "url": "https://au.indeed.com/viewjob?jk=c9e05766078c764d",
+    "scraped_at": "2026-06-20T07:43:51.179725"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "AI Talent",
+    "url": "https://au.indeed.com/viewjob?jk=21c40e901ce4f9ce",
+    "scraped_at": "2026-06-20T07:43:51.180070"
+  },
+  {
+    "title": "Cloud DevOps Engineer - Azure",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=3b27cb0b1817e1a9",
+    "scraped_at": "2026-06-20T07:43:51.181179"
   }
 ]
