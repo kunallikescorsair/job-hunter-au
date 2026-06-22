@@ -1774,5 +1774,59 @@
     "company": "4WD Supacentre",
     "url": "https://au.indeed.com/viewjob?jk=67d0cd6c3e05c315",
     "scraped_at": "2026-06-21T13:49:15.839329"
+  },
+  {
+    "title": "LLM Ops Engineer",
+    "company": "Heidi",
+    "url": "https://au.indeed.com/viewjob?jk=dea76f8279fc2f3b",
+    "scraped_at": "2026-06-22T09:40:00.993992"
+  },
+  {
+    "title": "Cloud DevOps Engineer - AWS",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=da9bb3755fa9f6f4",
+    "scraped_at": "2026-06-22T09:40:00.995098"
+  },
+  {
+    "title": "Telecom Network Engineer (IP/MPLS)",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=48a83de98608cbba",
+    "scraped_at": "2026-06-22T09:40:00.996145"
+  },
+  {
+    "title": "Test Automation Engineer",
+    "company": "Tritusa",
+    "url": "https://au.indeed.com/viewjob?jk=25eca039e82f279c",
+    "scraped_at": "2026-06-22T09:40:00.998472"
+  },
+  {
+    "title": "Data and Reporting Analyst",
+    "company": "Northern Beaches Council",
+    "url": "https://au.indeed.com/viewjob?jk=18ce2bdcd0876faa",
+    "scraped_at": "2026-06-22T09:40:01.000599"
+  },
+  {
+    "title": "Performance Test Consultant",
+    "company": "Tritusa",
+    "url": "https://au.indeed.com/viewjob?jk=75e65589e9e8119c",
+    "scraped_at": "2026-06-22T09:40:01.001995"
+  },
+  {
+    "title": "Commercial Account Manager",
+    "company": "Equifax",
+    "url": "https://au.indeed.com/viewjob?jk=9e4ad82f7c0882c3",
+    "scraped_at": "2026-06-22T09:40:01.006112"
+  },
+  {
+    "title": "QA Engineer",
+    "company": "FACTO",
+    "url": "https://au.indeed.com/viewjob?jk=11d3b9e4dfcd1cd8",
+    "scraped_at": "2026-06-22T09:40:01.007016"
+  },
+  {
+    "title": "AI Expert",
+    "company": "Showtime Consulting",
+    "url": "https://au.indeed.com/viewjob?jk=61f107e23f370247",
+    "scraped_at": "2026-06-22T09:40:01.013698"
   }
 ]
