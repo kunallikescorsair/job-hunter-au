@@ -1828,5 +1828,53 @@
     "company": "Showtime Consulting",
     "url": "https://au.indeed.com/viewjob?jk=61f107e23f370247",
     "scraped_at": "2026-06-22T09:40:01.013698"
+  },
+  {
+    "title": "Specialist SA, Developer Transformation",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=e86c1f552f00a836",
+    "scraped_at": "2026-06-22T16:29:38.890779"
+  },
+  {
+    "title": "Cloud Platform Engineer",
+    "company": "SBS",
+    "url": "https://au.indeed.com/viewjob?jk=b40c1b3811cf77da",
+    "scraped_at": "2026-06-22T16:29:38.895604"
+  },
+  {
+    "title": "Service Support Coordinator",
+    "company": "Leica Microsystems",
+    "url": "https://au.indeed.com/viewjob?jk=9b447b6ae207e38c",
+    "scraped_at": "2026-06-22T16:29:38.896317"
+  },
+  {
+    "title": "AIX Systems Engineer",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=e6cef0def15928d6",
+    "scraped_at": "2026-06-22T16:29:38.896871"
+  },
+  {
+    "title": "Cost Planner",
+    "company": "John Holland",
+    "url": "https://au.indeed.com/viewjob?jk=ca8932a219aa14da",
+    "scraped_at": "2026-06-22T16:29:38.899682"
+  },
+  {
+    "title": "Informatica ETL Developer",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=c5dd0577bf6d117a",
+    "scraped_at": "2026-06-22T16:29:38.912345"
+  },
+  {
+    "title": "Security GRC Engineer (APAC) - Remote",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=532967d431ad8d5a",
+    "scraped_at": "2026-06-22T16:29:38.914859"
+  },
+  {
+    "title": "Developer - Healthcare Tech",
+    "company": "AlayaCare",
+    "url": "https://au.indeed.com/viewjob?jk=152f6697998c695d",
+    "scraped_at": "2026-06-22T16:29:38.915992"
   }
 ]
