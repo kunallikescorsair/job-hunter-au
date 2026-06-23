@@ -1888,5 +1888,53 @@
     "company": "WeeL",
     "url": "https://au.indeed.com/viewjob?jk=865c5f1a48b084b4",
     "scraped_at": "2026-06-22T21:56:10.196644"
+  },
+  {
+    "title": "Consultant, AI Engineer",
+    "company": "NAB - National Australia Bank",
+    "url": "https://au.indeed.com/viewjob?jk=5231cffcd4a695bb",
+    "scraped_at": "2026-06-23T07:40:28.270185"
+  },
+  {
+    "title": "Platform DevOps Engineer",
+    "company": "Future Secure AI",
+    "url": "https://au.indeed.com/viewjob?jk=a7ef86f55ed6771b",
+    "scraped_at": "2026-06-23T07:40:28.271428"
+  },
+  {
+    "title": "ISG Technical Advocate \u2013 Partner Ecosystem",
+    "company": "Lenovo",
+    "url": "https://au.indeed.com/viewjob?jk=f7d598f02b921e7f",
+    "scraped_at": "2026-06-23T07:40:28.272515"
+  },
+  {
+    "title": "Mobility Engineer / Android",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=834f8bed0ff0c62d",
+    "scraped_at": "2026-06-23T07:40:28.274647"
+  },
+  {
+    "title": "Engineer Data/ETL",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=be4c301e364d007f",
+    "scraped_at": "2026-06-23T07:40:28.275546"
+  },
+  {
+    "title": "Commercial Analyst, Projects",
+    "company": "Optus",
+    "url": "https://au.indeed.com/viewjob?jk=9d84efbbe2ad9116",
+    "scraped_at": "2026-06-23T07:40:28.280879"
+  },
+  {
+    "title": "SAP Fiori Consultant",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=dfbffe9ef06a0934",
+    "scraped_at": "2026-06-23T07:40:28.281171"
+  },
+  {
+    "title": "Data Lead",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=f9ea8ef66407905e",
+    "scraped_at": "2026-06-23T07:40:28.281385"
   }
 ]
