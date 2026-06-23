@@ -2014,5 +2014,35 @@
     "company": "Woolworths Group Limited",
     "url": "https://au.indeed.com/viewjob?jk=8004bd63bfe9e0a7",
     "scraped_at": "2026-06-23T14:29:00.889128"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "ELMO Software",
+    "url": "https://au.indeed.com/viewjob?jk=bbc6611613b30b2d",
+    "scraped_at": "2026-06-23T17:48:28.379056"
+  },
+  {
+    "title": "Data & Analytics Specialist",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=43a27e88dcdc560b",
+    "scraped_at": "2026-06-23T17:48:28.384562"
+  },
+  {
+    "title": "Executive | Logistics & Industrial",
+    "company": "JLL",
+    "url": "https://au.indeed.com/viewjob?jk=ff5f645a73927cc8",
+    "scraped_at": "2026-06-23T17:48:28.389509"
+  },
+  {
+    "title": "Customer Insights Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=a503669ff651ccd6",
+    "scraped_at": "2026-06-23T17:48:28.390961"
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=b70bfab1712c765b",
+    "scraped_at": "2026-06-23T17:48:28.392080"
   }
 ]
