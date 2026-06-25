@@ -2368,5 +2368,41 @@
     "company": "AC3",
     "url": "https://au.indeed.com/viewjob?jk=a20af0efe8687f11",
     "scraped_at": "2026-06-25T07:35:10.704028"
+  },
+  {
+    "title": "Testing Analyst",
+    "company": "Insurance Australia Group",
+    "url": "https://au.indeed.com/viewjob?jk=11d88c7a95c791b6",
+    "scraped_at": "2026-06-25T10:35:10.303847"
+  },
+  {
+    "title": "Quality Assurance Analyst",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=511e2ef145d9ad0a",
+    "scraped_at": "2026-06-25T10:35:10.304541"
+  },
+  {
+    "title": "Lead Analytical Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=8ca3cefd7d4b22d3",
+    "scraped_at": "2026-06-25T10:35:10.305658"
+  },
+  {
+    "title": "Colo Physical Security Architect, Colocation Regional Engineering",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=a6a1c75bbe217bfb",
+    "scraped_at": "2026-06-25T10:35:10.310807"
+  },
+  {
+    "title": "Application Developer Lead",
+    "company": "Multiplex",
+    "url": "https://au.indeed.com/viewjob?jk=d371567b1856b2a2",
+    "scraped_at": "2026-06-25T10:35:10.316183"
+  },
+  {
+    "title": "Application Developer Lead",
+    "company": "Multiplex",
+    "url": "https://au.indeed.com/viewjob?jk=16982fd8ec107ceb",
+    "scraped_at": "2026-06-25T10:35:10.317012"
   }
 ]
