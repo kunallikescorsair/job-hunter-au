@@ -2350,5 +2350,23 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=6a3e609c98a8756f",
     "scraped_at": "2026-06-25T02:27:57.960010"
+  },
+  {
+    "title": "IT Infrastructure Engineer",
+    "company": "Multiplex",
+    "url": "https://au.indeed.com/viewjob?jk=d73e5969521fb379",
+    "scraped_at": "2026-06-25T07:35:10.696680"
+  },
+  {
+    "title": "Actuarial Manager",
+    "company": "QBE",
+    "url": "https://au.indeed.com/viewjob?jk=93abf5f6d3484718",
+    "scraped_at": "2026-06-25T07:35:10.699159"
+  },
+  {
+    "title": "Platforms Engineer - Compute & Storage",
+    "company": "AC3",
+    "url": "https://au.indeed.com/viewjob?jk=a20af0efe8687f11",
+    "scraped_at": "2026-06-25T07:35:10.704028"
   }
 ]
