@@ -2584,5 +2584,29 @@
     "company": "HCLTech",
     "url": "https://au.indeed.com/viewjob?jk=d692ed7ca0e2f53b",
     "scraped_at": "2026-06-26T14:04:15.078156"
+  },
+  {
+    "title": "Nuclear Medicine Technologist",
+    "company": "NSW Health",
+    "url": "https://au.indeed.com/viewjob?jk=7eef6928785733a7",
+    "scraped_at": "2026-06-26T17:30:26.335509"
+  },
+  {
+    "title": "Nuclear Medicine Technologist",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=3f6de435cbdf7469",
+    "scraped_at": "2026-06-26T17:30:26.336349"
+  },
+  {
+    "title": "Software Engineer III, Payments Technology",
+    "company": "JPMorganChase",
+    "url": "https://au.indeed.com/viewjob?jk=5040130f86af3a24",
+    "scraped_at": "2026-06-26T17:30:26.346890"
+  },
+  {
+    "title": "Graduate Electrical Engineer",
+    "company": "Saluda Medical",
+    "url": "https://au.indeed.com/viewjob?jk=b61433defe0ff156",
+    "scraped_at": "2026-06-26T17:30:26.365455"
   }
 ]
