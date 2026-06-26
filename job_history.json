@@ -2452,5 +2452,17 @@
     "company": "Moody's",
     "url": "https://au.indeed.com/viewjob?jk=1b3a78e5ab29d0af",
     "scraped_at": "2026-06-25T21:22:55.389524"
+  },
+  {
+    "title": "Operations Analyst",
+    "company": "Stake",
+    "url": "https://au.indeed.com/viewjob?jk=3fade184c2bc46b2",
+    "scraped_at": "2026-06-26T02:29:55.025515"
+  },
+  {
+    "title": "TIPM, Network Delivery, Data Center Capacity Delivery",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=0487b75deb52b99d",
+    "scraped_at": "2026-06-26T02:29:55.027320"
   }
 ]
