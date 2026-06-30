@@ -2776,5 +2776,17 @@
     "company": "Citi",
     "url": "https://au.indeed.com/viewjob?jk=8867fa4a48275367",
     "scraped_at": "2026-06-29T18:04:03.255252"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Propeller",
+    "url": "https://au.indeed.com/viewjob?jk=9d8fefc2e5407148",
+    "scraped_at": "2026-06-30T02:29:50.927957"
+  },
+  {
+    "title": "Customer Success Engineer",
+    "company": "CIM",
+    "url": "https://au.indeed.com/viewjob?jk=97a5c7574423d35c",
+    "scraped_at": "2026-06-30T02:29:50.929702"
   }
 ]
