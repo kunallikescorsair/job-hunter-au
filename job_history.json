@@ -2842,5 +2842,29 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=7d05ccc97926f697",
     "scraped_at": "2026-06-30T07:42:53.035814"
+  },
+  {
+    "title": "Construction Specialist",
+    "company": "Tesla",
+    "url": "https://au.indeed.com/viewjob?jk=5651e322d927a1de",
+    "scraped_at": "2026-06-30T10:49:28.426552"
+  },
+  {
+    "title": "Strategic Workforce Planning Analyst",
+    "company": "QBE",
+    "url": "https://au.indeed.com/viewjob?jk=ca9b8dda2eedf5b8",
+    "scraped_at": "2026-06-30T10:49:28.433101"
+  },
+  {
+    "title": "AWS Technical Lead",
+    "company": "NTT DATA",
+    "url": "https://au.indeed.com/viewjob?jk=fc5b02a0d6fec201",
+    "scraped_at": "2026-06-30T10:49:28.440204"
+  },
+  {
+    "title": "Data Center Technical Operations Engineer",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=6e6bd922ab8ff610",
+    "scraped_at": "2026-06-30T10:49:28.441847"
   }
 ]
