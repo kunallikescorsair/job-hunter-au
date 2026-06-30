@@ -2788,5 +2788,59 @@
     "company": "CIM",
     "url": "https://au.indeed.com/viewjob?jk=97a5c7574423d35c",
     "scraped_at": "2026-06-30T02:29:50.929702"
+  },
+  {
+    "title": "Machine Learning Engineer- Software",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=dcc4e2b74e3a9741",
+    "scraped_at": "2026-06-30T07:42:53.012556"
+  },
+  {
+    "title": "ICT Commercial Account Executive",
+    "company": "Datadog",
+    "url": "https://au.indeed.com/viewjob?jk=dfb823af4b1e4f65",
+    "scraped_at": "2026-06-30T07:42:53.021196"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Propeller",
+    "url": "https://au.indeed.com/viewjob?jk=50111477b129e2f3",
+    "scraped_at": "2026-06-30T07:42:53.021989"
+  },
+  {
+    "title": "Data Test Analyst - Data Migration",
+    "company": "NTT DATA",
+    "url": "https://au.indeed.com/viewjob?jk=339e7084683f7318",
+    "scraped_at": "2026-06-30T07:42:53.025199"
+  },
+  {
+    "title": "Technical Business Analyst (SharePoint) \u2013 Healthcare Domain",
+    "company": "BMP Technologies Pty. Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=6197673baa2a641e",
+    "scraped_at": "2026-06-30T07:42:53.025885"
+  },
+  {
+    "title": "Investment Analyst | Office of the CIO",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=2f9fcc152c1b7799",
+    "scraped_at": "2026-06-30T07:42:53.026524"
+  },
+  {
+    "title": "Treasury Business Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=e79ac3ab59313cf9",
+    "scraped_at": "2026-06-30T07:42:53.027512"
+  },
+  {
+    "title": "Engineering Lead | Azure | Sydney",
+    "company": "Deloitte",
+    "url": "https://au.indeed.com/viewjob?jk=eaa0a47f510a0a5a",
+    "scraped_at": "2026-06-30T07:42:53.035115"
+  },
+  {
+    "title": "Solution Architect",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=7d05ccc97926f697",
+    "scraped_at": "2026-06-30T07:42:53.035814"
   }
 ]
