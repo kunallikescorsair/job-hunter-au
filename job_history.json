@@ -2998,5 +2998,29 @@
     "company": "InfoConsulting",
     "url": "https://au.indeed.com/viewjob?jk=f310d67466b33633",
     "scraped_at": "2026-07-01T14:09:29.108777"
+  },
+  {
+    "title": "Digital Solution Engineer - Dynamics 365 Supply Chain Management",
+    "company": "Microsoft",
+    "url": "https://au.indeed.com/viewjob?jk=4f7a46dd8ff6dcfa",
+    "scraped_at": "2026-07-01T17:47:08.967901"
+  },
+  {
+    "title": "Solution Architect",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=60865ee2a86f05a9",
+    "scraped_at": "2026-07-01T17:47:08.975788"
+  },
+  {
+    "title": "Systems Development Engineer, Edge Networking",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=9ca18870d50be65f",
+    "scraped_at": "2026-07-01T17:47:08.978831"
+  },
+  {
+    "title": "Network Engineer - Field",
+    "company": "Optus",
+    "url": "https://au.indeed.com/viewjob?jk=2def5303c8fe3816",
+    "scraped_at": "2026-07-01T17:47:08.980351"
   }
 ]
