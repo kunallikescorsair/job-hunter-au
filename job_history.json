@@ -3046,5 +3046,17 @@
     "company": "HUB24",
     "url": "https://au.indeed.com/viewjob?jk=def7dfc3b83b3575",
     "scraped_at": "2026-07-01T21:19:13.295283"
+  },
+  {
+    "title": "Legal AI Business Consultant",
+    "company": "Corto Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=99aaa53e9b39b6e4",
+    "scraped_at": "2026-07-02T02:15:55.981052"
+  },
+  {
+    "title": "Software Engineer - Medical Device Applications",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=3846544bbaf3f407",
+    "scraped_at": "2026-07-02T02:15:55.997070"
   }
 ]
