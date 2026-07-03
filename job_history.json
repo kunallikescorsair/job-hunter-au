@@ -3250,5 +3250,29 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=456ad30030627a89",
     "scraped_at": "2026-07-03T06:54:32.350503"
+  },
+  {
+    "title": "Draftsperson",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=91dfff24e65b1d88",
+    "scraped_at": "2026-07-03T10:27:16.667763"
+  },
+  {
+    "title": "Incident Resolution Analyst",
+    "company": "Apex Group",
+    "url": "https://au.indeed.com/viewjob?jk=5db267537f893797",
+    "scraped_at": "2026-07-03T10:27:16.675323"
+  },
+  {
+    "title": "Junior Manufacturing Systems Engineer",
+    "company": "GFG Alliance",
+    "url": "https://au.indeed.com/viewjob?jk=85d61eb4f0272b59",
+    "scraped_at": "2026-07-03T10:27:16.684258"
+  },
+  {
+    "title": "Technical Development Lead",
+    "company": "NobleOak",
+    "url": "https://au.indeed.com/viewjob?jk=97a0845acdf5c46f",
+    "scraped_at": "2026-07-03T10:27:16.688681"
   }
 ]
