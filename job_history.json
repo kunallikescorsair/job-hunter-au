@@ -3328,5 +3328,17 @@
     "company": "Accenture",
     "url": "https://au.indeed.com/viewjob?jk=08c5432bfdbf3609",
     "scraped_at": "2026-07-03T20:53:40.925846"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=388405a2f3c391de",
+    "scraped_at": "2026-07-04T01:58:51.043828"
+  },
+  {
+    "title": "Expression of Interest - Data Analytics Professionals",
+    "company": "ING",
+    "url": "https://au.indeed.com/viewjob?jk=0dd96f0a44dd4d0a",
+    "scraped_at": "2026-07-04T01:58:51.051190"
   }
 ]
