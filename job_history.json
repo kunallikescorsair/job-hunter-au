@@ -3394,5 +3394,47 @@
     "company": "Mirvac",
     "url": "https://au.indeed.com/viewjob?jk=b57e73d822686f18",
     "scraped_at": "2026-07-06T08:10:56.249429"
+  },
+  {
+    "title": "Agentic Systems Engineer",
+    "company": "Insurance Australia Group",
+    "url": "https://au.indeed.com/viewjob?jk=15432b89c02c8fba",
+    "scraped_at": "2026-07-06T15:00:34.478824"
+  },
+  {
+    "title": "Product Designer",
+    "company": "CoStar Group",
+    "url": "https://au.indeed.com/viewjob?jk=1ef038fcf3207975",
+    "scraped_at": "2026-07-06T15:00:34.479818"
+  },
+  {
+    "title": "Junior Information Risk Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=2fbf1bffdc1f6b4b",
+    "scraped_at": "2026-07-06T15:00:34.485144"
+  },
+  {
+    "title": "Product Manager \u2013 Complex Investigation and Detection",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=e2273cf1869c5075",
+    "scraped_at": "2026-07-06T15:00:34.486851"
+  },
+  {
+    "title": "Wealth Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=33e0838b0318c14a",
+    "scraped_at": "2026-07-06T15:00:34.487752"
+  },
+  {
+    "title": "Lead Data Engineer",
+    "company": "Veolia",
+    "url": "https://au.indeed.com/viewjob?jk=e16e27aba97ad09a",
+    "scraped_at": "2026-07-06T15:00:34.489187"
+  },
+  {
+    "title": "Microsoft Power Platform Engineer",
+    "company": "Avanade",
+    "url": "https://au.indeed.com/viewjob?jk=515d6cb47c395d57",
+    "scraped_at": "2026-07-06T15:00:34.491143"
   }
 ]
