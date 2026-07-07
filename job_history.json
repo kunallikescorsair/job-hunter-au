@@ -3466,5 +3466,53 @@
     "company": "TAL",
     "url": "https://au.indeed.com/viewjob?jk=e632d64a0dad770c",
     "scraped_at": "2026-07-07T02:07:18.820525"
+  },
+  {
+    "title": "Chief Engineer",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=4ffd8fb9d2cb11e6",
+    "scraped_at": "2026-07-07T07:29:40.623765"
+  },
+  {
+    "title": "Lead Design Technologist",
+    "company": "Culture Amp",
+    "url": "https://au.indeed.com/viewjob?jk=3cd35fe9b445f747",
+    "scraped_at": "2026-07-07T07:29:40.628076"
+  },
+  {
+    "title": "System Engineer",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=c7f3b9f24e4240f5",
+    "scraped_at": "2026-07-07T07:29:40.628657"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "WeCare Wellness Services",
+    "url": "https://au.indeed.com/viewjob?jk=95b7e8da6569784a",
+    "scraped_at": "2026-07-07T07:29:40.629315"
+  },
+  {
+    "title": "Technical Business Analyst",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=b59ab286136bda23",
+    "scraped_at": "2026-07-07T07:29:40.630208"
+  },
+  {
+    "title": "Strategic Reporting Analyst",
+    "company": "NSW Department of Communities and Justice",
+    "url": "https://au.indeed.com/viewjob?jk=d7d979633c1081fc",
+    "scraped_at": "2026-07-07T07:29:40.635818"
+  },
+  {
+    "title": "ServiceNow Developer",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=981fd734a38ccaaa",
+    "scraped_at": "2026-07-07T07:29:40.637257"
+  },
+  {
+    "title": "Platform Engineer (GCP)",
+    "company": "Showtime Consulting",
+    "url": "https://au.indeed.com/viewjob?jk=7bf295445ca458ab",
+    "scraped_at": "2026-07-07T07:29:40.640443"
   }
 ]
