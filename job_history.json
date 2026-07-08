@@ -3598,5 +3598,35 @@
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=a09165aae5c5af5e",
     "scraped_at": "2026-07-07T17:52:30.710807"
+  },
+  {
+    "title": "AI Architect",
+    "company": "Virtusa",
+    "url": "https://au.indeed.com/viewjob?jk=fb55fe8f8578874c",
+    "scraped_at": "2026-07-08T01:48:09.518956"
+  },
+  {
+    "title": "Tech Lead, BTR",
+    "company": "Mirvac",
+    "url": "https://au.indeed.com/viewjob?jk=40603f7f90410750",
+    "scraped_at": "2026-07-08T01:48:09.522609"
+  },
+  {
+    "title": "Graduate Analyst",
+    "company": "BlueScope",
+    "url": "https://au.indeed.com/viewjob?jk=980e0c92a8627c46",
+    "scraped_at": "2026-07-08T01:48:09.529012"
+  },
+  {
+    "title": "Quality Engineering Analyst (Sentral)",
+    "company": "Global Payments",
+    "url": "https://au.indeed.com/viewjob?jk=e1c409d6085a25c7",
+    "scraped_at": "2026-07-08T01:48:09.530905"
+  },
+  {
+    "title": "GCP Data Engineer",
+    "company": "Virtusa",
+    "url": "https://au.indeed.com/viewjob?jk=c6641a2c197bd6a5",
+    "scraped_at": "2026-07-08T01:48:09.532248"
   }
 ]
