@@ -3700,5 +3700,23 @@
     "company": "BlueScope",
     "url": "https://au.indeed.com/viewjob?jk=e757b7e72b6e5f1c",
     "scraped_at": "2026-07-08T06:22:20.503026"
+  },
+  {
+    "title": "Product Designer",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=8d1d3faa96d8e52c",
+    "scraped_at": "2026-07-08T10:08:15.868362"
+  },
+  {
+    "title": "BI Developer / Sales Operations Business Analyst",
+    "company": "Pernod Ricard",
+    "url": "https://au.indeed.com/viewjob?jk=4da70331eefe2fb9",
+    "scraped_at": "2026-07-08T10:08:15.873177"
+  },
+  {
+    "title": "Data operations manager",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=c6e8b8143d2144bf",
+    "scraped_at": "2026-07-08T10:08:15.878448"
   }
 ]
