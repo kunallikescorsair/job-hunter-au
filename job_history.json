@@ -3940,5 +3940,17 @@
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=345e781825d96b2e",
     "scraped_at": "2026-07-09T21:13:25.125625"
+  },
+  {
+    "title": "Azure Cloud Engineer",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=6ac0c76ac44a4ff5",
+    "scraped_at": "2026-07-10T01:58:30.250349"
+  },
+  {
+    "title": "Software Engineer(Cybersecurity)",
+    "company": "Hanshow Australia Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=6e9cd8b1dda62494",
+    "scraped_at": "2026-07-10T01:58:30.259732"
   }
 ]
