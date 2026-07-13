@@ -4150,5 +4150,71 @@
     "company": "Commonwealth Bank of Australia",
     "url": "https://au.indeed.com/viewjob?jk=2e103d1713898eff",
     "scraped_at": "2026-07-13T01:51:42.718258"
+  },
+  {
+    "title": "ML Engineer",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=700a231d9d9c63fe",
+    "scraped_at": "2026-07-13T06:45:32.798179"
+  },
+  {
+    "title": "Snowflake Architect",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=36629d188ea00612",
+    "scraped_at": "2026-07-13T06:45:32.805165"
+  },
+  {
+    "title": "Snowflake Lead Data Engineer",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=3aa4b2b54db1c44c",
+    "scraped_at": "2026-07-13T06:45:32.807063"
+  },
+  {
+    "title": "QE/Test Manager",
+    "company": "Deloitte",
+    "url": "https://au.indeed.com/viewjob?jk=bcad779fcaa80ee2",
+    "scraped_at": "2026-07-13T06:45:32.808093"
+  },
+  {
+    "title": "Data Engineer -Coalesce",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=1e709624bb880612",
+    "scraped_at": "2026-07-13T06:45:32.810576"
+  },
+  {
+    "title": "Data Analyst - ESG",
+    "company": "Environmental Resources Management",
+    "url": "https://au.indeed.com/viewjob?jk=33326c29a1da3508",
+    "scraped_at": "2026-07-13T06:45:32.811338"
+  },
+  {
+    "title": "Supply & Demand Analytics Specialist, ACM",
+    "company": "Medtronic",
+    "url": "https://au.indeed.com/viewjob?jk=f05bdf5de2a796e2",
+    "scraped_at": "2026-07-13T06:45:32.814094"
+  },
+  {
+    "title": "Analyst BAO Services",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=f7cc9e89f96b2be5",
+    "scraped_at": "2026-07-13T06:45:32.814776"
+  },
+  {
+    "title": "Full Stack Developer (Azure/Blazor)",
+    "company": "Think Global Logistics Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=a76c9717c757968e",
+    "scraped_at": "2026-07-13T06:45:32.817234"
+  },
+  {
+    "title": "Asset Acceptance Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=3ac10dc14ea61763",
+    "scraped_at": "2026-07-13T06:45:32.818173"
+  },
+  {
+    "title": "Asset Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=36f9a4b881fd7a16",
+    "scraped_at": "2026-07-13T06:45:32.819132"
   }
 ]
