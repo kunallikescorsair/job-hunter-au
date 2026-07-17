@@ -4576,5 +4576,17 @@
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=0a0d5f7f2b02c155",
     "scraped_at": "2026-07-16T17:04:15.400406"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "JBS",
+    "url": "https://au.indeed.com/viewjob?jk=23ce6cf50a8af349",
+    "scraped_at": "2026-07-17T01:49:14.287749"
+  },
+  {
+    "title": "Conversion Rate Optimisation Manager",
+    "company": "Bupa",
+    "url": "https://au.indeed.com/viewjob?jk=e7ba1c62954a3fa8",
+    "scraped_at": "2026-07-17T01:49:14.291072"
   }
 ]
