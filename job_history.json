@@ -4690,5 +4690,23 @@
     "company": "Optus",
     "url": "https://au.indeed.com/viewjob?jk=b01b9d6997389815",
     "scraped_at": "2026-07-17T13:05:37.457419"
+  },
+  {
+    "title": "Operation Engineer , AWS Managed Services",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=392d2fc2b9444da5",
+    "scraped_at": "2026-07-17T17:01:02.704255"
+  },
+  {
+    "title": "Database Engineer",
+    "company": "ELMO Software",
+    "url": "https://au.indeed.com/viewjob?jk=321f954160953021",
+    "scraped_at": "2026-07-17T17:01:02.707714"
+  },
+  {
+    "title": "Site Reliability Engineer",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=b54e166b5902a9d5",
+    "scraped_at": "2026-07-17T17:01:02.708338"
   }
 ]
