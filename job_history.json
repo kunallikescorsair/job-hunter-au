@@ -4780,5 +4780,53 @@
     "company": "AMICUS",
     "url": "https://au.indeed.com/viewjob?jk=ef0e78b553229ae2",
     "scraped_at": "2026-07-20T06:39:06.068685"
+  },
+  {
+    "title": "RPA Automation Engineer",
+    "company": "NCS",
+    "url": "https://au.indeed.com/viewjob?jk=b9f8b830658fb42b",
+    "scraped_at": "2026-07-20T10:41:54.275603"
+  },
+  {
+    "title": "Chief Engineer",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=44c28b12a751e95e",
+    "scraped_at": "2026-07-20T10:41:54.280734"
+  },
+  {
+    "title": "Quantitative Researcher",
+    "company": "Qube Research & Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=56c63a4c660953e1",
+    "scraped_at": "2026-07-20T10:41:54.287139"
+  },
+  {
+    "title": "Platform Engineer (GCP)",
+    "company": "Showtime Consulting",
+    "url": "https://au.indeed.com/viewjob?jk=1dd0f94024b1973d",
+    "scraped_at": "2026-07-20T10:41:54.291353"
+  },
+  {
+    "title": "Safety Advisor",
+    "company": "John Holland",
+    "url": "https://au.indeed.com/viewjob?jk=bac2ae2fab4088ea",
+    "scraped_at": "2026-07-20T10:41:54.294968"
+  },
+  {
+    "title": "Technical Team Lead",
+    "company": "Showtime Consulting",
+    "url": "https://au.indeed.com/viewjob?jk=0e60f34459fa0232",
+    "scraped_at": "2026-07-20T10:41:54.295898"
+  },
+  {
+    "title": "Infrastructure Engineer - GCP",
+    "company": "Showtime Consulting",
+    "url": "https://au.indeed.com/viewjob?jk=9d4cc85b9042d62f",
+    "scraped_at": "2026-07-20T10:41:54.296783"
+  },
+  {
+    "title": "Lead PMO",
+    "company": "Showtime Consulting",
+    "url": "https://au.indeed.com/viewjob?jk=b0c9bf1409ff841e",
+    "scraped_at": "2026-07-20T10:41:54.297604"
   }
 ]
