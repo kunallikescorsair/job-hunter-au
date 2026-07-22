@@ -5122,5 +5122,23 @@
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=048ef00d0be0d231",
     "scraped_at": "2026-07-22T10:15:52.304626"
+  },
+  {
+    "title": "Financial Accountant",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=1472a1bd38764aa4",
+    "scraped_at": "2026-07-22T13:22:39.774144"
+  },
+  {
+    "title": "Strategic Writer",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=11332d5bb28304d5",
+    "scraped_at": "2026-07-22T13:22:39.775643"
+  },
+  {
+    "title": "Business Analyst (Operations & Support)",
+    "company": "Neuronimbus Digital Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=bf571632b2851117",
+    "scraped_at": "2026-07-22T13:22:39.780421"
   }
 ]
