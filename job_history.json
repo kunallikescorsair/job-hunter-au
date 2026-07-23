@@ -5224,5 +5224,47 @@
     "company": "FinXL",
     "url": "https://au.indeed.com/viewjob?jk=f6eb965ed14f71bd",
     "scraped_at": "2026-07-23T06:24:02.061051"
+  },
+  {
+    "title": "Business Intelligence Engineer, Marketing and Prime",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=2575b546b814a256",
+    "scraped_at": "2026-07-23T10:12:10.382345"
+  },
+  {
+    "title": "Applied Solutions Architect",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=ff24f1b4ab407217",
+    "scraped_at": "2026-07-23T10:12:10.383524"
+  },
+  {
+    "title": "Solution Engineer, Integration & DevOps",
+    "company": "Mirvac",
+    "url": "https://au.indeed.com/viewjob?jk=77cb5d0935cc0ae5",
+    "scraped_at": "2026-07-23T10:12:10.384232"
+  },
+  {
+    "title": "Lead Data Engineer / Architect | GCP, BigQuery & DBT",
+    "company": "Deloitte",
+    "url": "https://au.indeed.com/viewjob?jk=2729acb01d0f1061",
+    "scraped_at": "2026-07-23T10:12:10.387947"
+  },
+  {
+    "title": "Client Consulting Analyst (Service / Customer Experience Design), Visa Consulting & Analytics",
+    "company": "Visa",
+    "url": "https://au.indeed.com/viewjob?jk=20bee8e136dba9ce",
+    "scraped_at": "2026-07-23T10:12:10.393319"
+  },
+  {
+    "title": "AI Architect",
+    "company": "Adobe",
+    "url": "https://au.indeed.com/viewjob?jk=a0f788fe3dd285fb",
+    "scraped_at": "2026-07-23T10:12:10.394180"
+  },
+  {
+    "title": "Brand Analyst, Amazon Vendor Services, Amazon Vendor Services",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=2a6ea88139181bca",
+    "scraped_at": "2026-07-23T10:12:10.395696"
   }
 ]
