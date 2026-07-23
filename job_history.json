@@ -5272,5 +5272,23 @@
     "company": "Binance",
     "url": "https://au.indeed.com/viewjob?jk=10cdd57692960a5a",
     "scraped_at": "2026-07-23T13:25:23.862752"
+  },
+  {
+    "title": "AI Specialist",
+    "company": "ASC Employment Services Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=7317f11e2b0d5dea",
+    "scraped_at": "2026-07-23T17:09:54.120687"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "PERFECTION FRESH AUSTRALIA",
+    "url": "https://au.indeed.com/viewjob?jk=bdc726f788ead966",
+    "scraped_at": "2026-07-23T17:09:54.129554"
+  },
+  {
+    "title": "Penetration Tester",
+    "company": "Microsoft",
+    "url": "https://au.indeed.com/viewjob?jk=d0df9715bc2eb995",
+    "scraped_at": "2026-07-23T17:09:54.139508"
   }
 ]
