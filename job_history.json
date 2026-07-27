@@ -5560,5 +5560,17 @@
     "company": "CrowdStrike",
     "url": "https://au.indeed.com/viewjob?jk=9c91f1b12efb2390",
     "scraped_at": "2026-07-27T14:11:23.734975"
+  },
+  {
+    "title": "Software Engineer, Netsoft Planning Area",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=36d3714aa592e801",
+    "scraped_at": "2026-07-27T17:30:41.814169"
+  },
+  {
+    "title": "Software Engineer (Full Stack)",
+    "company": "Morningstar",
+    "url": "https://au.indeed.com/viewjob?jk=8c21f0a3f64a5946",
+    "scraped_at": "2026-07-27T17:30:41.815792"
   }
 ]
