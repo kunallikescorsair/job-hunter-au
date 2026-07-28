@@ -5650,5 +5650,53 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=5add27cf71cf1dd6",
     "scraped_at": "2026-07-28T06:19:19.348771"
+  },
+  {
+    "title": "Operations Research and AI Consultant, AWS Professional Services",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=5654bc85fdc4bfaa",
+    "scraped_at": "2026-07-28T10:25:40.753103"
+  },
+  {
+    "title": "Technical Program Manager, Security & Compliance",
+    "company": "Heidi",
+    "url": "https://au.indeed.com/viewjob?jk=b1dcd62ff7d3c362",
+    "scraped_at": "2026-07-28T10:25:40.759230"
+  },
+  {
+    "title": "Finance Systems & Automation Lead",
+    "company": "Firmus Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=2aaa18609b4d6796",
+    "scraped_at": "2026-07-28T10:25:40.760285"
+  },
+  {
+    "title": "Quality Systems Engineer",
+    "company": "Anduril",
+    "url": "https://au.indeed.com/viewjob?jk=e4209f63bd37e2e2",
+    "scraped_at": "2026-07-28T10:25:40.761375"
+  },
+  {
+    "title": "Databricks Architect",
+    "company": "UNISON Group",
+    "url": "https://au.indeed.com/viewjob?jk=5bd2fc382799e519",
+    "scraped_at": "2026-07-28T10:25:40.770996"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=f6717d74ffb64ba5",
+    "scraped_at": "2026-07-28T10:25:40.773113"
+  },
+  {
+    "title": "Python Engineer - Security Automation",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=16e3ff96507824ef",
+    "scraped_at": "2026-07-28T10:25:40.773769"
+  },
+  {
+    "title": "Network Development Engineer",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=c43a5968fe7c045b",
+    "scraped_at": "2026-07-28T10:25:40.775139"
   }
 ]
