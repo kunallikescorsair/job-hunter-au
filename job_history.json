@@ -5608,5 +5608,47 @@
     "company": "Beforepay Group",
     "url": "https://au.indeed.com/viewjob?jk=5257eca181b58a50",
     "scraped_at": "2026-07-28T01:43:04.379191"
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=4008355e9da0cffb",
+    "scraped_at": "2026-07-28T06:19:19.337818"
+  },
+  {
+    "title": "Software Engineer (Site Reliability)",
+    "company": "CoreFlow",
+    "url": "https://au.indeed.com/viewjob?jk=ab61565a4bf8a7e7",
+    "scraped_at": "2026-07-28T06:19:19.338490"
+  },
+  {
+    "title": "Postdoctoral Research Fellow in Quantitative Analysis of Economic Impacts of Ultra-Processed Foods",
+    "company": "University of Sydney",
+    "url": "https://au.indeed.com/viewjob?jk=3ec175798ab9aa82",
+    "scraped_at": "2026-07-28T06:19:19.343098"
+  },
+  {
+    "title": "Data Integrity Analyst",
+    "company": "Ventia",
+    "url": "https://au.indeed.com/viewjob?jk=8b8bc4de740431c7",
+    "scraped_at": "2026-07-28T06:19:19.343691"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "Mission Australia",
+    "url": "https://au.indeed.com/viewjob?jk=fde6d622188193e9",
+    "scraped_at": "2026-07-28T06:19:19.344633"
+  },
+  {
+    "title": "Associate Data Engineer",
+    "company": "Craveable Brands",
+    "url": "https://au.indeed.com/viewjob?jk=78ff548fb3644fbf",
+    "scraped_at": "2026-07-28T06:19:19.347706"
+  },
+  {
+    "title": "Solution Designer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=5add27cf71cf1dd6",
+    "scraped_at": "2026-07-28T06:19:19.348771"
   }
 ]
