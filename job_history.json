@@ -5716,5 +5716,29 @@
     "company": "News Corp",
     "url": "https://au.indeed.com/viewjob?jk=cb68e35acc0f2a6d",
     "scraped_at": "2026-07-28T20:59:52.892958"
+  },
+  {
+    "title": "Junior Business Analyst",
+    "company": "My Muscle Chef",
+    "url": "https://au.indeed.com/viewjob?jk=83406db6379b5b8c",
+    "scraped_at": "2026-07-29T01:44:44.290916"
+  },
+  {
+    "title": "Third Party Risk Analyst",
+    "company": "TAL",
+    "url": "https://au.indeed.com/viewjob?jk=12eb4975656bedb5",
+    "scraped_at": "2026-07-29T01:44:44.292463"
+  },
+  {
+    "title": "Technical Business Analyst",
+    "company": "Dipole Group",
+    "url": "https://au.indeed.com/viewjob?jk=3b3b37261e01d08a",
+    "scraped_at": "2026-07-29T01:44:44.297015"
+  },
+  {
+    "title": "Software Test Engineer",
+    "company": "Dipole Group",
+    "url": "https://au.indeed.com/viewjob?jk=b741af483864d239",
+    "scraped_at": "2026-07-29T01:44:44.297632"
   }
 ]
