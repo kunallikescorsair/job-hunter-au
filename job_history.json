@@ -1,11 +1,5 @@
 [
   {
-    "title": "Data Scientist",
-    "company": "hipages Group",
-    "url": "https://au.indeed.com/viewjob?jk=bb4f3760c4c49c82",
-    "scraped_at": "2026-06-05T12:43:00.148878"
-  },
-  {
     "title": "Computational Biologist",
     "company": "The Garvan Institute of Medical Research",
     "url": "https://au.indeed.com/viewjob?jk=4e1d6a39631ae250",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=1b22c8f290c6a54c",
     "scraped_at": "2026-07-30T13:28:03.168160"
+  },
+  {
+    "title": "Security Systems Technician",
+    "company": "Johnson Controls",
+    "url": "https://au.indeed.com/viewjob?jk=3b74289d3cdba34e",
+    "scraped_at": "2026-07-30T17:15:34.013603"
   }
 ]
