@@ -1,23 +1,5 @@
 [
   {
-    "title": "Computational Biologist",
-    "company": "The Garvan Institute of Medical Research",
-    "url": "https://au.indeed.com/viewjob?jk=4e1d6a39631ae250",
-    "scraped_at": "2026-06-05T12:43:00.150269"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "IKEA",
-    "url": "https://au.indeed.com/viewjob?jk=e4af33b4fd6dce67",
-    "scraped_at": "2026-06-05T12:43:00.151120"
-  },
-  {
-    "title": "Binance Accelerator Program - Applied Data Scientist",
-    "company": "Binance",
-    "url": "https://au.indeed.com/viewjob?jk=5bae6308f955f822",
-    "scraped_at": "2026-06-05T12:43:00.155126"
-  },
-  {
     "title": "Legal AI Researcher/Analyst \u2013 Regulatory Compliance",
     "company": "RELX Group",
     "url": "https://au.indeed.com/viewjob?jk=46289f7ce9f898f3",
@@ -5998,5 +5980,23 @@
     "company": "Johnson Controls",
     "url": "https://au.indeed.com/viewjob?jk=3b74289d3cdba34e",
     "scraped_at": "2026-07-30T17:15:34.013603"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=b1feefae3a417351",
+    "scraped_at": "2026-07-30T20:56:57.652299"
+  },
+  {
+    "title": "Analyst",
+    "company": "NSW Department of Communities and Justice",
+    "url": "https://au.indeed.com/viewjob?jk=a90c64a74059a18b",
+    "scraped_at": "2026-07-30T20:56:57.670418"
+  },
+  {
+    "title": "Commercial Analyst, Enterprise",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=b303760097d982eb",
+    "scraped_at": "2026-07-30T20:56:57.675345"
   }
 ]
