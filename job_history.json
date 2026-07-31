@@ -1,29 +1,5 @@
 [
   {
-    "title": "Data Engineer (Spaceship)",
-    "company": "Spaceship",
-    "url": "https://au.indeed.com/viewjob?jk=21602b8340245273",
-    "scraped_at": "2026-06-05T12:43:00.168632"
-  },
-  {
-    "title": "Critical Search Engineer",
-    "company": "Particular Audience",
-    "url": "https://au.indeed.com/viewjob?jk=a0a54a353f59fb4a",
-    "scraped_at": "2026-06-05T12:43:00.168963"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Info Techno Digital Services",
-    "url": "https://au.indeed.com/viewjob?jk=0edc7a9580ab29a7",
-    "scraped_at": "2026-06-05T12:43:00.169401"
-  },
-  {
-    "title": "Azure Fabric Data Engineer",
-    "company": "AI Talent",
-    "url": "https://au.indeed.com/viewjob?jk=78032442d84c64f9",
-    "scraped_at": "2026-06-05T12:43:00.170055"
-  },
-  {
     "title": "Manager, Data Science",
     "company": "Visa",
     "url": "https://au.indeed.com/viewjob?jk=b618711e4cd52ff8",
@@ -5998,5 +5974,29 @@
     "company": "Macquarie Technology Group",
     "url": "https://au.indeed.com/viewjob?jk=20706ee336d78c5a",
     "scraped_at": "2026-07-31T06:37:16.933135"
+  },
+  {
+    "title": "Scientist",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=0b7affccdc0561db",
+    "scraped_at": "2026-07-31T10:29:02.016210"
+  },
+  {
+    "title": "Regulatory Reporting Analyst",
+    "company": "TabCorp Holdings",
+    "url": "https://au.indeed.com/viewjob?jk=5d61bfb9fed35e2e",
+    "scraped_at": "2026-07-31T10:29:02.026692"
+  },
+  {
+    "title": "Functional Test Engineer",
+    "company": "Duxxel",
+    "url": "https://au.indeed.com/viewjob?jk=574ef85d93a40e48",
+    "scraped_at": "2026-07-31T10:29:02.029273"
+  },
+  {
+    "title": "Automation Engineer \u2013 Data Platform",
+    "company": "Duxxel",
+    "url": "https://au.indeed.com/viewjob?jk=113b00686eeffa21",
+    "scraped_at": "2026-07-31T10:29:02.031642"
   }
 ]
