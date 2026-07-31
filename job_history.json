@@ -1,35 +1,5 @@
 [
   {
-    "title": "Global Advisory & Markets, Synthetics Products Group Engineer, Associate, Sydney",
-    "company": "Goldman Sachs",
-    "url": "https://au.indeed.com/viewjob?jk=9c5b690ab5d3b8c6",
-    "scraped_at": "2026-06-05T12:43:00.178279"
-  },
-  {
-    "title": "Data Engineer (AI Adoption)",
-    "company": "Westpac Group",
-    "url": "https://au.indeed.com/viewjob?jk=d4f58315cc08ea67",
-    "scraped_at": "2026-06-05T12:43:00.180346"
-  },
-  {
-    "title": "Strategic Cloud Engineer, Platform and AI Infrastructure",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=071b52e111e46db1",
-    "scraped_at": "2026-06-05T12:43:00.181139"
-  },
-  {
-    "title": "Engineer - Software",
-    "company": "Origin Energy",
-    "url": "https://au.indeed.com/viewjob?jk=24d337577f5f5b96",
-    "scraped_at": "2026-06-05T12:43:00.181950"
-  },
-  {
-    "title": "Customer Engineer, AI Infrastructure Modernization, Google Cloud",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=fb64dfec3094079e",
-    "scraped_at": "2026-06-05T12:43:00.182721"
-  },
-  {
     "title": "Full Stack Engineer",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=e21db6f9fd51b836",
@@ -5998,5 +5968,35 @@
     "company": "Baptist Care",
     "url": "https://au.indeed.com/viewjob?jk=b6357ff493c3aee8",
     "scraped_at": "2026-07-31T13:42:05.953523"
+  },
+  {
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "company": "Databricks",
+    "url": "https://au.indeed.com/viewjob?jk=9ef9c623922387ca",
+    "scraped_at": "2026-07-31T17:20:21.794162"
+  },
+  {
+    "title": "2027 | APEJ | Sydney | Engineering | Summer Analyst",
+    "company": "Goldman Sachs",
+    "url": "https://au.indeed.com/viewjob?jk=8147f987f9591970",
+    "scraped_at": "2026-07-31T17:20:21.794564"
+  },
+  {
+    "title": "Machine Learning Engineer Graduate (Trust and Safety Engineering) - 2027 Start (BS/MS)",
+    "company": "TikTok",
+    "url": "https://au.indeed.com/viewjob?jk=be440c688971c4c0",
+    "scraped_at": "2026-07-31T17:20:21.795353"
+  },
+  {
+    "title": "Software Engineer - AI Automation",
+    "company": "Ericsson",
+    "url": "https://au.indeed.com/viewjob?jk=515087110d24595e",
+    "scraped_at": "2026-07-31T17:20:21.796991"
+  },
+  {
+    "title": "Business Analyst (Graduate)",
+    "company": "Pharmacare group",
+    "url": "https://au.indeed.com/viewjob?jk=d1ccff70f7d44045",
+    "scraped_at": "2026-07-31T17:20:21.804354"
   }
 ]
