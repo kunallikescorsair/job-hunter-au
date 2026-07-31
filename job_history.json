@@ -1,65 +1,5 @@
 [
   {
-    "title": "2027 | APEJ | Sydney | Global Investment Research | New Analyst",
-    "company": "Goldman Sachs",
-    "url": "https://au.indeed.com/viewjob?jk=2bc9d174435758a5",
-    "scraped_at": "2026-06-05T12:43:00.156929"
-  },
-  {
-    "title": "Binance Accelerator Program - Data Scientist (CV, Agentic AI)",
-    "company": "Binance",
-    "url": "https://au.indeed.com/viewjob?jk=258c4a7d3c2d38a7",
-    "scraped_at": "2026-06-05T12:43:00.157567"
-  },
-  {
-    "title": "Vonwiller Research Associate",
-    "company": "University of Sydney",
-    "url": "https://au.indeed.com/viewjob?jk=a2ca6b4610e890dd",
-    "scraped_at": "2026-06-05T12:43:00.159110"
-  },
-  {
-    "title": "Supplier Quality Assurance Associate Scientist (12\u2011Month Fixed Term Contract)",
-    "company": "PepsiCo",
-    "url": "https://au.indeed.com/viewjob?jk=e0d83a0899be0180",
-    "scraped_at": "2026-06-05T12:43:00.159879"
-  },
-  {
-    "title": "Postdoctoral Research Associate",
-    "company": "University of Sydney",
-    "url": "https://au.indeed.com/viewjob?jk=8ec9d2778329c5b3",
-    "scraped_at": "2026-06-05T12:43:00.162314"
-  },
-  {
-    "title": "Data Scientist (Fraud)",
-    "company": "Kasada",
-    "url": "https://au.indeed.com/viewjob?jk=8ce269987e011044",
-    "scraped_at": "2026-06-05T12:43:00.163727"
-  },
-  {
-    "title": "Full Stack Software Engineer - Agentic AI",
-    "company": "NinjaTech AI",
-    "url": "https://au.indeed.com/viewjob?jk=9c648ae7db17f77f",
-    "scraped_at": "2026-06-05T12:43:00.164428"
-  },
-  {
-    "title": "Systems Management Specialist",
-    "company": "AECOM",
-    "url": "https://au.indeed.com/viewjob?jk=014c4f2e753d72a2",
-    "scraped_at": "2026-06-05T12:43:00.165695"
-  },
-  {
-    "title": "Product Manager - Video Analytics",
-    "company": "Unleash Live",
-    "url": "https://au.indeed.com/viewjob?jk=6335e74b0e8db383",
-    "scraped_at": "2026-06-05T12:43:00.167308"
-  },
-  {
-    "title": "Chief Engineer",
-    "company": "Commonwealth Bank of Australia",
-    "url": "https://au.indeed.com/viewjob?jk=d52fb285afd15368",
-    "scraped_at": "2026-06-05T12:43:00.167969"
-  },
-  {
     "title": "Data Engineer (Spaceship)",
     "company": "Spaceship",
     "url": "https://au.indeed.com/viewjob?jk=21602b8340245273",
@@ -5998,5 +5938,65 @@
     "company": "Ashurst Perkins Coie",
     "url": "https://au.indeed.com/viewjob?jk=1f7ce27bb7cbe7e3",
     "scraped_at": "2026-07-31T01:54:01.902032"
+  },
+  {
+    "title": "DevOps Engineer (Google Cloud)",
+    "company": "NCS",
+    "url": "https://au.indeed.com/viewjob?jk=88a158b96160dfc0",
+    "scraped_at": "2026-07-31T06:37:16.914477"
+  },
+  {
+    "title": "Puppet Engineer",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=734e55429ede1243",
+    "scraped_at": "2026-07-31T06:37:16.915242"
+  },
+  {
+    "title": "Data Integration Developer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=47f388bf470e24e0",
+    "scraped_at": "2026-07-31T06:37:16.916327"
+  },
+  {
+    "title": "Technical Escalations Engineer 2 (Revenue and Cost Management) - APJ",
+    "company": "Datadog",
+    "url": "https://au.indeed.com/viewjob?jk=883fa5b8053d63d4",
+    "scraped_at": "2026-07-31T06:37:16.920409"
+  },
+  {
+    "title": "Systems Analyst",
+    "company": "BGL Management",
+    "url": "https://au.indeed.com/viewjob?jk=b496aeff9858e3b6",
+    "scraped_at": "2026-07-31T06:37:16.923804"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=c6213ae7a5a4389e",
+    "scraped_at": "2026-07-31T06:37:16.924736"
+  },
+  {
+    "title": "Product Analyst TfNSW Grade 7",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=89ad27467f16c91f",
+    "scraped_at": "2026-07-31T06:37:16.925443"
+  },
+  {
+    "title": "Mid-Level Project Manager",
+    "company": "EML",
+    "url": "https://au.indeed.com/viewjob?jk=b6f5bb2462878a9e",
+    "scraped_at": "2026-07-31T06:37:16.929740"
+  },
+  {
+    "title": "Planner",
+    "company": "Acciona",
+    "url": "https://au.indeed.com/viewjob?jk=986478269b0e96d7",
+    "scraped_at": "2026-07-31T06:37:16.932306"
+  },
+  {
+    "title": "Customer Solutions Engineer",
+    "company": "Macquarie Technology Group",
+    "url": "https://au.indeed.com/viewjob?jk=20706ee336d78c5a",
+    "scraped_at": "2026-07-31T06:37:16.933135"
   }
 ]
