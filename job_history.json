@@ -1,17 +1,5 @@
 [
   {
-    "title": "Full Stack Engineer",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=e21db6f9fd51b836",
-    "scraped_at": "2026-06-05T12:43:00.183510"
-  },
-  {
-    "title": "ServiceNow ITOM Engineer",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=71ac37729f7ea538",
-    "scraped_at": "2026-06-05T12:43:00.184095"
-  },
-  {
     "title": "ServiceNow Team Lead - ServiceNow Engineer",
     "company": "FinXL",
     "url": "https://au.indeed.com/viewjob?jk=b926d625e307372a",
@@ -5998,5 +5986,17 @@
     "company": "Pharmacare group",
     "url": "https://au.indeed.com/viewjob?jk=d1ccff70f7d44045",
     "scraped_at": "2026-07-31T17:20:21.804354"
+  },
+  {
+    "title": "Global Advisory & Markets, Synthetics Products Group Engineer, Associate, Sydney",
+    "company": "Goldman Sachs",
+    "url": "https://au.indeed.com/viewjob?jk=9c5b690ab5d3b8c6",
+    "scraped_at": "2026-07-31T20:54:42.720958"
+  },
+  {
+    "title": "Treasury Operations Analyst (6 months contract)",
+    "company": "MAREX",
+    "url": "https://au.indeed.com/viewjob?jk=ca10f42c861077ef",
+    "scraped_at": "2026-07-31T20:54:42.734384"
   }
 ]
