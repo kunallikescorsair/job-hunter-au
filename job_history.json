@@ -1,23 +1,5 @@
 [
   {
-    "title": "Legal AI Researcher/Analyst \u2013 Regulatory Compliance",
-    "company": "RELX Group",
-    "url": "https://au.indeed.com/viewjob?jk=46289f7ce9f898f3",
-    "scraped_at": "2026-06-05T12:43:00.155737"
-  },
-  {
-    "title": "Legal AI Researcher/Analyst \u2013 Regulatory Compliance",
-    "company": "LexisNexis Legal & Professional",
-    "url": "https://au.indeed.com/viewjob?jk=324d054dc6985723",
-    "scraped_at": "2026-06-05T12:43:00.156357"
-  },
-  {
-    "title": "2027 | APEJ | Sydney | Global Investment Research | Summer Analyst",
-    "company": "Goldman Sachs",
-    "url": "https://au.indeed.com/viewjob?jk=8d7bdd9b7446d860",
-    "scraped_at": "2026-06-05T12:43:00.156651"
-  },
-  {
     "title": "2027 | APEJ | Sydney | Global Investment Research | New Analyst",
     "company": "Goldman Sachs",
     "url": "https://au.indeed.com/viewjob?jk=2bc9d174435758a5",
@@ -5998,5 +5980,23 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=b303760097d982eb",
     "scraped_at": "2026-07-30T20:56:57.675345"
+  },
+  {
+    "title": "GCP Data Engineer (Google)",
+    "company": "NCS",
+    "url": "https://au.indeed.com/viewjob?jk=2feb20de89f458d4",
+    "scraped_at": "2026-07-31T01:54:01.889099"
+  },
+  {
+    "title": "Full Stack AI Engineer",
+    "company": "Industracom",
+    "url": "https://au.indeed.com/viewjob?jk=99c0c53de4cd57a8",
+    "scraped_at": "2026-07-31T01:54:01.895168"
+  },
+  {
+    "title": "eDiscovery Analyst",
+    "company": "Ashurst Perkins Coie",
+    "url": "https://au.indeed.com/viewjob?jk=1f7ce27bb7cbe7e3",
+    "scraped_at": "2026-07-31T01:54:01.902032"
   }
 ]
