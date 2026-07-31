@@ -1,47 +1,5 @@
 [
   {
-    "title": "Manager, Data Science",
-    "company": "Visa",
-    "url": "https://au.indeed.com/viewjob?jk=b618711e4cd52ff8",
-    "scraped_at": "2026-06-05T12:43:00.170869"
-  },
-  {
-    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-    "company": "Databricks",
-    "url": "https://au.indeed.com/viewjob?jk=9ef9c623922387ca",
-    "scraped_at": "2026-06-05T12:43:00.171850"
-  },
-  {
-    "title": "2027 | APEJ | Sydney | Engineering | Summer Analyst",
-    "company": "Goldman Sachs",
-    "url": "https://au.indeed.com/viewjob?jk=8147f987f9591970",
-    "scraped_at": "2026-06-05T12:43:00.173153"
-  },
-  {
-    "title": "Machine Learning Engineer Graduate (Trust and Safety Engineering) - 2027 Start (BS/MS)",
-    "company": "TikTok",
-    "url": "https://au.indeed.com/viewjob?jk=be440c688971c4c0",
-    "scraped_at": "2026-06-05T12:43:00.174132"
-  },
-  {
-    "title": "Binance Accelerator Program - Web3 AI Engineer(For blockchain student)",
-    "company": "Binance",
-    "url": "https://au.indeed.com/viewjob?jk=61e7783b252c9ff3",
-    "scraped_at": "2026-06-05T12:43:00.174846"
-  },
-  {
-    "title": "Microsoft Azure GenAI \u2013 Presales Solution Architect",
-    "company": "SoftwareOne",
-    "url": "https://au.indeed.com/viewjob?jk=f891bac9e03a6569",
-    "scraped_at": "2026-06-05T12:43:00.175729"
-  },
-  {
-    "title": "Global Advisory & Markets, Goldman Sachs Electronic Trading ( GSET ) Java/ C++ Developer, Associate,",
-    "company": "Goldman Sachs",
-    "url": "https://au.indeed.com/viewjob?jk=0f4c0f8f3138557f",
-    "scraped_at": "2026-06-05T12:43:00.176836"
-  },
-  {
     "title": "Global Advisory & Markets, Synthetics Products Group Engineer, Associate, Sydney",
     "company": "Goldman Sachs",
     "url": "https://au.indeed.com/viewjob?jk=9c5b690ab5d3b8c6",
@@ -5998,5 +5956,47 @@
     "company": "Duxxel",
     "url": "https://au.indeed.com/viewjob?jk=113b00686eeffa21",
     "scraped_at": "2026-07-31T10:29:02.031642"
+  },
+  {
+    "title": "Junior Data Scientist",
+    "company": "Blackwoods",
+    "url": "https://au.indeed.com/viewjob?jk=9fef2f94db3482f4",
+    "scraped_at": "2026-07-31T13:42:05.929605"
+  },
+  {
+    "title": "Commercial Excellence Manager",
+    "company": "Abbott",
+    "url": "https://au.indeed.com/viewjob?jk=12aaefb20e097aa0",
+    "scraped_at": "2026-07-31T13:42:05.936256"
+  },
+  {
+    "title": "Health Economics and Reimbursement Analyst",
+    "company": "Abbott",
+    "url": "https://au.indeed.com/viewjob?jk=736cfc7a2efa6706",
+    "scraped_at": "2026-07-31T13:42:05.937373"
+  },
+  {
+    "title": "Puppet Engineer",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=482b260f5e4c7c24",
+    "scraped_at": "2026-07-31T13:42:05.941690"
+  },
+  {
+    "title": "Network & Geospatial Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=f826368aa4045efe",
+    "scraped_at": "2026-07-31T13:42:05.947988"
+  },
+  {
+    "title": "Applications Analyst",
+    "company": "Baptistcare - WA",
+    "url": "https://au.indeed.com/viewjob?jk=9f7aed659a6402a0",
+    "scraped_at": "2026-07-31T13:42:05.952110"
+  },
+  {
+    "title": "Applications Analyst",
+    "company": "Baptist Care",
+    "url": "https://au.indeed.com/viewjob?jk=b6357ff493c3aee8",
+    "scraped_at": "2026-07-31T13:42:05.953523"
   }
 ]
