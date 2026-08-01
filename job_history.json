@@ -1,11 +1,5 @@
 [
   {
-    "title": "ServiceNow Team Lead - ServiceNow Engineer",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=b926d625e307372a",
-    "scraped_at": "2026-06-05T12:43:00.184359"
-  },
-  {
     "title": "Forward Deployed Engineer, Gen AI, Google Cloud",
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=6fc2a43584c71681",
@@ -5998,5 +5992,11 @@
     "company": "MAREX",
     "url": "https://au.indeed.com/viewjob?jk=ca10f42c861077ef",
     "scraped_at": "2026-07-31T20:54:42.734384"
+  },
+  {
+    "title": "Snr Specialist Cyber Insights &Analytics",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=75af85931a0722c5",
+    "scraped_at": "2026-08-01T09:50:14.031286"
   }
 ]
