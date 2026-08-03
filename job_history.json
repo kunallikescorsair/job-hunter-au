@@ -1,41 +1,5 @@
 [
   {
-    "title": "Software Development Engineer, Public Sector Customer Engineering",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=f08466d4de1f537d",
-    "scraped_at": "2026-06-05T12:43:00.193137"
-  },
-  {
-    "title": "Controls Technician, APAC Controls Deployment & Service",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=e8a8fa6c900508c6",
-    "scraped_at": "2026-06-05T12:43:00.194398"
-  },
-  {
-    "title": "Full Stack Engineer",
-    "company": "NAB - National Australia Bank",
-    "url": "https://au.indeed.com/viewjob?jk=479703a11c5991bf",
-    "scraped_at": "2026-06-05T12:43:00.194931"
-  },
-  {
-    "title": "Technical Onboarding & Engagement Manager New",
-    "company": "Algolia",
-    "url": "https://au.indeed.com/viewjob?jk=a1586e88c075b263",
-    "scraped_at": "2026-06-05T12:43:00.195759"
-  },
-  {
-    "title": "Finance Analytics Engineer",
-    "company": "SAFETYCULTURE",
-    "url": "https://au.indeed.com/viewjob?jk=fce1dcdc96adf514",
-    "scraped_at": "2026-06-05T12:43:00.197164"
-  },
-  {
-    "title": "Business Intelligence Specialist - Construction Industry",
-    "company": "HKA Global Limited",
-    "url": "https://au.indeed.com/viewjob?jk=a6107412d1c9d7fd",
-    "scraped_at": "2026-06-05T12:43:00.198746"
-  },
-  {
     "title": "Power Systems Engineer",
     "company": "Transgrid",
     "url": "https://au.indeed.com/viewjob?jk=75610341e1b1066a",
@@ -5998,5 +5962,41 @@
     "company": "Mercer",
     "url": "https://au.indeed.com/viewjob?jk=ed933f7050f5c5b1",
     "scraped_at": "2026-08-03T06:52:01.764343"
+  },
+  {
+    "title": "Postdoctoral Research Associate in Spatial Omics, Artificial Intelligence and Computational Pathology",
+    "company": "University of Sydney",
+    "url": "https://au.indeed.com/viewjob?jk=c8ba8a9897e7163b",
+    "scraped_at": "2026-08-03T11:13:44.309822"
+  },
+  {
+    "title": "Postdoctoral Research Associate in Spatial Omics and Statistical Data Science",
+    "company": "University of Sydney",
+    "url": "https://au.indeed.com/viewjob?jk=c10528425fa13cf3",
+    "scraped_at": "2026-08-03T11:13:44.310618"
+  },
+  {
+    "title": "PhD Graduate Machine Learning Engineer Graduate, Trust and Safety Engineering - 2026 Start",
+    "company": "TikTok",
+    "url": "https://au.indeed.com/viewjob?jk=bc33ef99479ef2f9",
+    "scraped_at": "2026-08-03T11:13:44.320003"
+  },
+  {
+    "title": "Commercial Solutions Sales Executive (Sydney) - Cyber Security",
+    "company": "OpenText",
+    "url": "https://au.indeed.com/viewjob?jk=c5ac9ec7c7224c20",
+    "scraped_at": "2026-08-03T11:13:44.322196"
+  },
+  {
+    "title": "Civil Engineering draftsperson",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=1edf532567b1b04e",
+    "scraped_at": "2026-08-03T11:13:44.336067"
+  },
+  {
+    "title": "Network Development Engineer",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=8c16433f8678348c",
+    "scraped_at": "2026-08-03T11:13:44.337520"
   }
 ]
