@@ -1,11 +1,5 @@
 [
   {
-    "title": "Lead Data Consultant",
-    "company": "DIUS",
-    "url": "https://au.indeed.com/viewjob?jk=4483e74e1699f961",
-    "scraped_at": "2026-06-05T12:43:00.186195"
-  },
-  {
     "title": "Lead AI Consultant",
     "company": "DIUS",
     "url": "https://au.indeed.com/viewjob?jk=4816cf42a9678196",
@@ -5998,5 +5992,11 @@
     "company": "Dnata",
     "url": "https://au.indeed.com/viewjob?jk=f3bff11553b11e50",
     "scraped_at": "2026-08-01T20:40:48.774413"
+  },
+  {
+    "title": "Actuarial System Analyst",
+    "company": "TAL",
+    "url": "https://au.indeed.com/viewjob?jk=67cb23c5d30e18c7",
+    "scraped_at": "2026-08-03T01:54:07.342247"
   }
 ]
