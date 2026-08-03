@@ -1,11 +1,5 @@
 [
   {
-    "title": "Power Systems Engineer",
-    "company": "Transgrid",
-    "url": "https://au.indeed.com/viewjob?jk=75610341e1b1066a",
-    "scraped_at": "2026-06-05T12:43:00.199630"
-  },
-  {
     "title": "Software Engineer, Doshii",
     "company": "Commonwealth Bank of Australia",
     "url": "https://au.indeed.com/viewjob?jk=7fbca828f6410df8",
@@ -5998,5 +5992,11 @@
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=8c16433f8678348c",
     "scraped_at": "2026-08-03T11:13:44.337520"
+  },
+  {
+    "title": ".Net Developer",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=70c9d02ba77d1f07",
+    "scraped_at": "2026-08-03T17:43:14.195020"
   }
 ]
