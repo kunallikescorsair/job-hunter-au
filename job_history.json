@@ -1,35 +1,5 @@
 [
   {
-    "title": "Lead AI Consultant",
-    "company": "DIUS",
-    "url": "https://au.indeed.com/viewjob?jk=4816cf42a9678196",
-    "scraped_at": "2026-06-05T12:43:00.187400"
-  },
-  {
-    "title": "AI Engineer (12 Month Contract)",
-    "company": "Chubb Insurance",
-    "url": "https://au.indeed.com/viewjob?jk=bf0f0ca49d23e06d",
-    "scraped_at": "2026-06-05T12:43:00.188578"
-  },
-  {
-    "title": "Platform Engineer",
-    "company": "Breaker",
-    "url": "https://au.indeed.com/viewjob?jk=c68c78601dc8dcd6",
-    "scraped_at": "2026-06-05T12:43:00.190481"
-  },
-  {
-    "title": "Advanced Software Engineer -AI R&D",
-    "company": "Honeywell",
-    "url": "https://au.indeed.com/viewjob?jk=5ef24f86dba4d275",
-    "scraped_at": "2026-06-05T12:43:00.191656"
-  },
-  {
-    "title": "Software Engineer, Network Security, GGI Security Team",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=da9580ae5ff0fa25",
-    "scraped_at": "2026-06-05T12:43:00.192451"
-  },
-  {
     "title": "Software Development Engineer, Public Sector Customer Engineering",
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=f08466d4de1f537d",
@@ -5998,5 +5968,35 @@
     "company": "TAL",
     "url": "https://au.indeed.com/viewjob?jk=67cb23c5d30e18c7",
     "scraped_at": "2026-08-03T01:54:07.342247"
+  },
+  {
+    "title": "Product Marketing Manager",
+    "company": "Heidi",
+    "url": "https://au.indeed.com/viewjob?jk=9ff083490486e54b",
+    "scraped_at": "2026-08-03T06:52:01.755426"
+  },
+  {
+    "title": "Technical Engagement Specialist",
+    "company": "Advanced Navigation",
+    "url": "https://au.indeed.com/viewjob?jk=73325be4258d4aa9",
+    "scraped_at": "2026-08-03T06:52:01.756505"
+  },
+  {
+    "title": "Software Engineer (Model Deployment)",
+    "company": "CoreFlow",
+    "url": "https://au.indeed.com/viewjob?jk=a26dc4e99efa48be",
+    "scraped_at": "2026-08-03T06:52:01.759285"
+  },
+  {
+    "title": "Data Insights Analyst",
+    "company": "Mission Australia",
+    "url": "https://au.indeed.com/viewjob?jk=69da830b7716833e",
+    "scraped_at": "2026-08-03T06:52:01.762536"
+  },
+  {
+    "title": "Actuarial Consulting Intern",
+    "company": "Mercer",
+    "url": "https://au.indeed.com/viewjob?jk=ed933f7050f5c5b1",
+    "scraped_at": "2026-08-03T06:52:01.764343"
   }
 ]
