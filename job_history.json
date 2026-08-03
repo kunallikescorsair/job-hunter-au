@@ -1,17 +1,5 @@
 [
   {
-    "title": "Software Engineer, Doshii",
-    "company": "Commonwealth Bank of Australia",
-    "url": "https://au.indeed.com/viewjob?jk=7fbca828f6410df8",
-    "scraped_at": "2026-06-05T12:43:00.200771"
-  },
-  {
-    "title": "Research & Analytics Analyst",
-    "company": "MLC Life Insurance",
-    "url": "https://au.indeed.com/viewjob?jk=0a4311e3579abb2c",
-    "scraped_at": "2026-06-05T12:43:00.202624"
-  },
-  {
     "title": "Global Markets Full Time Analyst - 2027 - Sydney",
     "company": "Bank of America",
     "url": "https://au.indeed.com/viewjob?jk=6f0ee4318b3d4952",
@@ -5998,5 +5986,17 @@
     "company": "Employment Hero",
     "url": "https://au.indeed.com/viewjob?jk=70c9d02ba77d1f07",
     "scraped_at": "2026-08-03T17:43:14.195020"
+  },
+  {
+    "title": "Java Platform Performance Engineer (Performance Optimization)",
+    "company": "Binance",
+    "url": "https://au.indeed.com/viewjob?jk=7b1a5cf352ed68c8",
+    "scraped_at": "2026-08-03T20:55:31.513755"
+  },
+  {
+    "title": "Services Sales Manager",
+    "company": "OutSystems",
+    "url": "https://au.indeed.com/viewjob?jk=840a6f3b600ecd75",
+    "scraped_at": "2026-08-03T20:55:31.531936"
   }
 ]
