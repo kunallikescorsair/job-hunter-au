@@ -1,17 +1,5 @@
 [
   {
-    "title": "Product Marketing Manager",
-    "company": "Nuix",
-    "url": "https://au.indeed.com/viewjob?jk=f4197607f9cc83d2",
-    "scraped_at": "2026-06-05T12:43:00.219895"
-  },
-  {
-    "title": "Mid-level Software Engineer (Full Stack)",
-    "company": "PerformID",
-    "url": "https://au.indeed.com/viewjob?jk=f43a6231605800a9",
-    "scraped_at": "2026-06-05T12:43:00.220644"
-  },
-  {
     "title": "Analyst",
     "company": "NSW Department of Communities and Justice",
     "url": "https://au.indeed.com/viewjob?jk=915b9c98d9427f2c",
@@ -5998,5 +5986,17 @@
     "company": "Neuronimbus Digital Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=5472f96035fd8889",
     "scraped_at": "2026-08-04T10:27:40.855874"
+  },
+  {
+    "title": "Field Medical Team Lead",
+    "company": "Pfizer",
+    "url": "https://au.indeed.com/viewjob?jk=c70257ba2b59bf5d",
+    "scraped_at": "2026-08-04T13:48:42.634032"
+  },
+  {
+    "title": "Solution Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=c48176c815422bef",
+    "scraped_at": "2026-08-04T13:48:42.645227"
   }
 ]
