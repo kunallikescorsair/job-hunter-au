@@ -1,23 +1,5 @@
 [
   {
-    "title": "Analyst",
-    "company": "NSW Department of Communities and Justice",
-    "url": "https://au.indeed.com/viewjob?jk=915b9c98d9427f2c",
-    "scraped_at": "2026-06-05T12:43:00.222644"
-  },
-  {
-    "title": "Customer Insights & Data Analyst",
-    "company": "Mirvac",
-    "url": "https://au.indeed.com/viewjob?jk=4f7dfad421b7de2a",
-    "scraped_at": "2026-06-05T12:43:00.223448"
-  },
-  {
-    "title": "IQC Manager",
-    "company": "Techtronic Industries Co. Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=ed0879ffa4b403e0",
-    "scraped_at": "2026-06-05T12:43:00.224982"
-  },
-  {
     "title": "iOS Engineer",
     "company": "Cognizant",
     "url": "https://au.indeed.com/viewjob?jk=eb452b7ec7f8321e",
@@ -5998,5 +5980,23 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=c48176c815422bef",
     "scraped_at": "2026-08-04T13:48:42.645227"
+  },
+  {
+    "title": "Practice Customer Engineer, Application Modernization",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=64227b8eca3fc611",
+    "scraped_at": "2026-08-04T17:29:08.650641"
+  },
+  {
+    "title": "Sustainability Specialist",
+    "company": "John Holland",
+    "url": "https://au.indeed.com/viewjob?jk=7fdbd59385bc42b7",
+    "scraped_at": "2026-08-04T17:29:08.659743"
+  },
+  {
+    "title": "Group Manager Environment & Sustainability",
+    "company": "John Holland",
+    "url": "https://au.indeed.com/viewjob?jk=f0c6ed504fc2380c",
+    "scraped_at": "2026-08-04T17:29:08.660757"
   }
 ]
