@@ -1,17 +1,5 @@
 [
   {
-    "title": "Data and Workforce Analyst",
-    "company": "QBE",
-    "url": "https://au.indeed.com/viewjob?jk=90c649e178b4cd04",
-    "scraped_at": "2026-06-05T12:43:00.215482"
-  },
-  {
-    "title": "Sales Performance & Insights Analyst",
-    "company": "CoStar Group",
-    "url": "https://au.indeed.com/viewjob?jk=f1fd9d2c1408ed97",
-    "scraped_at": "2026-06-05T12:43:00.217747"
-  },
-  {
     "title": "Product Marketing Manager",
     "company": "Nuix",
     "url": "https://au.indeed.com/viewjob?jk=f4197607f9cc83d2",
@@ -5998,5 +5986,17 @@
     "company": "Endeavour Group",
     "url": "https://au.indeed.com/viewjob?jk=482ecfefa07373bf",
     "scraped_at": "2026-08-04T06:20:20.064762"
+  },
+  {
+    "title": "Lead Application Support Engineer",
+    "company": "SS&C",
+    "url": "https://au.indeed.com/viewjob?jk=75f30245fe36cc32",
+    "scraped_at": "2026-08-04T10:27:40.852007"
+  },
+  {
+    "title": "Financial Crime Data Analyst",
+    "company": "Neuronimbus Digital Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=5472f96035fd8889",
+    "scraped_at": "2026-08-04T10:27:40.855874"
   }
 ]
