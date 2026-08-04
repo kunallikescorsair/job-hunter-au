@@ -1,41 +1,5 @@
 [
   {
-    "title": "Pricing Analyst (Graduate)",
-    "company": "Blackwoods",
-    "url": "https://au.indeed.com/viewjob?jk=2067d25a310ebe3d",
-    "scraped_at": "2026-06-05T12:43:00.205232"
-  },
-  {
-    "title": "Business Intelligence (BI) Analyst, Fleet, Equipment and Sustainability",
-    "company": "NSW Health",
-    "url": "https://au.indeed.com/viewjob?jk=261957479b1bc1ea",
-    "scraped_at": "2026-06-05T12:43:00.206422"
-  },
-  {
-    "title": "Assistant Commercial Analyst",
-    "company": "Metcash",
-    "url": "https://au.indeed.com/viewjob?jk=0714777a2c86ffb6",
-    "scraped_at": "2026-06-05T12:43:00.209630"
-  },
-  {
-    "title": "UX Researcher",
-    "company": "Dentsu",
-    "url": "https://au.indeed.com/viewjob?jk=da60863a58d9ffc7",
-    "scraped_at": "2026-06-05T12:43:00.210437"
-  },
-  {
-    "title": "Associate, Australian Equity Research",
-    "company": "RBC",
-    "url": "https://au.indeed.com/viewjob?jk=7734a8a993cf40fb",
-    "scraped_at": "2026-06-05T12:43:00.212410"
-  },
-  {
-    "title": "Fraud Analyst",
-    "company": "Westpac Group",
-    "url": "https://au.indeed.com/viewjob?jk=88b9b4371164696b",
-    "scraped_at": "2026-06-05T12:43:00.214632"
-  },
-  {
     "title": "Data and Workforce Analyst",
     "company": "QBE",
     "url": "https://au.indeed.com/viewjob?jk=90c649e178b4cd04",
@@ -5998,5 +5962,41 @@
     "company": "Endeavour Group",
     "url": "https://au.indeed.com/viewjob?jk=b2338b763379d42e",
     "scraped_at": "2026-08-04T01:28:54.059397"
+  },
+  {
+    "title": "Technical Business Analyst",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=6b39bfb09ecbcd0d",
+    "scraped_at": "2026-08-04T06:20:20.051021"
+  },
+  {
+    "title": "Lead EBIP Engineer",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=7e47e79466390a26",
+    "scraped_at": "2026-08-04T06:20:20.052926"
+  },
+  {
+    "title": "Quality Engineering Analyst (Sentral)",
+    "company": "Global Payments",
+    "url": "https://au.indeed.com/viewjob?jk=6ce44d462ba366b5",
+    "scraped_at": "2026-08-04T06:20:20.055957"
+  },
+  {
+    "title": "Account Executive",
+    "company": "Modo Energy",
+    "url": "https://au.indeed.com/viewjob?jk=550bb3924695ddb0",
+    "scraped_at": "2026-08-04T06:20:20.056572"
+  },
+  {
+    "title": "HR Systems & Reporting Specialist (SAP SuccessFactors)",
+    "company": "WaterNSW",
+    "url": "https://au.indeed.com/viewjob?jk=508d98a7667b8b00",
+    "scraped_at": "2026-08-04T06:20:20.059251"
+  },
+  {
+    "title": "Category Implementation Manager",
+    "company": "Endeavour Group",
+    "url": "https://au.indeed.com/viewjob?jk=482ecfefa07373bf",
+    "scraped_at": "2026-08-04T06:20:20.064762"
   }
 ]
