@@ -1,17 +1,5 @@
 [
   {
-    "title": "Product Designer",
-    "company": "UntilNow",
-    "url": "https://au.indeed.com/viewjob?jk=5670555aad6125fb",
-    "scraped_at": "2026-06-05T17:48:34.934183"
-  },
-  {
-    "title": "Software Architect",
-    "company": "University of Sydney",
-    "url": "https://au.indeed.com/viewjob?jk=48b701ecf322a9f6",
-    "scraped_at": "2026-06-05T17:48:34.935217"
-  },
-  {
     "title": "Partner Forward Deployed Engineer IV, GenAI, Google Cloud",
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=d5c0bb5cf37e2939",
@@ -5998,5 +5986,17 @@
     "company": "Tata Consultancy Services (TCS)",
     "url": "https://au.indeed.com/viewjob?jk=db7f64b7d3304709",
     "scraped_at": "2026-08-05T17:20:59.587042"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Accenture",
+    "url": "https://au.indeed.com/viewjob?jk=edf5a99410a170be",
+    "scraped_at": "2026-08-05T20:58:01.708791"
+  },
+  {
+    "title": "Forward Deployed Engineer, GenAI, Financial Services",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=08ee4367e9f1e43e",
+    "scraped_at": "2026-08-05T20:58:01.714656"
   }
 ]
