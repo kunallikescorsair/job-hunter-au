@@ -1,47 +1,5 @@
 [
   {
-    "title": "Snowflake Developer",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=acd4df4418e7fa9c",
-    "scraped_at": "2026-06-05T12:43:00.232094"
-  },
-  {
-    "title": "Practice Customer Engineer, Artificial Intelligence, Google Cloud",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=84517f1d176cfd78",
-    "scraped_at": "2026-06-05T12:43:00.234094"
-  },
-  {
-    "title": "Platform Engineer \u2013 AI & Agent Platforms",
-    "company": "Westpac Group",
-    "url": "https://au.indeed.com/viewjob?jk=ca89c737d4740f01",
-    "scraped_at": "2026-06-05T12:43:00.234732"
-  },
-  {
-    "title": "Bioinformatics Research Engineer",
-    "company": "Children's Cancer Institute",
-    "url": "https://au.indeed.com/viewjob?jk=6ad6e00125c046b9",
-    "scraped_at": "2026-06-05T12:43:00.235442"
-  },
-  {
-    "title": "Data Labeling Specialist",
-    "company": "OpsArmy",
-    "url": "https://au.indeed.com/viewjob?jk=381a75264cc4e584",
-    "scraped_at": "2026-06-05T12:43:00.235968"
-  },
-  {
-    "title": "Internal Auditor",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=6a923d67e598d0fb",
-    "scraped_at": "2026-06-05T12:43:00.236555"
-  },
-  {
-    "title": "Digital Product / Project Coordinator",
-    "company": "Employment Hero",
-    "url": "https://au.indeed.com/viewjob?jk=27b0c017d581061b",
-    "scraped_at": "2026-06-05T12:43:00.237087"
-  },
-  {
     "title": "Security Architect | AI & DevSecOps",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=c341a0666468bd41",
@@ -5998,5 +5956,47 @@
     "company": "George Weston Foods",
     "url": "https://au.indeed.com/viewjob?jk=2b94f66706636975",
     "scraped_at": "2026-08-05T06:20:14.879025"
+  },
+  {
+    "title": "Software Engineer (AI / Full Stack)",
+    "company": "Avreo",
+    "url": "https://au.indeed.com/viewjob?jk=15096185ead44e79",
+    "scraped_at": "2026-08-05T10:25:51.774186"
+  },
+  {
+    "title": "Platform Reliability Engineer (Zabbix)",
+    "company": "Showtime Consulting",
+    "url": "https://au.indeed.com/viewjob?jk=e1255422c96bac81",
+    "scraped_at": "2026-08-05T10:25:51.778113"
+  },
+  {
+    "title": "Fleet Reporting Analyst",
+    "company": "Avis Budget Group",
+    "url": "https://au.indeed.com/viewjob?jk=b299fc735ad44d6c",
+    "scraped_at": "2026-08-05T10:25:51.778874"
+  },
+  {
+    "title": "Analyst - Data Engineering",
+    "company": "DXC Technology",
+    "url": "https://au.indeed.com/viewjob?jk=c3bc603e13107d96",
+    "scraped_at": "2026-08-05T10:25:51.779336"
+  },
+  {
+    "title": "Java Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=4a30fa7e88420617",
+    "scraped_at": "2026-08-05T10:25:51.788305"
+  },
+  {
+    "title": "Databricks Application Engineer",
+    "company": "Showtime Consulting",
+    "url": "https://au.indeed.com/viewjob?jk=920a5fa68cb2ac6a",
+    "scraped_at": "2026-08-05T10:25:51.789156"
+  },
+  {
+    "title": "Network Installation Technician, Infrastructure Delivery",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=947033232427bc6e",
+    "scraped_at": "2026-08-05T10:25:51.790623"
   }
 ]
