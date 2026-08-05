@@ -1,11 +1,5 @@
 [
   {
-    "title": "Lead Integration Engineer",
-    "company": "KPMG",
-    "url": "https://au.indeed.com/viewjob?jk=23bc03f69c042da6",
-    "scraped_at": "2026-06-05T12:43:00.231808"
-  },
-  {
     "title": "Snowflake Developer",
     "company": "Tata Consultancy Services (TCS)",
     "url": "https://au.indeed.com/viewjob?jk=acd4df4418e7fa9c",
@@ -5998,5 +5992,11 @@
     "company": "NTT DATA",
     "url": "https://au.indeed.com/viewjob?jk=33e3d2aa8362d9ac",
     "scraped_at": "2026-08-05T01:43:03.036007"
+  },
+  {
+    "title": "Commercial Finance Analyst",
+    "company": "George Weston Foods",
+    "url": "https://au.indeed.com/viewjob?jk=2b94f66706636975",
+    "scraped_at": "2026-08-05T06:20:14.879025"
   }
 ]
