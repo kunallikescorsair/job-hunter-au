@@ -1,17 +1,5 @@
 [
   {
-    "title": "Software Engineer, Site Reliability Engineering, Logs",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=4c67bf5812698706",
-    "scraped_at": "2026-06-05T17:48:34.925693"
-  },
-  {
-    "title": "Information Security Operations Analyst (Sydney, Australia)",
-    "company": "Starling",
-    "url": "https://au.indeed.com/viewjob?jk=40908546855c85c7",
-    "scraped_at": "2026-06-05T17:48:34.927276"
-  },
-  {
     "title": "Product Designer",
     "company": "UntilNow",
     "url": "https://au.indeed.com/viewjob?jk=5670555aad6125fb",
@@ -5998,5 +5986,17 @@
     "company": "LogicMonitor",
     "url": "https://au.indeed.com/viewjob?jk=cceb450d42374457",
     "scraped_at": "2026-08-05T13:43:54.257138"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=1c4739b42caa9d97",
+    "scraped_at": "2026-08-05T17:20:59.584118"
+  },
+  {
+    "title": "Platform Engineer",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=db7f64b7d3304709",
+    "scraped_at": "2026-08-05T17:20:59.587042"
   }
 ]
