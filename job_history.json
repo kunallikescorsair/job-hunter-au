@@ -1,29 +1,5 @@
 [
   {
-    "title": "Security Architect | AI & DevSecOps",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=c341a0666468bd41",
-    "scraped_at": "2026-06-05T12:43:00.237862"
-  },
-  {
-    "title": "Software Engineer, Data Infrastructure & Acquisition - Sydney, Australia",
-    "company": "Speechify",
-    "url": "https://au.indeed.com/viewjob?jk=20b749f327f5e7bd",
-    "scraped_at": "2026-06-05T17:48:34.910202"
-  },
-  {
-    "title": "AI Engineer - Manager - AI GTM Engine Room",
-    "company": "EY",
-    "url": "https://au.indeed.com/viewjob?jk=90422d1ab9d87f92",
-    "scraped_at": "2026-06-05T17:48:34.913316"
-  },
-  {
-    "title": "Analyst",
-    "company": "Westlake Corporation",
-    "url": "https://au.indeed.com/viewjob?jk=85552d5e2a0f8f3e",
-    "scraped_at": "2026-06-05T17:48:34.921725"
-  },
-  {
     "title": "Software Engineer, Site Reliability Engineering, Logs",
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=4c67bf5812698706",
@@ -5998,5 +5974,29 @@
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=947033232427bc6e",
     "scraped_at": "2026-08-05T10:25:51.790623"
+  },
+  {
+    "title": "Solutions Consultant",
+    "company": "Plexa",
+    "url": "https://au.indeed.com/viewjob?jk=e1857c03cbe740cd",
+    "scraped_at": "2026-08-05T13:43:54.253848"
+  },
+  {
+    "title": "Product Owner/Design Manager",
+    "company": "Sitemate",
+    "url": "https://au.indeed.com/viewjob?jk=ddb7604f9f0bbcc2",
+    "scraped_at": "2026-08-05T13:43:54.255021"
+  },
+  {
+    "title": "Product Design Manager",
+    "company": "Sitemate",
+    "url": "https://au.indeed.com/viewjob?jk=02d438ed0b5dee43",
+    "scraped_at": "2026-08-05T13:43:54.256094"
+  },
+  {
+    "title": "Solutions Engineer",
+    "company": "LogicMonitor",
+    "url": "https://au.indeed.com/viewjob?jk=cceb450d42374457",
+    "scraped_at": "2026-08-05T13:43:54.257138"
   }
 ]
