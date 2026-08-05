@@ -1,17 +1,5 @@
 [
   {
-    "title": "iOS Engineer",
-    "company": "Cognizant",
-    "url": "https://au.indeed.com/viewjob?jk=eb452b7ec7f8321e",
-    "scraped_at": "2026-06-05T12:43:00.226078"
-  },
-  {
-    "title": "Lead Integration Engineer",
-    "company": "KPMG",
-    "url": "https://au.indeed.com/viewjob?jk=c2216fbd123d2240",
-    "scraped_at": "2026-06-05T12:43:00.230941"
-  },
-  {
     "title": "Lead Integration Engineer",
     "company": "KPMG",
     "url": "https://au.indeed.com/viewjob?jk=23bc03f69c042da6",
@@ -5998,5 +5986,17 @@
     "company": "John Holland",
     "url": "https://au.indeed.com/viewjob?jk=f0c6ed504fc2380c",
     "scraped_at": "2026-08-04T17:29:08.660757"
+  },
+  {
+    "title": "Technical Program Manager, Global Network Delivery, DCNet Delivery",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=002001a010fef74a",
+    "scraped_at": "2026-08-05T01:43:03.034204"
+  },
+  {
+    "title": "Automation Engineer",
+    "company": "NTT DATA",
+    "url": "https://au.indeed.com/viewjob?jk=33e3d2aa8362d9ac",
+    "scraped_at": "2026-08-05T01:43:03.036007"
   }
 ]
