@@ -1,35 +1,5 @@
 [
   {
-    "title": "Data Engineer",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=896352ba65ecbe19",
-    "scraped_at": "2026-06-06T02:11:51.021588"
-  },
-  {
-    "title": "AI Engineer",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=022a637e270844e9",
-    "scraped_at": "2026-06-06T02:11:51.022390"
-  },
-  {
-    "title": "Junior Database Administrator",
-    "company": "Deloitte",
-    "url": "https://au.indeed.com/viewjob?jk=39eb7503aaa6779f",
-    "scraped_at": "2026-06-06T06:47:49.210395"
-  },
-  {
-    "title": "Technical Deployment Lead - Sydney",
-    "company": "OpenAI",
-    "url": "https://au.indeed.com/viewjob?jk=4670e71bf413030b",
-    "scraped_at": "2026-06-08T08:46:46.346170"
-  },
-  {
-    "title": "Application Support Tech Lead Analyst (Margin and OTC Settlements) \u2013 Vice President",
-    "company": "Citi",
-    "url": "https://au.indeed.com/viewjob?jk=ee4b1d00d8e0a9c1",
-    "scraped_at": "2026-06-08T08:46:46.353581"
-  },
-  {
     "title": "Graduate AI & CX Engineer",
     "company": "Datacom Connect",
     "url": "https://au.indeed.com/viewjob?jk=36122ffb3cfca1d4",
@@ -5998,5 +5968,35 @@
     "company": "Avis Budget Group",
     "url": "https://au.indeed.com/viewjob?jk=5394ede5c809ff85",
     "scraped_at": "2026-08-06T01:42:50.744810"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "FinXL",
+    "url": "https://au.indeed.com/viewjob?jk=48dca8a0c4ab2726",
+    "scraped_at": "2026-08-06T06:23:10.296657"
+  },
+  {
+    "title": "HCM Business Analyst",
+    "company": "NCS",
+    "url": "https://au.indeed.com/viewjob?jk=b6b99d2d3cc224c5",
+    "scraped_at": "2026-08-06T06:23:10.309408"
+  },
+  {
+    "title": "Geospatial Services Lead",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=a1765fc6b0a1f824",
+    "scraped_at": "2026-08-06T06:23:10.311296"
+  },
+  {
+    "title": "Computer Network and System Engineer",
+    "company": "Layer2 APAC",
+    "url": "https://au.indeed.com/viewjob?jk=b35fa462f5a0a1d1",
+    "scraped_at": "2026-08-06T06:23:10.314505"
+  },
+  {
+    "title": "Solution Consultant - Emerging Technologies",
+    "company": "Eaton",
+    "url": "https://au.indeed.com/viewjob?jk=2eec4cae83ffca78",
+    "scraped_at": "2026-08-06T06:23:10.320823"
   }
 ]
