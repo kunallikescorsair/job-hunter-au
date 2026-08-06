@@ -1,29 +1,5 @@
 [
   {
-    "title": "Graduate AI & CX Engineer",
-    "company": "Datacom Connect",
-    "url": "https://au.indeed.com/viewjob?jk=36122ffb3cfca1d4",
-    "scraped_at": "2026-06-08T15:31:07.392059"
-  },
-  {
-    "title": "AI Delivery Lead",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=e50a5806117fa6ee",
-    "scraped_at": "2026-06-08T15:31:07.403425"
-  },
-  {
-    "title": "Business Analyst - Utilities Domain",
-    "company": "UST",
-    "url": "https://au.indeed.com/viewjob?jk=447a957128fb1739",
-    "scraped_at": "2026-06-08T15:31:07.408509"
-  },
-  {
-    "title": "Tax Operations Analyst - 15 month FTC (Fixed Term Contract)",
-    "company": "Citi",
-    "url": "https://au.indeed.com/viewjob?jk=e371447ab8b964e1",
-    "scraped_at": "2026-06-08T21:45:27.857886"
-  },
-  {
     "title": "Finance Systems Analyst",
     "company": "Bravura Solutions",
     "url": "https://au.indeed.com/viewjob?jk=d954614eca39b986",
@@ -5998,5 +5974,29 @@
     "company": "Eaton",
     "url": "https://au.indeed.com/viewjob?jk=2eec4cae83ffca78",
     "scraped_at": "2026-08-06T06:23:10.320823"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=5cd8e232b3fc0f8b",
+    "scraped_at": "2026-08-06T10:28:49.275120"
+  },
+  {
+    "title": "Analyst - Industrial Investment",
+    "company": "Mirvac",
+    "url": "https://au.indeed.com/viewjob?jk=e5541ed0e1ed1871",
+    "scraped_at": "2026-08-06T10:28:49.277558"
+  },
+  {
+    "title": "Security Engineer, AWS Security Incident Response",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=3451eac0562b4288",
+    "scraped_at": "2026-08-06T10:28:49.279233"
+  },
+  {
+    "title": "System Development Engineer, Network Core",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=0c0c3adc7a95b4a8",
+    "scraped_at": "2026-08-06T10:28:49.280466"
   }
 ]
