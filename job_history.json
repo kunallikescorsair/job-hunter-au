@@ -1,17 +1,5 @@
 [
   {
-    "title": "Partner Forward Deployed Engineer IV, GenAI, Google Cloud",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=d5c0bb5cf37e2939",
-    "scraped_at": "2026-06-05T21:18:16.235946"
-  },
-  {
-    "title": "Forward Deployed Engineer III, GenAI",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=19406dabce0e5a21",
-    "scraped_at": "2026-06-05T21:18:16.236691"
-  },
-  {
     "title": "Data Engineer",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=896352ba65ecbe19",
@@ -5998,5 +5986,17 @@
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=08ee4367e9f1e43e",
     "scraped_at": "2026-08-05T20:58:01.714656"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Lorikeet",
+    "url": "https://au.indeed.com/viewjob?jk=88425d40b361c95e",
+    "scraped_at": "2026-08-06T01:42:50.740882"
+  },
+  {
+    "title": "Fleet Reporting Analyst",
+    "company": "Avis Budget Group",
+    "url": "https://au.indeed.com/viewjob?jk=5394ede5c809ff85",
+    "scraped_at": "2026-08-06T01:42:50.744810"
   }
 ]
