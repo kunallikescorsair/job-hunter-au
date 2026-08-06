@@ -1,35 +1,5 @@
 [
   {
-    "title": "Finance Systems Analyst",
-    "company": "Bravura Solutions",
-    "url": "https://au.indeed.com/viewjob?jk=d954614eca39b986",
-    "scraped_at": "2026-06-09T02:08:45.055531"
-  },
-  {
-    "title": "Technical Product Delivery Manager (Tech Saas) - ML / AI",
-    "company": "Nearmap",
-    "url": "https://au.indeed.com/viewjob?jk=c8f278f1328341d2",
-    "scraped_at": "2026-06-09T07:38:28.224340"
-  },
-  {
-    "title": "GTM Sales Engineer and AI Automation Specialist",
-    "company": "Squiz",
-    "url": "https://au.indeed.com/viewjob?jk=c4d3dd79d0bb374b",
-    "scraped_at": "2026-06-09T07:38:28.226016"
-  },
-  {
-    "title": "ICT System Test Engineer",
-    "company": "Wipro Australia",
-    "url": "https://au.indeed.com/viewjob?jk=8ed085994ad9d23d",
-    "scraped_at": "2026-06-09T07:38:28.230784"
-  },
-  {
-    "title": "ICT Business Analyst",
-    "company": "Naveen's Immigration Services",
-    "url": "https://au.indeed.com/viewjob?jk=a7e20997036de411",
-    "scraped_at": "2026-06-09T07:38:28.239948"
-  },
-  {
     "title": "Data Engineer",
     "company": "Centelon",
     "url": "https://au.indeed.com/viewjob?jk=b51978f186401d6d",
@@ -5998,5 +5968,35 @@
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=0c0c3adc7a95b4a8",
     "scraped_at": "2026-08-06T10:28:49.280466"
+  },
+  {
+    "title": "Cloud DevOps Engineer",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=15685bc174a13bc3",
+    "scraped_at": "2026-08-06T13:42:28.084004"
+  },
+  {
+    "title": "Visualisation Engineer",
+    "company": "HammondCare",
+    "url": "https://au.indeed.com/viewjob?jk=f6389e06a9ed3c9d",
+    "scraped_at": "2026-08-06T13:42:28.084741"
+  },
+  {
+    "title": "Delivery and Change Coordinator",
+    "company": "Australian Red Cross Lifeblood",
+    "url": "https://au.indeed.com/viewjob?jk=dc16c73d99eca9fa",
+    "scraped_at": "2026-08-06T13:42:28.085495"
+  },
+  {
+    "title": "Cloud DevOps Engineer",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=40fe4d6db539075b",
+    "scraped_at": "2026-08-06T13:42:28.086083"
+  },
+  {
+    "title": "Data Analyst Maritime",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=d4755a7f6b4ea154",
+    "scraped_at": "2026-08-06T13:42:28.089912"
   }
 ]
