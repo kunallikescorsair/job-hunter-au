@@ -1,29 +1,5 @@
 [
   {
-    "title": "Analyst Programmer/Software Developer",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=1845f6db7f1c6964",
-    "scraped_at": "2026-06-10T14:54:36.506686"
-  },
-  {
-    "title": "Compliance Analyst",
-    "company": "Apex Group",
-    "url": "https://au.indeed.com/viewjob?jk=35809b989e4d4d45",
-    "scraped_at": "2026-06-10T14:54:36.508108"
-  },
-  {
-    "title": "Collections Analyst",
-    "company": "Meltwater",
-    "url": "https://au.indeed.com/viewjob?jk=2c4450a0247bdfde",
-    "scraped_at": "2026-06-10T14:54:36.516369"
-  },
-  {
-    "title": "Operational Contract Risk Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=bf285cb8d357118f",
-    "scraped_at": "2026-06-10T18:25:25.282335"
-  },
-  {
     "title": "MDR Analyst, Unit 42",
     "company": "Palo Alto Networks",
     "url": "https://au.indeed.com/viewjob?jk=a28b8925fb447257",
@@ -5998,5 +5974,29 @@
     "company": "Fulton Hogan",
     "url": "https://au.indeed.com/viewjob?jk=286a78608100a5bf",
     "scraped_at": "2026-08-07T12:40:59.671364"
+  },
+  {
+    "title": "Technology Solutions Manager - Model Risk Management Transformation",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=61ed3bb7b56fa694",
+    "scraped_at": "2026-08-07T16:42:02.128341"
+  },
+  {
+    "title": "Security Engineer, Google Threat Intelligence",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=56916b521396f5e8",
+    "scraped_at": "2026-08-07T16:42:02.139213"
+  },
+  {
+    "title": "Trading Analyst",
+    "company": "STX Group",
+    "url": "https://au.indeed.com/viewjob?jk=0f2924fcdd197a63",
+    "scraped_at": "2026-08-07T16:42:02.140113"
+  },
+  {
+    "title": "Specialist Solutions Architect - Amazon Connect, Applied AI Solutions",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=10e183f30a476b44",
+    "scraped_at": "2026-08-07T16:42:02.149177"
   }
 ]
