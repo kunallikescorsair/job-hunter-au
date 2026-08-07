@@ -1,11 +1,5 @@
 [
   {
-    "title": "MDR Analyst, Unit 42",
-    "company": "Palo Alto Networks",
-    "url": "https://au.indeed.com/viewjob?jk=a28b8925fb447257",
-    "scraped_at": "2026-06-10T18:25:25.286453"
-  },
-  {
     "title": "Game Artist",
     "company": "Light & Wonder",
     "url": "https://au.indeed.com/viewjob?jk=2d5238cfacc03c75",
@@ -5998,5 +5992,11 @@
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=10e183f30a476b44",
     "scraped_at": "2026-08-07T16:42:02.149177"
+  },
+  {
+    "title": "Solution Engineer, Cloud and AI Platform - Apps",
+    "company": "Microsoft",
+    "url": "https://au.indeed.com/viewjob?jk=4b3f2755c906d4bc",
+    "scraped_at": "2026-08-07T20:30:21.326254"
   }
 ]
