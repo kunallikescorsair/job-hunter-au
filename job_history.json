@@ -1,41 +1,5 @@
 [
   {
-    "title": "Data Engineer",
-    "company": "Centelon",
-    "url": "https://au.indeed.com/viewjob?jk=b51978f186401d6d",
-    "scraped_at": "2026-06-09T07:38:28.244248"
-  },
-  {
-    "title": "Java Full Stack Developer",
-    "company": "Virtusa Consulting & Services Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=619a12758abc7a13",
-    "scraped_at": "2026-06-09T07:38:28.249417"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "Xero",
-    "url": "https://au.indeed.com/viewjob?jk=82f8e3a0c20d6e3a",
-    "scraped_at": "2026-06-09T10:52:49.307006"
-  },
-  {
-    "title": "Presales ITAM & FinOps",
-    "company": "SoftwareOne",
-    "url": "https://au.indeed.com/viewjob?jk=13bbf0f36374b5d6",
-    "scraped_at": "2026-06-09T10:52:49.317920"
-  },
-  {
-    "title": "Applications Support Analyst/Solution Engineer - IT Application Services",
-    "company": "Catholic Healthcare Limited",
-    "url": "https://au.indeed.com/viewjob?jk=7d4125567833f465",
-    "scraped_at": "2026-06-09T10:52:49.318695"
-  },
-  {
-    "title": "Product Specialist / Solution Architect - Agentforce Contact Center",
-    "company": "Salesforce",
-    "url": "https://au.indeed.com/viewjob?jk=29eee2e173f71d42",
-    "scraped_at": "2026-06-09T10:52:49.319914"
-  },
-  {
     "title": "ICT Commercial Account Executive",
     "company": "Datadog",
     "url": "https://au.indeed.com/viewjob?jk=82b8f5adc4811b4a",
@@ -5998,5 +5962,41 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=d4755a7f6b4ea154",
     "scraped_at": "2026-08-06T13:42:28.089912"
+  },
+  {
+    "title": "Security Customer Engineer, Google Cloud",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=999b1202833b5521",
+    "scraped_at": "2026-08-07T00:50:45.295110"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=947332639d7e6c93",
+    "scraped_at": "2026-08-07T00:50:45.299736"
+  },
+  {
+    "title": "Regional Project Design Controls Engineer - APJC, Fleet Remediation Engineering",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=df5300cbbbececef",
+    "scraped_at": "2026-08-07T00:50:45.309558"
+  },
+  {
+    "title": "Product Manager, Exceptions Management",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=a9a47a767c261144",
+    "scraped_at": "2026-08-07T00:50:45.312046"
+  },
+  {
+    "title": "AI Application Developer",
+    "company": "Gym Plug",
+    "url": "https://au.indeed.com/viewjob?jk=6d346854db970987",
+    "scraped_at": "2026-08-07T00:50:45.318387"
+  },
+  {
+    "title": "Manager Early Careers Program",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=fb672e8094a5f37d",
+    "scraped_at": "2026-08-07T00:50:45.318883"
   }
 ]
