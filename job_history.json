@@ -1,53 +1,5 @@
 [
   {
-    "title": "Data Analyst",
-    "company": "IKEA",
-    "url": "https://au.indeed.com/viewjob?jk=acdc30ae5f3b2fad",
-    "scraped_at": "2026-06-09T21:42:10.014505"
-  },
-  {
-    "title": "Presales ITAM & FinOps",
-    "company": "SoftwareOne",
-    "url": "https://au.indeed.com/viewjob?jk=44085c06d5e54667",
-    "scraped_at": "2026-06-09T21:42:10.032701"
-  },
-  {
-    "title": "Binance Accelerator Program - Fullstack Developer (Internal Applications)",
-    "company": "Binance",
-    "url": "https://au.indeed.com/viewjob?jk=61a7e7f849dcd7c8",
-    "scraped_at": "2026-06-10T02:33:03.108075"
-  },
-  {
-    "title": "Controls Design Engineer, Controls Design Engineering",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=d57e873a2feea038",
-    "scraped_at": "2026-06-10T02:33:03.133957"
-  },
-  {
-    "title": "Product Design Manager",
-    "company": "Sitemate",
-    "url": "https://au.indeed.com/viewjob?jk=eaf8af94865306c7",
-    "scraped_at": "2026-06-10T08:01:24.345093"
-  },
-  {
-    "title": "Transcriber",
-    "company": "Epiq",
-    "url": "https://au.indeed.com/viewjob?jk=8d489126cae1b2dd",
-    "scraped_at": "2026-06-10T08:01:24.357340"
-  },
-  {
-    "title": "Commercial Analyst",
-    "company": "Linfox",
-    "url": "https://au.indeed.com/viewjob?jk=72b4a50b11920fd7",
-    "scraped_at": "2026-06-10T08:01:24.362063"
-  },
-  {
-    "title": "Junior Software Engineer",
-    "company": "Ebix Australia",
-    "url": "https://au.indeed.com/viewjob?jk=6bdebfba5813b76c",
-    "scraped_at": "2026-06-10T08:01:24.363998"
-  },
-  {
     "title": "Property Editor",
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=01b027c4e0f1edb3",
@@ -5998,5 +5950,53 @@
     "company": "Endeavour Group",
     "url": "https://au.indeed.com/viewjob?jk=5556af108dc65b68",
     "scraped_at": "2026-08-07T05:28:15.523901"
+  },
+  {
+    "title": "AI and Automation Specialist - Risk",
+    "company": "Insignia Financial",
+    "url": "https://au.indeed.com/viewjob?jk=b978725a97cc5eb2",
+    "scraped_at": "2026-08-07T08:46:44.264422"
+  },
+  {
+    "title": "Onboarding Manager",
+    "company": "Mutinex",
+    "url": "https://au.indeed.com/viewjob?jk=2d73479af545b8f5",
+    "scraped_at": "2026-08-07T08:46:44.270819"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Intelligen Group",
+    "url": "https://au.indeed.com/viewjob?jk=7df9925cf82e1f8f",
+    "scraped_at": "2026-08-07T08:46:44.272228"
+  },
+  {
+    "title": "National Service Operations Manager",
+    "company": "Eaton",
+    "url": "https://au.indeed.com/viewjob?jk=86ebd5df5f1f5755",
+    "scraped_at": "2026-08-07T08:46:44.281868"
+  },
+  {
+    "title": "Commercial Analyst",
+    "company": "The Arnott's Group",
+    "url": "https://au.indeed.com/viewjob?jk=5de16071ee8ce830",
+    "scraped_at": "2026-08-07T08:46:44.282778"
+  },
+  {
+    "title": "Quantitative Analyst, Non-Retail Models",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=b4e56f3e30bbd8bc",
+    "scraped_at": "2026-08-07T08:46:44.283515"
+  },
+  {
+    "title": "Technology - Data Integration Analyst",
+    "company": "Venues NSW",
+    "url": "https://au.indeed.com/viewjob?jk=a1fd9e4bc40890b7",
+    "scraped_at": "2026-08-07T08:46:44.284266"
+  },
+  {
+    "title": "Demand Forecasting Specialist",
+    "company": "Metcash",
+    "url": "https://au.indeed.com/viewjob?jk=2df3ce45e359674d",
+    "scraped_at": "2026-08-07T08:46:44.289815"
   }
 ]
