@@ -1,41 +1,5 @@
 [
   {
-    "title": "Property Editor",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=01b027c4e0f1edb3",
-    "scraped_at": "2026-06-10T08:01:24.369656"
-  },
-  {
-    "title": "Software Engineer \u00e2\u20ac\u201c Engineering Enablement (AI, Quality & Platform Reliability)",
-    "company": "The Argyle Network",
-    "url": "https://au.indeed.com/viewjob?jk=e12f4c6cbdf92fc1",
-    "scraped_at": "2026-06-10T14:54:36.490841"
-  },
-  {
-    "title": "IT Business Systems Analyst",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=2bbd3c6385408c4b",
-    "scraped_at": "2026-06-10T14:54:36.498547"
-  },
-  {
-    "title": "Business Systems Analyst",
-    "company": "Avant",
-    "url": "https://au.indeed.com/viewjob?jk=25400cc7848ad1ea",
-    "scraped_at": "2026-06-10T14:54:36.499276"
-  },
-  {
-    "title": "Growth Analyst (Builder) \u2014 APAC",
-    "company": "xe",
-    "url": "https://au.indeed.com/viewjob?jk=d35a8184cb0b8a0a",
-    "scraped_at": "2026-06-10T14:54:36.501959"
-  },
-  {
-    "title": "Analyst Programmer / Software Developer",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=a94cdda17db92d58",
-    "scraped_at": "2026-06-10T14:54:36.505985"
-  },
-  {
     "title": "Analyst Programmer/Software Developer",
     "company": "FinXL",
     "url": "https://au.indeed.com/viewjob?jk=1845f6db7f1c6964",
@@ -5998,5 +5962,41 @@
     "company": "Metcash",
     "url": "https://au.indeed.com/viewjob?jk=2df3ce45e359674d",
     "scraped_at": "2026-08-07T08:46:44.289815"
+  },
+  {
+    "title": "Implementation Manager",
+    "company": "Splose",
+    "url": "https://au.indeed.com/viewjob?jk=2f880b8ac8878b71",
+    "scraped_at": "2026-08-07T12:40:59.651937"
+  },
+  {
+    "title": "National Service Operations Manager",
+    "company": "Eaton",
+    "url": "https://au.indeed.com/viewjob?jk=f1d2307278826a7d",
+    "scraped_at": "2026-08-07T12:40:59.655378"
+  },
+  {
+    "title": "Database Analyst",
+    "company": "Barings",
+    "url": "https://au.indeed.com/viewjob?jk=8aa455170ed0fd0c",
+    "scraped_at": "2026-08-07T12:40:59.658547"
+  },
+  {
+    "title": "Analyst, Asset Based Finance",
+    "company": "Barings",
+    "url": "https://au.indeed.com/viewjob?jk=fe7cb90922d9bf15",
+    "scraped_at": "2026-08-07T12:40:59.659923"
+  },
+  {
+    "title": "Planner",
+    "company": "Acciona",
+    "url": "https://au.indeed.com/viewjob?jk=4a4ca1decfd67e28",
+    "scraped_at": "2026-08-07T12:40:59.669559"
+  },
+  {
+    "title": "Junior Scheduler",
+    "company": "Fulton Hogan",
+    "url": "https://au.indeed.com/viewjob?jk=286a78608100a5bf",
+    "scraped_at": "2026-08-07T12:40:59.671364"
   }
 ]
