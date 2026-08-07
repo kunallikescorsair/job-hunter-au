@@ -1,35 +1,5 @@
 [
   {
-    "title": "ICT Commercial Account Executive",
-    "company": "Datadog",
-    "url": "https://au.indeed.com/viewjob?jk=82b8f5adc4811b4a",
-    "scraped_at": "2026-06-09T10:52:49.320485"
-  },
-  {
-    "title": "Delivery Consultant: Full Stack Engineer, AWS Professional Services",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=87adf51021dee18b",
-    "scraped_at": "2026-06-09T10:52:49.321437"
-  },
-  {
-    "title": "Product Actuary",
-    "company": "UniSuper",
-    "url": "https://au.indeed.com/viewjob?jk=acb8b08f35b6de97",
-    "scraped_at": "2026-06-09T10:52:49.335648"
-  },
-  {
-    "title": "Data Center Technical Operations Engineer",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=8b29895b69413825",
-    "scraped_at": "2026-06-09T10:52:49.344040"
-  },
-  {
-    "title": "AI Adoption Customer Engineer",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=e38d281cf8c89f8b",
-    "scraped_at": "2026-06-09T17:53:58.388907"
-  },
-  {
     "title": "Data Analyst",
     "company": "IKEA",
     "url": "https://au.indeed.com/viewjob?jk=acdc30ae5f3b2fad",
@@ -5998,5 +5968,35 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=fb672e8094a5f37d",
     "scraped_at": "2026-08-07T00:50:45.318883"
+  },
+  {
+    "title": "Valuations & Pricing Analyst",
+    "company": "Carma",
+    "url": "https://au.indeed.com/viewjob?jk=00752820dd06e750",
+    "scraped_at": "2026-08-07T05:28:15.513730"
+  },
+  {
+    "title": "Business Performance Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=8ffdb726e06d8297",
+    "scraped_at": "2026-08-07T05:28:15.514431"
+  },
+  {
+    "title": "Road Safety Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=e5cfd597e94261b3",
+    "scraped_at": "2026-08-07T05:28:15.515805"
+  },
+  {
+    "title": "Digital Configuration Sitecore Analyst",
+    "company": "MUFG",
+    "url": "https://au.indeed.com/viewjob?jk=0622ce87831779f8",
+    "scraped_at": "2026-08-07T05:28:15.523139"
+  },
+  {
+    "title": "Finance Analyst, Retail Labour (Dan Murphy's)",
+    "company": "Endeavour Group",
+    "url": "https://au.indeed.com/viewjob?jk=5556af108dc65b68",
+    "scraped_at": "2026-08-07T05:28:15.523901"
   }
 ]
