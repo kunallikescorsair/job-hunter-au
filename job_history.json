@@ -1,11 +1,5 @@
 [
   {
-    "title": "Game Artist",
-    "company": "Light & Wonder",
-    "url": "https://au.indeed.com/viewjob?jk=2d5238cfacc03c75",
-    "scraped_at": "2026-06-10T21:55:07.126335"
-  },
-  {
     "title": "Software Development Engineer III, Internet Edge Services",
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=ec94706e880dffbc",
@@ -5998,5 +5992,11 @@
     "company": "Microsoft",
     "url": "https://au.indeed.com/viewjob?jk=4b3f2755c906d4bc",
     "scraped_at": "2026-08-07T20:30:21.326254"
+  },
+  {
+    "title": "Graduate Analyst - Strategy & Consulting - 2027 Graduate Program",
+    "company": "Accenture",
+    "url": "https://au.indeed.com/viewjob?jk=d2501bfacedb151d",
+    "scraped_at": "2026-08-08T04:47:04.458895"
   }
 ]
