@@ -1,53 +1,5 @@
 [
   {
-    "title": "Research Analyst - Perpetual Wealth Management",
-    "company": "Perpetual",
-    "url": "https://au.indeed.com/viewjob?jk=6edf1bd177e06f6b",
-    "scraped_at": "2026-06-11T15:36:37.869251"
-  },
-  {
-    "title": "Azure DevOps Engineer",
-    "company": "Version 1",
-    "url": "https://au.indeed.com/viewjob?jk=3b6e500bc2ed5cb3",
-    "scraped_at": "2026-06-11T15:36:37.871035"
-  },
-  {
-    "title": "PMO Analyst",
-    "company": "CSR",
-    "url": "https://au.indeed.com/viewjob?jk=16db823bad62d011",
-    "scraped_at": "2026-06-11T15:36:37.872149"
-  },
-  {
-    "title": "Application Architect Manager",
-    "company": "Avanade",
-    "url": "https://au.indeed.com/viewjob?jk=29a41820c20b7629",
-    "scraped_at": "2026-06-11T18:41:33.549538"
-  },
-  {
-    "title": "Sales Performance & Insights Analyst",
-    "company": "Domain Group",
-    "url": "https://au.indeed.com/viewjob?jk=182fb99c24e5d322",
-    "scraped_at": "2026-06-11T18:41:33.557026"
-  },
-  {
-    "title": "Project Manager / Financial Analyst",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=d570778ad2f612f9",
-    "scraped_at": "2026-06-11T21:54:43.044916"
-  },
-  {
-    "title": "Forward Deployed Engineer",
-    "company": "Deloitte",
-    "url": "https://au.indeed.com/viewjob?jk=24107cb87312b5be",
-    "scraped_at": "2026-06-12T08:17:02.371058"
-  },
-  {
-    "title": "Advisory AI Data Specialist",
-    "company": "Dell Technologies",
-    "url": "https://au.indeed.com/viewjob?jk=08b51c05797cb8f3",
-    "scraped_at": "2026-06-12T08:17:02.375798"
-  },
-  {
     "title": "ECS Account Executive | Public Sector",
     "company": "Salesforce",
     "url": "https://au.indeed.com/viewjob?jk=1bf038003c4c2c21",
@@ -5998,5 +5950,53 @@
     "company": "UPS",
     "url": "https://au.indeed.com/viewjob?jk=0fd03267c49797ad",
     "scraped_at": "2026-08-10T05:16:42.254450"
+  },
+  {
+    "title": "Logistics Solutions Engineer",
+    "company": "UPS",
+    "url": "https://au.indeed.com/viewjob?jk=52664f87b638dccf",
+    "scraped_at": "2026-08-10T09:07:41.626777"
+  },
+  {
+    "title": "Logistics Solutions Engineer",
+    "company": "UPS",
+    "url": "https://au.indeed.com/viewjob?jk=5bef0e9e8d5df1a6",
+    "scraped_at": "2026-08-10T09:07:41.627412"
+  },
+  {
+    "title": "Logistics Solutions Engineer",
+    "company": "UPS",
+    "url": "https://au.indeed.com/viewjob?jk=433e4940a4f22596",
+    "scraped_at": "2026-08-10T09:07:41.627983"
+  },
+  {
+    "title": "Logistics Solutions Engineer",
+    "company": "UPS",
+    "url": "https://au.indeed.com/viewjob?jk=b2389e353fe2bf67",
+    "scraped_at": "2026-08-10T09:07:41.628544"
+  },
+  {
+    "title": "Logistics Solutions Engineer",
+    "company": "UPS",
+    "url": "https://au.indeed.com/viewjob?jk=2ce50ece59cffd65",
+    "scraped_at": "2026-08-10T09:07:41.629077"
+  },
+  {
+    "title": "Logistics Solutions Engineer",
+    "company": "UPS",
+    "url": "https://au.indeed.com/viewjob?jk=be8301ba646568b2",
+    "scraped_at": "2026-08-10T09:07:41.629705"
+  },
+  {
+    "title": "Pre-Construction Cost Planner, APJC Data Center Capacity Delivery",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=b370f600d65e1b40",
+    "scraped_at": "2026-08-10T09:07:41.631018"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "HUB24",
+    "url": "https://au.indeed.com/viewjob?jk=657d7690a6377971",
+    "scraped_at": "2026-08-10T09:07:41.631717"
   }
 ]
