@@ -1,41 +1,5 @@
 [
   {
-    "title": "Data Processing Analyst",
-    "company": "IRI Worldwide (Australia)",
-    "url": "https://au.indeed.com/viewjob?jk=afa3e5c1722e82f3",
-    "scraped_at": "2026-06-12T08:17:02.387702"
-  },
-  {
-    "title": "Technical Business Analyst - Data Mapping (Reporting)",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=23bd6c19061331fd",
-    "scraped_at": "2026-06-12T08:17:02.388310"
-  },
-  {
-    "title": "Workforce Analytics Specialist",
-    "company": "Baptistcare - WA",
-    "url": "https://au.indeed.com/viewjob?jk=c3db8a5a367ff371",
-    "scraped_at": "2026-06-12T08:17:02.396374"
-  },
-  {
-    "title": "Product Manager, Platform Capabilities",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=12a99255757dd4cd",
-    "scraped_at": "2026-06-12T08:17:02.403648"
-  },
-  {
-    "title": "AI Solutions Architect",
-    "company": "Neo4j",
-    "url": "https://au.indeed.com/viewjob?jk=4523f3ddff5f70dc",
-    "scraped_at": "2026-06-12T14:35:55.136339"
-  },
-  {
-    "title": "AI Data Scientist",
-    "company": "NAB - National Australia Bank",
-    "url": "https://au.indeed.com/viewjob?jk=663dfc33bfc565d2",
-    "scraped_at": "2026-06-12T14:35:55.137099"
-  },
-  {
     "title": "AI Solutions Architect",
     "company": "Neo4j",
     "url": "https://au.indeed.com/viewjob?jk=d378cac288879b56",
@@ -5998,5 +5962,41 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=bf5c701b0e2d901c",
     "scraped_at": "2026-08-10T12:45:18.703818"
+  },
+  {
+    "title": "Global Advisory & Markets, GSET FPGA Engineer, Associate / Vice Preisdent, Sydney",
+    "company": "Goldman Sachs",
+    "url": "https://au.indeed.com/viewjob?jk=4518c308ecabc454",
+    "scraped_at": "2026-08-10T16:43:38.906884"
+  },
+  {
+    "title": "Campaign Data Analyst",
+    "company": "ING",
+    "url": "https://au.indeed.com/viewjob?jk=2eb3deda9d59de90",
+    "scraped_at": "2026-08-10T16:43:38.913547"
+  },
+  {
+    "title": "ICT Business Analyst",
+    "company": "RackCorp",
+    "url": "https://au.indeed.com/viewjob?jk=d11deb39f7f60efa",
+    "scraped_at": "2026-08-10T16:43:38.914718"
+  },
+  {
+    "title": "Analyst, Measurement Success, AUS (Bilingual Korean/English Required)",
+    "company": "CINT",
+    "url": "https://au.indeed.com/viewjob?jk=a6b86ba19bea31b2",
+    "scraped_at": "2026-08-10T16:43:38.922003"
+  },
+  {
+    "title": "Analyst, Measurement Success, AUS (Bilingual Japanese/English Required)",
+    "company": "CINT",
+    "url": "https://au.indeed.com/viewjob?jk=8940d70961f3ea68",
+    "scraped_at": "2026-08-10T16:43:38.923133"
+  },
+  {
+    "title": "AI Architect - Databricks",
+    "company": "UNISON Group",
+    "url": "https://au.indeed.com/viewjob?jk=1b08e8367c92cc5d",
+    "scraped_at": "2026-08-10T16:43:38.933878"
   }
 ]
