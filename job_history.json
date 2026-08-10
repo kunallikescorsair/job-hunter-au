@@ -1,17 +1,5 @@
 [
   {
-    "title": "AI Solutions Architect",
-    "company": "Neo4j",
-    "url": "https://au.indeed.com/viewjob?jk=d378cac288879b56",
-    "scraped_at": "2026-06-12T14:35:55.138443"
-  },
-  {
-    "title": "Network Support Lead",
-    "company": "Infosys",
-    "url": "https://au.indeed.com/viewjob?jk=00671ba457217e55",
-    "scraped_at": "2026-06-12T14:35:55.150994"
-  },
-  {
     "title": "QA Engineer (Square)",
     "company": "Binance",
     "url": "https://au.indeed.com/viewjob?jk=08833758d8de0937",
@@ -5998,5 +5986,17 @@
     "company": "UNISON Group",
     "url": "https://au.indeed.com/viewjob?jk=1b08e8367c92cc5d",
     "scraped_at": "2026-08-10T16:43:38.933878"
+  },
+  {
+    "title": "Building Analytics Engineer",
+    "company": "Johnson Controls",
+    "url": "https://au.indeed.com/viewjob?jk=65f749730d5dbb8d",
+    "scraped_at": "2026-08-10T20:31:53.640595"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Accenture",
+    "url": "https://au.indeed.com/viewjob?jk=30c0409070ba9484",
+    "scraped_at": "2026-08-10T20:31:53.641923"
   }
 ]
