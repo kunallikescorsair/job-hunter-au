@@ -1,23 +1,5 @@
 [
   {
-    "title": "Business Analyst - Payments (12 month contract)",
-    "company": "Cuscal",
-    "url": "https://au.indeed.com/viewjob?jk=7e9fc3179b8a062b",
-    "scraped_at": "2026-06-11T08:29:10.404274"
-  },
-  {
-    "title": "Platform Engineer",
-    "company": "LUMI",
-    "url": "https://au.indeed.com/viewjob?jk=82275a43c74cc5e0",
-    "scraped_at": "2026-06-11T15:36:37.856574"
-  },
-  {
-    "title": "SOFTWARE ENGINEER AUTOMATED TRADING - Phuket, Thailand",
-    "company": "COBBLESTONE",
-    "url": "https://au.indeed.com/viewjob?jk=c8a0f46f86446111",
-    "scraped_at": "2026-06-11T15:36:37.863780"
-  },
-  {
     "title": "Research Analyst - Perpetual Wealth Management",
     "company": "Perpetual",
     "url": "https://au.indeed.com/viewjob?jk=6edf1bd177e06f6b",
@@ -5998,5 +5980,23 @@
     "company": "AI Talent",
     "url": "https://au.indeed.com/viewjob?jk=682e209ecf93e6aa",
     "scraped_at": "2026-08-08T12:27:20.470366"
+  },
+  {
+    "title": "GCP Data Engineer",
+    "company": "Showtime Consulting",
+    "url": "https://au.indeed.com/viewjob?jk=f61bc1aac79b6d14",
+    "scraped_at": "2026-08-10T05:16:42.244354"
+  },
+  {
+    "title": "Technical Lead",
+    "company": "HCLTech",
+    "url": "https://au.indeed.com/viewjob?jk=9e3f63882163945f",
+    "scraped_at": "2026-08-10T05:16:42.249546"
+  },
+  {
+    "title": "Logistics Solutions Engineer",
+    "company": "UPS",
+    "url": "https://au.indeed.com/viewjob?jk=0fd03267c49797ad",
+    "scraped_at": "2026-08-10T05:16:42.254450"
   }
 ]
