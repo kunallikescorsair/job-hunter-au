@@ -1,17 +1,5 @@
 [
   {
-    "title": "QA Engineer (Square)",
-    "company": "Binance",
-    "url": "https://au.indeed.com/viewjob?jk=08833758d8de0937",
-    "scraped_at": "2026-06-12T14:35:55.151598"
-  },
-  {
-    "title": "Graduate Data Analyst",
-    "company": "Superloop",
-    "url": "https://au.indeed.com/viewjob?jk=c40d7d2a6e70657c",
-    "scraped_at": "2026-06-12T14:35:55.152201"
-  },
-  {
     "title": "Data Analyst - Corrections Intelligence Group - Silverwater",
     "company": "NSW Department of Communities and Justice",
     "url": "https://au.indeed.com/viewjob?jk=8cc72bdd63e96f41",
@@ -5998,5 +5986,17 @@
     "company": "Accenture",
     "url": "https://au.indeed.com/viewjob?jk=30c0409070ba9484",
     "scraped_at": "2026-08-10T20:31:53.641923"
+  },
+  {
+    "title": "Frontend Software Engineer",
+    "company": "Corto Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=dd82e261ed89aee4",
+    "scraped_at": "2026-08-11T00:59:22.222370"
+  },
+  {
+    "title": "Content Solutions Engineer (Pre Sales)",
+    "company": "TransPerfect",
+    "url": "https://au.indeed.com/viewjob?jk=7b64954ff3a24d10",
+    "scraped_at": "2026-08-11T00:59:22.243398"
   }
 ]
