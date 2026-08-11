@@ -1,11 +1,5 @@
 [
   {
-    "title": "Federal Programs Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=68dc9dd0cddf9ce1",
-    "scraped_at": "2026-06-14T13:29:34.456101"
-  },
-  {
     "title": "Revenue Operations Analyst",
     "company": "Phocas Software",
     "url": "https://au.indeed.com/viewjob?jk=147ffb3fcc08e0ce",
@@ -5998,5 +5992,11 @@
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=d6f5661246e72019",
     "scraped_at": "2026-08-11T16:47:32.294614"
+  },
+  {
+    "title": "Solution Engineer",
+    "company": "Pax8",
+    "url": "https://au.indeed.com/viewjob?jk=d15d67b6613fe279",
+    "scraped_at": "2026-08-11T20:34:49.641972"
   }
 ]
