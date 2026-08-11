@@ -1,23 +1,5 @@
 [
   {
-    "title": "Data Analyst - Corrections Intelligence Group - Silverwater",
-    "company": "NSW Department of Communities and Justice",
-    "url": "https://au.indeed.com/viewjob?jk=8cc72bdd63e96f41",
-    "scraped_at": "2026-06-12T14:35:55.156232"
-  },
-  {
-    "title": "Data Processing Analyst",
-    "company": "Circana",
-    "url": "https://au.indeed.com/viewjob?jk=a9d5dbc92e010bf9",
-    "scraped_at": "2026-06-12T14:35:55.157088"
-  },
-  {
-    "title": "Workforce Analytics Specialist",
-    "company": "Baptist Care",
-    "url": "https://au.indeed.com/viewjob?jk=e9c3030c888b040d",
-    "scraped_at": "2026-06-12T14:35:55.165081"
-  },
-  {
     "title": "Enterprise Account Manager , Telco, Media, Entertainment, Gaming and Sport - Enterprise Business",
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=bffcccb132f22a50",
@@ -5998,5 +5980,23 @@
     "company": "TransPerfect",
     "url": "https://au.indeed.com/viewjob?jk=7b64954ff3a24d10",
     "scraped_at": "2026-08-11T00:59:22.243398"
+  },
+  {
+    "title": "Network Engineer",
+    "company": "NCS",
+    "url": "https://au.indeed.com/viewjob?jk=5d49bc8faa8ae68d",
+    "scraped_at": "2026-08-11T04:58:39.849701"
+  },
+  {
+    "title": "VoidZero Engineer",
+    "company": "Cloudflare",
+    "url": "https://au.indeed.com/viewjob?jk=5956c79e756455cf",
+    "scraped_at": "2026-08-11T04:58:39.850443"
+  },
+  {
+    "title": "Legal Engineer - Custom Solutions",
+    "company": "HARVEY",
+    "url": "https://au.indeed.com/viewjob?jk=17835aa3bbbfc0fb",
+    "scraped_at": "2026-08-11T04:58:39.851504"
   }
 ]
