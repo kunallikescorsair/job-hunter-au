@@ -1,29 +1,5 @@
 [
   {
-    "title": "AI Engineer \u2013 GenAI Platforms & Applications",
-    "company": "Reserve Bank of Australia",
-    "url": "https://au.indeed.com/viewjob?jk=3088c03f282cbb54",
-    "scraped_at": "2026-06-15T09:53:26.454733"
-  },
-  {
-    "title": "Solution Engineer - AI",
-    "company": "Cisco",
-    "url": "https://au.indeed.com/viewjob?jk=ef1882e60ca7e212",
-    "scraped_at": "2026-06-15T09:53:26.466850"
-  },
-  {
-    "title": "AWS Cloud Engineer",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=f0d772b2194a986d",
-    "scraped_at": "2026-06-15T09:53:26.467350"
-  },
-  {
-    "title": "Software Engineer \u00e2\u20ac\u201c Data & AI Platforms - Financial Markets",
-    "company": "The Argyle Network",
-    "url": "https://au.indeed.com/viewjob?jk=37981efc7a9bdb77",
-    "scraped_at": "2026-06-15T09:53:26.467967"
-  },
-  {
     "title": "Data Processing Analyst",
     "company": "Circana",
     "url": "https://au.indeed.com/viewjob?jk=178ca06df1084d90",
@@ -5998,5 +5974,29 @@
     "company": "Showtime Consulting",
     "url": "https://au.indeed.com/viewjob?jk=adcf5462d6aeccc4",
     "scraped_at": "2026-08-12T05:24:44.022628"
+  },
+  {
+    "title": "ECS Account Executive - Public Sector",
+    "company": "Salesforce",
+    "url": "https://au.indeed.com/viewjob?jk=69e1d4029a0fb425",
+    "scraped_at": "2026-08-12T09:02:14.604836"
+  },
+  {
+    "title": "Solution Engineer",
+    "company": "Mirvac",
+    "url": "https://au.indeed.com/viewjob?jk=f02d8c14068fa794",
+    "scraped_at": "2026-08-12T09:02:14.605572"
+  },
+  {
+    "title": "Commercial Manager - International & B2B",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=eb6d3655f61de588",
+    "scraped_at": "2026-08-12T09:02:14.609432"
+  },
+  {
+    "title": "Physical Security Architect, Data Center Design Engineering",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=2e5405ea9d66b1a0",
+    "scraped_at": "2026-08-12T09:02:14.618929"
   }
 ]
