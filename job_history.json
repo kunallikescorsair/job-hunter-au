@@ -1,29 +1,5 @@
 [
   {
-    "title": "Data Engineering Technical Coach",
-    "company": "FDM Group",
-    "url": "https://au.indeed.com/viewjob?jk=79fac3c775e23851",
-    "scraped_at": "2026-06-15T02:47:46.871611"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "WISR",
-    "url": "https://au.indeed.com/viewjob?jk=f9b8fe1b3befeb90",
-    "scraped_at": "2026-06-15T02:47:46.876584"
-  },
-  {
-    "title": "Information Security Engineer",
-    "company": "Corto Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=04848828bcaf1727",
-    "scraped_at": "2026-06-15T02:47:46.877338"
-  },
-  {
-    "title": "Advisory AI Architect",
-    "company": "Dell Technologies",
-    "url": "https://au.indeed.com/viewjob?jk=90e5631d678a615f",
-    "scraped_at": "2026-06-15T09:53:26.453799"
-  },
-  {
     "title": "AI Engineer \u2013 GenAI Platforms & Applications",
     "company": "Reserve Bank of Australia",
     "url": "https://au.indeed.com/viewjob?jk=3088c03f282cbb54",
@@ -5998,5 +5974,29 @@
     "company": "Tata Consultancy Services (TCS)",
     "url": "https://au.indeed.com/viewjob?jk=2ebb9b7835643ce2",
     "scraped_at": "2026-08-12T01:05:59.908946"
+  },
+  {
+    "title": "Associate Database Engineer",
+    "company": "FinXL",
+    "url": "https://au.indeed.com/viewjob?jk=1d6bf4fd945f097d",
+    "scraped_at": "2026-08-12T05:24:44.010507"
+  },
+  {
+    "title": "Lending Services Analyst",
+    "company": "News Corp",
+    "url": "https://au.indeed.com/viewjob?jk=10c48b5ddf59ec99",
+    "scraped_at": "2026-08-12T05:24:44.017226"
+  },
+  {
+    "title": "SIEM Subject Matter Expert (Palo Alto Networks Cortex XSIAM) - Contract",
+    "company": "NCS",
+    "url": "https://au.indeed.com/viewjob?jk=d9947ea1aca6c6a2",
+    "scraped_at": "2026-08-12T05:24:44.021165"
+  },
+  {
+    "title": "Software Developer (GoLang/ AWS)",
+    "company": "Showtime Consulting",
+    "url": "https://au.indeed.com/viewjob?jk=adcf5462d6aeccc4",
+    "scraped_at": "2026-08-12T05:24:44.022628"
   }
 ]
