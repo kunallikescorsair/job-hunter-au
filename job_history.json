@@ -1,11 +1,5 @@
 [
   {
-    "title": "Revenue Operations Analyst",
-    "company": "Phocas Software",
-    "url": "https://au.indeed.com/viewjob?jk=147ffb3fcc08e0ce",
-    "scraped_at": "2026-06-14T21:00:54.519923"
-  },
-  {
     "title": "Data Engineering Technical Coach",
     "company": "FDM Group",
     "url": "https://au.indeed.com/viewjob?jk=79fac3c775e23851",
@@ -5998,5 +5992,11 @@
     "company": "Pax8",
     "url": "https://au.indeed.com/viewjob?jk=d15d67b6613fe279",
     "scraped_at": "2026-08-11T20:34:49.641972"
+  },
+  {
+    "title": "Automation Specialist IAM experience",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=2ebb9b7835643ce2",
+    "scraped_at": "2026-08-12T01:05:59.908946"
   }
 ]
