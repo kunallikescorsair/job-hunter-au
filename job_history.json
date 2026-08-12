@@ -1,23 +1,5 @@
 [
   {
-    "title": "Business Analyst",
-    "company": "Duxxel",
-    "url": "https://au.indeed.com/viewjob?jk=8d564650a840fc8f",
-    "scraped_at": "2026-06-15T09:53:26.474757"
-  },
-  {
-    "title": "Technical Business Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=f42e108e3e78aa6d",
-    "scraped_at": "2026-06-15T09:53:26.479865"
-  },
-  {
-    "title": "Data Center IT Operations Technician, Data Center Operations",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=dfa2ccf379675e9d",
-    "scraped_at": "2026-06-15T09:53:26.482600"
-  },
-  {
     "title": "Fire Protection Services Design Engineer, Mech, Fire and Water System Engineering",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=9b1f15854c98d9fc",
@@ -5998,5 +5980,23 @@
     "company": "Valvoline Global Operations",
     "url": "https://au.indeed.com/viewjob?jk=73ef77e886e5991e",
     "scraped_at": "2026-08-12T12:45:03.541723"
+  },
+  {
+    "title": "Nuclear Medicine Technologist",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=510d43fb29c6a44d",
+    "scraped_at": "2026-08-12T16:46:39.590042"
+  },
+  {
+    "title": "Project Engineer - Transmission Lines",
+    "company": "Consolidated Power Projects Australia",
+    "url": "https://au.indeed.com/viewjob?jk=99d5e53c304ad0c7",
+    "scraped_at": "2026-08-12T16:46:39.598108"
+  },
+  {
+    "title": "Insights & Visualisation Engineer- 2 positions (12-month Max term contract)",
+    "company": "HCF (Australia)",
+    "url": "https://au.indeed.com/viewjob?jk=f5a87c626614fe82",
+    "scraped_at": "2026-08-12T16:46:39.608498"
   }
 ]
