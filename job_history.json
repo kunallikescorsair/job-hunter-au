@@ -1,23 +1,5 @@
 [
   {
-    "title": "Data Processing Analyst",
-    "company": "Circana",
-    "url": "https://au.indeed.com/viewjob?jk=178ca06df1084d90",
-    "scraped_at": "2026-06-15T09:53:26.471992"
-  },
-  {
-    "title": "Data Business Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=081f353f16cecd59",
-    "scraped_at": "2026-06-15T09:53:26.472879"
-  },
-  {
-    "title": "Data Processing Analyst",
-    "company": "IRI Worldwide (Australia)",
-    "url": "https://au.indeed.com/viewjob?jk=6a306ce5b08dd419",
-    "scraped_at": "2026-06-15T09:53:26.473568"
-  },
-  {
     "title": "Business Analyst",
     "company": "Duxxel",
     "url": "https://au.indeed.com/viewjob?jk=8d564650a840fc8f",
@@ -5998,5 +5980,23 @@
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=2e5405ea9d66b1a0",
     "scraped_at": "2026-08-12T09:02:14.618929"
+  },
+  {
+    "title": "Front end Full stack Engineer with AI",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=7513a884f45ecfe5",
+    "scraped_at": "2026-08-12T12:45:03.530127"
+  },
+  {
+    "title": "Design Quality Engineer",
+    "company": "Heidi",
+    "url": "https://au.indeed.com/viewjob?jk=e52453050937218e",
+    "scraped_at": "2026-08-12T12:45:03.531054"
+  },
+  {
+    "title": "Raw Material Planner",
+    "company": "Valvoline Global Operations",
+    "url": "https://au.indeed.com/viewjob?jk=73ef77e886e5991e",
+    "scraped_at": "2026-08-12T12:45:03.541723"
   }
 ]
