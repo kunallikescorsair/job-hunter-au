@@ -1,23 +1,5 @@
 [
   {
-    "title": "Network Design Engineer",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=4928f411c4e8e30b",
-    "scraped_at": "2026-06-15T22:11:16.010544"
-  },
-  {
-    "title": "Account Executive",
-    "company": "Zone & Co",
-    "url": "https://au.indeed.com/viewjob?jk=5df8d278cefae419",
-    "scraped_at": "2026-06-15T22:11:16.016030"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=e15fdc307008a3c3",
-    "scraped_at": "2026-06-15T22:11:16.016599"
-  },
-  {
     "title": "Investment Analyst",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=a9050165a6f341f6",
@@ -5998,5 +5980,23 @@
     "company": "Duxxel",
     "url": "https://au.indeed.com/viewjob?jk=31e1dd54c0aced85",
     "scraped_at": "2026-08-13T05:27:37.525511"
+  },
+  {
+    "title": "Environmental Scientist - Contaminated Land Management",
+    "company": "WSP",
+    "url": "https://au.indeed.com/viewjob?jk=1a7cdf81f32d5e5a",
+    "scraped_at": "2026-08-13T09:04:03.772642"
+  },
+  {
+    "title": "Technical Business Analyst \u2013 Appian Workflow (Banking)",
+    "company": "Persistent Systems",
+    "url": "https://au.indeed.com/viewjob?jk=332a6ab14bf8af25",
+    "scraped_at": "2026-08-13T09:04:03.786867"
+  },
+  {
+    "title": "Cortex XSIAM SME / Engineer",
+    "company": "Showtime Consulting",
+    "url": "https://au.indeed.com/viewjob?jk=0a41de6505675b84",
+    "scraped_at": "2026-08-13T09:04:03.793639"
   }
 ]
