@@ -1,17 +1,5 @@
 [
   {
-    "title": "Data & AI Analyst (Sydney or Melbourne)",
-    "company": "Deloitte",
-    "url": "https://au.indeed.com/viewjob?jk=780a7d8ad49344e1",
-    "scraped_at": "2026-06-15T16:59:22.861913"
-  },
-  {
-    "title": "Technical Solutions Consultant, Google Photos (English, Mandarin)",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=d707055d3054349d",
-    "scraped_at": "2026-06-15T16:59:22.863074"
-  },
-  {
     "title": "Analyst - Enterprise Risk Advisory 5A",
     "company": "Genpact Australia",
     "url": "https://au.indeed.com/viewjob?jk=569825fff7d3115e",
@@ -5998,5 +5986,17 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=1f715776981f7b9c",
     "scraped_at": "2026-08-12T20:33:41.849214"
+  },
+  {
+    "title": "Quality Engineer",
+    "company": "Corto Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=960ce12aa06ca7ed",
+    "scraped_at": "2026-08-13T01:07:33.207430"
+  },
+  {
+    "title": "Cyber Threat Detection & Response Analyst",
+    "company": "Cuscal",
+    "url": "https://au.indeed.com/viewjob?jk=2a442b2dca1ca2aa",
+    "scraped_at": "2026-08-13T01:07:33.217588"
   }
 ]
