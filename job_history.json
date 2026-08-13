@@ -1,23 +1,5 @@
 [
   {
-    "title": "Investment Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=a9050165a6f341f6",
-    "scraped_at": "2026-06-15T22:11:16.023316"
-  },
-  {
-    "title": "Partner Sales Manager- ANZ",
-    "company": "ServiceNow",
-    "url": "https://au.indeed.com/viewjob?jk=9cf1e1ddc7b42502",
-    "scraped_at": "2026-06-16T02:49:28.862623"
-  },
-  {
-    "title": "Carbon Analyst",
-    "company": "Origin Energy",
-    "url": "https://au.indeed.com/viewjob?jk=b8e84ab49ad72c0f",
-    "scraped_at": "2026-06-16T02:49:28.867383"
-  },
-  {
     "title": "Cloud Data Engineering Solution Architect",
     "company": "TAL",
     "url": "https://au.indeed.com/viewjob?jk=8257e2b43fa81787",
@@ -5998,5 +5980,23 @@
     "company": "Showtime Consulting",
     "url": "https://au.indeed.com/viewjob?jk=0a41de6505675b84",
     "scraped_at": "2026-08-13T09:04:03.793639"
+  },
+  {
+    "title": "Data Center Technical Operations Engineer, AWS Data Center Engineering Operations",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=5bcd702aebd10b7d",
+    "scraped_at": "2026-08-13T12:46:11.771285"
+  },
+  {
+    "title": "Software Development Engineer, Network Fabric Engineering, MONA",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=05ab96e2d21014b0",
+    "scraped_at": "2026-08-13T12:46:11.772842"
+  },
+  {
+    "title": "ICT Academic Partnerships Project Manager",
+    "company": "Wix.com, Inc.",
+    "url": "https://au.indeed.com/viewjob?jk=2b011aeea87fc072",
+    "scraped_at": "2026-08-13T12:46:11.777212"
   }
 ]
