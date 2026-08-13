@@ -1,23 +1,5 @@
 [
   {
-    "title": "Cloud Data Engineering Solution Architect",
-    "company": "TAL",
-    "url": "https://au.indeed.com/viewjob?jk=8257e2b43fa81787",
-    "scraped_at": "2026-06-16T09:16:50.957297"
-  },
-  {
-    "title": "Technology Support Lead",
-    "company": "JPMorganChase",
-    "url": "https://au.indeed.com/viewjob?jk=5c941c5bb94082f4",
-    "scraped_at": "2026-06-16T09:16:50.958163"
-  },
-  {
-    "title": "Junior Software Engineer",
-    "company": "Objective",
-    "url": "https://au.indeed.com/viewjob?jk=ea34a2796f2173a3",
-    "scraped_at": "2026-06-16T09:16:50.958627"
-  },
-  {
     "title": "Cloud Data Delivery Manager",
     "company": "TAL",
     "url": "https://au.indeed.com/viewjob?jk=1d273bddc931c160",
@@ -5998,5 +5980,23 @@
     "company": "Wix.com, Inc.",
     "url": "https://au.indeed.com/viewjob?jk=2b011aeea87fc072",
     "scraped_at": "2026-08-13T12:46:11.777212"
+  },
+  {
+    "title": "AI Business Partner",
+    "company": "Australian Food and Fibre",
+    "url": "https://au.indeed.com/viewjob?jk=784257dff2412f63",
+    "scraped_at": "2026-08-13T16:45:30.285648"
+  },
+  {
+    "title": "Database Admin",
+    "company": "Epicor Software",
+    "url": "https://au.indeed.com/viewjob?jk=fbc1eabe01135c57",
+    "scraped_at": "2026-08-13T16:45:30.297139"
+  },
+  {
+    "title": "Product Deployment Engineer, gTech Ads (Fixed-Term Contract)",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=b549fdee72865fe8",
+    "scraped_at": "2026-08-13T16:45:30.309661"
   }
 ]
