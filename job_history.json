@@ -1,29 +1,5 @@
 [
   {
-    "title": "Analyst - Enterprise Risk Advisory 5A",
-    "company": "Genpact Australia",
-    "url": "https://au.indeed.com/viewjob?jk=569825fff7d3115e",
-    "scraped_at": "2026-06-15T16:59:22.867664"
-  },
-  {
-    "title": "Azure DevOps Platform Engineer",
-    "company": "Planit Testing",
-    "url": "https://au.indeed.com/viewjob?jk=d6df2ae4f72a16c5",
-    "scraped_at": "2026-06-15T16:59:22.877503"
-  },
-  {
-    "title": "Data Engineer \u2013 Snowflake & AWS",
-    "company": "Neuronimbus Digital Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=405b4f79fd54ce34",
-    "scraped_at": "2026-06-15T16:59:22.878074"
-  },
-  {
-    "title": "Consultant \u2013 Property Risk",
-    "company": "Marsh McLennan",
-    "url": "https://au.indeed.com/viewjob?jk=a2a5dccb5058df38",
-    "scraped_at": "2026-06-15T16:59:22.879440"
-  },
-  {
     "title": "Network Design Engineer",
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=4928f411c4e8e30b",
@@ -5998,5 +5974,29 @@
     "company": "Cuscal",
     "url": "https://au.indeed.com/viewjob?jk=2a442b2dca1ca2aa",
     "scraped_at": "2026-08-13T01:07:33.217588"
+  },
+  {
+    "title": "GCP Data & AI/MLOps Engineer",
+    "company": "Showtime Consulting",
+    "url": "https://au.indeed.com/viewjob?jk=2b102c7eaaeecd0c",
+    "scraped_at": "2026-08-13T05:27:37.512190"
+  },
+  {
+    "title": "Frontend Engineer - Luxury Travel",
+    "company": "Luxury Escapes",
+    "url": "https://au.indeed.com/viewjob?jk=0d127c9da3cd8669",
+    "scraped_at": "2026-08-13T05:27:37.516521"
+  },
+  {
+    "title": "Site Reliability Engineer",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=543ad129e766908d",
+    "scraped_at": "2026-08-13T05:27:37.517322"
+  },
+  {
+    "title": "AWS Data Engineer",
+    "company": "Duxxel",
+    "url": "https://au.indeed.com/viewjob?jk=31e1dd54c0aced85",
+    "scraped_at": "2026-08-13T05:27:37.525511"
   }
 ]
