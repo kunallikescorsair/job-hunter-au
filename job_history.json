@@ -1,53 +1,5 @@
 [
   {
-    "title": "Cloud Data Engineer",
-    "company": "TAL",
-    "url": "https://au.indeed.com/viewjob?jk=1e6cd7bcedff038c",
-    "scraped_at": "2026-06-16T09:16:50.970866"
-  },
-  {
-    "title": "WMS Operations Analyst | Orchard Hills NSW",
-    "company": "CEVA Logistics",
-    "url": "https://au.indeed.com/viewjob?jk=8b8e0de42396473f",
-    "scraped_at": "2026-06-16T09:16:50.972233"
-  },
-  {
-    "title": "Data Center Technical Operations Engineer",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=8f87e9680719c878",
-    "scraped_at": "2026-06-16T09:16:50.975203"
-  },
-  {
-    "title": "Software Engineer III, Securities Services Technology",
-    "company": "JPMorganChase",
-    "url": "https://au.indeed.com/viewjob?jk=c853453095c0d2ef",
-    "scraped_at": "2026-06-16T16:25:07.119589"
-  },
-  {
-    "title": "AI & Automation Engineer",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=b6833b0e3d447a7f",
-    "scraped_at": "2026-06-16T16:25:07.123332"
-  },
-  {
-    "title": "Junior Software Engineer",
-    "company": "Objective Corporation",
-    "url": "https://au.indeed.com/viewjob?jk=5191fa17cf3b78bc",
-    "scraped_at": "2026-06-16T16:25:07.124495"
-  },
-  {
-    "title": "Product Delivery Lead",
-    "company": "Macquarie Technology Group",
-    "url": "https://au.indeed.com/viewjob?jk=28f6659474037a62",
-    "scraped_at": "2026-06-16T16:25:07.125222"
-  },
-  {
-    "title": "Payroll Specialist Lead - Australia",
-    "company": "Remote",
-    "url": "https://au.indeed.com/viewjob?jk=b3d0f1ec8da45316",
-    "scraped_at": "2026-06-16T16:25:07.125846"
-  },
-  {
     "title": "Cloud Security Engineer",
     "company": "Microsoft",
     "url": "https://au.indeed.com/viewjob?jk=06422878439a1a0b",
@@ -5998,5 +5950,53 @@
     "company": "Perpetual",
     "url": "https://au.indeed.com/viewjob?jk=7a59bb30914502fe",
     "scraped_at": "2026-08-14T08:59:03.578762"
+  },
+  {
+    "title": "Research Officer - School of Medical Sciences",
+    "company": "University of Sydney",
+    "url": "https://au.indeed.com/viewjob?jk=3e030e64485d937d",
+    "scraped_at": "2026-08-14T16:40:51.585253"
+  },
+  {
+    "title": "Risk Control Analyst, Card & ATO Risk",
+    "company": "Binance",
+    "url": "https://au.indeed.com/viewjob?jk=5982c5774aecdbf9",
+    "scraped_at": "2026-08-14T16:40:51.595229"
+  },
+  {
+    "title": "Risk Analyst - Line 1",
+    "company": "Reserve Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=ebcae6083766c555",
+    "scraped_at": "2026-08-14T16:40:51.596680"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=596e9dde5b3a455f",
+    "scraped_at": "2026-08-14T16:40:51.597734"
+  },
+  {
+    "title": "Analyst, Real Estate Debt",
+    "company": "TIAA",
+    "url": "https://au.indeed.com/viewjob?jk=98ff9376aa18fc32",
+    "scraped_at": "2026-08-14T16:40:51.601598"
+  },
+  {
+    "title": "Front End Developer",
+    "company": "Duxxel",
+    "url": "https://au.indeed.com/viewjob?jk=0ffccac44292883d",
+    "scraped_at": "2026-08-14T16:40:51.602116"
+  },
+  {
+    "title": "Resilience Engineer",
+    "company": "Endeavour Energy",
+    "url": "https://au.indeed.com/viewjob?jk=03e251ea06ce9b41",
+    "scraped_at": "2026-08-14T16:40:51.603625"
+  },
+  {
+    "title": "Controls Design Engineer, Controls Design Engineering",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=8d84a9b5d358d8ad",
+    "scraped_at": "2026-08-14T16:40:51.605812"
   }
 ]
