@@ -1,11 +1,5 @@
 [
   {
-    "title": "Technical Business Analyst, AI and Data, Technology Consulting",
-    "company": "EY",
-    "url": "https://au.indeed.com/viewjob?jk=d29544b3c91086d8",
-    "scraped_at": "2026-06-16T09:16:50.964176"
-  },
-  {
     "title": "Business & Operations Analyst - Transaction Reporting",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=fc4ae18c2d472ba1",
@@ -5998,5 +5992,11 @@
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=ff76ccd25a1e2e9e",
     "scraped_at": "2026-08-14T01:06:42.403326"
+  },
+  {
+    "title": "Automation Engineer",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=4dbaae39ecfebb1e",
+    "scraped_at": "2026-08-14T05:25:22.954774"
   }
 ]
