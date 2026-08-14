@@ -1,29 +1,5 @@
 [
   {
-    "title": "Business & Operations Analyst - Transaction Reporting",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=fc4ae18c2d472ba1",
-    "scraped_at": "2026-06-16T09:16:50.965171"
-  },
-  {
-    "title": "ServiceNow Developer",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=571a7620fd596cf5",
-    "scraped_at": "2026-06-16T09:16:50.965979"
-  },
-  {
-    "title": "ServiceNow Developer",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=4f46ad5d5bb8a7b5",
-    "scraped_at": "2026-06-16T09:16:50.966568"
-  },
-  {
-    "title": "Oracle HCM Business Analyst",
-    "company": "NCS",
-    "url": "https://au.indeed.com/viewjob?jk=b6982f704469b3ee",
-    "scraped_at": "2026-06-16T09:16:50.969939"
-  },
-  {
     "title": "Cloud Data Engineer",
     "company": "TAL",
     "url": "https://au.indeed.com/viewjob?jk=1e6cd7bcedff038c",
@@ -5998,5 +5974,29 @@
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=4dbaae39ecfebb1e",
     "scraped_at": "2026-08-14T05:25:22.954774"
+  },
+  {
+    "title": "Product Manager",
+    "company": "Nuix",
+    "url": "https://au.indeed.com/viewjob?jk=86a664a480b1a561",
+    "scraped_at": "2026-08-14T08:59:03.566431"
+  },
+  {
+    "title": "Cloud Security Engineer",
+    "company": "Showtime Consulting",
+    "url": "https://au.indeed.com/viewjob?jk=5e4d1cf14356d4e8",
+    "scraped_at": "2026-08-14T08:59:03.569633"
+  },
+  {
+    "title": "Quantitative Analyst, Retail Models",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=ef74169041008e17",
+    "scraped_at": "2026-08-14T08:59:03.575116"
+  },
+  {
+    "title": "Graduate Analyst - ISO",
+    "company": "Perpetual",
+    "url": "https://au.indeed.com/viewjob?jk=7a59bb30914502fe",
+    "scraped_at": "2026-08-14T08:59:03.578762"
   }
 ]
