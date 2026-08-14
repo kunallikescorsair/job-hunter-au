@@ -1,11 +1,5 @@
 [
   {
-    "title": "Cloud Data Delivery Manager",
-    "company": "TAL",
-    "url": "https://au.indeed.com/viewjob?jk=1d273bddc931c160",
-    "scraped_at": "2026-06-16T09:16:50.959286"
-  },
-  {
     "title": "Technical Business Analyst, AI and Data, Technology Consulting",
     "company": "EY",
     "url": "https://au.indeed.com/viewjob?jk=d29544b3c91086d8",
@@ -5998,5 +5992,11 @@
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=b549fdee72865fe8",
     "scraped_at": "2026-08-13T16:45:30.309661"
+  },
+  {
+    "title": "Technical Solutions Consultant, Google Photos (English, Mandarin)",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=ff76ccd25a1e2e9e",
+    "scraped_at": "2026-08-14T01:06:42.403326"
   }
 ]
