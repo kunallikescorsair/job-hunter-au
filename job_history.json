@@ -1,11 +1,5 @@
 [
   {
-    "title": "Lead Cloud DevOps Engineer - GCP",
-    "company": "Westpac Group",
-    "url": "https://au.indeed.com/viewjob?jk=d9071e9428c256a5",
-    "scraped_at": "2026-06-17T08:54:35.458865"
-  },
-  {
     "title": "Lead Engineer",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=b318032b55085a59",
@@ -5998,5 +5992,11 @@
     "company": "Atlassian",
     "url": "https://au.indeed.com/viewjob?jk=c12b82da0d5c25e2",
     "scraped_at": "2026-08-15T12:18:46.602559"
+  },
+  {
+    "title": "Quantexa Engineer",
+    "company": "Infosys",
+    "url": "https://au.indeed.com/viewjob?jk=7c51979a6fb021bb",
+    "scraped_at": "2026-08-15T16:13:18.627844"
   }
 ]
