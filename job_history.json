@@ -1,23 +1,5 @@
 [
   {
-    "title": "Product Manager \u2013 Cardiac Surgery",
-    "company": "Medtronic",
-    "url": "https://au.indeed.com/viewjob?jk=e5ac284303daa81f",
-    "scraped_at": "2026-06-16T16:25:07.138089"
-  },
-  {
-    "title": "Automation Engineer, Amazon Logistics",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=734a05c04d211221",
-    "scraped_at": "2026-06-16T16:25:07.140319"
-  },
-  {
-    "title": "ServiceNow Project Manager",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=a7ea6c6f7dc73fe4",
-    "scraped_at": "2026-06-16T16:25:07.146998"
-  },
-  {
     "title": "Software Engineer III, Rates Technology",
     "company": "JPMorganChase",
     "url": "https://au.indeed.com/viewjob?jk=9fed9ee615b800ce",
@@ -5998,5 +5980,23 @@
     "company": "Neara",
     "url": "https://au.indeed.com/viewjob?jk=c353d49424a59943",
     "scraped_at": "2026-08-15T00:40:08.815548"
+  },
+  {
+    "title": "Knowledge Engineer",
+    "company": "Accenture",
+    "url": "https://au.indeed.com/viewjob?jk=1723b210c111e9d0",
+    "scraped_at": "2026-08-15T04:21:02.282196"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Accenture",
+    "url": "https://au.indeed.com/viewjob?jk=fa39286de9c1e2ef",
+    "scraped_at": "2026-08-15T04:21:02.283267"
+  },
+  {
+    "title": "Analyst, Securitisation",
+    "company": "RBC",
+    "url": "https://au.indeed.com/viewjob?jk=0d16f20d6eede160",
+    "scraped_at": "2026-08-15T04:21:02.294790"
   }
 ]
