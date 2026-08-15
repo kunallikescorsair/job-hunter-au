@@ -1,11 +1,5 @@
 [
   {
-    "title": "Cloud Security Engineer",
-    "company": "Microsoft",
-    "url": "https://au.indeed.com/viewjob?jk=06422878439a1a0b",
-    "scraped_at": "2026-06-16T16:25:07.130026"
-  },
-  {
     "title": "Product Manager \u2013 Cardiac Surgery",
     "company": "Medtronic",
     "url": "https://au.indeed.com/viewjob?jk=e5ac284303daa81f",
@@ -5998,5 +5992,11 @@
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=8d84a9b5d358d8ad",
     "scraped_at": "2026-08-14T16:40:51.605812"
+  },
+  {
+    "title": "Tech Lead Manager (multiple teams)",
+    "company": "Neara",
+    "url": "https://au.indeed.com/viewjob?jk=c353d49424a59943",
+    "scraped_at": "2026-08-15T00:40:08.815548"
   }
 ]
