@@ -1,29 +1,5 @@
 [
   {
-    "title": "Software Engineer III, Rates Technology",
-    "company": "JPMorganChase",
-    "url": "https://au.indeed.com/viewjob?jk=9fed9ee615b800ce",
-    "scraped_at": "2026-06-16T22:06:09.961175"
-  },
-  {
-    "title": "Technical Systems Analyst",
-    "company": "Excolo Partners",
-    "url": "https://au.indeed.com/viewjob?jk=7029ccf450c5535e",
-    "scraped_at": "2026-06-16T22:06:09.968744"
-  },
-  {
-    "title": "Business Analyst (Quality)",
-    "company": "University of Sydney",
-    "url": "https://au.indeed.com/viewjob?jk=5d62488597203634",
-    "scraped_at": "2026-06-17T02:46:22.537615"
-  },
-  {
-    "title": "Research Analyst - Industrials",
-    "company": "UBS",
-    "url": "https://au.indeed.com/viewjob?jk=d00aede37785274e",
-    "scraped_at": "2026-06-17T02:46:22.544346"
-  },
-  {
     "title": "Chief Engineer, Data and AI",
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=14f8903827abb50f",
@@ -5998,5 +5974,29 @@
     "company": "RBC",
     "url": "https://au.indeed.com/viewjob?jk=0d16f20d6eede160",
     "scraped_at": "2026-08-15T04:21:02.294790"
+  },
+  {
+    "title": "AI Augmented Migration Engineer",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=8e3d4983fe7bbf32",
+    "scraped_at": "2026-08-15T08:15:50.768119"
+  },
+  {
+    "title": "AI-Augmented Data Migration Engineer",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=6927e2672384c7da",
+    "scraped_at": "2026-08-15T08:15:50.768953"
+  },
+  {
+    "title": "Duck Creek Delivery Lead / Scrum Master",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=1bbb8b51e87db4a1",
+    "scraped_at": "2026-08-15T08:15:50.776948"
+  },
+  {
+    "title": "Lead Data Engineer",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=5122cc6c0e0604a1",
+    "scraped_at": "2026-08-15T08:15:50.778004"
   }
 ]
