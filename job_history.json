@@ -1,41 +1,5 @@
 [
   {
-    "title": "Logistics Specialist",
-    "company": "Kenvue",
-    "url": "https://au.indeed.com/viewjob?jk=d676729dad6de668",
-    "scraped_at": "2026-06-17T08:54:35.467951"
-  },
-  {
-    "title": "Data Architect - 2 Year Fixed Term",
-    "company": "Reserve Bank of Australia",
-    "url": "https://au.indeed.com/viewjob?jk=da52feeaf4fbb6d7",
-    "scraped_at": "2026-06-17T08:54:35.470027"
-  },
-  {
-    "title": "Software Development Engineer, Network Health Service (NHS)",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=bdf1056b10f30071",
-    "scraped_at": "2026-06-17T08:54:35.471854"
-  },
-  {
-    "title": "Data Scientist, Applied Science",
-    "company": "Future Secure AI",
-    "url": "https://au.indeed.com/viewjob?jk=cae5e636f326519c",
-    "scraped_at": "2026-06-17T14:52:35.601451"
-  },
-  {
-    "title": "Delivery Lead - Research",
-    "company": "Future Secure AI",
-    "url": "https://au.indeed.com/viewjob?jk=5215d63246553004",
-    "scraped_at": "2026-06-17T14:52:35.607737"
-  },
-  {
-    "title": "Associate QA Engineer",
-    "company": "Grover Gaming",
-    "url": "https://au.indeed.com/viewjob?jk=783e2a5bd10b4b20",
-    "scraped_at": "2026-06-17T14:52:35.609525"
-  },
-  {
     "title": "ServiceNow Engineer - Technical Lead",
     "company": "FinXL",
     "url": "https://au.indeed.com/viewjob?jk=8ea0a7367081e8e5",
@@ -5998,5 +5962,41 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=09817a993dffb8ec",
     "scraped_at": "2026-08-17T04:32:10.070724"
+  },
+  {
+    "title": "AI driven Exercise Scientist/Physiologist",
+    "company": "Vision Personal Training Studios in NSW",
+    "url": "https://au.indeed.com/viewjob?jk=7aa54ee07d206d4e",
+    "scraped_at": "2026-08-17T08:32:19.920470"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=18c95fcb8de752bb",
+    "scraped_at": "2026-08-17T08:32:19.928783"
+  },
+  {
+    "title": "Development Engineer Electronics",
+    "company": "Signify",
+    "url": "https://au.indeed.com/viewjob?jk=7c980a5882b8737b",
+    "scraped_at": "2026-08-17T08:32:19.930070"
+  },
+  {
+    "title": "Business Intelligence Data Modeller & Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=d479c79803323e38",
+    "scraped_at": "2026-08-17T08:32:19.934577"
+  },
+  {
+    "title": "AI Architect - Databricks",
+    "company": "UNISON Group",
+    "url": "https://au.indeed.com/viewjob?jk=f69fb4a0c2c8e180",
+    "scraped_at": "2026-08-17T08:32:19.946044"
+  },
+  {
+    "title": "Developer Programmer",
+    "company": "RESTOSUITE AU PTY LTD",
+    "url": "https://au.indeed.com/viewjob?jk=f67824b39c3b67ba",
+    "scraped_at": "2026-08-17T08:32:19.947044"
   }
 ]
