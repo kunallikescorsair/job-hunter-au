@@ -1,23 +1,5 @@
 [
   {
-    "title": "ServiceNow Engineer - Technical Lead",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=8ea0a7367081e8e5",
-    "scraped_at": "2026-06-17T14:52:35.613775"
-  },
-  {
-    "title": "Measurement & Effectiveness Analyst",
-    "company": "Insurance Australia Group",
-    "url": "https://au.indeed.com/viewjob?jk=e2c1f2e00a4fa48d",
-    "scraped_at": "2026-06-17T14:52:35.617348"
-  },
-  {
-    "title": "Financial Data Systems Analyst",
-    "company": "IKF Technology",
-    "url": "https://au.indeed.com/viewjob?jk=c28a595232196d61",
-    "scraped_at": "2026-06-17T14:52:35.617946"
-  },
-  {
     "title": "Data Solutions Analyst",
     "company": "Circana",
     "url": "https://au.indeed.com/viewjob?jk=10dd1fdc9cbc4eaa",
@@ -5998,5 +5980,23 @@
     "company": "RESTOSUITE AU PTY LTD",
     "url": "https://au.indeed.com/viewjob?jk=f67824b39c3b67ba",
     "scraped_at": "2026-08-17T08:32:19.947044"
+  },
+  {
+    "title": "Lead Systems Engineer",
+    "company": "EPAM Systems",
+    "url": "https://au.indeed.com/viewjob?jk=90fe615fea9e513b",
+    "scraped_at": "2026-08-17T12:23:24.834401"
+  },
+  {
+    "title": "Sales Performance Analyst",
+    "company": "Qantas",
+    "url": "https://au.indeed.com/viewjob?jk=f910ad85f081e9ad",
+    "scraped_at": "2026-08-17T12:23:24.839604"
+  },
+  {
+    "title": "Data Center IT Operations Technician, Data Center Operations",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=dc15bc90fc15b1e3",
+    "scraped_at": "2026-08-17T12:23:24.848989"
   }
 ]
