@@ -1,17 +1,5 @@
 [
   {
-    "title": "Data Solutions Analyst",
-    "company": "IRI Worldwide (Australia)",
-    "url": "https://au.indeed.com/viewjob?jk=f168f807a8f9aef7",
-    "scraped_at": "2026-06-17T08:54:35.464185"
-  },
-  {
-    "title": "Reporting and Insights Analyst, myWorkZone Project",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=5275d3663031b2e4",
-    "scraped_at": "2026-06-17T08:54:35.465342"
-  },
-  {
     "title": "Logistics Specialist",
     "company": "Kenvue",
     "url": "https://au.indeed.com/viewjob?jk=d676729dad6de668",
@@ -5998,5 +5986,17 @@
     "company": "Rippling",
     "url": "https://au.indeed.com/viewjob?jk=3e32a50a55f56f87",
     "scraped_at": "2026-08-17T00:40:24.635349"
+  },
+  {
+    "title": "Investment Consulting Intern",
+    "company": "Mercer",
+    "url": "https://au.indeed.com/viewjob?jk=d11fe1bb1d022203",
+    "scraped_at": "2026-08-17T04:32:10.065712"
+  },
+  {
+    "title": "FP&A Analyst | Commodities & Global Markets",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=09817a993dffb8ec",
+    "scraped_at": "2026-08-17T04:32:10.070724"
   }
 ]
