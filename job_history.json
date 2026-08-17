@@ -1,35 +1,5 @@
 [
   {
-    "title": "Data Solutions Analyst",
-    "company": "Circana",
-    "url": "https://au.indeed.com/viewjob?jk=10dd1fdc9cbc4eaa",
-    "scraped_at": "2026-06-17T14:52:35.619545"
-  },
-  {
-    "title": "Growth (Analyst, Junior)",
-    "company": "CoreFlow",
-    "url": "https://au.indeed.com/viewjob?jk=27fbfe3174ec6ef8",
-    "scraped_at": "2026-06-17T14:52:35.620658"
-  },
-  {
-    "title": "Project Manager / Financial Analyst",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=8e89a04342266ee5",
-    "scraped_at": "2026-06-17T14:52:35.625846"
-  },
-  {
-    "title": "Finance Business Partner",
-    "company": "Lion",
-    "url": "https://au.indeed.com/viewjob?jk=2ece3eec146b35b7",
-    "scraped_at": "2026-06-17T14:52:35.626648"
-  },
-  {
-    "title": "Industrial Engineer",
-    "company": "Airway mechanical",
-    "url": "https://au.indeed.com/viewjob?jk=6a0af7e82278bfe2",
-    "scraped_at": "2026-06-17T14:52:35.628394"
-  },
-  {
     "title": "Lead Developer Analyst",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=bf7ed939b328e690",
@@ -5998,5 +5968,35 @@
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=dc15bc90fc15b1e3",
     "scraped_at": "2026-08-17T12:23:24.848989"
+  },
+  {
+    "title": "Technical Business Analyst",
+    "company": "ASC Employment Services Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=8d2b3e87d5892195",
+    "scraped_at": "2026-08-17T16:15:55.097159"
+  },
+  {
+    "title": "Civil BIM Designer, DC Design Engineering",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=4db8fc388896b855",
+    "scraped_at": "2026-08-17T16:15:55.106397"
+  },
+  {
+    "title": "Spatial Data Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=25bcf0caedd18e0b",
+    "scraped_at": "2026-08-17T16:15:55.108561"
+  },
+  {
+    "title": "Data engineer",
+    "company": "Acira Consultancy Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=15df0a7b473d3e7f",
+    "scraped_at": "2026-08-17T16:15:55.115904"
+  },
+  {
+    "title": "Tech Training Specialist, DCEO, AWS Infra Operations",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=f4279998f0fdd478",
+    "scraped_at": "2026-08-17T16:15:55.117911"
   }
 ]
