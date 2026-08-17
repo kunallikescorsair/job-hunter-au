@@ -1,11 +1,5 @@
 [
   {
-    "title": "Infrastructure Solution Engineer",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=c3d103eb162b6ad5",
-    "scraped_at": "2026-06-17T08:54:35.461812"
-  },
-  {
     "title": "Data Solutions Analyst",
     "company": "IRI Worldwide (Australia)",
     "url": "https://au.indeed.com/viewjob?jk=f168f807a8f9aef7",
@@ -5998,5 +5992,11 @@
     "company": "Rabobank",
     "url": "https://au.indeed.com/viewjob?jk=f4417bee91393111",
     "scraped_at": "2026-08-15T20:12:02.112453"
+  },
+  {
+    "title": "QA Software Engineer - Sensors and Effectors (AU)",
+    "company": "Rippling",
+    "url": "https://au.indeed.com/viewjob?jk=3e32a50a55f56f87",
+    "scraped_at": "2026-08-17T00:40:24.635349"
   }
 ]
