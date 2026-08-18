@@ -1,17 +1,5 @@
 [
   {
-    "title": "Business & Data Quality Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=7e9e78f51a96dbfa",
-    "scraped_at": "2026-06-19T08:59:15.441989"
-  },
-  {
-    "title": "Database Administrator (DBA)",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=7bfe98ff7551cf8c",
-    "scraped_at": "2026-06-19T08:59:15.452632"
-  },
-  {
     "title": "Microsoft Copilot and AI Ops Engineer",
     "company": "Avanade",
     "url": "https://au.indeed.com/viewjob?jk=629bc0a688d12810",
@@ -5998,5 +5986,17 @@
     "company": "NTT DATA",
     "url": "https://au.indeed.com/viewjob?jk=7c40c8a66b4f0a71",
     "scraped_at": "2026-08-18T16:19:54.262831"
+  },
+  {
+    "title": "Global Advisory & Markets, Synthetics Products Group Engineer, Associate/ VP, Sydney",
+    "company": "Goldman Sachs",
+    "url": "https://au.indeed.com/viewjob?jk=5b85cd7d03100f64",
+    "scraped_at": "2026-08-18T20:13:15.441220"
+  },
+  {
+    "title": "MDR Analyst, Unit 42",
+    "company": "Palo Alto Networks",
+    "url": "https://au.indeed.com/viewjob?jk=ed21723196462bd9",
+    "scraped_at": "2026-08-18T20:13:15.453354"
   }
 ]
