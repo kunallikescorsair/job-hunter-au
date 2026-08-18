@@ -1,59 +1,5 @@
 [
   {
-    "title": "Data Engineer",
-    "company": "Westpac Group",
-    "url": "https://au.indeed.com/viewjob?jk=011ffee447665005",
-    "scraped_at": "2026-06-18T14:48:14.618026"
-  },
-  {
-    "title": ".Net Developer",
-    "company": "Employment Hero",
-    "url": "https://au.indeed.com/viewjob?jk=76750fd055ad0cbb",
-    "scraped_at": "2026-06-18T14:48:14.625623"
-  },
-  {
-    "title": "Forward Deployed Engineer, Gen AI, Google Cloud",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=488d5b174cf27c70",
-    "scraped_at": "2026-06-18T18:22:24.843515"
-  },
-  {
-    "title": "Asset Data & Systems Analyst",
-    "company": "Ventia",
-    "url": "https://au.indeed.com/viewjob?jk=930a235641b28ef5",
-    "scraped_at": "2026-06-18T18:22:24.851207"
-  },
-  {
-    "title": "Lead AI Engineer",
-    "company": "H2O.ai",
-    "url": "https://au.indeed.com/viewjob?jk=baa5c839f2833cef",
-    "scraped_at": "2026-06-19T02:59:22.260700"
-  },
-  {
-    "title": "DevOps Engineer",
-    "company": "NATIONAL HEAVY VEHICLE REGULATOR",
-    "url": "https://au.indeed.com/viewjob?jk=c947d5f28505a9de",
-    "scraped_at": "2026-06-19T02:59:22.284353"
-  },
-  {
-    "title": "Data Scientist, Network Fabric Engineering",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=75e1e7bb6384ed11",
-    "scraped_at": "2026-06-19T08:59:15.424359"
-  },
-  {
-    "title": "Business Intelligence (BI) Developer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=8d63609c1ad46c0a",
-    "scraped_at": "2026-06-19T08:59:15.436871"
-  },
-  {
-    "title": "Edge Infrastructure Technical Architect",
-    "company": "Kestrel Eight",
-    "url": "https://au.indeed.com/viewjob?jk=3894ff4a308753a3",
-    "scraped_at": "2026-06-19T08:59:15.437770"
-  },
-  {
     "title": "Test Engineer",
     "company": "City People Solutions",
     "url": "https://au.indeed.com/viewjob?jk=9481860119fcbfbc",
@@ -5998,5 +5944,59 @@
     "company": "3P LEARNING",
     "url": "https://au.indeed.com/viewjob?jk=c4de8d2c495730b7",
     "scraped_at": "2026-08-18T08:24:18.957483"
+  },
+  {
+    "title": "Microsoft Applications AI Consultant",
+    "company": "NTT DATA",
+    "url": "https://au.indeed.com/viewjob?jk=7d9fc1cc2b57f930",
+    "scraped_at": "2026-08-18T12:25:02.756758"
+  },
+  {
+    "title": "Manager, AI Evaluation",
+    "company": "University of Sydney",
+    "url": "https://au.indeed.com/viewjob?jk=89e15c426606b496",
+    "scraped_at": "2026-08-18T12:25:02.757681"
+  },
+  {
+    "title": "Respiratory Scientist",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=2df37e43d3747bf1",
+    "scraped_at": "2026-08-18T12:25:02.762241"
+  },
+  {
+    "title": "Platform Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=cba68199abe1b9bc",
+    "scraped_at": "2026-08-18T12:25:02.770735"
+  },
+  {
+    "title": "Experienced Analyst | Regulatory Operations | Sydney",
+    "company": "Deloitte",
+    "url": "https://au.indeed.com/viewjob?jk=c52915d60b8ac8c0",
+    "scraped_at": "2026-08-18T12:25:02.776553"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=485094a90c0dac18",
+    "scraped_at": "2026-08-18T12:25:02.778841"
+  },
+  {
+    "title": "AI Business Analyst - Delivery and Enablement",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=8f9cba3a2cf680c6",
+    "scraped_at": "2026-08-18T12:25:02.779421"
+  },
+  {
+    "title": "Security Operations Engineer",
+    "company": "Microsoft",
+    "url": "https://au.indeed.com/viewjob?jk=0248f16cf8014da7",
+    "scraped_at": "2026-08-18T12:25:02.786004"
+  },
+  {
+    "title": "Contract Administrator - Marsden Park",
+    "company": "Built Holdings",
+    "url": "https://au.indeed.com/viewjob?jk=ab58045109b4fa95",
+    "scraped_at": "2026-08-18T12:25:02.789036"
   }
 ]
