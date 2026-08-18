@@ -1,29 +1,5 @@
 [
   {
-    "title": "Technical Business Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=0ef54f57d84743e4",
-    "scraped_at": "2026-06-18T14:48:14.607229"
-  },
-  {
-    "title": "Creative Activations Assistant",
-    "company": "Omnicom Group",
-    "url": "https://au.indeed.com/viewjob?jk=958fd9962e932243",
-    "scraped_at": "2026-06-18T14:48:14.610355"
-  },
-  {
-    "title": "SOC Analyst",
-    "company": "NCC Group",
-    "url": "https://au.indeed.com/viewjob?jk=8e31db03257dadc2",
-    "scraped_at": "2026-06-18T14:48:14.612151"
-  },
-  {
-    "title": "Retail Systems Analyst",
-    "company": "Employment Hero",
-    "url": "https://au.indeed.com/viewjob?jk=84db518c43064079",
-    "scraped_at": "2026-06-18T14:48:14.612747"
-  },
-  {
     "title": "Data Engineer",
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=011ffee447665005",
@@ -5998,5 +5974,29 @@
     "company": "Corto Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=25d1af81712274ef",
     "scraped_at": "2026-08-18T04:25:44.123489"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Alinta Energy",
+    "url": "https://au.indeed.com/viewjob?jk=96eb7608ef91bd2e",
+    "scraped_at": "2026-08-18T08:24:18.938865"
+  },
+  {
+    "title": "Commercial Property Analyst",
+    "company": "CoStar Group",
+    "url": "https://au.indeed.com/viewjob?jk=acd4a6eaf095554c",
+    "scraped_at": "2026-08-18T08:24:18.943197"
+  },
+  {
+    "title": "Financial Analyst",
+    "company": "Covetrus",
+    "url": "https://au.indeed.com/viewjob?jk=10acafc2d9b7d822",
+    "scraped_at": "2026-08-18T08:24:18.946837"
+  },
+  {
+    "title": "Digital Designer",
+    "company": "3P LEARNING",
+    "url": "https://au.indeed.com/viewjob?jk=c4de8d2c495730b7",
+    "scraped_at": "2026-08-18T08:24:18.957483"
   }
 ]
