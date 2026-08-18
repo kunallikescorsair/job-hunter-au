@@ -1,35 +1,5 @@
 [
   {
-    "title": "Domain Architect - DynaTrace, Windows PowerShell",
-    "company": "HCLTech",
-    "url": "https://au.indeed.com/viewjob?jk=02308e22ead9f564",
-    "scraped_at": "2026-06-18T02:42:39.295221"
-  },
-  {
-    "title": "Manager, Data Analytics",
-    "company": "SAFETYCULTURE",
-    "url": "https://au.indeed.com/viewjob?jk=d922f9faf3221c31",
-    "scraped_at": "2026-06-18T08:38:48.113366"
-  },
-  {
-    "title": "Data Ops Engineer",
-    "company": "Australian Payments Plus",
-    "url": "https://au.indeed.com/viewjob?jk=c22ebed87a25004c",
-    "scraped_at": "2026-06-18T08:38:48.125287"
-  },
-  {
-    "title": "Demand Analyst",
-    "company": "Haleon",
-    "url": "https://au.indeed.com/viewjob?jk=535ccced869491ae",
-    "scraped_at": "2026-06-18T08:38:48.129199"
-  },
-  {
-    "title": "Finance Business Partner - Sales",
-    "company": "Lion",
-    "url": "https://au.indeed.com/viewjob?jk=5274267cc7710b46",
-    "scraped_at": "2026-06-18T08:38:48.140166"
-  },
-  {
     "title": "Technical Business Analyst",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=0ef54f57d84743e4",
@@ -5998,5 +5968,35 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=e3131cf8e0c55d22",
     "scraped_at": "2026-08-18T00:40:02.779270"
+  },
+  {
+    "title": "Warehouse Operator - CB1 - NM",
+    "company": "Axalta Coating Systems",
+    "url": "https://au.indeed.com/viewjob?jk=2e4f3e97dcae728f",
+    "scraped_at": "2026-08-18T04:25:44.102133"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Future Secure AI",
+    "url": "https://au.indeed.com/viewjob?jk=90dbafda87b651dc",
+    "scraped_at": "2026-08-18T04:25:44.103129"
+  },
+  {
+    "title": "Spatial Specialist / Geospatial Analyst",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=44210c18483fd8dd",
+    "scraped_at": "2026-08-18T04:25:44.107701"
+  },
+  {
+    "title": "Cloud & AI Platform Specialist - Azure",
+    "company": "Datacom Connect",
+    "url": "https://au.indeed.com/viewjob?jk=ff954ba413770d54",
+    "scraped_at": "2026-08-18T04:25:44.122669"
+  },
+  {
+    "title": "Information Security & IT Manager",
+    "company": "Corto Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=25d1af81712274ef",
+    "scraped_at": "2026-08-18T04:25:44.123489"
   }
 ]
