@@ -1,11 +1,5 @@
 [
   {
-    "title": "Test Engineer",
-    "company": "City People Solutions",
-    "url": "https://au.indeed.com/viewjob?jk=9481860119fcbfbc",
-    "scraped_at": "2026-06-19T08:59:15.438083"
-  },
-  {
     "title": "Business & Data Quality Analyst",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=7e9e78f51a96dbfa",
@@ -5998,5 +5992,11 @@
     "company": "Built Holdings",
     "url": "https://au.indeed.com/viewjob?jk=ab58045109b4fa95",
     "scraped_at": "2026-08-18T12:25:02.789036"
+  },
+  {
+    "title": "Microsoft Applications AI Consultant",
+    "company": "NTT DATA",
+    "url": "https://au.indeed.com/viewjob?jk=7c40c8a66b4f0a71",
+    "scraped_at": "2026-08-18T16:19:54.262831"
   }
 ]
