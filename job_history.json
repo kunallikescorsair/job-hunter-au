@@ -1,23 +1,5 @@
 [
   {
-    "title": "Lead Developer Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=bf7ed939b328e690",
-    "scraped_at": "2026-06-17T18:10:29.153808"
-  },
-  {
-    "title": "Deployment Lead, AI Infrastructure, Google Cloud",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=51c6f18bd90785c1",
-    "scraped_at": "2026-06-17T18:10:29.169611"
-  },
-  {
-    "title": "Google Platform Engineer - GCP",
-    "company": "NCS",
-    "url": "https://au.indeed.com/viewjob?jk=e32a5504015fcb74",
-    "scraped_at": "2026-06-18T02:42:39.292609"
-  },
-  {
     "title": "Domain Architect - DynaTrace, Windows PowerShell",
     "company": "HCLTech",
     "url": "https://au.indeed.com/viewjob?jk=02308e22ead9f564",
@@ -5998,5 +5980,23 @@
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=f4279998f0fdd478",
     "scraped_at": "2026-08-17T16:15:55.117911"
+  },
+  {
+    "title": "Agent Harness Engineer - Core Runtime",
+    "company": "NinjaTech AI",
+    "url": "https://au.indeed.com/viewjob?jk=713704ffb87573f2",
+    "scraped_at": "2026-08-18T00:40:02.775657"
+  },
+  {
+    "title": "Data Product Management Manager",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=4a0db2a3351dda67",
+    "scraped_at": "2026-08-18T00:40:02.776287"
+  },
+  {
+    "title": "Data Operations Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=e3131cf8e0c55d22",
+    "scraped_at": "2026-08-18T00:40:02.779270"
   }
 ]
