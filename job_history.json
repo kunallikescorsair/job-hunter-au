@@ -1,29 +1,5 @@
 [
   {
-    "title": "Test Manager",
-    "company": "Cognizant",
-    "url": "https://au.indeed.com/viewjob?jk=c99849a7ffb4ad32",
-    "scraped_at": "2026-06-19T14:44:01.896713"
-  },
-  {
-    "title": "Customer Engineer Associate, Platform, Google Cloud",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=8b795684963e65b1",
-    "scraped_at": "2026-06-19T17:48:36.774898"
-  },
-  {
-    "title": "Lead Marketing Cloud Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=79ef6ba05c566f55",
-    "scraped_at": "2026-06-19T17:48:36.781173"
-  },
-  {
-    "title": "Application Support Tech Lead Analyst (Vice President)",
-    "company": "Citi",
-    "url": "https://au.indeed.com/viewjob?jk=4ee6594486218aa7",
-    "scraped_at": "2026-06-19T17:48:36.785810"
-  },
-  {
     "title": "Product Manager",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=699544ade94da9b1",
@@ -5998,5 +5974,29 @@
     "company": "Hitachi Energy",
     "url": "https://au.indeed.com/viewjob?jk=c43d8b31b9650137",
     "scraped_at": "2026-08-19T04:27:40.715680"
+  },
+  {
+    "title": "Service Project Management Manager",
+    "company": "ABB",
+    "url": "https://au.indeed.com/viewjob?jk=1ac761eef93e30ca",
+    "scraped_at": "2026-08-19T08:24:43.382930"
+  },
+  {
+    "title": "Investment Analyst",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=bd7749e2ca48bb01",
+    "scraped_at": "2026-08-19T08:24:43.384088"
+  },
+  {
+    "title": "WCM (Process Engineer)",
+    "company": "CSR",
+    "url": "https://au.indeed.com/viewjob?jk=37dde0f517672f13",
+    "scraped_at": "2026-08-19T08:24:43.392097"
+  },
+  {
+    "title": "Project Manager",
+    "company": "Hitachi Rail",
+    "url": "https://au.indeed.com/viewjob?jk=6c59edcc3a0f2b53",
+    "scraped_at": "2026-08-19T08:24:43.396583"
   }
 ]
