@@ -1,59 +1,5 @@
 [
   {
-    "title": "Product Manager",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=699544ade94da9b1",
-    "scraped_at": "2026-06-19T17:48:36.787378"
-  },
-  {
-    "title": "Technical Programme Manager, Data Centre Delivery",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=1be20f171f23adb4",
-    "scraped_at": "2026-06-19T17:48:36.790830"
-  },
-  {
-    "title": "Azure Data Engineer",
-    "company": "Cognizant",
-    "url": "https://au.indeed.com/viewjob?jk=276bc8391721f749",
-    "scraped_at": "2026-06-20T02:31:46.084516"
-  },
-  {
-    "title": "Graduate Software Engineer",
-    "company": "Resmed",
-    "url": "https://au.indeed.com/viewjob?jk=0fa716fb3eddd32c",
-    "scraped_at": "2026-06-20T07:43:51.177056"
-  },
-  {
-    "title": "Geologist",
-    "company": "AI Talent",
-    "url": "https://au.indeed.com/viewjob?jk=c9e05766078c764d",
-    "scraped_at": "2026-06-20T07:43:51.179725"
-  },
-  {
-    "title": "DevOps Engineer",
-    "company": "AI Talent",
-    "url": "https://au.indeed.com/viewjob?jk=21c40e901ce4f9ce",
-    "scraped_at": "2026-06-20T07:43:51.180070"
-  },
-  {
-    "title": "Cloud DevOps Engineer - Azure",
-    "company": "Westpac Group",
-    "url": "https://au.indeed.com/viewjob?jk=3b27cb0b1817e1a9",
-    "scraped_at": "2026-06-20T07:43:51.181179"
-  },
-  {
-    "title": "Corporate Sales Analyst - Payments - Sydney",
-    "company": "JPMorganChase",
-    "url": "https://au.indeed.com/viewjob?jk=2417c27677c03855",
-    "scraped_at": "2026-06-20T10:27:21.781395"
-  },
-  {
-    "title": "Tech Lead, Web Core Product & Chrome Extension - Sydney, Australia",
-    "company": "Speechify",
-    "url": "https://au.indeed.com/viewjob?jk=85f128dbcd8b6fca",
-    "scraped_at": "2026-06-21T08:22:02.805139"
-  },
-  {
     "title": "Software Engineer",
     "company": "Cisco",
     "url": "https://au.indeed.com/viewjob?jk=5fb66c257ae5d4cf",
@@ -5998,5 +5944,59 @@
     "company": "Hitachi Rail",
     "url": "https://au.indeed.com/viewjob?jk=6c59edcc3a0f2b53",
     "scraped_at": "2026-08-19T08:24:43.396583"
+  },
+  {
+    "title": "Full Stack Java Engineer",
+    "company": "Delivery Centric",
+    "url": "https://au.indeed.com/viewjob?jk=0e5b39af65da954d",
+    "scraped_at": "2026-08-19T12:24:42.014772"
+  },
+  {
+    "title": "Sr. Regional Partner Manager",
+    "company": "ServiceNow",
+    "url": "https://au.indeed.com/viewjob?jk=af4d7054b5af87a6",
+    "scraped_at": "2026-08-19T12:24:42.016024"
+  },
+  {
+    "title": "Software Engineer, Data Infrastructure & Acquisition - Sydney, Australia",
+    "company": "Speechify",
+    "url": "https://au.indeed.com/viewjob?jk=715147db175b8b4a",
+    "scraped_at": "2026-08-19T12:24:42.016838"
+  },
+  {
+    "title": "Technical Business Analyst \u2013 Microsoft Power Platform",
+    "company": "BMP Technologies Pty. Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=53fcf46dfa7ab924",
+    "scraped_at": "2026-08-19T12:24:42.021195"
+  },
+  {
+    "title": "Data and Insights Analyst",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=4b2b0ead50b94f39",
+    "scraped_at": "2026-08-19T12:24:42.022065"
+  },
+  {
+    "title": "Business Finance Analyst, Financial Planning and Analysis",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=401c63ba0c3af3c8",
+    "scraped_at": "2026-08-19T12:24:42.022590"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=03f212aecb90dd2e",
+    "scraped_at": "2026-08-19T12:24:42.023370"
+  },
+  {
+    "title": "Consultant, Information & Communications Technologies Growth Advisory",
+    "company": "Frost & Sullivan",
+    "url": "https://au.indeed.com/viewjob?jk=f79a77ce10924956",
+    "scraped_at": "2026-08-19T12:24:42.027475"
+  },
+  {
+    "title": "Python Engineer - Security Automation",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=cad00fd366719d10",
+    "scraped_at": "2026-08-19T12:24:42.029816"
   }
 ]
