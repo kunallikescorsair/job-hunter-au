@@ -1,17 +1,5 @@
 [
   {
-    "title": "Team Lead, Support Engineer",
-    "company": "Heidi",
-    "url": "https://au.indeed.com/viewjob?jk=42487affe1c0e0bf",
-    "scraped_at": "2026-06-19T14:44:01.878020"
-  },
-  {
-    "title": "Lead Front End Engineer (React)",
-    "company": "EPAM Systems",
-    "url": "https://au.indeed.com/viewjob?jk=b45b46676d18655e",
-    "scraped_at": "2026-06-19T14:44:01.879267"
-  },
-  {
     "title": "Test Manager",
     "company": "Cognizant",
     "url": "https://au.indeed.com/viewjob?jk=c99849a7ffb4ad32",
@@ -5998,5 +5986,17 @@
     "company": "Mastercard",
     "url": "https://au.indeed.com/viewjob?jk=78841d8c61e248c9",
     "scraped_at": "2026-08-19T00:40:02.330349"
+  },
+  {
+    "title": "Finance Analyst - Commercial",
+    "company": "Endeavour Group",
+    "url": "https://au.indeed.com/viewjob?jk=81a0f1477d1c2313",
+    "scraped_at": "2026-08-19T04:27:40.708132"
+  },
+  {
+    "title": "Project Manager",
+    "company": "Hitachi Energy",
+    "url": "https://au.indeed.com/viewjob?jk=c43d8b31b9650137",
+    "scraped_at": "2026-08-19T04:27:40.715680"
   }
 ]
