@@ -1,23 +1,5 @@
 [
   {
-    "title": "Software Engineer",
-    "company": "Cisco",
-    "url": "https://au.indeed.com/viewjob?jk=5fb66c257ae5d4cf",
-    "scraped_at": "2026-06-21T08:22:02.808507"
-  },
-  {
-    "title": "Software Engineer, Data Infrastructure & Acquisition - Sydney, Australia",
-    "company": "Speechify",
-    "url": "https://au.indeed.com/viewjob?jk=539dcebc80dbdec0",
-    "scraped_at": "2026-06-21T08:22:02.808991"
-  },
-  {
-    "title": "Integration Developer- Sydney Olympic Park",
-    "company": "4WD Supacentre",
-    "url": "https://au.indeed.com/viewjob?jk=67d0cd6c3e05c315",
-    "scraped_at": "2026-06-21T13:49:15.839329"
-  },
-  {
     "title": "LLM Ops Engineer",
     "company": "Heidi",
     "url": "https://au.indeed.com/viewjob?jk=dea76f8279fc2f3b",
@@ -5998,5 +5980,23 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=cad00fd366719d10",
     "scraped_at": "2026-08-19T12:24:42.029816"
+  },
+  {
+    "title": "Graduate Software Engineer",
+    "company": "Resmed",
+    "url": "https://au.indeed.com/viewjob?jk=0fa716fb3eddd32c",
+    "scraped_at": "2026-08-19T16:20:10.985154"
+  },
+  {
+    "title": "Enterprise Applications Sales Specialist, VMware Engine and SAP (English)",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=dff7fc047234c0ff",
+    "scraped_at": "2026-08-19T16:20:10.988422"
+  },
+  {
+    "title": "Managed Services Analyst",
+    "company": "FIS",
+    "url": "https://au.indeed.com/viewjob?jk=2ea9704b43b51d94",
+    "scraped_at": "2026-08-19T16:20:10.997905"
   }
 ]
