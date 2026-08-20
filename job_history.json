@@ -1,23 +1,5 @@
 [
   {
-    "title": "ISG Technical Advocate \u2013 Partner Ecosystem",
-    "company": "Lenovo",
-    "url": "https://au.indeed.com/viewjob?jk=f7d598f02b921e7f",
-    "scraped_at": "2026-06-23T07:40:28.272515"
-  },
-  {
-    "title": "Mobility Engineer / Android",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=834f8bed0ff0c62d",
-    "scraped_at": "2026-06-23T07:40:28.274647"
-  },
-  {
-    "title": "Engineer Data/ETL",
-    "company": "Westpac Group",
-    "url": "https://au.indeed.com/viewjob?jk=be4c301e364d007f",
-    "scraped_at": "2026-06-23T07:40:28.275546"
-  },
-  {
     "title": "Commercial Analyst, Projects",
     "company": "Optus",
     "url": "https://au.indeed.com/viewjob?jk=9d84efbbe2ad9116",
@@ -5998,5 +5980,23 @@
     "company": "Eaton",
     "url": "https://au.indeed.com/viewjob?jk=ab15bf868566f383",
     "scraped_at": "2026-08-20T12:27:41.160363"
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "Anglicare Sydney",
+    "url": "https://au.indeed.com/viewjob?jk=42a219bbcf65c5e4",
+    "scraped_at": "2026-08-20T16:22:43.650670"
+  },
+  {
+    "title": "Forward Deployed Engineer, Generative AI, GECX, Google Cloud",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=e63c108500135efc",
+    "scraped_at": "2026-08-20T16:22:43.651126"
+  },
+  {
+    "title": "Software Engineer III, Full Stack .NET Developer (.NET, AWS & Microservices, React)",
+    "company": "JPMorganChase",
+    "url": "https://au.indeed.com/viewjob?jk=1291c5e9b40dafbf",
+    "scraped_at": "2026-08-20T16:22:43.653708"
   }
 ]
