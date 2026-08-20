@@ -1,23 +1,5 @@
 [
   {
-    "title": "Telecom Network Engineer (IP/MPLS)",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=48a83de98608cbba",
-    "scraped_at": "2026-06-22T09:40:00.996145"
-  },
-  {
-    "title": "Test Automation Engineer",
-    "company": "Tritusa",
-    "url": "https://au.indeed.com/viewjob?jk=25eca039e82f279c",
-    "scraped_at": "2026-06-22T09:40:00.998472"
-  },
-  {
-    "title": "Data and Reporting Analyst",
-    "company": "Northern Beaches Council",
-    "url": "https://au.indeed.com/viewjob?jk=18ce2bdcd0876faa",
-    "scraped_at": "2026-06-22T09:40:01.000599"
-  },
-  {
     "title": "Performance Test Consultant",
     "company": "Tritusa",
     "url": "https://au.indeed.com/viewjob?jk=75e65589e9e8119c",
@@ -5998,5 +5980,23 @@
     "company": "Aircall",
     "url": "https://au.indeed.com/viewjob?jk=b727cf58558663ff",
     "scraped_at": "2026-08-20T00:39:59.762545"
+  },
+  {
+    "title": "AIOps Associate, Sydney",
+    "company": "Marloo",
+    "url": "https://au.indeed.com/viewjob?jk=17a7c6760145b07d",
+    "scraped_at": "2026-08-20T04:27:13.897623"
+  },
+  {
+    "title": "NBA Designer",
+    "company": "Showtime Consulting",
+    "url": "https://au.indeed.com/viewjob?jk=baa7c8e43b25b850",
+    "scraped_at": "2026-08-20T04:27:13.900246"
+  },
+  {
+    "title": "Junior Automation Engineer",
+    "company": "The Arnott's Group",
+    "url": "https://au.indeed.com/viewjob?jk=52e15fc8222efce1",
+    "scraped_at": "2026-08-20T04:27:13.902244"
   }
 ]
