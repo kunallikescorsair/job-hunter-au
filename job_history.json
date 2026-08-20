@@ -1,41 +1,5 @@
 [
   {
-    "title": "Performance Test Consultant",
-    "company": "Tritusa",
-    "url": "https://au.indeed.com/viewjob?jk=75e65589e9e8119c",
-    "scraped_at": "2026-06-22T09:40:01.001995"
-  },
-  {
-    "title": "Commercial Account Manager",
-    "company": "Equifax",
-    "url": "https://au.indeed.com/viewjob?jk=9e4ad82f7c0882c3",
-    "scraped_at": "2026-06-22T09:40:01.006112"
-  },
-  {
-    "title": "QA Engineer",
-    "company": "FACTO",
-    "url": "https://au.indeed.com/viewjob?jk=11d3b9e4dfcd1cd8",
-    "scraped_at": "2026-06-22T09:40:01.007016"
-  },
-  {
-    "title": "AI Expert",
-    "company": "Showtime Consulting",
-    "url": "https://au.indeed.com/viewjob?jk=61f107e23f370247",
-    "scraped_at": "2026-06-22T09:40:01.013698"
-  },
-  {
-    "title": "Specialist SA, Developer Transformation",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=e86c1f552f00a836",
-    "scraped_at": "2026-06-22T16:29:38.890779"
-  },
-  {
-    "title": "Cloud Platform Engineer",
-    "company": "SBS",
-    "url": "https://au.indeed.com/viewjob?jk=b40c1b3811cf77da",
-    "scraped_at": "2026-06-22T16:29:38.895604"
-  },
-  {
     "title": "Service Support Coordinator",
     "company": "Leica Microsystems",
     "url": "https://au.indeed.com/viewjob?jk=9b447b6ae207e38c",
@@ -5998,5 +5962,41 @@
     "company": "The Arnott's Group",
     "url": "https://au.indeed.com/viewjob?jk=52e15fc8222efce1",
     "scraped_at": "2026-08-20T04:27:13.902244"
+  },
+  {
+    "title": "Technical Escalations Engineer 2 (RUM) - APJ",
+    "company": "Datadog",
+    "url": "https://au.indeed.com/viewjob?jk=8bb61c91d34cd933",
+    "scraped_at": "2026-08-20T08:26:15.848492"
+  },
+  {
+    "title": "Lead Data Engineer - Azure",
+    "company": "Rabobank",
+    "url": "https://au.indeed.com/viewjob?jk=5f9e22aa2bf57a97",
+    "scraped_at": "2026-08-20T08:26:15.852882"
+  },
+  {
+    "title": "MS Dynamics 365 Business Central Business Analyst",
+    "company": "WILD TECH",
+    "url": "https://au.indeed.com/viewjob?jk=520c4d8392510d24",
+    "scraped_at": "2026-08-20T08:26:15.854214"
+  },
+  {
+    "title": "Junior System Analyst",
+    "company": "Harris Farm Markets",
+    "url": "https://au.indeed.com/viewjob?jk=6186ede37b1a0123",
+    "scraped_at": "2026-08-20T08:26:15.855005"
+  },
+  {
+    "title": "Project Analyst, A&NZ",
+    "company": "Chubb Insurance",
+    "url": "https://au.indeed.com/viewjob?jk=9182d56e763ab19a",
+    "scraped_at": "2026-08-20T08:26:15.858581"
+  },
+  {
+    "title": "Officer, FX Settlement",
+    "company": "Citi",
+    "url": "https://au.indeed.com/viewjob?jk=93bb1954169f3a72",
+    "scraped_at": "2026-08-20T08:26:15.860347"
   }
 ]
