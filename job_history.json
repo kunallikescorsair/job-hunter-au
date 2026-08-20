@@ -1,65 +1,5 @@
 [
   {
-    "title": "Service Support Coordinator",
-    "company": "Leica Microsystems",
-    "url": "https://au.indeed.com/viewjob?jk=9b447b6ae207e38c",
-    "scraped_at": "2026-06-22T16:29:38.896317"
-  },
-  {
-    "title": "AIX Systems Engineer",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=e6cef0def15928d6",
-    "scraped_at": "2026-06-22T16:29:38.896871"
-  },
-  {
-    "title": "Cost Planner",
-    "company": "John Holland",
-    "url": "https://au.indeed.com/viewjob?jk=ca8932a219aa14da",
-    "scraped_at": "2026-06-22T16:29:38.899682"
-  },
-  {
-    "title": "Informatica ETL Developer",
-    "company": "Cognizant",
-    "url": "https://au.indeed.com/viewjob?jk=c5dd0577bf6d117a",
-    "scraped_at": "2026-06-22T16:29:38.912345"
-  },
-  {
-    "title": "Security GRC Engineer (APAC) - Remote",
-    "company": "Employment Hero",
-    "url": "https://au.indeed.com/viewjob?jk=532967d431ad8d5a",
-    "scraped_at": "2026-06-22T16:29:38.914859"
-  },
-  {
-    "title": "Developer - Healthcare Tech",
-    "company": "AlayaCare",
-    "url": "https://au.indeed.com/viewjob?jk=152f6697998c695d",
-    "scraped_at": "2026-06-22T16:29:38.915992"
-  },
-  {
-    "title": "AI Solutions Engineer/ AI Sales Egineer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=e9178c91fbbc80b2",
-    "scraped_at": "2026-06-22T21:56:10.188321"
-  },
-  {
-    "title": "Technical Product Manager",
-    "company": "WeeL",
-    "url": "https://au.indeed.com/viewjob?jk=865c5f1a48b084b4",
-    "scraped_at": "2026-06-22T21:56:10.196644"
-  },
-  {
-    "title": "Consultant, AI Engineer",
-    "company": "NAB - National Australia Bank",
-    "url": "https://au.indeed.com/viewjob?jk=5231cffcd4a695bb",
-    "scraped_at": "2026-06-23T07:40:28.270185"
-  },
-  {
-    "title": "Platform DevOps Engineer",
-    "company": "Future Secure AI",
-    "url": "https://au.indeed.com/viewjob?jk=a7ef86f55ed6771b",
-    "scraped_at": "2026-06-23T07:40:28.271428"
-  },
-  {
     "title": "ISG Technical Advocate \u2013 Partner Ecosystem",
     "company": "Lenovo",
     "url": "https://au.indeed.com/viewjob?jk=f7d598f02b921e7f",
@@ -5998,5 +5938,65 @@
     "company": "Citi",
     "url": "https://au.indeed.com/viewjob?jk=93bb1954169f3a72",
     "scraped_at": "2026-08-20T08:26:15.860347"
+  },
+  {
+    "title": "Specialist SA, Developer Transformation",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=e86c1f552f00a836",
+    "scraped_at": "2026-08-20T12:27:41.138623"
+  },
+  {
+    "title": "Data Engineer \u2013 AI",
+    "company": "4WD Supacentre",
+    "url": "https://au.indeed.com/viewjob?jk=380f2fed406c053b",
+    "scraped_at": "2026-08-20T12:27:41.140244"
+  },
+  {
+    "title": "Security Engineer II, Vulnerability Management and Remediation Operations",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=f038b8df05c47f18",
+    "scraped_at": "2026-08-20T12:27:41.142089"
+  },
+  {
+    "title": "App Quality Engineer",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=9889ab44b60bd7b9",
+    "scraped_at": "2026-08-20T12:27:41.144909"
+  },
+  {
+    "title": "Technical Business Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=5c7a2d3f2e9fabde",
+    "scraped_at": "2026-08-20T12:27:41.147987"
+  },
+  {
+    "title": "Non-Financial Risk Projects \u2013 Business Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=cf226571cccb746d",
+    "scraped_at": "2026-08-20T12:27:41.149592"
+  },
+  {
+    "title": "Graduate Program - Product Stream",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=1c7515704dc7b7c1",
+    "scraped_at": "2026-08-20T12:27:41.152422"
+  },
+  {
+    "title": "Network Analyst",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=18a2e9cd9fb85b61",
+    "scraped_at": "2026-08-20T12:27:41.154926"
+  },
+  {
+    "title": "Account Executive, SMB",
+    "company": "Braze",
+    "url": "https://au.indeed.com/viewjob?jk=9282ad4d36105f70",
+    "scraped_at": "2026-08-20T12:27:41.157214"
+  },
+  {
+    "title": "Software Project Engineer",
+    "company": "Eaton",
+    "url": "https://au.indeed.com/viewjob?jk=ab15bf868566f383",
+    "scraped_at": "2026-08-20T12:27:41.160363"
   }
 ]
