@@ -1,29 +1,5 @@
 [
   {
-    "title": "AI Engineer - Capital Markets",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=7b809ed96cce8fb3",
-    "scraped_at": "2026-06-23T10:55:44.616324"
-  },
-  {
-    "title": "Delivery Consultant: Full Stack Engineer, AWS Professional Services",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=ae04ca23cbd29ef3",
-    "scraped_at": "2026-06-23T10:55:44.617256"
-  },
-  {
-    "title": "Client Consulting Analyst - Visa Consulting & Analytics (VCA)",
-    "company": "Visa",
-    "url": "https://au.indeed.com/viewjob?jk=6abf9c8ac9a21962",
-    "scraped_at": "2026-06-23T10:55:44.621809"
-  },
-  {
-    "title": "Shareholder Analyst",
-    "company": "MUFG",
-    "url": "https://au.indeed.com/viewjob?jk=e15832a2c44b5f9b",
-    "scraped_at": "2026-06-23T10:55:44.624800"
-  },
-  {
     "title": "Fibre Network Data Integrity Officer",
     "company": "Vocus",
     "url": "https://au.indeed.com/viewjob?jk=6b718f3713845d3f",
@@ -5998,5 +5974,29 @@
     "company": "Elite Educational Institute",
     "url": "https://au.indeed.com/viewjob?jk=8ad448b1cb07c439",
     "scraped_at": "2026-08-21T04:29:17.664645"
+  },
+  {
+    "title": "Project Performance Reporting Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=ed6927821a6cc985",
+    "scraped_at": "2026-08-21T08:28:15.339707"
+  },
+  {
+    "title": "Cost & Change Control Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=384a868941c5d21b",
+    "scraped_at": "2026-08-21T08:28:15.341276"
+  },
+  {
+    "title": "Project Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=b999aa921ced11f3",
+    "scraped_at": "2026-08-21T08:28:15.348127"
+  },
+  {
+    "title": "Manager, Loyalty Program Management, Issuer Solutions (Melbourne or Sydney)",
+    "company": "Visa",
+    "url": "https://au.indeed.com/viewjob?jk=c76d277acef20c09",
+    "scraped_at": "2026-08-21T08:28:15.349446"
   }
 ]
