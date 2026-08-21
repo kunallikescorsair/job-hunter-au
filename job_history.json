@@ -1,35 +1,5 @@
 [
   {
-    "title": "Fibre Network Data Integrity Officer",
-    "company": "Vocus",
-    "url": "https://au.indeed.com/viewjob?jk=6b718f3713845d3f",
-    "scraped_at": "2026-06-23T10:55:44.628437"
-  },
-  {
-    "title": "Snowflake Platform Engineer",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=0ebcba95677e99ef",
-    "scraped_at": "2026-06-23T10:55:44.630908"
-  },
-  {
-    "title": "Graduate - Surveyor",
-    "company": "Whitehaven Coal",
-    "url": "https://au.indeed.com/viewjob?jk=81504425df7d64d4",
-    "scraped_at": "2026-06-23T10:55:44.631981"
-  },
-  {
-    "title": "Graduate - Geotechnical Engineer",
-    "company": "Whitehaven Coal",
-    "url": "https://au.indeed.com/viewjob?jk=7d63bb1c198e1b9b",
-    "scraped_at": "2026-06-23T10:55:44.633058"
-  },
-  {
-    "title": "Assistant Marketing Manager (ANZ market)",
-    "company": "ShopBack",
-    "url": "https://au.indeed.com/viewjob?jk=ef2cba037e0ad521",
-    "scraped_at": "2026-06-23T14:29:00.885253"
-  },
-  {
     "title": "Technical Architect/Edge Infrastructure",
     "company": "Woolworths Group Limited",
     "url": "https://au.indeed.com/viewjob?jk=8004bd63bfe9e0a7",
@@ -5998,5 +5968,35 @@
     "company": "Visa",
     "url": "https://au.indeed.com/viewjob?jk=c76d277acef20c09",
     "scraped_at": "2026-08-21T08:28:15.349446"
+  },
+  {
+    "title": "Analytics Engineer",
+    "company": "Scape Australia",
+    "url": "https://au.indeed.com/viewjob?jk=6ca603e2e31bfd2a",
+    "scraped_at": "2026-08-21T12:27:06.808345"
+  },
+  {
+    "title": "AWS Engineering Lead",
+    "company": "Deloitte",
+    "url": "https://au.indeed.com/viewjob?jk=0b795b01c0aa2bc9",
+    "scraped_at": "2026-08-21T12:27:06.809622"
+  },
+  {
+    "title": "Data Business Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=9a33e5f3066590cf",
+    "scraped_at": "2026-08-21T12:27:06.813337"
+  },
+  {
+    "title": "Analyst \u2013 Global Funding Operations",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=9d3136b1f1ac3502",
+    "scraped_at": "2026-08-21T12:27:06.813879"
+  },
+  {
+    "title": "Analyst - Infrastructure & Real Assets",
+    "company": "StepStone Group LP",
+    "url": "https://au.indeed.com/viewjob?jk=efc2b369b1dec64e",
+    "scraped_at": "2026-08-21T12:27:06.822476"
   }
 ]
