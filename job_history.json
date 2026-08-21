@@ -1,23 +1,5 @@
 [
   {
-    "title": "Technical Solutions Consultant, Google Photos",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=46fbf4afa58cc60a",
-    "scraped_at": "2026-06-23T10:55:44.610214"
-  },
-  {
-    "title": "Graduate - Data Engineer",
-    "company": "Whitehaven Coal",
-    "url": "https://au.indeed.com/viewjob?jk=11549022c1f4c486",
-    "scraped_at": "2026-06-23T10:55:44.614480"
-  },
-  {
-    "title": "Solution Engineer",
-    "company": "Pax8",
-    "url": "https://au.indeed.com/viewjob?jk=60f33efdd101aecf",
-    "scraped_at": "2026-06-23T10:55:44.615753"
-  },
-  {
     "title": "AI Engineer - Capital Markets",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=7b809ed96cce8fb3",
@@ -5998,5 +5980,23 @@
     "company": "Eaton",
     "url": "https://au.indeed.com/viewjob?jk=5e19e51f6ddc6ed7",
     "scraped_at": "2026-08-21T00:43:03.521880"
+  },
+  {
+    "title": "Grid Connections Manager",
+    "company": "JLE Group",
+    "url": "https://au.indeed.com/viewjob?jk=8159c90e3a1ef73a",
+    "scraped_at": "2026-08-21T04:29:17.663297"
+  },
+  {
+    "title": "Grid Connections Manager",
+    "company": "maas group",
+    "url": "https://au.indeed.com/viewjob?jk=cd71fd58c249ebab",
+    "scraped_at": "2026-08-21T04:29:17.663797"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Elite Educational Institute",
+    "url": "https://au.indeed.com/viewjob?jk=8ad448b1cb07c439",
+    "scraped_at": "2026-08-21T04:29:17.664645"
   }
 ]
