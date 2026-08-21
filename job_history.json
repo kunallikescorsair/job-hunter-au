@@ -1,29 +1,5 @@
 [
   {
-    "title": "Technical Architect/Edge Infrastructure",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=8004bd63bfe9e0a7",
-    "scraped_at": "2026-06-23T14:29:00.889128"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "ELMO Software",
-    "url": "https://au.indeed.com/viewjob?jk=bbc6611613b30b2d",
-    "scraped_at": "2026-06-23T17:48:28.379056"
-  },
-  {
-    "title": "Data & Analytics Specialist",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=43a27e88dcdc560b",
-    "scraped_at": "2026-06-23T17:48:28.384562"
-  },
-  {
-    "title": "Executive | Logistics & Industrial",
-    "company": "JLL",
-    "url": "https://au.indeed.com/viewjob?jk=ff5f645a73927cc8",
-    "scraped_at": "2026-06-23T17:48:28.389509"
-  },
-  {
     "title": "Customer Insights Analyst",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=a503669ff651ccd6",
@@ -5998,5 +5974,29 @@
     "company": "StepStone Group LP",
     "url": "https://au.indeed.com/viewjob?jk=efc2b369b1dec64e",
     "scraped_at": "2026-08-21T12:27:06.822476"
+  },
+  {
+    "title": "Mid Level AI Models Engineer",
+    "company": "Heidi",
+    "url": "https://au.indeed.com/viewjob?jk=fc03bdc17876b9fd",
+    "scraped_at": "2026-08-21T16:20:50.339311"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=96081c06d1d8364e",
+    "scraped_at": "2026-08-21T16:20:50.349153"
+  },
+  {
+    "title": "Escala - Wealth Management - Graduate Opportunity",
+    "company": "Focus Financial Partners",
+    "url": "https://au.indeed.com/viewjob?jk=41bab8b3f935020e",
+    "scraped_at": "2026-08-21T16:20:50.352032"
+  },
+  {
+    "title": "Group Market Insights Manager",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=1e17e792a2336ed5",
+    "scraped_at": "2026-08-21T16:20:50.355521"
   }
 ]
