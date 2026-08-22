@@ -1,23 +1,5 @@
 [
   {
-    "title": "Customer Insights Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=a503669ff651ccd6",
-    "scraped_at": "2026-06-23T17:48:28.390961"
-  },
-  {
-    "title": "Cloud Engineer",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=b70bfab1712c765b",
-    "scraped_at": "2026-06-23T17:48:28.392080"
-  },
-  {
-    "title": "Student Electrical Engineer",
-    "company": "Aurecon Group",
-    "url": "https://au.indeed.com/viewjob?jk=3f86961df1875dd1",
-    "scraped_at": "2026-06-23T21:24:57.397442"
-  },
-  {
     "title": "Student Civil & Structural Engineer",
     "company": "Aurecon Group",
     "url": "https://au.indeed.com/viewjob?jk=163cd8da3d37034d",
@@ -5998,5 +5980,23 @@
     "company": "Woolworths Group Limited",
     "url": "https://au.indeed.com/viewjob?jk=1e17e792a2336ed5",
     "scraped_at": "2026-08-21T16:20:50.355521"
+  },
+  {
+    "title": "Lead Inertial Sensor Engineer - MEMS",
+    "company": "Advanced Navigation",
+    "url": "https://au.indeed.com/viewjob?jk=4212ef165426b98a",
+    "scraped_at": "2026-08-22T00:40:11.742466"
+  },
+  {
+    "title": "Physical Security Architect, Data Center Engineering",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=7e4384ca11674ba1",
+    "scraped_at": "2026-08-22T00:40:11.753788"
+  },
+  {
+    "title": "Technical Program Manager, Data Center Delivery",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=d140df231910c633",
+    "scraped_at": "2026-08-22T00:40:11.754649"
   }
 ]
