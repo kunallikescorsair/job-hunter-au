@@ -1,11 +1,5 @@
 [
   {
-    "title": "Student Civil & Structural Engineer",
-    "company": "Aurecon Group",
-    "url": "https://au.indeed.com/viewjob?jk=163cd8da3d37034d",
-    "scraped_at": "2026-06-23T21:24:57.397972"
-  },
-  {
     "title": "Student Renewable Engineer",
     "company": "Aurecon Group",
     "url": "https://au.indeed.com/viewjob?jk=984e7ab98229ece3",
@@ -5998,5 +5992,11 @@
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=d140df231910c633",
     "scraped_at": "2026-08-22T00:40:11.754649"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=fe719b12b56a6512",
+    "scraped_at": "2026-08-22T16:12:48.134263"
   }
 ]
