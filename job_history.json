@@ -1,11 +1,5 @@
 [
   {
-    "title": "Student Renewable Engineer",
-    "company": "Aurecon Group",
-    "url": "https://au.indeed.com/viewjob?jk=984e7ab98229ece3",
-    "scraped_at": "2026-06-23T21:24:57.398472"
-  },
-  {
     "title": "Student Environmental Engineer - Sydney",
     "company": "Aurecon Group",
     "url": "https://au.indeed.com/viewjob?jk=ae12c3c781364a3b",
@@ -5998,5 +5992,11 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=fe719b12b56a6512",
     "scraped_at": "2026-08-22T16:12:48.134263"
+  },
+  {
+    "title": "Financial Analyst",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=091253017b98108a",
+    "scraped_at": "2026-08-22T20:12:20.321750"
   }
 ]
