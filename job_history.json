@@ -1,11 +1,5 @@
 [
   {
-    "title": "Student Environmental Engineer - Sydney",
-    "company": "Aurecon Group",
-    "url": "https://au.indeed.com/viewjob?jk=ae12c3c781364a3b",
-    "scraped_at": "2026-06-23T21:24:57.398974"
-  },
-  {
     "title": "Student Consultant, Infrastructure & Energy Advisory",
     "company": "Aurecon Group",
     "url": "https://au.indeed.com/viewjob?jk=3a418d63c7ef4b44",
@@ -5998,5 +5992,11 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=091253017b98108a",
     "scraped_at": "2026-08-22T20:12:20.321750"
+  },
+  {
+    "title": "Forward Deployed AI Scientist - Consulting (Graduate), BCG X",
+    "company": "Boston Consulting Group",
+    "url": "https://au.indeed.com/viewjob?jk=980a8989953b14e5",
+    "scraped_at": "2026-08-23T20:12:11.696800"
   }
 ]
