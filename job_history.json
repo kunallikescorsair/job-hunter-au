@@ -1,23 +1,5 @@
 [
   {
-    "title": "Student Chemical Engineer",
-    "company": "Aurecon Group",
-    "url": "https://au.indeed.com/viewjob?jk=199da70a70da2e51",
-    "scraped_at": "2026-06-23T21:24:57.400987"
-  },
-  {
-    "title": "Student Land Surveyor",
-    "company": "Aurecon Group",
-    "url": "https://au.indeed.com/viewjob?jk=b7c7137abfab8f44",
-    "scraped_at": "2026-06-23T21:24:57.401478"
-  },
-  {
-    "title": "Aurecon\u202fInternship Program\u202f- First Nations Australians",
-    "company": "Aurecon Group",
-    "url": "https://au.indeed.com/viewjob?jk=fb4b5cb024064766",
-    "scraped_at": "2026-06-23T21:24:57.402059"
-  },
-  {
     "title": "Student Consultant, Asset Management & Asurance",
     "company": "Aurecon Group",
     "url": "https://au.indeed.com/viewjob?jk=bcbee68c47d0eff1",
@@ -5998,5 +5980,23 @@
     "company": "REST",
     "url": "https://au.indeed.com/viewjob?jk=829e08f919cf9c18",
     "scraped_at": "2026-08-24T04:35:51.419720"
+  },
+  {
+    "title": "Junior Business Process Analyst",
+    "company": "Mirait Technologies Australia",
+    "url": "https://au.indeed.com/viewjob?jk=c7359177e0d0ee87",
+    "scraped_at": "2026-08-24T08:37:01.306558"
+  },
+  {
+    "title": "Business Intelligence Developer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=48ede4fc38264d48",
+    "scraped_at": "2026-08-24T08:37:01.307758"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "NATIONAL HEAVY VEHICLE REGULATOR",
+    "url": "https://au.indeed.com/viewjob?jk=fad8aeb1756990e2",
+    "scraped_at": "2026-08-24T08:37:01.315732"
   }
 ]
