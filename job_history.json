@@ -1,11 +1,5 @@
 [
   {
-    "title": "Student Consultant, Infrastructure & Energy Advisory",
-    "company": "Aurecon Group",
-    "url": "https://au.indeed.com/viewjob?jk=3a418d63c7ef4b44",
-    "scraped_at": "2026-06-23T21:24:57.399483"
-  },
-  {
     "title": "Student Consultant, Project Management",
     "company": "Aurecon Group",
     "url": "https://au.indeed.com/viewjob?jk=a069b7a832f44167",
@@ -5998,5 +5992,11 @@
     "company": "Boston Consulting Group",
     "url": "https://au.indeed.com/viewjob?jk=980a8989953b14e5",
     "scraped_at": "2026-08-23T20:12:11.696800"
+  },
+  {
+    "title": "Customer Identity Engineer - CIAM (Full Stack & Security) - Contract",
+    "company": "NCS",
+    "url": "https://au.indeed.com/viewjob?jk=54cb808b764515ab",
+    "scraped_at": "2026-08-24T00:42:20.621843"
   }
 ]
