@@ -1,17 +1,5 @@
 [
   {
-    "title": "Student Consultant, Project Management",
-    "company": "Aurecon Group",
-    "url": "https://au.indeed.com/viewjob?jk=a069b7a832f44167",
-    "scraped_at": "2026-06-23T21:24:57.399991"
-  },
-  {
-    "title": "Student Mechanical Engineer",
-    "company": "Aurecon Group",
-    "url": "https://au.indeed.com/viewjob?jk=ae63dc50f7bfb0df",
-    "scraped_at": "2026-06-23T21:24:57.400488"
-  },
-  {
     "title": "Student Chemical Engineer",
     "company": "Aurecon Group",
     "url": "https://au.indeed.com/viewjob?jk=199da70a70da2e51",
@@ -5998,5 +5986,17 @@
     "company": "NCS",
     "url": "https://au.indeed.com/viewjob?jk=54cb808b764515ab",
     "scraped_at": "2026-08-24T00:42:20.621843"
+  },
+  {
+    "title": "People Data Analyst",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=d85843e8cfbd448a",
+    "scraped_at": "2026-08-24T04:35:51.415198"
+  },
+  {
+    "title": "Change Analyst, 12 month FTC",
+    "company": "REST",
+    "url": "https://au.indeed.com/viewjob?jk=829e08f919cf9c18",
+    "scraped_at": "2026-08-24T04:35:51.419720"
   }
 ]
