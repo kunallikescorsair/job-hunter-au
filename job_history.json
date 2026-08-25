@@ -1,41 +1,5 @@
 [
   {
-    "title": "DevOps Engineer",
-    "company": "Australian Payments Plus",
-    "url": "https://au.indeed.com/viewjob?jk=f88e17adeb82d1a4",
-    "scraped_at": "2026-06-24T07:33:35.210893"
-  },
-  {
-    "title": "Storage Engineer",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=84d0b895add3f78f",
-    "scraped_at": "2026-06-24T07:33:35.211525"
-  },
-  {
-    "title": "Fullstack Engineer",
-    "company": "Karbon",
-    "url": "https://au.indeed.com/viewjob?jk=10cbafe927a006f1",
-    "scraped_at": "2026-06-24T07:33:35.212665"
-  },
-  {
-    "title": "Storage Engineer",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=f763b89f35cde32f",
-    "scraped_at": "2026-06-24T07:33:35.213258"
-  },
-  {
-    "title": "Refrigeration Service Technician | NSW",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=397956e67871ed17",
-    "scraped_at": "2026-06-24T07:33:35.217042"
-  },
-  {
-    "title": "Refrigeration Service Technician | NSW",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=7c926566a5f31165",
-    "scraped_at": "2026-06-24T07:33:35.218416"
-  },
-  {
     "title": "Business Analyst - Safety Systems",
     "company": "Stowe Australia",
     "url": "https://au.indeed.com/viewjob?jk=c4d1d0de82f485fc",
@@ -5998,5 +5962,41 @@
     "company": "Rojone Pty Limited",
     "url": "https://au.indeed.com/viewjob?jk=0049d582b4e37781",
     "scraped_at": "2026-08-25T04:30:05.109340"
+  },
+  {
+    "title": "Prompt Engineer",
+    "company": "Showtime Consulting",
+    "url": "https://au.indeed.com/viewjob?jk=60382051da68b4dd",
+    "scraped_at": "2026-08-25T08:30:49.308463"
+  },
+  {
+    "title": "Product Analyst",
+    "company": "Equifax",
+    "url": "https://au.indeed.com/viewjob?jk=70941fb096de6aca",
+    "scraped_at": "2026-08-25T08:30:49.313895"
+  },
+  {
+    "title": "Supervisory Analyst",
+    "company": "UBS",
+    "url": "https://au.indeed.com/viewjob?jk=5aa0f6c2ce8f64df",
+    "scraped_at": "2026-08-25T08:30:49.317622"
+  },
+  {
+    "title": "IT Service & Application Analyst | Sydney HQ",
+    "company": "Honey Birdette",
+    "url": "https://au.indeed.com/viewjob?jk=6f911710e02ffaf7",
+    "scraped_at": "2026-08-25T08:30:49.318509"
+  },
+  {
+    "title": "Test Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=4a25bb3eeb9a1fef",
+    "scraped_at": "2026-08-25T08:30:49.323844"
+  },
+  {
+    "title": "Reliability Engineer",
+    "company": "Coca-Cola Europacific Partners",
+    "url": "https://au.indeed.com/viewjob?jk=d25f1c8b4ca62feb",
+    "scraped_at": "2026-08-25T08:30:49.325469"
   }
 ]
