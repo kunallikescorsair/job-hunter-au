@@ -1,17 +1,5 @@
 [
   {
-    "title": "Associate/Manager, Credit Risk Operations (Debt Collections)",
-    "company": "Airwallex",
-    "url": "https://au.indeed.com/viewjob?jk=efaad459d3224e6a",
-    "scraped_at": "2026-06-24T07:33:35.230329"
-  },
-  {
-    "title": "Trading Operations Analyst",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=275d61ba3ee08264",
-    "scraped_at": "2026-06-24T07:33:35.232646"
-  },
-  {
     "title": "Data Engineer",
     "company": "Duxxel",
     "url": "https://au.indeed.com/viewjob?jk=c95ba7dfa3ede59c",
@@ -5998,5 +5986,17 @@
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=5176aa2fe7b60378",
     "scraped_at": "2026-08-25T12:28:17.267854"
+  },
+  {
+    "title": "Applied Solutions Architect",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=275617a5a4472f65",
+    "scraped_at": "2026-08-25T16:25:14.504653"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Infosys",
+    "url": "https://au.indeed.com/viewjob?jk=35f0a74b69e9ffab",
+    "scraped_at": "2026-08-25T16:25:14.522761"
   }
 ]
