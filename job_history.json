@@ -1,11 +1,5 @@
 [
   {
-    "title": "Java Backend Engineer \u2013 On-Chain Payment Integration",
-    "company": "Binance",
-    "url": "https://au.indeed.com/viewjob?jk=18f965f515e5871a",
-    "scraped_at": "2026-06-24T07:33:35.210162"
-  },
-  {
     "title": "DevOps Engineer",
     "company": "Australian Payments Plus",
     "url": "https://au.indeed.com/viewjob?jk=f88e17adeb82d1a4",
@@ -5998,5 +5992,11 @@
     "company": "NAB - National Australia Bank",
     "url": "https://au.indeed.com/viewjob?jk=97444df36a7b1b6f",
     "scraped_at": "2026-08-24T16:24:27.629873"
+  },
+  {
+    "title": "Mechanical Engineer",
+    "company": "Rojone Pty Limited",
+    "url": "https://au.indeed.com/viewjob?jk=0049d582b4e37781",
+    "scraped_at": "2026-08-25T04:30:05.109340"
   }
 ]
