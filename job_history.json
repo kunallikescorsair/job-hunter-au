@@ -1,29 +1,5 @@
 [
   {
-    "title": "Business Analyst - Safety Systems",
-    "company": "Stowe Australia",
-    "url": "https://au.indeed.com/viewjob?jk=c4d1d0de82f485fc",
-    "scraped_at": "2026-06-24T07:33:35.220922"
-  },
-  {
-    "title": "Front Office Python Developer",
-    "company": "Eclipse Trading",
-    "url": "https://au.indeed.com/viewjob?jk=e1d70b9aeb8f1492",
-    "scraped_at": "2026-06-24T07:33:35.224090"
-  },
-  {
-    "title": "Business Development Representative",
-    "company": "Braze",
-    "url": "https://au.indeed.com/viewjob?jk=29e81a3e4cfa2ae8",
-    "scraped_at": "2026-06-24T07:33:35.225171"
-  },
-  {
-    "title": "Campaign Executive",
-    "company": "REA Group",
-    "url": "https://au.indeed.com/viewjob?jk=60b7a6f889a1940c",
-    "scraped_at": "2026-06-24T07:33:35.228225"
-  },
-  {
     "title": "Associate/Manager, Credit Risk Operations (Debt Collections)",
     "company": "Airwallex",
     "url": "https://au.indeed.com/viewjob?jk=efaad459d3224e6a",
@@ -5998,5 +5974,29 @@
     "company": "Coca-Cola Europacific Partners",
     "url": "https://au.indeed.com/viewjob?jk=d25f1c8b4ca62feb",
     "scraped_at": "2026-08-25T08:30:49.325469"
+  },
+  {
+    "title": "Applied Solutions Architect, Google Cloud",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=fb0f8dd14ae3b475",
+    "scraped_at": "2026-08-25T12:28:17.252714"
+  },
+  {
+    "title": "Supplier Risk and Governance Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=b7d146d1cb9bee6e",
+    "scraped_at": "2026-08-25T12:28:17.256469"
+  },
+  {
+    "title": "Wealth Business Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=b3314444274e9191",
+    "scraped_at": "2026-08-25T12:28:17.257693"
+  },
+  {
+    "title": "Partner Account Manager, Worldwide Public Sector - ANZ",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=5176aa2fe7b60378",
+    "scraped_at": "2026-08-25T12:28:17.267854"
   }
 ]
