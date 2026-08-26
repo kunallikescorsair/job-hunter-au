@@ -1,53 +1,5 @@
 [
   {
-    "title": "UKG Pro WFM Solution Architect",
-    "company": "Accenture",
-    "url": "https://au.indeed.com/viewjob?jk=2fb1cdaa911bccd3",
-    "scraped_at": "2026-06-24T17:48:10.569173"
-  },
-  {
-    "title": "Program Analyst & Coordinator",
-    "company": "Solventum",
-    "url": "https://au.indeed.com/viewjob?jk=8951d5f7113ae9a4",
-    "scraped_at": "2026-06-24T17:48:10.575666"
-  },
-  {
-    "title": "Migration SQL DBA",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=ac32c84060898200",
-    "scraped_at": "2026-06-24T17:48:10.577202"
-  },
-  {
-    "title": "Logistics Data Analyst",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=fe8dab1df5667658",
-    "scraped_at": "2026-06-24T21:17:28.305363"
-  },
-  {
-    "title": "Performance Analyst (3 month contract)",
-    "company": "Transdev",
-    "url": "https://au.indeed.com/viewjob?jk=8a17fe1a905b46b0",
-    "scraped_at": "2026-06-24T21:17:28.307096"
-  },
-  {
-    "title": "Performance Analyst",
-    "company": "Transdev",
-    "url": "https://au.indeed.com/viewjob?jk=66553183b9ae36c9",
-    "scraped_at": "2026-06-24T21:17:28.308468"
-  },
-  {
-    "title": "Refrigeration Service Technician | NSW",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=c5c5f35c1033d3cb",
-    "scraped_at": "2026-06-25T02:27:57.953899"
-  },
-  {
-    "title": "Group Pricing Analyst Contract",
-    "company": "MetLife",
-    "url": "https://au.indeed.com/viewjob?jk=acb754a6cbe55c9a",
-    "scraped_at": "2026-06-25T02:27:57.955396"
-  },
-  {
     "title": "Retail Pricing Analyst",
     "company": "MetLife",
     "url": "https://au.indeed.com/viewjob?jk=a775bf4d9d7a8a87",
@@ -5998,5 +5950,53 @@
     "company": "Duxxel",
     "url": "https://au.indeed.com/viewjob?jk=a02f82650891cb0b",
     "scraped_at": "2026-08-26T04:30:40.647430"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Wipro Australia",
+    "url": "https://au.indeed.com/viewjob?jk=9ac6f3dccfd3e060",
+    "scraped_at": "2026-08-26T08:31:57.291153"
+  },
+  {
+    "title": "Software Engineer - Reliability",
+    "company": "Dataro",
+    "url": "https://au.indeed.com/viewjob?jk=1003468b5bd319fb",
+    "scraped_at": "2026-08-26T08:31:57.293265"
+  },
+  {
+    "title": "Performance Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=6108fbd9c9ce9c81",
+    "scraped_at": "2026-08-26T08:31:57.295980"
+  },
+  {
+    "title": "Data Analyst - Construction",
+    "company": "Mirvac",
+    "url": "https://au.indeed.com/viewjob?jk=6865ab21e2e61ff6",
+    "scraped_at": "2026-08-26T08:31:57.296970"
+  },
+  {
+    "title": "Treasury Operations Analyst",
+    "company": "Metcash",
+    "url": "https://au.indeed.com/viewjob?jk=031ecf85c7203592",
+    "scraped_at": "2026-08-26T08:31:57.300455"
+  },
+  {
+    "title": "Sales Planning Analyst - 6month FTC",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=403425954c350efd",
+    "scraped_at": "2026-08-26T08:31:57.301378"
+  },
+  {
+    "title": "Sales Planning Analyst - 12month FTC",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=d00d1ba4832f54ee",
+    "scraped_at": "2026-08-26T08:31:57.302104"
+  },
+  {
+    "title": "Software Engineer - NLS",
+    "company": "Nuix",
+    "url": "https://au.indeed.com/viewjob?jk=71b292249979784b",
+    "scraped_at": "2026-08-26T08:31:57.305803"
   }
 ]
