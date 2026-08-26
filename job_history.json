@@ -1,11 +1,5 @@
 [
   {
-    "title": "Retail Pricing Analyst",
-    "company": "MetLife",
-    "url": "https://au.indeed.com/viewjob?jk=a775bf4d9d7a8a87",
-    "scraped_at": "2026-06-25T02:27:57.955942"
-  },
-  {
     "title": "DataOps Engineer",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=6a3e609c98a8756f",
@@ -5998,5 +5992,11 @@
     "company": "Nuix",
     "url": "https://au.indeed.com/viewjob?jk=71b292249979784b",
     "scraped_at": "2026-08-26T08:31:57.305803"
+  },
+  {
+    "title": "Analyst - Independent Valuation Control",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=ffd5876b958c2652",
+    "scraped_at": "2026-08-26T12:31:26.878093"
   }
 ]
