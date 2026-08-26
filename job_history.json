@@ -1,41 +1,5 @@
 [
   {
-    "title": "Data Engineer",
-    "company": "Duxxel",
-    "url": "https://au.indeed.com/viewjob?jk=c95ba7dfa3ede59c",
-    "scraped_at": "2026-06-24T07:33:35.234653"
-  },
-  {
-    "title": "Agentic Discovery Engineer",
-    "company": "Insurance Australia Group",
-    "url": "https://au.indeed.com/viewjob?jk=7599ed2fc6aade47",
-    "scraped_at": "2026-06-24T10:41:39.706542"
-  },
-  {
-    "title": "Graduate Field Services Business Analyst",
-    "company": "Convergint",
-    "url": "https://au.indeed.com/viewjob?jk=0c1723742722b53b",
-    "scraped_at": "2026-06-24T10:41:39.710406"
-  },
-  {
-    "title": "Supply Chain Analyst",
-    "company": "B&E poultry",
-    "url": "https://au.indeed.com/viewjob?jk=bf7199d08825eed4",
-    "scraped_at": "2026-06-24T10:41:39.711012"
-  },
-  {
-    "title": "Project Engineer",
-    "company": "Air Liquide",
-    "url": "https://au.indeed.com/viewjob?jk=9f646a20eeb1d1ea",
-    "scraped_at": "2026-06-24T10:41:39.721639"
-  },
-  {
-    "title": "Middleware Engineer",
-    "company": "Janus Henderson Investors",
-    "url": "https://au.indeed.com/viewjob?jk=9e028d73a357c4c1",
-    "scraped_at": "2026-06-24T10:41:39.722856"
-  },
-  {
     "title": "Risk Systems Engineer",
     "company": "Delivery Centric",
     "url": "https://au.indeed.com/viewjob?jk=098ef5c6563dcc00",
@@ -5998,5 +5962,41 @@
     "company": "Infosys",
     "url": "https://au.indeed.com/viewjob?jk=35f0a74b69e9ffab",
     "scraped_at": "2026-08-25T16:25:14.522761"
+  },
+  {
+    "title": "GCP Data Engineer",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=a6bbc7b002f84e73",
+    "scraped_at": "2026-08-26T00:42:24.057509"
+  },
+  {
+    "title": "Group Product Manager, Information and Infrastructure Protection",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=b200ac4089517543",
+    "scraped_at": "2026-08-26T00:42:24.058821"
+  },
+  {
+    "title": "Forward Deployed Engineer",
+    "company": "Optimizely",
+    "url": "https://au.indeed.com/viewjob?jk=a849f414385cc9bd",
+    "scraped_at": "2026-08-26T00:42:24.063845"
+  },
+  {
+    "title": "Cost Analyst | Infrastructure | Gold Coast",
+    "company": "Turner & Townsend Pty Limited",
+    "url": "https://au.indeed.com/viewjob?jk=32a61c9ecd02113f",
+    "scraped_at": "2026-08-26T00:42:24.069251"
+  },
+  {
+    "title": "Google SecOps engineer",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=5075002d21c91009",
+    "scraped_at": "2026-08-26T00:42:24.074472"
+  },
+  {
+    "title": "Fenergo Developer",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=79085fa93a1f3c18",
+    "scraped_at": "2026-08-26T00:42:24.079378"
   }
 ]
