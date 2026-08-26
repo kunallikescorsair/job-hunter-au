@@ -1,29 +1,5 @@
 [
   {
-    "title": "DataOps Engineer",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=6a3e609c98a8756f",
-    "scraped_at": "2026-06-25T02:27:57.960010"
-  },
-  {
-    "title": "IT Infrastructure Engineer",
-    "company": "Multiplex",
-    "url": "https://au.indeed.com/viewjob?jk=d73e5969521fb379",
-    "scraped_at": "2026-06-25T07:35:10.696680"
-  },
-  {
-    "title": "Actuarial Manager",
-    "company": "QBE",
-    "url": "https://au.indeed.com/viewjob?jk=93abf5f6d3484718",
-    "scraped_at": "2026-06-25T07:35:10.699159"
-  },
-  {
-    "title": "Platforms Engineer - Compute & Storage",
-    "company": "AC3",
-    "url": "https://au.indeed.com/viewjob?jk=a20af0efe8687f11",
-    "scraped_at": "2026-06-25T07:35:10.704028"
-  },
-  {
     "title": "Testing Analyst",
     "company": "Insurance Australia Group",
     "url": "https://au.indeed.com/viewjob?jk=11d88c7a95c791b6",
@@ -5998,5 +5974,29 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=ffd5876b958c2652",
     "scraped_at": "2026-08-26T12:31:26.878093"
+  },
+  {
+    "title": "Remedial Engineer",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=906e9b5f9ffd7d35",
+    "scraped_at": "2026-08-26T16:42:08.472962"
+  },
+  {
+    "title": "Vice President, Security Detection & Response, Global Information Security",
+    "company": "Bank of America",
+    "url": "https://au.indeed.com/viewjob?jk=da735a34103fbde9",
+    "scraped_at": "2026-08-26T16:42:08.481380"
+  },
+  {
+    "title": "Vice President, Security Detection & Response, Global Information Security",
+    "company": "Bank of America",
+    "url": "https://au.indeed.com/viewjob?jk=8dceb2ede59b1bf4",
+    "scraped_at": "2026-08-26T16:42:08.482468"
+  },
+  {
+    "title": "Vice President, Security Detection & Response, Global Information Security",
+    "company": "Bank of America",
+    "url": "https://au.indeed.com/viewjob?jk=cb9617ffee779d9f",
+    "scraped_at": "2026-08-26T16:42:08.483546"
   }
 ]
