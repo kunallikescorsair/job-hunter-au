@@ -1,83 +1,5 @@
 [
   {
-    "title": "Customer Success Manager",
-    "company": "Talon.One",
-    "url": "https://au.indeed.com/viewjob?jk=8acb61bf2716a9b7",
-    "scraped_at": "2026-06-25T18:04:02.444377"
-  },
-  {
-    "title": "Ratings Associate, Financial Institutions",
-    "company": "Moody's",
-    "url": "https://au.indeed.com/viewjob?jk=1b3a78e5ab29d0af",
-    "scraped_at": "2026-06-25T21:22:55.389524"
-  },
-  {
-    "title": "Operations Analyst",
-    "company": "Stake",
-    "url": "https://au.indeed.com/viewjob?jk=3fade184c2bc46b2",
-    "scraped_at": "2026-06-26T02:29:55.025515"
-  },
-  {
-    "title": "TIPM, Network Delivery, Data Center Capacity Delivery",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=0487b75deb52b99d",
-    "scraped_at": "2026-06-26T02:29:55.027320"
-  },
-  {
-    "title": "Technical Data Business Analyst (EXPRESSIONS OF INTEREST)",
-    "company": "NCS",
-    "url": "https://au.indeed.com/viewjob?jk=d661e7dc6ffb2c08",
-    "scraped_at": "2026-06-26T07:42:52.650060"
-  },
-  {
-    "title": "Product Lead",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=8f6007cf49943be1",
-    "scraped_at": "2026-06-26T07:42:52.650993"
-  },
-  {
-    "title": "Software Engineer - Python",
-    "company": "AKUNA CAPITAL",
-    "url": "https://au.indeed.com/viewjob?jk=7b7a96113f2b7fe1",
-    "scraped_at": "2026-06-26T07:42:52.656136"
-  },
-  {
-    "title": "Software Engineer - Python",
-    "company": "AKUNA CAPITAL",
-    "url": "https://au.indeed.com/viewjob?jk=efcce0316be20c3b",
-    "scraped_at": "2026-06-26T07:42:52.656810"
-  },
-  {
-    "title": "System Analyst",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=449a8fa0e1837afc",
-    "scraped_at": "2026-06-26T07:42:52.657733"
-  },
-  {
-    "title": "Customer Support Analyst - 12 Month Contract",
-    "company": "MYOB",
-    "url": "https://au.indeed.com/viewjob?jk=dc473063634c2690",
-    "scraped_at": "2026-06-26T07:42:52.661125"
-  },
-  {
-    "title": "Finance Analyst, FP&A and Commercial",
-    "company": "Intellihub",
-    "url": "https://au.indeed.com/viewjob?jk=74cedcbf131a13d0",
-    "scraped_at": "2026-06-26T07:42:52.661901"
-  },
-  {
-    "title": "Customer Support Analyst - 12 Month Contract",
-    "company": "AXSYS",
-    "url": "https://au.indeed.com/viewjob?jk=bb70934224c37726",
-    "scraped_at": "2026-06-26T07:42:52.662570"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "Aware Super",
-    "url": "https://au.indeed.com/viewjob?jk=30e1a3d9fd7d33a9",
-    "scraped_at": "2026-06-26T07:42:52.663344"
-  },
-  {
     "title": "Software Engineer",
     "company": "Commonwealth Bank of Australia",
     "url": "https://au.indeed.com/viewjob?jk=1e04f278f5cda926",
@@ -5998,5 +5920,83 @@
     "company": "Blacktown City Council",
     "url": "https://au.indeed.com/viewjob?jk=c6eb3216b9f876b2",
     "scraped_at": "2026-08-27T05:48:08.218908"
+  },
+  {
+    "title": "AI Associate",
+    "company": "HUB24",
+    "url": "https://au.indeed.com/viewjob?jk=c67497fa30c01612",
+    "scraped_at": "2026-08-27T18:38:36.930256"
+  },
+  {
+    "title": "Network Planning Engineer",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=9f2c5060623e1295",
+    "scraped_at": "2026-08-27T18:38:36.939613"
+  },
+  {
+    "title": "Cloud Solution Architect (AWS | Azure | Google Cloud)",
+    "company": "Mindsprint",
+    "url": "https://au.indeed.com/viewjob?jk=9d5bf29ab9bc48d5",
+    "scraped_at": "2026-08-27T18:38:36.940236"
+  },
+  {
+    "title": "Network Planning Engineer",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=23ba4a918cffc1ce",
+    "scraped_at": "2026-08-27T18:38:36.940725"
+  },
+  {
+    "title": "Forward Deployed Engineer (AI Solutions) - APAC Market",
+    "company": "Aircall",
+    "url": "https://au.indeed.com/viewjob?jk=f8a1382d281197fd",
+    "scraped_at": "2026-08-27T18:38:36.942009"
+  },
+  {
+    "title": "Delivery Manager",
+    "company": "KMS Technology",
+    "url": "https://au.indeed.com/viewjob?jk=cab99f3171c0164f",
+    "scraped_at": "2026-08-27T18:38:36.942765"
+  },
+  {
+    "title": "Advisory Solution Consultant",
+    "company": "ServiceNow",
+    "url": "https://au.indeed.com/viewjob?jk=6d4ec6e545a4af35",
+    "scraped_at": "2026-08-27T18:38:36.946071"
+  },
+  {
+    "title": "Equities Trading - Delta One - Analyst/Associate - Sydney",
+    "company": "JPMorganChase",
+    "url": "https://au.indeed.com/viewjob?jk=b095c72e4f4ef199",
+    "scraped_at": "2026-08-27T18:38:36.952558"
+  },
+  {
+    "title": "Analyst Technology Approval",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=8a3437f3983e6cf4",
+    "scraped_at": "2026-08-27T18:38:36.953654"
+  },
+  {
+    "title": "Red Hat Developer",
+    "company": "Accenture",
+    "url": "https://au.indeed.com/viewjob?jk=4ea7d9367eb071e2",
+    "scraped_at": "2026-08-27T18:38:36.962602"
+  },
+  {
+    "title": "SAP ABAP EWM Consultant",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=bd4fa34e7172f2f9",
+    "scraped_at": "2026-08-27T18:38:36.963249"
+  },
+  {
+    "title": "SAP ABAP EWM Consultant",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=c1db297bfc2df18b",
+    "scraped_at": "2026-08-27T18:38:36.963867"
+  },
+  {
+    "title": "Full Stack Developer (TypeScript / Next.js)",
+    "company": "OWNER INSPECTIONS",
+    "url": "https://au.indeed.com/viewjob?jk=5736721e415af640",
+    "scraped_at": "2026-08-27T18:38:36.964772"
   }
 ]
