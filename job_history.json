@@ -1,77 +1,5 @@
 [
   {
-    "title": "Testing Analyst",
-    "company": "Insurance Australia Group",
-    "url": "https://au.indeed.com/viewjob?jk=11d88c7a95c791b6",
-    "scraped_at": "2026-06-25T10:35:10.303847"
-  },
-  {
-    "title": "Quality Assurance Analyst",
-    "company": "Commonwealth Bank of Australia",
-    "url": "https://au.indeed.com/viewjob?jk=511e2ef145d9ad0a",
-    "scraped_at": "2026-06-25T10:35:10.304541"
-  },
-  {
-    "title": "Lead Analytical Engineer",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=8ca3cefd7d4b22d3",
-    "scraped_at": "2026-06-25T10:35:10.305658"
-  },
-  {
-    "title": "Colo Physical Security Architect, Colocation Regional Engineering",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=a6a1c75bbe217bfb",
-    "scraped_at": "2026-06-25T10:35:10.310807"
-  },
-  {
-    "title": "Application Developer Lead",
-    "company": "Multiplex",
-    "url": "https://au.indeed.com/viewjob?jk=d371567b1856b2a2",
-    "scraped_at": "2026-06-25T10:35:10.316183"
-  },
-  {
-    "title": "Application Developer Lead",
-    "company": "Multiplex",
-    "url": "https://au.indeed.com/viewjob?jk=16982fd8ec107ceb",
-    "scraped_at": "2026-06-25T10:35:10.317012"
-  },
-  {
-    "title": "Hospital Scientist",
-    "company": "NSW Health",
-    "url": "https://au.indeed.com/viewjob?jk=d177d44811146b10",
-    "scraped_at": "2026-06-25T14:05:09.737623"
-  },
-  {
-    "title": "Refrigeration Service Technician | NSW",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=ac5f3229a60171de",
-    "scraped_at": "2026-06-25T14:05:09.748901"
-  },
-  {
-    "title": "Hospital Scientist",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=9f53d3aa2e32cb59",
-    "scraped_at": "2026-06-25T18:04:02.425136"
-  },
-  {
-    "title": "Cloud Solution Architect",
-    "company": "Ericsson",
-    "url": "https://au.indeed.com/viewjob?jk=03b925cb6e666f1b",
-    "scraped_at": "2026-06-25T18:04:02.435873"
-  },
-  {
-    "title": "Consulting Analyst",
-    "company": "Gallup",
-    "url": "https://au.indeed.com/viewjob?jk=ceefd620c240d676",
-    "scraped_at": "2026-06-25T18:04:02.437988"
-  },
-  {
-    "title": "Customer Success Manager",
-    "company": "Talon.One LinkedIn Jobs",
-    "url": "https://au.indeed.com/viewjob?jk=1c4bbadd2d132ac8",
-    "scraped_at": "2026-06-25T18:04:02.443348"
-  },
-  {
     "title": "Customer Success Manager",
     "company": "Talon.One",
     "url": "https://au.indeed.com/viewjob?jk=8acb61bf2716a9b7",
@@ -5998,5 +5926,77 @@
     "company": "Bank of America",
     "url": "https://au.indeed.com/viewjob?jk=cb9617ffee779d9f",
     "scraped_at": "2026-08-26T16:42:08.483546"
+  },
+  {
+    "title": "Scientist Ecotoxicology",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=0804a26c7e75ddc3",
+    "scraped_at": "2026-08-27T05:48:08.196799"
+  },
+  {
+    "title": "AI Engineer x 2 (AI Innovation Office)",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=86bd7ab4a23adb19",
+    "scraped_at": "2026-08-27T05:48:08.200690"
+  },
+  {
+    "title": "Enterprise Sales Manager",
+    "company": "Heidi",
+    "url": "https://au.indeed.com/viewjob?jk=4b08c3b81e5fbbab",
+    "scraped_at": "2026-08-27T05:48:08.201970"
+  },
+  {
+    "title": "Analytics Engineer (GCP)",
+    "company": "NTT DATA",
+    "url": "https://au.indeed.com/viewjob?jk=9e59b034827a0cb0",
+    "scraped_at": "2026-08-27T05:48:08.202704"
+  },
+  {
+    "title": "Quality Engineer",
+    "company": "Corto Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=95eefca1fa524abd",
+    "scraped_at": "2026-08-27T05:48:08.203710"
+  },
+  {
+    "title": "Calypso Business Analyst",
+    "company": "Duxxel",
+    "url": "https://au.indeed.com/viewjob?jk=84343a44bdc79f02",
+    "scraped_at": "2026-08-27T05:48:08.208312"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=c29d35f156baabe3",
+    "scraped_at": "2026-08-27T05:48:08.209736"
+  },
+  {
+    "title": "Clinical Development Analyst",
+    "company": "Solventum",
+    "url": "https://au.indeed.com/viewjob?jk=243cb92a00cba8a8",
+    "scraped_at": "2026-08-27T05:48:08.213559"
+  },
+  {
+    "title": "Network Engineer",
+    "company": "Cuscal",
+    "url": "https://au.indeed.com/viewjob?jk=e5cf85110df63ffa",
+    "scraped_at": "2026-08-27T05:48:08.215440"
+  },
+  {
+    "title": "Services Engineer Sydney",
+    "company": "Multiplex",
+    "url": "https://au.indeed.com/viewjob?jk=8e59d80974680543",
+    "scraped_at": "2026-08-27T05:48:08.217186"
+  },
+  {
+    "title": "PHP Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=aec655e7da6e58d3",
+    "scraped_at": "2026-08-27T05:48:08.218353"
+  },
+  {
+    "title": "Water Sensitive Urban Design (WSUD) Asset Inspector",
+    "company": "Blacktown City Council",
+    "url": "https://au.indeed.com/viewjob?jk=c6eb3216b9f876b2",
+    "scraped_at": "2026-08-27T05:48:08.218908"
   }
 ]
