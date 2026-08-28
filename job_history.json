@@ -1,47 +1,5 @@
 [
   {
-    "title": "Software Engineer",
-    "company": "Commonwealth Bank of Australia",
-    "url": "https://au.indeed.com/viewjob?jk=1e04f278f5cda926",
-    "scraped_at": "2026-06-26T07:42:52.664993"
-  },
-  {
-    "title": "Developer Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=943e5b2bcf96340f",
-    "scraped_at": "2026-06-26T07:42:52.668272"
-  },
-  {
-    "title": "AI driven Exercise Scientist/Physiologist",
-    "company": "Vision Personal Training Studios in NSW",
-    "url": "https://au.indeed.com/viewjob?jk=dca59640eced2484",
-    "scraped_at": "2026-06-26T10:44:40.429421"
-  },
-  {
-    "title": "DevOps Engineer - Equity Finance",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=22356314b9b31443",
-    "scraped_at": "2026-06-26T10:44:40.440158"
-  },
-  {
-    "title": "Graduate Game Designer/Mathematician",
-    "company": "Aristocrat",
-    "url": "https://au.indeed.com/viewjob?jk=15346439f3b68ffe",
-    "scraped_at": "2026-06-26T10:44:40.452744"
-  },
-  {
-    "title": "Environmental Engineer",
-    "company": "Hawkesbury City Council",
-    "url": "https://au.indeed.com/viewjob?jk=7dd12c309d333946",
-    "scraped_at": "2026-06-26T10:44:40.453999"
-  },
-  {
-    "title": "Data Engineering Lead",
-    "company": "HammondCare",
-    "url": "https://au.indeed.com/viewjob?jk=ab4b76c76fa13bf6",
-    "scraped_at": "2026-06-26T14:04:15.058367"
-  },
-  {
     "title": "Threat Response Technology and Capabilities Product Owner",
     "company": "Mastercard",
     "url": "https://au.indeed.com/viewjob?jk=97de0e059ce54bc7",
@@ -5998,5 +5956,47 @@
     "company": "OWNER INSPECTIONS",
     "url": "https://au.indeed.com/viewjob?jk=5736721e415af640",
     "scraped_at": "2026-08-27T18:38:36.964772"
+  },
+  {
+    "title": "AI Support Engineer",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=6c77dc3a6bc0e3d3",
+    "scraped_at": "2026-08-28T03:55:51.542882"
+  },
+  {
+    "title": "Delivery Manager",
+    "company": "KMS Technology",
+    "url": "https://au.indeed.com/viewjob?jk=713bfee2c9c02b0b",
+    "scraped_at": "2026-08-28T03:55:51.543632"
+  },
+  {
+    "title": "Operations Analyst, RI Operations",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=29c4532c38e827f5",
+    "scraped_at": "2026-08-28T03:55:51.550170"
+  },
+  {
+    "title": "Commercial Property Analyst",
+    "company": "Domain Group",
+    "url": "https://au.indeed.com/viewjob?jk=34eb0639224fd7d6",
+    "scraped_at": "2026-08-28T03:55:51.551332"
+  },
+  {
+    "title": "Analyst Technology Approvals",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=1741a386578f2809",
+    "scraped_at": "2026-08-28T03:55:51.554031"
+  },
+  {
+    "title": "Software Engineer C++",
+    "company": "AKUNA CAPITAL",
+    "url": "https://au.indeed.com/viewjob?jk=e41d57d90ed596de",
+    "scraped_at": "2026-08-28T03:55:51.555904"
+  },
+  {
+    "title": "Software Development Engineer, Internet Edge Services",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=58ba0d9e2afd2219",
+    "scraped_at": "2026-08-28T03:55:51.558109"
   }
 ]
