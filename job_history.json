@@ -1,17 +1,5 @@
 [
   {
-    "title": "Software Engineer",
-    "company": "A S Consultants",
-    "url": "https://au.indeed.com/viewjob?jk=576fd7c461b76233",
-    "scraped_at": "2026-06-29T08:50:50.245589"
-  },
-  {
-    "title": "Mechatronics Engineer",
-    "company": "Sundrive",
-    "url": "https://au.indeed.com/viewjob?jk=39b6df2af6f72fa3",
-    "scraped_at": "2026-06-29T08:50:50.246391"
-  },
-  {
     "title": "DevOps Engineer",
     "company": "NCS",
     "url": "https://au.indeed.com/viewjob?jk=c6835ae93750503f",
@@ -5998,5 +5986,17 @@
     "company": "FinXL",
     "url": "https://au.indeed.com/viewjob?jk=fc5cefc0571ec7b6",
     "scraped_at": "2026-08-28T15:47:52.180292"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=35c9b7ece42e42d9",
+    "scraped_at": "2026-08-29T00:15:36.191356"
+  },
+  {
+    "title": "Expressions of Interest | Credit Risk Opportunities",
+    "company": "ING",
+    "url": "https://au.indeed.com/viewjob?jk=73a7a945e276df30",
+    "scraped_at": "2026-08-29T00:15:36.202625"
   }
 ]
