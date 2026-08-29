@@ -1,17 +1,5 @@
 [
   {
-    "title": "Analyst, Revenue Insights & Partnering",
-    "company": "Team Global Express",
-    "url": "https://au.indeed.com/viewjob?jk=09e99f28900c5c44",
-    "scraped_at": "2026-06-29T15:31:23.515166"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=19fa9f3eae4440c0",
-    "scraped_at": "2026-06-29T15:31:23.516215"
-  },
-  {
     "title": "Customer Data Scientist (Statsig)",
     "company": "Amplitude",
     "url": "https://au.indeed.com/viewjob?jk=a8fee800bdeb28f3",
@@ -5998,5 +5986,17 @@
     "company": "Superloop",
     "url": "https://au.indeed.com/viewjob?jk=c40d7d2a6e70657c",
     "scraped_at": "2026-08-29T19:04:16.447538"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Accenture",
+    "url": "https://au.indeed.com/viewjob?jk=0418a0d0ed289544",
+    "scraped_at": "2026-08-29T22:07:46.385753"
+  },
+  {
+    "title": "PMO Analyst",
+    "company": "Dnata",
+    "url": "https://au.indeed.com/viewjob?jk=13039bb6b9c7791a",
+    "scraped_at": "2026-08-29T22:07:46.394695"
   }
 ]
