@@ -1,23 +1,5 @@
 [
   {
-    "title": "DevOps Engineer",
-    "company": "NCS",
-    "url": "https://au.indeed.com/viewjob?jk=c6835ae93750503f",
-    "scraped_at": "2026-06-29T08:50:50.251411"
-  },
-  {
-    "title": "Tech Lead (DevSecOps)",
-    "company": "Blinq",
-    "url": "https://au.indeed.com/viewjob?jk=1f2559997876a297",
-    "scraped_at": "2026-06-29T08:50:50.252397"
-  },
-  {
-    "title": "Software Engineer (Operational Systems)",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=08f3069fe7f59074",
-    "scraped_at": "2026-06-29T08:50:50.256019"
-  },
-  {
     "title": "Process Engineer",
     "company": "Sicona Battery Technologies",
     "url": "https://au.indeed.com/viewjob?jk=70d933171e69b9d4",
@@ -5998,5 +5980,23 @@
     "company": "ING",
     "url": "https://au.indeed.com/viewjob?jk=73a7a945e276df30",
     "scraped_at": "2026-08-29T00:15:36.202625"
+  },
+  {
+    "title": "Technical Business Analyst ? Appian Workflow (Banking)",
+    "company": "Persistent Systems",
+    "url": "https://au.indeed.com/viewjob?jk=c17a92e392a6b5ba",
+    "scraped_at": "2026-08-29T10:35:27.803054"
+  },
+  {
+    "title": "GEN AI Engineer",
+    "company": "Infosys",
+    "url": "https://au.indeed.com/viewjob?jk=13c1cf7488f9d8b1",
+    "scraped_at": "2026-08-29T10:35:27.810759"
+  },
+  {
+    "title": "Machine Learning Engineer (LLM/VLM) - Trust and Safety (Australia)",
+    "company": "TikTok",
+    "url": "https://au.indeed.com/viewjob?jk=e4e8b41351fc915d",
+    "scraped_at": "2026-08-29T10:35:27.811836"
   }
 ]
