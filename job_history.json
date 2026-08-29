@@ -1,47 +1,5 @@
 [
   {
-    "title": "Process Engineer",
-    "company": "Sicona Battery Technologies",
-    "url": "https://au.indeed.com/viewjob?jk=70d933171e69b9d4",
-    "scraped_at": "2026-06-29T08:50:50.257431"
-  },
-  {
-    "title": "Insights Analyst",
-    "company": "Hungry Jack's",
-    "url": "https://au.indeed.com/viewjob?jk=a1f834a8094b168d",
-    "scraped_at": "2026-06-29T08:50:50.259232"
-  },
-  {
-    "title": "Geospatial Analyst",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=ec67575e853bbfec",
-    "scraped_at": "2026-06-29T08:50:50.260024"
-  },
-  {
-    "title": "Energy Engineering Assistant \u2014 Solar, Battery & EV | Casual / Part-time",
-    "company": "Aussie Hybrid Solar",
-    "url": "https://au.indeed.com/viewjob?jk=0932b2f2bb5a9b6e",
-    "scraped_at": "2026-06-29T08:50:50.267912"
-  },
-  {
-    "title": "Solution Architect (12 Month Contract)",
-    "company": "Chubb Insurance",
-    "url": "https://au.indeed.com/viewjob?jk=364acac8536e52cb",
-    "scraped_at": "2026-06-29T08:50:50.269870"
-  },
-  {
-    "title": "Associate Product Development Engineer",
-    "company": "Acusensus Australia",
-    "url": "https://au.indeed.com/viewjob?jk=fd344e3c91ea1d11",
-    "scraped_at": "2026-06-29T08:50:50.272057"
-  },
-  {
-    "title": "Technical Business Analyst (12 Month Contract)",
-    "company": "Chubb Insurance",
-    "url": "https://au.indeed.com/viewjob?jk=2dd2be83f07d6a79",
-    "scraped_at": "2026-06-29T15:31:23.514384"
-  },
-  {
     "title": "Analyst, Revenue Insights & Partnering",
     "company": "Team Global Express",
     "url": "https://au.indeed.com/viewjob?jk=09e99f28900c5c44",
@@ -5998,5 +5956,47 @@
     "company": "TikTok",
     "url": "https://au.indeed.com/viewjob?jk=e4e8b41351fc915d",
     "scraped_at": "2026-08-29T10:35:27.811836"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Timescapes",
+    "url": "https://au.indeed.com/viewjob?jk=f12ed93e214d0ed9",
+    "scraped_at": "2026-08-29T19:04:16.419910"
+  },
+  {
+    "title": "Machine Learning Engineer / Data Scientist",
+    "company": "The Argyle Network",
+    "url": "https://au.indeed.com/viewjob?jk=e84c59ec19ca12b4",
+    "scraped_at": "2026-08-29T19:04:16.420535"
+  },
+  {
+    "title": "Machine Learning Engineer - Capital Investment - Data & AI - Sydney",
+    "company": "The Argyle Network",
+    "url": "https://au.indeed.com/viewjob?jk=38cb58755a7f98bc",
+    "scraped_at": "2026-08-29T19:04:16.420881"
+  },
+  {
+    "title": "Test Analyst",
+    "company": "Harvey Norman",
+    "url": "https://au.indeed.com/viewjob?jk=218d257e898cd1ce",
+    "scraped_at": "2026-08-29T19:04:16.439122"
+  },
+  {
+    "title": "Growth (Analyst, Junior)",
+    "company": "CoreFlow",
+    "url": "https://au.indeed.com/viewjob?jk=27fbfe3174ec6ef8",
+    "scraped_at": "2026-08-29T19:04:16.439816"
+  },
+  {
+    "title": "Graduate - Data Engineer",
+    "company": "Whitehaven Coal",
+    "url": "https://au.indeed.com/viewjob?jk=11549022c1f4c486",
+    "scraped_at": "2026-08-29T19:04:16.446814"
+  },
+  {
+    "title": "Graduate Data Analyst",
+    "company": "Superloop",
+    "url": "https://au.indeed.com/viewjob?jk=c40d7d2a6e70657c",
+    "scraped_at": "2026-08-29T19:04:16.447538"
   }
 ]
