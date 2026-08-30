@@ -1,17 +1,5 @@
 [
   {
-    "title": "Application Support Tech Lead Analyst (Digital Custody Assets) - Vice President",
-    "company": "Citi",
-    "url": "https://au.indeed.com/viewjob?jk=e874b08d6aca0941",
-    "scraped_at": "2026-06-29T18:04:03.254593"
-  },
-  {
-    "title": "Research Analyst - Vice President",
-    "company": "Citi",
-    "url": "https://au.indeed.com/viewjob?jk=8867fa4a48275367",
-    "scraped_at": "2026-06-29T18:04:03.255252"
-  },
-  {
     "title": "Software Engineer",
     "company": "Propeller",
     "url": "https://au.indeed.com/viewjob?jk=9d8fefc2e5407148",
@@ -5998,5 +5986,17 @@
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=165c1b284ad86359",
     "scraped_at": "2026-08-30T09:36:10.190565"
+  },
+  {
+    "title": "Lead Frontend Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=2d106c644009e5f2",
+    "scraped_at": "2026-08-30T22:14:32.126424"
+  },
+  {
+    "title": "Junior Automation Test Analyst",
+    "company": "MACS Technologies Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=1d58a8fcfe7fa6ca",
+    "scraped_at": "2026-08-30T22:14:32.133098"
   }
 ]
