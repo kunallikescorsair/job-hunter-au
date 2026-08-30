@@ -1,17 +1,5 @@
 [
   {
-    "title": "Customer Data Scientist (Statsig)",
-    "company": "Amplitude",
-    "url": "https://au.indeed.com/viewjob?jk=a8fee800bdeb28f3",
-    "scraped_at": "2026-06-29T18:04:03.234089"
-  },
-  {
-    "title": "Software Engineer II - Organic Growth",
-    "company": "Microsoft",
-    "url": "https://au.indeed.com/viewjob?jk=5229ca36e05a5ad8",
-    "scraped_at": "2026-06-29T18:04:03.247784"
-  },
-  {
     "title": "Application Support Tech Lead Analyst (Digital Custody Assets) - Vice President",
     "company": "Citi",
     "url": "https://au.indeed.com/viewjob?jk=e874b08d6aca0941",
@@ -5998,5 +5986,17 @@
     "company": "Dnata",
     "url": "https://au.indeed.com/viewjob?jk=13039bb6b9c7791a",
     "scraped_at": "2026-08-29T22:07:46.394695"
+  },
+  {
+    "title": "Product Owner \u2013 Commodities, Trade & Transition",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=cdec63614c6479a5",
+    "scraped_at": "2026-08-30T09:36:10.184173"
+  },
+  {
+    "title": "Technology Business Analyst (12 month Secondment/Max Term Role)",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=165c1b284ad86359",
+    "scraped_at": "2026-08-30T09:36:10.190565"
   }
 ]
