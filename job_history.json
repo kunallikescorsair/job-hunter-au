@@ -1,23 +1,5 @@
 [
   {
-    "title": "Software Engineer",
-    "company": "Propeller",
-    "url": "https://au.indeed.com/viewjob?jk=9d8fefc2e5407148",
-    "scraped_at": "2026-06-30T02:29:50.927957"
-  },
-  {
-    "title": "Customer Success Engineer",
-    "company": "CIM",
-    "url": "https://au.indeed.com/viewjob?jk=97a5c7574423d35c",
-    "scraped_at": "2026-06-30T02:29:50.929702"
-  },
-  {
-    "title": "Machine Learning Engineer- Software",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=dcc4e2b74e3a9741",
-    "scraped_at": "2026-06-30T07:42:53.012556"
-  },
-  {
     "title": "ICT Commercial Account Executive",
     "company": "Datadog",
     "url": "https://au.indeed.com/viewjob?jk=dfb823af4b1e4f65",
@@ -5998,5 +5980,23 @@
     "company": "MACS Technologies Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=1d58a8fcfe7fa6ca",
     "scraped_at": "2026-08-30T22:14:32.133098"
+  },
+  {
+    "title": "Data & AI Consultant",
+    "company": "ASI Solutions",
+    "url": "https://au.indeed.com/viewjob?jk=fa3cc560d151e330",
+    "scraped_at": "2026-08-31T02:22:50.962932"
+  },
+  {
+    "title": "Assembly Technician - Coil Winding",
+    "company": "Advanced Navigation",
+    "url": "https://au.indeed.com/viewjob?jk=6a4aca8ec68e406f",
+    "scraped_at": "2026-08-31T02:22:50.963523"
+  },
+  {
+    "title": "Product Manager - Growth",
+    "company": "Corto Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=af0b21935d4581cc",
+    "scraped_at": "2026-08-31T02:22:50.973465"
   }
 ]
