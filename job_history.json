@@ -1,35 +1,5 @@
 [
   {
-    "title": "QA Automation Engineer",
-    "company": "Relevance AI",
-    "url": "https://au.indeed.com/viewjob?jk=853c144625d196e5",
-    "scraped_at": "2026-06-30T13:57:18.608242"
-  },
-  {
-    "title": "Commercial Sales Specialist",
-    "company": "Equifax",
-    "url": "https://au.indeed.com/viewjob?jk=632c570556c04b7d",
-    "scraped_at": "2026-06-30T13:57:18.619170"
-  },
-  {
-    "title": "Implementation Consultant",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=270d453dbb96ed03",
-    "scraped_at": "2026-06-30T13:57:18.627159"
-  },
-  {
-    "title": "Strategic Account Executive",
-    "company": "Twilio",
-    "url": "https://au.indeed.com/viewjob?jk=bbfe647070a2da88",
-    "scraped_at": "2026-06-30T13:57:18.628360"
-  },
-  {
-    "title": "Customer Engineer AI, Financial Services, Google Cloud",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=641b4b7a953fa58a",
-    "scraped_at": "2026-06-30T17:47:31.458301"
-  },
-  {
     "title": "AI Adoption Customer Engineer, Google Cloud",
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=4ff86d5c7a17b2f2",
@@ -5998,5 +5968,35 @@
     "company": "Circana Australia",
     "url": "https://au.indeed.com/viewjob?jk=933c53c452f2f1f5",
     "scraped_at": "2026-08-31T10:16:15.934902"
+  },
+  {
+    "title": "Full Stack Software Engineer - Agentic AI",
+    "company": "NinjaTech AI",
+    "url": "https://au.indeed.com/viewjob?jk=9c648ae7db17f77f",
+    "scraped_at": "2026-08-31T18:27:09.990520"
+  },
+  {
+    "title": "Binance Accelerator Program - Applied AI Agent Engineer (Fully Remote)",
+    "company": "Binance",
+    "url": "https://au.indeed.com/viewjob?jk=96f7175c2adf2db7",
+    "scraped_at": "2026-08-31T18:27:09.991333"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Property Me",
+    "url": "https://au.indeed.com/viewjob?jk=257ab99f232f4a44",
+    "scraped_at": "2026-08-31T18:27:09.999552"
+  },
+  {
+    "title": "Project Manager",
+    "company": "Eaton",
+    "url": "https://au.indeed.com/viewjob?jk=030bd1fb577cac45",
+    "scraped_at": "2026-08-31T18:27:10.000136"
+  },
+  {
+    "title": "Fraud & Scams Monitoring Analyst",
+    "company": "Rabobank",
+    "url": "https://au.indeed.com/viewjob?jk=a34075f71d009b63",
+    "scraped_at": "2026-08-31T18:27:10.002224"
   }
 ]
