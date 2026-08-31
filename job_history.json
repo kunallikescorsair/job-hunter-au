@@ -1,83 +1,5 @@
 [
   {
-    "title": "ICT Commercial Account Executive",
-    "company": "Datadog",
-    "url": "https://au.indeed.com/viewjob?jk=dfb823af4b1e4f65",
-    "scraped_at": "2026-06-30T07:42:53.021196"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Propeller",
-    "url": "https://au.indeed.com/viewjob?jk=50111477b129e2f3",
-    "scraped_at": "2026-06-30T07:42:53.021989"
-  },
-  {
-    "title": "Data Test Analyst - Data Migration",
-    "company": "NTT DATA",
-    "url": "https://au.indeed.com/viewjob?jk=339e7084683f7318",
-    "scraped_at": "2026-06-30T07:42:53.025199"
-  },
-  {
-    "title": "Technical Business Analyst (SharePoint) \u2013 Healthcare Domain",
-    "company": "BMP Technologies Pty. Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=6197673baa2a641e",
-    "scraped_at": "2026-06-30T07:42:53.025885"
-  },
-  {
-    "title": "Investment Analyst | Office of the CIO",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=2f9fcc152c1b7799",
-    "scraped_at": "2026-06-30T07:42:53.026524"
-  },
-  {
-    "title": "Treasury Business Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=e79ac3ab59313cf9",
-    "scraped_at": "2026-06-30T07:42:53.027512"
-  },
-  {
-    "title": "Engineering Lead | Azure | Sydney",
-    "company": "Deloitte",
-    "url": "https://au.indeed.com/viewjob?jk=eaa0a47f510a0a5a",
-    "scraped_at": "2026-06-30T07:42:53.035115"
-  },
-  {
-    "title": "Solution Architect",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=7d05ccc97926f697",
-    "scraped_at": "2026-06-30T07:42:53.035814"
-  },
-  {
-    "title": "Construction Specialist",
-    "company": "Tesla",
-    "url": "https://au.indeed.com/viewjob?jk=5651e322d927a1de",
-    "scraped_at": "2026-06-30T10:49:28.426552"
-  },
-  {
-    "title": "Strategic Workforce Planning Analyst",
-    "company": "QBE",
-    "url": "https://au.indeed.com/viewjob?jk=ca9b8dda2eedf5b8",
-    "scraped_at": "2026-06-30T10:49:28.433101"
-  },
-  {
-    "title": "AWS Technical Lead",
-    "company": "NTT DATA",
-    "url": "https://au.indeed.com/viewjob?jk=fc5b02a0d6fec201",
-    "scraped_at": "2026-06-30T10:49:28.440204"
-  },
-  {
-    "title": "Data Center Technical Operations Engineer",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=6e6bd922ab8ff610",
-    "scraped_at": "2026-06-30T10:49:28.441847"
-  },
-  {
-    "title": "Engineering Lead - Digital Applications",
-    "company": "Tyro Payments",
-    "url": "https://au.indeed.com/viewjob?jk=ea2e45688b81239a",
-    "scraped_at": "2026-06-30T13:57:18.607861"
-  },
-  {
     "title": "QA Automation Engineer",
     "company": "Relevance AI",
     "url": "https://au.indeed.com/viewjob?jk=853c144625d196e5",
@@ -5998,5 +5920,83 @@
     "company": "Corto Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=af0b21935d4581cc",
     "scraped_at": "2026-08-31T02:22:50.973465"
+  },
+  {
+    "title": "Card Fraud Analytics Analyst",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=468480cf5ac382c7",
+    "scraped_at": "2026-08-31T10:16:15.903279"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=61c0f73ab8d829bb",
+    "scraped_at": "2026-08-31T10:16:15.904685"
+  },
+  {
+    "title": "Data Scientist (Product)",
+    "company": "CoreFlow",
+    "url": "https://au.indeed.com/viewjob?jk=4b8eb28745d5844a",
+    "scraped_at": "2026-08-31T10:16:15.908783"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Optus",
+    "url": "https://au.indeed.com/viewjob?jk=516adb7b42e2ce2a",
+    "scraped_at": "2026-08-31T10:16:15.909515"
+  },
+  {
+    "title": "Full Stack Agentic Engineer",
+    "company": "1QLabs",
+    "url": "https://au.indeed.com/viewjob?jk=b4ebe2279566c2d3",
+    "scraped_at": "2026-08-31T10:16:15.917407"
+  },
+  {
+    "title": "Product Design Manager",
+    "company": "Sitemate",
+    "url": "https://au.indeed.com/viewjob?jk=c2344cca4f679089",
+    "scraped_at": "2026-08-31T10:16:15.919159"
+  },
+  {
+    "title": "Assembly Technician",
+    "company": "Advanced Navigation",
+    "url": "https://au.indeed.com/viewjob?jk=d49a1b6cd7580366",
+    "scraped_at": "2026-08-31T10:16:15.919831"
+  },
+  {
+    "title": "Assembly Technician - Electronics Manufacturing",
+    "company": "Advanced Navigation",
+    "url": "https://au.indeed.com/viewjob?jk=673899cb5faf2935",
+    "scraped_at": "2026-08-31T10:16:15.920289"
+  },
+  {
+    "title": "Forward Deployed Engineer",
+    "company": "Australian Financial Complaints Authority",
+    "url": "https://au.indeed.com/viewjob?jk=5f97cb2f40a86e4f",
+    "scraped_at": "2026-08-31T10:16:15.923448"
+  },
+  {
+    "title": "Network Deployment Engineer - APJC",
+    "company": "Cloudflare",
+    "url": "https://au.indeed.com/viewjob?jk=11596a97d96e7feb",
+    "scraped_at": "2026-08-31T10:16:15.925022"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=a7d60a8a4356dd65",
+    "scraped_at": "2026-08-31T10:16:15.927477"
+  },
+  {
+    "title": "Commercial Support Analyst",
+    "company": "Circana",
+    "url": "https://au.indeed.com/viewjob?jk=85cfe98b3e336002",
+    "scraped_at": "2026-08-31T10:16:15.928953"
+  },
+  {
+    "title": "Commercial Support Analyst",
+    "company": "Circana Australia",
+    "url": "https://au.indeed.com/viewjob?jk=933c53c452f2f1f5",
+    "scraped_at": "2026-08-31T10:16:15.934902"
   }
 ]
