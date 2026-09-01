@@ -1,11 +1,5 @@
 [
   {
-    "title": "Systems Development Engineer, Edge Networking",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=9ca18870d50be65f",
-    "scraped_at": "2026-07-01T17:47:08.978831"
-  },
-  {
     "title": "Network Engineer - Field",
     "company": "Optus",
     "url": "https://au.indeed.com/viewjob?jk=2def5303c8fe3816",
@@ -5998,5 +5992,11 @@
     "company": "Tata Consultancy Services (TCS)",
     "url": "https://au.indeed.com/viewjob?jk=b17c9d4e0b7ecffa",
     "scraped_at": "2026-09-01T15:46:36.261045"
+  },
+  {
+    "title": "Measurement Analyst, CoE - Analytics & Operations (Sydney)",
+    "company": "TikTok",
+    "url": "https://au.indeed.com/viewjob?jk=fe050e2cd287f861",
+    "scraped_at": "2026-09-01T19:00:35.153325"
   }
 ]
