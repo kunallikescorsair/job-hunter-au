@@ -1,47 +1,5 @@
 [
   {
-    "title": "Snowflake Architect",
-    "company": "Cognizant",
-    "url": "https://au.indeed.com/viewjob?jk=1a2201ca23633335",
-    "scraped_at": "2026-07-01T14:09:29.090315"
-  },
-  {
-    "title": "Technical Escalations Engineer 2 (Service Management - Service Response) - APJ",
-    "company": "Datadog",
-    "url": "https://au.indeed.com/viewjob?jk=eb93c476f3720423",
-    "scraped_at": "2026-07-01T14:09:29.095507"
-  },
-  {
-    "title": "Electrical Engineering Technician",
-    "company": "BORG",
-    "url": "https://au.indeed.com/viewjob?jk=8a076c5fd66a4f0d",
-    "scraped_at": "2026-07-01T14:09:29.106343"
-  },
-  {
-    "title": "Systems Engineer",
-    "company": "Tecala",
-    "url": "https://au.indeed.com/viewjob?jk=8062b435c8746a0c",
-    "scraped_at": "2026-07-01T14:09:29.106873"
-  },
-  {
-    "title": "Software Engineer (IFS Could)",
-    "company": "InfoConsulting",
-    "url": "https://au.indeed.com/viewjob?jk=f310d67466b33633",
-    "scraped_at": "2026-07-01T14:09:29.108777"
-  },
-  {
-    "title": "Digital Solution Engineer - Dynamics 365 Supply Chain Management",
-    "company": "Microsoft",
-    "url": "https://au.indeed.com/viewjob?jk=4f7a46dd8ff6dcfa",
-    "scraped_at": "2026-07-01T17:47:08.967901"
-  },
-  {
-    "title": "Solution Architect",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=60865ee2a86f05a9",
-    "scraped_at": "2026-07-01T17:47:08.975788"
-  },
-  {
     "title": "Systems Development Engineer, Edge Networking",
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=9ca18870d50be65f",
@@ -5998,5 +5956,47 @@
     "company": "BlueScope",
     "url": "https://au.indeed.com/viewjob?jk=10d9a18e88625d34",
     "scraped_at": "2026-09-01T09:00:50.193237"
+  },
+  {
+    "title": "Embedded Electronics Team Lead",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=47dfa9313fa13252",
+    "scraped_at": "2026-09-01T15:46:36.232703"
+  },
+  {
+    "title": "Embedded Electronics Team Lead",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=d2a6554af1958435",
+    "scraped_at": "2026-09-01T15:46:36.233248"
+  },
+  {
+    "title": "Lead Software & AI Engineering Consultant",
+    "company": "DIUS",
+    "url": "https://au.indeed.com/viewjob?jk=7ff58f0b5c868076",
+    "scraped_at": "2026-09-01T15:46:36.234277"
+  },
+  {
+    "title": "Automation Engineer (Payment Terminal)",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=89b58e2c1819c0da",
+    "scraped_at": "2026-09-01T15:46:36.242770"
+  },
+  {
+    "title": "Automation Engineer (Connex Payments)",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=8a54e51f5abaa122",
+    "scraped_at": "2026-09-01T15:46:36.243301"
+  },
+  {
+    "title": "Logistics Analyst",
+    "company": "Kellanova",
+    "url": "https://au.indeed.com/viewjob?jk=eae605c6ce03049f",
+    "scraped_at": "2026-09-01T15:46:36.248065"
+  },
+  {
+    "title": "Fenergo Developer",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=b17c9d4e0b7ecffa",
+    "scraped_at": "2026-09-01T15:46:36.261045"
   }
 ]
