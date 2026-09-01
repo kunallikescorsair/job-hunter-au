@@ -1,71 +1,5 @@
 [
   {
-    "title": "AI Adoption Customer Engineer, Google Cloud",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=4ff86d5c7a17b2f2",
-    "scraped_at": "2026-06-30T17:47:31.459116"
-  },
-  {
-    "title": "Finance Analyst",
-    "company": "CSR",
-    "url": "https://au.indeed.com/viewjob?jk=9b1d1c09c35cd2e4",
-    "scraped_at": "2026-06-30T17:47:31.466572"
-  },
-  {
-    "title": "Systems SQL Analyst",
-    "company": "Excolo Partners",
-    "url": "https://au.indeed.com/viewjob?jk=0c47353818339bda",
-    "scraped_at": "2026-06-30T17:47:31.469997"
-  },
-  {
-    "title": "AI Solution Architect - Sydney/Melbourne",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=01a0ec58543d600b",
-    "scraped_at": "2026-06-30T21:22:47.873657"
-  },
-  {
-    "title": "Software Engineer, DevOps",
-    "company": "H2O.ai",
-    "url": "https://au.indeed.com/viewjob?jk=0e912964091fd92f",
-    "scraped_at": "2026-06-30T21:22:47.881485"
-  },
-  {
-    "title": "Statistical & Financial Reporting Analyst",
-    "company": "NSW Department of Communities and Justice",
-    "url": "https://au.indeed.com/viewjob?jk=ac147513f1ed5ced",
-    "scraped_at": "2026-06-30T21:22:47.890197"
-  },
-  {
-    "title": "Financial Analyst",
-    "company": "IQVIA",
-    "url": "https://au.indeed.com/viewjob?jk=acbd3cae5749d254",
-    "scraped_at": "2026-07-01T02:36:23.669499"
-  },
-  {
-    "title": "Systems Engineer \u2013 IFS Cloud",
-    "company": "InfoConsulting",
-    "url": "https://au.indeed.com/viewjob?jk=92f3672c6cb156b4",
-    "scraped_at": "2026-07-01T02:36:23.674863"
-  },
-  {
-    "title": "Sales Planning & Operation Specialist (Automotive/OEM)",
-    "company": "Employment Hero",
-    "url": "https://au.indeed.com/viewjob?jk=2672db2ec802a5d9",
-    "scraped_at": "2026-07-01T08:04:22.285637"
-  },
-  {
-    "title": "Account Executive, Scale",
-    "company": "Braze",
-    "url": "https://au.indeed.com/viewjob?jk=78b6c4bb6b8d0ae6",
-    "scraped_at": "2026-07-01T08:04:22.294294"
-  },
-  {
-    "title": "AI in Research Training Lead",
-    "company": "University of Sydney",
-    "url": "https://au.indeed.com/viewjob?jk=79a7ddc179b52fdf",
-    "scraped_at": "2026-07-01T14:09:29.081689"
-  },
-  {
     "title": "Snowflake Architect",
     "company": "Cognizant",
     "url": "https://au.indeed.com/viewjob?jk=1a2201ca23633335",
@@ -5998,5 +5932,71 @@
     "company": "Rabobank",
     "url": "https://au.indeed.com/viewjob?jk=a34075f71d009b63",
     "scraped_at": "2026-08-31T18:27:10.002224"
+  },
+  {
+    "title": "Software Engineer, Automated Calibration Services",
+    "company": "Silicon Quantum Computing",
+    "url": "https://au.indeed.com/viewjob?jk=f7e401472527099d",
+    "scraped_at": "2026-09-01T09:00:50.170890"
+  },
+  {
+    "title": "ML Ops Engineer, Quantum Machine Learning",
+    "company": "Silicon Quantum Computing",
+    "url": "https://au.indeed.com/viewjob?jk=ba50fd456e88f015",
+    "scraped_at": "2026-09-01T09:00:50.171682"
+  },
+  {
+    "title": "Digital Accessibility Specialist",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=75d880724cc48bc0",
+    "scraped_at": "2026-09-01T09:00:50.178721"
+  },
+  {
+    "title": "Workflow orchestration + Full-stack AI Engineer",
+    "company": "Delivery Centric",
+    "url": "https://au.indeed.com/viewjob?jk=e1d8d26f5512a2f6",
+    "scraped_at": "2026-09-01T09:00:50.179001"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=336d69a736dbf194",
+    "scraped_at": "2026-09-01T09:00:50.179864"
+  },
+  {
+    "title": "Machine Learning Engineer, Automated Calibration Services",
+    "company": "Silicon Quantum Computing",
+    "url": "https://au.indeed.com/viewjob?jk=b2af327301dfba7f",
+    "scraped_at": "2026-09-01T09:00:50.180806"
+  },
+  {
+    "title": "Junior Risk Analyst/Liquidity Analyst",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=531feb021841a6e1",
+    "scraped_at": "2026-09-01T09:00:50.183758"
+  },
+  {
+    "title": "Commercial Analyst",
+    "company": "Origin Energy",
+    "url": "https://au.indeed.com/viewjob?jk=917e2751766b067e",
+    "scraped_at": "2026-09-01T09:00:50.187918"
+  },
+  {
+    "title": "Pre-Contracts Analyst",
+    "company": "John Holland",
+    "url": "https://au.indeed.com/viewjob?jk=d29e36621c06352b",
+    "scraped_at": "2026-09-01T09:00:50.190507"
+  },
+  {
+    "title": "Associate Cloud Operations Engineer",
+    "company": "Nuix",
+    "url": "https://au.indeed.com/viewjob?jk=9c528f48db594357",
+    "scraped_at": "2026-09-01T09:00:50.191598"
+  },
+  {
+    "title": "Product Development Engineer (Building & Construction Products R&D)",
+    "company": "BlueScope",
+    "url": "https://au.indeed.com/viewjob?jk=10d9a18e88625d34",
+    "scraped_at": "2026-09-01T09:00:50.193237"
   }
 ]
