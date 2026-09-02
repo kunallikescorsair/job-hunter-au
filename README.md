@@ -1,10 +1,10 @@
-# Job Hunter AU 🇦🇺
+# Job Hunter AU
 
-An automated IT job scraping and alerting system for Australia, designed to find jobs relevant for Permanent Residency (PR) pathways.
+An automated Australian IT job discovery and alerting system built with Python, JobSpy, GitHub Actions and Telegram.
 
 ## 📋 Overview
 
-This system automatically scrapes IT job listings from Indeed and Google Jobs across Australia, filters them based on relevance and eligibility criteria, and sends real-time alerts via Telegram. It's specifically designed for individuals with BIT/MICT backgrounds seeking PR-relevant IT roles in Australia.
+The system searches job listings on a recurring schedule, applies configurable role, location and eligibility filters, deduplicates previously seen vacancies, maintains job-search history and sends relevant opportunities through Telegram.
 
 ## 🏗️ Architecture
 
@@ -76,8 +76,8 @@ job-hunter-au/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sandesh-chhetri/job-hunter-au.git
-   cd job-hunter-au
+    git clone https://github.com/kunallikescorsair/job-hunter-au.git
+    cd job-hunter-au
    ```
 
 2. **Install dependencies:**
@@ -353,5 +353,3 @@ This project is open source and available under the MIT License.
 - GitHub Actions for automation
 
 ---
-
-**Last Updated**: March 2026
