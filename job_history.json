@@ -1,59 +1,5 @@
 [
   {
-    "title": "Legal AI Business Consultant",
-    "company": "Corto Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=99aaa53e9b39b6e4",
-    "scraped_at": "2026-07-02T02:15:55.981052"
-  },
-  {
-    "title": "Software Engineer - Medical Device Applications",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=3846544bbaf3f407",
-    "scraped_at": "2026-07-02T02:15:55.997070"
-  },
-  {
-    "title": "Technical Representative QLD",
-    "company": "Axalta Coating Systems",
-    "url": "https://au.indeed.com/viewjob?jk=5929b12111a9b310",
-    "scraped_at": "2026-07-02T07:01:00.761227"
-  },
-  {
-    "title": "Technical Service Representative - CB2 - NM",
-    "company": "Axalta Coating Systems",
-    "url": "https://au.indeed.com/viewjob?jk=f635acb414cc136a",
-    "scraped_at": "2026-07-02T07:01:00.761597"
-  },
-  {
-    "title": "Financial Systems and Reporting Analyst",
-    "company": "Venues NSW",
-    "url": "https://au.indeed.com/viewjob?jk=b0acffd374e614c3",
-    "scraped_at": "2026-07-02T07:01:00.768160"
-  },
-  {
-    "title": "Portfolio Manager",
-    "company": "Corpay",
-    "url": "https://au.indeed.com/viewjob?jk=ce683f99e6632015",
-    "scraped_at": "2026-07-02T07:01:00.775756"
-  },
-  {
-    "title": "Biomedical Engineer",
-    "company": "Resmed",
-    "url": "https://au.indeed.com/viewjob?jk=45093b382bbedb94",
-    "scraped_at": "2026-07-02T07:01:00.778605"
-  },
-  {
-    "title": "Forward Deployed Engineer, Generative AI, GECX, Google Cloud",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=7dc57ffaf1c96e92",
-    "scraped_at": "2026-07-02T10:29:21.281597"
-  },
-  {
-    "title": "Technical Representative QLD",
-    "company": "Axalta Coating Systems",
-    "url": "https://au.indeed.com/viewjob?jk=98dd0a7ace0b13ab",
-    "scraped_at": "2026-07-02T10:29:21.285667"
-  },
-  {
     "title": "Technical Representative NSW",
     "company": "Axalta Coating Systems",
     "url": "https://au.indeed.com/viewjob?jk=3459367ec27d9b3b",
@@ -5998,5 +5944,59 @@
     "company": "MYOB",
     "url": "https://au.indeed.com/viewjob?jk=020eed3db2298afc",
     "scraped_at": "2026-09-02T02:00:39.685465"
+  },
+  {
+    "title": "Network Systems Infrastructure Solution Designers (Contract Opportunities)",
+    "company": "The Missing Link",
+    "url": "https://au.indeed.com/viewjob?jk=eef4552594944242",
+    "scraped_at": "2026-09-02T08:14:24.272304"
+  },
+  {
+    "title": "Talent Acquisition Partner \u2013 Engineering & Manufacturing",
+    "company": "Advanced Navigation",
+    "url": "https://au.indeed.com/viewjob?jk=6d93358ae7a51c7c",
+    "scraped_at": "2026-09-02T08:14:24.273166"
+  },
+  {
+    "title": "Trade Support Engineer",
+    "company": "AKUNA CAPITAL",
+    "url": "https://au.indeed.com/viewjob?jk=1ba75c0503d091b7",
+    "scraped_at": "2026-09-02T08:14:24.278699"
+  },
+  {
+    "title": "Expression of Interest - Cyber Data Engineers",
+    "company": "NTT DATA",
+    "url": "https://au.indeed.com/viewjob?jk=0fbdeb81f8533be9",
+    "scraped_at": "2026-09-02T08:14:24.279767"
+  },
+  {
+    "title": "Portfolio Risk & Analysis Specialist",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=30b9010f7ec0e41a",
+    "scraped_at": "2026-09-02T08:14:24.280818"
+  },
+  {
+    "title": "Trading Strategy",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=e64de07c1f24112a",
+    "scraped_at": "2026-09-02T08:14:24.281749"
+  },
+  {
+    "title": "Financial Operations Analyst",
+    "company": "ALDI",
+    "url": "https://au.indeed.com/viewjob?jk=a133436044f97e0e",
+    "scraped_at": "2026-09-02T08:14:24.285019"
+  },
+  {
+    "title": "Solutions Architect",
+    "company": "Nuix",
+    "url": "https://au.indeed.com/viewjob?jk=7f2541f84d059b63",
+    "scraped_at": "2026-09-02T08:14:24.286628"
+  },
+  {
+    "title": "Finance Operations Analyst - 12 Month Contract",
+    "company": "MYOB",
+    "url": "https://au.indeed.com/viewjob?jk=27ada8abd93607c2",
+    "scraped_at": "2026-09-02T08:14:24.287293"
   }
 ]
