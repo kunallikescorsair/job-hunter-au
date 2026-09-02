@@ -1,53 +1,5 @@
 [
   {
-    "title": "Technical Representative NSW",
-    "company": "Axalta Coating Systems",
-    "url": "https://au.indeed.com/viewjob?jk=3459367ec27d9b3b",
-    "scraped_at": "2026-07-02T10:29:21.286195"
-  },
-  {
-    "title": "Technical Service Representative - South Australia",
-    "company": "Axalta Coating Systems",
-    "url": "https://au.indeed.com/viewjob?jk=0cf5c9a28f019c22",
-    "scraped_at": "2026-07-02T10:29:21.286707"
-  },
-  {
-    "title": "NSW BUSINESS DEVELOPMENT MANAGER - U-POL",
-    "company": "Axalta Coating Systems",
-    "url": "https://au.indeed.com/viewjob?jk=dd58a673d8382068",
-    "scraped_at": "2026-07-02T10:29:21.287452"
-  },
-  {
-    "title": "Technical Representative WA",
-    "company": "Axalta Coating Systems",
-    "url": "https://au.indeed.com/viewjob?jk=c315ee5a1a7945b5",
-    "scraped_at": "2026-07-02T10:29:21.287990"
-  },
-  {
-    "title": "Reserving & Analytics Analyst, APAC",
-    "company": "AIG",
-    "url": "https://au.indeed.com/viewjob?jk=a440886fe4fb6b27",
-    "scraped_at": "2026-07-02T10:29:21.293831"
-  },
-  {
-    "title": "CMDB Specialist",
-    "company": "Sysintegra Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=1b35204c3b4eb6ff",
-    "scraped_at": "2026-07-02T10:29:21.296503"
-  },
-  {
-    "title": "Azure Data Architect",
-    "company": "HCLTech",
-    "url": "https://au.indeed.com/viewjob?jk=890f7635d73d6dd7",
-    "scraped_at": "2026-07-02T10:29:21.298054"
-  },
-  {
-    "title": "Azure Integration Engineer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=2594f68539e2299a",
-    "scraped_at": "2026-07-02T10:29:21.300874"
-  },
-  {
     "title": "Solutions Architect, Google Forge, Google Cloud",
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=d79df3006be64e39",
@@ -5998,5 +5950,53 @@
     "company": "MYOB",
     "url": "https://au.indeed.com/viewjob?jk=27ada8abd93607c2",
     "scraped_at": "2026-09-02T08:14:24.287293"
+  },
+  {
+    "title": "TIPM, Network Delivery, Data Center Capacity Delivery, BaND Network Delivery, Data Center Capacity Delivery",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=eba220a55360dc41",
+    "scraped_at": "2026-09-02T15:38:05.747363"
+  },
+  {
+    "title": "Automation & Lifecycle Specialist",
+    "company": "Heidi",
+    "url": "https://au.indeed.com/viewjob?jk=d8b10c7525f9ed26",
+    "scraped_at": "2026-09-02T15:38:05.748572"
+  },
+  {
+    "title": "Product Manager, Clinical Trials",
+    "company": "Heidi",
+    "url": "https://au.indeed.com/viewjob?jk=3d3f338615928431",
+    "scraped_at": "2026-09-02T15:38:05.750090"
+  },
+  {
+    "title": "Sales Enablement Manager (Armis)",
+    "company": "ServiceNow",
+    "url": "https://au.indeed.com/viewjob?jk=ad4b920e7dbf5781",
+    "scraped_at": "2026-09-02T15:38:05.751851"
+  },
+  {
+    "title": "Research Analyst - Fixed Income",
+    "company": "UBS",
+    "url": "https://au.indeed.com/viewjob?jk=6ea6e31bafc617ca",
+    "scraped_at": "2026-09-02T15:38:05.760749"
+  },
+  {
+    "title": "Category Analyst",
+    "company": "Suntory Global Spirits",
+    "url": "https://au.indeed.com/viewjob?jk=8b0134fd96a75f70",
+    "scraped_at": "2026-09-02T15:38:05.768111"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=34ef0edeed059b34",
+    "scraped_at": "2026-09-02T15:38:05.769111"
+  },
+  {
+    "title": "Database Engineer (PostgreSQL DBA)",
+    "company": "Delivery Centric",
+    "url": "https://au.indeed.com/viewjob?jk=5828e7158fb15ecf",
+    "scraped_at": "2026-09-02T15:38:05.774346"
   }
 ]
