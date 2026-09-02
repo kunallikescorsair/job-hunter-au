@@ -1,23 +1,5 @@
 [
   {
-    "title": "Solutions Architect, Google Forge, Google Cloud",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=d79df3006be64e39",
-    "scraped_at": "2026-07-02T10:29:21.305490"
-  },
-  {
-    "title": "Network Engineer",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=c943bef2460b2322",
-    "scraped_at": "2026-07-02T13:30:53.710649"
-  },
-  {
-    "title": "Production Flow Analyst",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=e8a846cfd0495aef",
-    "scraped_at": "2026-07-02T13:30:53.721422"
-  },
-  {
     "title": "Data Quality Manager",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=a9bef227f3c0e945",
@@ -5998,5 +5980,23 @@
     "company": "Delivery Centric",
     "url": "https://au.indeed.com/viewjob?jk=5828e7158fb15ecf",
     "scraped_at": "2026-09-02T15:38:05.774346"
+  },
+  {
+    "title": "Summer Internship - Data Science",
+    "company": "M\u00fcnchener R\u00fcckversicherungs-Gesellschaft",
+    "url": "https://au.indeed.com/viewjob?jk=5996a466f0a3aa46",
+    "scraped_at": "2026-09-02T19:06:17.238101"
+  },
+  {
+    "title": "AI Analyst",
+    "company": "ELMO Software",
+    "url": "https://au.indeed.com/viewjob?jk=b26052097a45e1a8",
+    "scraped_at": "2026-09-02T19:06:17.260270"
+  },
+  {
+    "title": "Commission Analyst \u2013 Fixed Term Contractor (6 months)",
+    "company": "Fiserv",
+    "url": "https://au.indeed.com/viewjob?jk=43ee97783a319e88",
+    "scraped_at": "2026-09-02T19:06:17.267914"
   }
 ]
