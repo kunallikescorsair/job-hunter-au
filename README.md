@@ -344,8 +344,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**Sandesh Chhetri**
-- GitHub: [@sandesh-chhetri](https://github.com/sandesh-chhetri)
+**Kunal Gurung**
 
 ## 🙏 Acknowledgments
 
