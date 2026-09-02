@@ -1,29 +1,5 @@
 [
   {
-    "title": "Finance Data Integration Reporting Analyst",
-    "company": "IMPERIAL BRANDS",
-    "url": "https://au.indeed.com/viewjob?jk=3f8696078ddd6b34",
-    "scraped_at": "2026-07-01T21:19:13.286472"
-  },
-  {
-    "title": "Associate Test Analyst",
-    "company": "HUB24",
-    "url": "https://au.indeed.com/viewjob?jk=49b16c5c5d32f745",
-    "scraped_at": "2026-07-01T21:19:13.287387"
-  },
-  {
-    "title": "Finance Analyst - 12 Month Contract",
-    "company": "CBRE",
-    "url": "https://au.indeed.com/viewjob?jk=0fb57e38bdd5d3b2",
-    "scraped_at": "2026-07-01T21:19:13.292153"
-  },
-  {
-    "title": "DevSecOps Engineer",
-    "company": "HUB24",
-    "url": "https://au.indeed.com/viewjob?jk=def7dfc3b83b3575",
-    "scraped_at": "2026-07-01T21:19:13.295283"
-  },
-  {
     "title": "Legal AI Business Consultant",
     "company": "Corto Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=99aaa53e9b39b6e4",
@@ -5998,5 +5974,29 @@
     "company": "Client of Xcelyst Limited",
     "url": "https://au.indeed.com/viewjob?jk=6e43a03b04e1ded5",
     "scraped_at": "2026-09-01T22:11:52.207704"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Buildings Alive",
+    "url": "https://au.indeed.com/viewjob?jk=ef1d71034c16e22c",
+    "scraped_at": "2026-09-02T02:00:39.661113"
+  },
+  {
+    "title": "Academy Participant - Software Engineering Bootcamp",
+    "company": "Deadly Coders",
+    "url": "https://au.indeed.com/viewjob?jk=7dcbd95a894768d2",
+    "scraped_at": "2026-09-02T02:00:39.674486"
+  },
+  {
+    "title": "Technical Services Engineer",
+    "company": "Ampol",
+    "url": "https://au.indeed.com/viewjob?jk=64f1a1c3a9090019",
+    "scraped_at": "2026-09-02T02:00:39.675421"
+  },
+  {
+    "title": "Finance Operations Analyst - 12 Month Contract",
+    "company": "MYOB",
+    "url": "https://au.indeed.com/viewjob?jk=020eed3db2298afc",
+    "scraped_at": "2026-09-02T02:00:39.685465"
   }
 ]
