@@ -1,23 +1,5 @@
 [
   {
-    "title": "Graduate Mathematician",
-    "company": "Light & Wonder",
-    "url": "https://au.indeed.com/viewjob?jk=e7eecb3b9c041163",
-    "scraped_at": "2026-07-02T17:27:54.400184"
-  },
-  {
-    "title": "Product Owner",
-    "company": "ELMO Software",
-    "url": "https://au.indeed.com/viewjob?jk=f8f85483e0e5623d",
-    "scraped_at": "2026-07-02T17:27:54.401888"
-  },
-  {
-    "title": "Program Manager",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=b168c127271cdb66",
-    "scraped_at": "2026-07-02T17:27:54.409687"
-  },
-  {
     "title": "IT Operations Analyst",
     "company": "Stake",
     "url": "https://au.indeed.com/viewjob?jk=394761c2ef353261",
@@ -5998,5 +5980,23 @@
     "company": "Emplifi",
     "url": "https://au.indeed.com/viewjob?jk=025dc70fe64eee49",
     "scraped_at": "2026-09-02T22:10:00.597891"
+  },
+  {
+    "title": "Account Executive, Enterprise - Financial Services",
+    "company": "Braze",
+    "url": "https://au.indeed.com/viewjob?jk=68c11a426f91d33c",
+    "scraped_at": "2026-09-03T02:05:19.281588"
+  },
+  {
+    "title": "Software Engineer, Internet Edge Services",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=6bc2071aff7d3887",
+    "scraped_at": "2026-09-03T02:05:19.286933"
+  },
+  {
+    "title": "Software Development Engineer, GCNA-D",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=8f8d63bb601bbb35",
+    "scraped_at": "2026-09-03T02:05:19.292798"
   }
 ]
