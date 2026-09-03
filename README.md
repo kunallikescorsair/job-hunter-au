@@ -1,268 +1,395 @@
 # Job Hunter AU
 
-An automated Australian IT job discovery and alerting system built with Python, JobSpy, GitHub Actions and Telegram.
+An automated Australian IT job discovery and alerting system built with Python, JobSpy, GitHub Actions, and Telegram.
 
-## 📋 Overview
+The system searches job listings on a recurring schedule, applies configurable role, location, seniority, and eligibility filters, removes previously seen vacancies, maintains job-search history, and sends relevant opportunities through Telegram.
 
-The system searches job listings on a recurring schedule, applies configurable role, location and eligibility filters, deduplicates previously seen vacancies, maintains job-search history and sends relevant opportunities through Telegram.
+## Features
 
-## 🏗️ Architecture
+- Search IT job listings from Indeed and Google Jobs
+- Configure job titles, technical keywords, locations, and exclusion rules
+- Filter out senior roles, high experience requirements, and selected eligibility restrictions
+- Deduplicate previously discovered vacancies
+- Send matching jobs through Telegram
+- Query recent jobs and job-search statistics through Telegram commands
+- Run automatically on a scheduled GitHub Actions workflow
+- Maintain persistent job-search history
+- Review historical job-search activity
+- Test Telegram bot functionality with Python unit tests
 
+## Architecture
+
+```text
+GitHub Actions
+    |
+    | Scheduled every 4 hours
+    v
+main.py
+    |
+    |-- Search job listings
+    |-- Apply filters
+    |-- Deduplicate vacancies
+    |
+    v
+config.py
+    |
+    |-- Search terms
+    |-- Blacklist keywords
+    |-- Required keywords
+    |-- Location rules
+    |
+    v
+job_history.json
+    |
+    |-- Store previously seen vacancies
+    |-- Prevent duplicate alerts
+    |
+    v
+Telegram
+    |
+    |-- Job alerts
+    |-- Recent jobs
+    |-- Statistics
+    |-- Reports
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    GitHub Actions (Every 4 Hours)           │
-└────────────────────────────┬────────────────────────────────┘
-                             │
-                             ▼
-┌─────────────────────────────────────────────────────────────┐
-│                      main.py (Scraper)                       │
-│  • Searches Indeed & Google Jobs                             │
-│  • Filters by keywords & location                            │
-│  • Deduplicates against history                              │
-└────────────────────────────┬────────────────────────────────┘
-                             │
-                             ▼
-┌─────────────────────────────────────────────────────────────┐
-│                    config.py (Configuration)                 │
-│  • Search terms (7 job categories)                          │
-│  • Blacklist keywords (senior/citizenship)                   │
-│  • Required technology keywords                              │
-│  • Location filters (Sydney, Remote)                         │
-└────────────────────────────┬────────────────────────────────┘
-                             │
-                             ▼
-┌─────────────────────────────────────────────────────────────┐
-│                  job_history.json (Database)                 │
-│  • Stores seen job URLs                                      │
-│  • Prevents duplicate alerts                                 │
-│  • Keeps last 1000 entries                                   │
-└────────────────────────────┬────────────────────────────────┘
-                             │
-                             ▼
-┌─────────────────────────────────────────────────────────────┐
-│                    Telegram Integration                      │
-│  • Real-time job alerts                                      │
-│  • Interactive bot with commands                             │
-│  • Job statistics and reports                                │
-└─────────────────────────────────────────────────────────────┘
-```
 
-## 📁 File Structure
+## Project Structure
 
-```
+```text
 job-hunter-au/
-├── main.py                      # Core scraper and alert system
-├── config.py                    # Configuration and search parameters
-├── telegram_bot.py              # Interactive Telegram bot
-├── job_history_reviewer.py      # Job history analytics module
-├── test_bot.py                  # Unit tests for bot commands
-├── requirements.txt             # Python dependencies
-├── job_history.json             # Job history database
-├── README.md                    # Project documentation
-└── .github/
-    └── workflows/
-        └── scrape.yml           # GitHub Actions automation
+├── .github/
+│   └── workflows/
+│       └── scrape.yml
+├── config.py
+├── job_history.json
+├── job_history_reviewer.py
+├── main.py
+├── requirements.txt
+├── telegram_bot.py
+├── test_bot.py
+└── README.md
 ```
 
-## 🚀 Quick Start
+### Main Components
 
-### Prerequisites
+| File | Purpose |
+|---|---|
+| `main.py` | Core job-search, filtering, deduplication, and alert workflow |
+| `config.py` | Search terms, keyword filters, and location rules |
+| `telegram_bot.py` | Telegram notifications and interactive commands |
+| `job_history_reviewer.py` | Job-history reporting and analysis |
+| `job_history.json` | Stores previously discovered vacancies |
+| `test_bot.py` | Unit tests for Telegram bot commands |
+| `.github/workflows/scrape.yml` | Scheduled GitHub Actions workflow |
+
+## Requirements
 
 - Python 3.10 or higher
-- Telegram Bot Token (from [@BotFather](https://t.me/BotFather))
-- Telegram Chat ID(s) for receiving alerts
+- Telegram bot token
+- Telegram chat ID
 
-### Installation
+## Installation
 
-1. **Clone the repository:**
-   ```bash
-    git clone https://github.com/kunallikescorsair/job-hunter-au.git
-    cd job-hunter-au
-   ```
+Clone the repository:
 
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+git clone https://github.com/kunallikescorsair/job-hunter-au.git
+cd job-hunter-au
+```
 
-3. **Set environment variables:**
-   ```bash
-   # Windows (PowerShell)
-   $env:TELEGRAM_TOKEN="your_bot_token_here"
-   $env:CHAT_ID="your_chat_id_here"
-   
-   # Linux/Mac
-   export TELEGRAM_TOKEN="your_bot_token_here"
-   export CHAT_ID="your_chat_id_here"
-   ```
+Install the dependencies:
 
-4. **Run the scraper:**
-   ```bash
-   python main.py
-   ```
+```bash
+pip install -r requirements.txt
+```
 
-## ⚙️ Configuration
+## Environment Variables
 
-### Environment Variables
+The application requires the following environment variables:
 
 | Variable | Description | Required |
-|----------|-------------|----------|
-| `TELEGRAM_TOKEN` | Telegram bot token from BotFather | Yes |
-| `CHAT_ID` | Comma-separated list of chat IDs to receive alerts | Yes |
+|---|---|---|
+| `TELEGRAM_TOKEN` | Telegram bot token created through BotFather | Yes |
+| `CHAT_ID` | Comma-separated Telegram chat IDs that receive alerts | Yes |
 
-### Search Configuration (config.py)
+### macOS and Linux
 
-#### Job Categories
+```bash
+export TELEGRAM_TOKEN="your_bot_token_here"
+export CHAT_ID="your_chat_id_here"
+```
 
-The system searches for jobs across 7 categories relevant to PR pathways:
+### Windows PowerShell
+
+```powershell
+$env:TELEGRAM_TOKEN="your_bot_token_here"
+$env:CHAT_ID="your_chat_id_here"
+```
+
+Do not commit Telegram tokens or chat IDs directly to the repository.
+
+## Running Locally
+
+Run the job-search workflow with:
+
+```bash
+python main.py
+```
+
+## Search Configuration
+
+Search behaviour is configured in `config.py`.
+
+The current configuration covers several junior and early-career Australian IT role categories.
+
+### Job Categories
 
 1. **ICT Support Technician / Service Desk Analyst**
-   - IT Support Officer, Service Desk Analyst, Helpdesk Support
-   - Desktop Support Technician, Technical Support Officer
+   - IT Support Officer
+   - Service Desk Analyst
+   - Helpdesk Support
+   - Desktop Support Technician
+   - Technical Support Officer
 
-2. **Clinical Systems Support Officer / Health ICT Support**
-   - Clinical Systems Support Officer, Health ICT Support
-   - Clinical Applications Support, eHealth Support Officer
+2. **Clinical Systems Support / Health ICT**
+   - Clinical Systems Support Officer
+   - Health ICT Support
+   - Clinical Applications Support
+   - eHealth Support Officer
 
 3. **Junior Systems Administrator**
-   - Junior Systems Administrator, ICT Systems & Network Officer
-   - Infrastructure Support Officer, Network Administrator
+   - Junior Systems Administrator
+   - ICT Systems & Network Officer
+   - Infrastructure Support Officer
+   - Network Administrator
 
 4. **Junior Business Analyst / Process Analyst**
-   - Junior Business Analyst, Systems Analyst
-   - Business Process Analyst, IT Business Analyst
+   - Junior Business Analyst
+   - Systems Analyst
+   - Business Process Analyst
+   - IT Business Analyst
 
 5. **Junior Data / Reporting Analyst**
-   - Junior Data Analyst, Reporting Officer
-   - BI Assistant, Business Intelligence Analyst
+   - Junior Data Analyst
+   - Reporting Officer
+   - BI Assistant
+   - Business Intelligence Analyst
 
 6. **Junior Software / Web Developer**
-   - Junior Software Developer, Junior Web Developer
-   - Backend Developer, Full Stack Developer
+   - Junior Software Developer
+   - Junior Web Developer
+   - Backend Developer
+   - Full Stack Developer
 
 7. **QA Tester / Software Tester**
-   - QA Engineer, Software Tester, Test Analyst
-   - UAT Tester, Quality Assurance Analyst
+   - QA Engineer
+   - Software Tester
+   - Test Analyst
+   - UAT Tester
+   - Quality Assurance Analyst
 
-#### Filtering Logic
+## Filtering Logic
 
-**Blacklist Keywords** (jobs containing these are excluded):
-- Seniority: senior, lead, principal, staff, manager, head of, director
-- Experience: 5+ years, 7+ years, 10+ years
-- Citizenship: australian citizen, citizenship required, security clearance
+### Excluded Keywords
 
-**Required Keywords** (jobs must contain at least one):
-- Core IT: ICT, Helpdesk, Service Desk, Technical Support
-- Technical: Network, Database, SQL, Software Development
-- Tools: Power BI, Tableau, Azure, AWS, Linux, VMware
+The current configuration can exclude jobs containing terms associated with:
 
-#### Location-Based Filtering
+**Seniority**
+- senior
+- lead
+- principal
+- staff
+- manager
+- head of
+- director
 
-| Location Type | Filter Logic |
-|---------------|--------------|
-| **Sydney/NSW** | Accept all jobs (flexible criteria) |
-| **Remote** | Accept remote jobs anywhere in Australia |
-| **Part-time** | Accept part-time jobs outside Sydney |
-| **Other** | Skip unless part-time mentioned |
+**Experience requirements**
+- 5+ years
+- 7+ years
+- 10+ years
 
-## 🤖 Telegram Bot Commands
+**Eligibility requirements**
+- australian citizen
+- citizenship required
+- security clearance
 
-The interactive bot supports the following commands:
+### Required Keywords
+
+Jobs can also be required to contain at least one relevant technical term.
+
+Examples include:
+
+**Core IT**
+- ICT
+- Helpdesk
+- Service Desk
+- Technical Support
+
+**Technical**
+- Network
+- Database
+- SQL
+- Software Development
+
+**Tools and platforms**
+- Power BI
+- Tableau
+- Azure
+- AWS
+- Linux
+- VMware
+
+## Location Filtering
+
+The default configuration applies different rules depending on location.
+
+| Location | Behaviour |
+|---|---|
+| Sydney / NSW | Primary search region with flexible filtering |
+| Remote | Remote roles across Australia can be accepted |
+| Part-time | Part-time roles outside Sydney can be included |
+| Other locations | Excluded unless they satisfy configured conditions |
+
+These rules can be changed in `config.py`.
+
+## Telegram Bot
+
+The Telegram bot supports several commands for reviewing job-search activity.
 
 | Command | Description |
-|---------|-------------|
-| `/start` | Welcome message and command list |
-| `/report` | Comprehensive job history report (last 14 days) |
-| `/stats` | Quick job statistics summary |
-| `/recent` | View the 10 most recent jobs (last 7 days) |
-| `/help` | Show help and available commands |
+|---|---|
+| `/start` | Display the command list |
+| `/report` | Generate a job-history report for the previous 14 days |
+| `/stats` | Display summary job statistics |
+| `/recent` | Show the 10 most recent jobs from the previous 7 days |
+| `/help` | Display usage information |
 
-### Example Bot Interaction
+## Automation
 
-```
-You: /stats
+The scraper runs automatically through GitHub Actions.
 
-Bot: 📊 Job Statistics (Last 14 Days)
+Current schedule:
 
-📈 Overview
-• Total Jobs: 45
-• Unique Companies: 32
-• Unique Locations: 18
-
-🏢 Top Companies
-• Macquarie Group: 8 jobs
-• NT Government: 5 jobs
-• Compass Group: 4 jobs
-
-📍 Top Locations
-• Sydney: 12 jobs
-• Remote: 8 jobs
-• Sydney: 6 jobs
+```text
+Every 4 hours
 ```
 
-## 🔄 Automation
+Cron configuration:
 
-### GitHub Actions Workflow
+```yaml
+0 */4 * * *
+```
 
-The scraper runs automatically via GitHub Actions:
+The workflow:
 
-- **Schedule**: Every 4 hours (`0 */4 * * *`)
-- **Manual Trigger**: Can be triggered manually via workflow_dispatch
-- **Actions**:
-  1. Checks out code
-  2. Sets up Python 3.10
-  3. Installs dependencies
-  4. Runs the scraper
-  5. Commits and pushes job_history.json updates
+1. Checks out the repository
+2. Sets up Python 3.10
+3. Installs dependencies
+4. Runs the job scraper
+5. Updates `job_history.json`
 
-### Setting Up GitHub Actions
+The workflow can also be triggered manually using `workflow_dispatch`.
 
-1. Go to your repository settings
-2. Navigate to Secrets and variables > Actions
-3. Add the following secrets:
-   - `TELEGRAM_TOKEN`: Your Telegram bot token
-   - `CHAT_ID`: Comma-separated chat IDs
+### GitHub Actions Secrets
 
-## 📊 Job History
+Configure the following repository secrets before enabling the workflow:
 
-The `job_history.json` file stores previously seen jobs to prevent duplicate alerts:
+```text
+TELEGRAM_TOKEN
+CHAT_ID
+```
+
+## Job History
+
+`job_history.json` stores previously discovered vacancies so that the same job is not repeatedly sent through Telegram.
+
+Example:
 
 ```json
 [
   {
     "title": "Service Desk Analyst",
-    "company": "Centorrino Technologies",
-    "url": "https://au.indeed.com/viewjob?jk=...",
-    "scraped_at": "2026-02-03T15:21:53.202058"
+    "company": "Example Company",
+    "url": "https://example.com/job/123",
+    "scraped_at": "2026-02-03T15:21:53"
   }
 ]
 ```
 
-- **Maximum entries**: 1000 (oldest entries are removed)
-- **Purpose**: Prevents sending duplicate job alerts
-- **Updates**: Automatically committed by GitHub Actions
+The application keeps up to 1,000 history entries and removes older entries as new vacancies are collected.
 
-## 🧪 Testing
+## Testing
 
-Run the unit tests for the Telegram bot:
+Run the Telegram bot tests with:
 
 ```bash
 python -m unittest test_bot.py
 ```
 
-Tests cover:
-- `/start` command welcome message
-- `/report` command report generation
-- `/stats` command statistics display
-- `/recent` command recent jobs retrieval
-- `/help` command help message
+The tests cover:
 
-## 📝 PR-Relevant Occupation Codes
+- `/start`
+- `/report`
+- `/stats`
+- `/recent`
+- `/help`
 
-The system targets jobs matching these ANZSCO occupation codes:
+## Customisation
+
+### Add Search Terms
+
+Edit the search terms in `config.py`:
+
+```python
+SEARCH_TERMS = [
+    "Junior Data Analyst",
+    "Service Desk Analyst",
+    "Junior Software Developer",
+]
+```
+
+### Modify Exclusion Rules
+
+```python
+BLACKLIST_KEYWORDS = [
+    "senior",
+    "lead",
+    "principal",
+]
+```
+
+### Modify Required Keywords
+
+```python
+REQUIRED_KEYWORDS = [
+    "ICT",
+    "SQL",
+    "Technical Support",
+]
+```
+
+### Change the Schedule
+
+Edit:
+
+```text
+.github/workflows/scrape.yml
+```
+
+For example:
+
+```yaml
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+```
+
+## ANZSCO Targeting
+
+The configuration also supports targeting Australian IT occupations associated with selected ANZSCO classifications.
 
 | Code | Occupation |
-|------|------------|
+|---|---|
 | 313199 | ICT Support Technicians nec |
 | 261111 | ICT Business Analyst |
 | 262113 | Systems Administrator |
@@ -270,86 +397,30 @@ The system targets jobs matching these ANZSCO occupation codes:
 | 261313 | Software Engineer |
 | 261314 | Software Tester |
 
-## 🔧 Customization
+This targeting is part of the configurable job-search logic and can be adapted independently of the core scraping and alerting workflow.
 
-### Adding New Search Terms
+## Dependencies
 
-Edit `config.py` to add new search terms:
+Core dependencies include:
 
-```python
-SEARCH_TERMS = [
-    # Add your custom terms here
-    "Your Custom Job Title",
-    # ... existing terms
-]
-```
+| Package | Purpose |
+|---|---|
+| `python-jobspy` | Job listing retrieval from supported job platforms |
+| `pandas` | Data processing and filtering |
+| `requests` | HTTP communication |
 
-### Modifying Filters
+See `requirements.txt` for the complete dependency list.
 
-Adjust blacklist and required keywords in `config.py`:
+## License
 
-```python
-# Exclude jobs with these keywords
-BLACKLIST_KEYWORDS = [
-    "senior", "lead", "principal",
-    # Add more...
-]
+This project is available under the MIT License.
 
-# Jobs must contain at least one of these
-REQUIRED_KEYWORDS = [
-    "ICT", "Helpdesk", "Technical Support",
-    # Add more...
-]
-```
+## Author
 
-### Changing Alert Frequency
+Kunal Gurung
 
-Modify `.github/workflows/scrape.yml`:
+## Acknowledgments
 
-```yaml
-on:
-  schedule:
-    - cron: '0 */4 * * *'  # Every 4 hours (default)
-    # - cron: '0 */2 * * *'  # Every 2 hours
-    # - cron: '0 0 * * *'    # Daily at midnight
-```
-
-## 🛠️ Dependencies
-
-| Package | Version | Purpose |
-|---------|---------|---------|
-| python-jobspy | >=1.1.18 | Job scraping from Indeed/Google |
-| pandas | >=2.0.0 | Data manipulation and filtering |
-| requests | >=2.31.0 | Telegram API communication |
-
-## 📈 Statistics
-
-The system has scraped **300+ jobs** since inception, with:
-- Multiple job categories covered
-- Real-time Telegram alerts
-- Automatic deduplication
-- Location-based filtering
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 👤 Author
-
-**Kunal Gurung**
-
-## 🙏 Acknowledgments
-
-- [python-jobspy](https://github.com/cullenwatson/jobspy) for job scraping capabilities
-- [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) for Telegram integration
-- GitHub Actions for automation
-
----
+- [JobSpy](https://github.com/cullenwatson/jobspy) for job listing retrieval
+- Telegram tooling for notification functionality
+- GitHub Actions for scheduled automation
