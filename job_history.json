@@ -1,29 +1,5 @@
 [
   {
-    "title": "Applications Analyst",
-    "company": "Baptistcare - WA",
-    "url": "https://au.indeed.com/viewjob?jk=158f9a705035cb25",
-    "scraped_at": "2026-07-03T13:43:37.017665"
-  },
-  {
-    "title": "Applications Analyst",
-    "company": "Baptist Care",
-    "url": "https://au.indeed.com/viewjob?jk=6d8084a90f597349",
-    "scraped_at": "2026-07-03T13:43:37.018547"
-  },
-  {
-    "title": "Expression of Interest - Data Analytics Professionals",
-    "company": "ING",
-    "url": "https://au.indeed.com/viewjob?jk=a5f085882edf1844",
-    "scraped_at": "2026-07-03T13:43:37.019587"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Dipole Group",
-    "url": "https://au.indeed.com/viewjob?jk=281dd4fe9d03f5de",
-    "scraped_at": "2026-07-03T13:43:37.023888"
-  },
-  {
     "title": "Data Engineer",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=b97549c41f6fa844",
@@ -5998,5 +5974,29 @@
     "company": "Landmark Group",
     "url": "https://au.indeed.com/viewjob?jk=1c2a74653664f6a2",
     "scraped_at": "2026-09-03T08:24:56.384459"
+  },
+  {
+    "title": "Research Fellow in Multi-Omics Data Science",
+    "company": "University of Sydney",
+    "url": "https://au.indeed.com/viewjob?jk=6473baa20c2d8b49",
+    "scraped_at": "2026-09-03T15:29:05.760532"
+  },
+  {
+    "title": "Front Office .NET/C# Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=3a00762de61f50c8",
+    "scraped_at": "2026-09-03T15:29:05.767994"
+  },
+  {
+    "title": "Cloud Endpoint Solution Engineer",
+    "company": "Microsoft",
+    "url": "https://au.indeed.com/viewjob?jk=443b04b2f48ca9eb",
+    "scraped_at": "2026-09-03T15:29:05.768778"
+  },
+  {
+    "title": "ANZ Business Project Coordinator",
+    "company": "Baxter",
+    "url": "https://au.indeed.com/viewjob?jk=fc6f12498b2cda5e",
+    "scraped_at": "2026-09-03T15:29:05.783890"
   }
 ]
