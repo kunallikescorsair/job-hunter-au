@@ -1,23 +1,5 @@
 [
   {
-    "title": "System Administrator (Infrastructure) \u2013 Linux & VMware",
-    "company": "Dipole Group",
-    "url": "https://au.indeed.com/viewjob?jk=b2019060b9028fc2",
-    "scraped_at": "2026-07-04T06:40:32.196415"
-  },
-  {
-    "title": "Full-Stack Software Engineer",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=0f4c8fba3863a5ee",
-    "scraped_at": "2026-07-04T13:01:14.392300"
-  },
-  {
-    "title": "Technical Business Analyst",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=8c2c683c1582cc54",
-    "scraped_at": "2026-07-04T13:01:14.398763"
-  },
-  {
     "title": "AI & Data Architect (Enterprise AI & Data Platforms)",
     "company": "Dipole Group",
     "url": "https://au.indeed.com/viewjob?jk=283513c1e75612c8",
@@ -5998,5 +5980,23 @@
     "company": "Sourceo",
     "url": "https://au.indeed.com/viewjob?jk=08a92fb3bec201db",
     "scraped_at": "2026-09-03T18:59:16.022802"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "CSR",
+    "url": "https://au.indeed.com/viewjob?jk=7af36244d06c488c",
+    "scraped_at": "2026-09-03T22:00:50.491293"
+  },
+  {
+    "title": "Grafana Developer",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=8a33a3c53c0432bf",
+    "scraped_at": "2026-09-03T22:00:50.502587"
+  },
+  {
+    "title": "BMS Project Engineer",
+    "company": "Sourceo",
+    "url": "https://au.indeed.com/viewjob?jk=51008c7ea0fd048f",
+    "scraped_at": "2026-09-03T22:00:50.507286"
   }
 ]
