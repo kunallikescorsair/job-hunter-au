@@ -1,47 +1,5 @@
 [
   {
-    "title": "Data Engineer",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=b97549c41f6fa844",
-    "scraped_at": "2026-07-03T13:43:37.025576"
-  },
-  {
-    "title": "Intermediate Software Engineer",
-    "company": "ELMO Software",
-    "url": "https://au.indeed.com/viewjob?jk=131cb1972e25ecb2",
-    "scraped_at": "2026-07-03T17:14:12.676438"
-  },
-  {
-    "title": "Integration Engineer - Cloud iPaaS Full Stack",
-    "company": "Accenture",
-    "url": "https://au.indeed.com/viewjob?jk=af32ac7fb3ac0cb4",
-    "scraped_at": "2026-07-03T20:53:40.915647"
-  },
-  {
-    "title": "Platform Engineer",
-    "company": "10x Banking",
-    "url": "https://au.indeed.com/viewjob?jk=19b948e7fe412b8c",
-    "scraped_at": "2026-07-03T20:53:40.916853"
-  },
-  {
-    "title": "Client Financial Management Specialist",
-    "company": "Accenture",
-    "url": "https://au.indeed.com/viewjob?jk=08c5432bfdbf3609",
-    "scraped_at": "2026-07-03T20:53:40.925846"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=388405a2f3c391de",
-    "scraped_at": "2026-07-04T01:58:51.043828"
-  },
-  {
-    "title": "Expression of Interest - Data Analytics Professionals",
-    "company": "ING",
-    "url": "https://au.indeed.com/viewjob?jk=0dd96f0a44dd4d0a",
-    "scraped_at": "2026-07-04T01:58:51.051190"
-  },
-  {
     "title": "System Administrator (Infrastructure) \u2013 Linux & VMware",
     "company": "Dipole Group",
     "url": "https://au.indeed.com/viewjob?jk=b2019060b9028fc2",
@@ -5998,5 +5956,47 @@
     "company": "Baxter",
     "url": "https://au.indeed.com/viewjob?jk=fc6f12498b2cda5e",
     "scraped_at": "2026-09-03T15:29:05.783890"
+  },
+  {
+    "title": "Drafter - Civil (Renewable Energy and Utility Projects)",
+    "company": "Consolidated Power Projects Australia",
+    "url": "https://au.indeed.com/viewjob?jk=204b3aaec876bfc9",
+    "scraped_at": "2026-09-03T18:59:15.990454"
+  },
+  {
+    "title": "Strategic Writer",
+    "company": "Sourceo",
+    "url": "https://au.indeed.com/viewjob?jk=419e594a41f3af88",
+    "scraped_at": "2026-09-03T18:59:15.998437"
+  },
+  {
+    "title": "DevSecOps Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=aa77668e65ed9a3d",
+    "scraped_at": "2026-09-03T18:59:16.012970"
+  },
+  {
+    "title": "Junior Backend Engineer, Java - Web 3 Wallet",
+    "company": "Binance",
+    "url": "https://au.indeed.com/viewjob?jk=4f139d5aa4ad10e3",
+    "scraped_at": "2026-09-03T18:59:16.013959"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=e2fb7791680f88de",
+    "scraped_at": "2026-09-03T18:59:16.017945"
+  },
+  {
+    "title": "Performance & Creative Marketer (Part-Time)",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=abd3a112039c600e",
+    "scraped_at": "2026-09-03T18:59:16.021868"
+  },
+  {
+    "title": "Strategic Cloud Engineer, Platform and AI Infrastructure",
+    "company": "Sourceo",
+    "url": "https://au.indeed.com/viewjob?jk=08a92fb3bec201db",
+    "scraped_at": "2026-09-03T18:59:16.022802"
   }
 ]
