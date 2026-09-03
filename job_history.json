@@ -1,83 +1,5 @@
 [
   {
-    "title": "IT Operations Analyst",
-    "company": "Stake",
-    "url": "https://au.indeed.com/viewjob?jk=394761c2ef353261",
-    "scraped_at": "2026-07-02T20:54:59.582387"
-  },
-  {
-    "title": "Software Engineer - AI Automation",
-    "company": "Ericsson",
-    "url": "https://au.indeed.com/viewjob?jk=a23b4ee5d2dc5fcd",
-    "scraped_at": "2026-07-03T02:00:26.955766"
-  },
-  {
-    "title": "AI Developer",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=9cd5efc93a4422bd",
-    "scraped_at": "2026-07-03T02:00:26.956214"
-  },
-  {
-    "title": "Procurement Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=2b6353c2f1e42e12",
-    "scraped_at": "2026-07-03T02:00:26.969226"
-  },
-  {
-    "title": "Data Mgmt Policy & Standards Specialist",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=27348dfca2acc19f",
-    "scraped_at": "2026-07-03T02:00:26.975871"
-  },
-  {
-    "title": "APJ Sr. Solutions Architect - Applied AI for Supply Chain, Applied AI Solutions Decisions GTM",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=128de2a20b3b5c1a",
-    "scraped_at": "2026-07-03T02:00:26.976976"
-  },
-  {
-    "title": "Business Process Consultants - Six Sigma",
-    "company": "NCS",
-    "url": "https://au.indeed.com/viewjob?jk=ac33997eb55573c4",
-    "scraped_at": "2026-07-03T06:54:32.346978"
-  },
-  {
-    "title": "PMO Analyst",
-    "company": "Dnata",
-    "url": "https://au.indeed.com/viewjob?jk=bdd139b1c9e6e0da",
-    "scraped_at": "2026-07-03T06:54:32.349857"
-  },
-  {
-    "title": "Executive (Data analyst)",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=456ad30030627a89",
-    "scraped_at": "2026-07-03T06:54:32.350503"
-  },
-  {
-    "title": "Draftsperson",
-    "company": "Employment Hero",
-    "url": "https://au.indeed.com/viewjob?jk=91dfff24e65b1d88",
-    "scraped_at": "2026-07-03T10:27:16.667763"
-  },
-  {
-    "title": "Incident Resolution Analyst",
-    "company": "Apex Group",
-    "url": "https://au.indeed.com/viewjob?jk=5db267537f893797",
-    "scraped_at": "2026-07-03T10:27:16.675323"
-  },
-  {
-    "title": "Junior Manufacturing Systems Engineer",
-    "company": "GFG Alliance",
-    "url": "https://au.indeed.com/viewjob?jk=85d61eb4f0272b59",
-    "scraped_at": "2026-07-03T10:27:16.684258"
-  },
-  {
-    "title": "Technical Development Lead",
-    "company": "NobleOak",
-    "url": "https://au.indeed.com/viewjob?jk=97a0845acdf5c46f",
-    "scraped_at": "2026-07-03T10:27:16.688681"
-  },
-  {
     "title": "Applications Analyst",
     "company": "Baptistcare - WA",
     "url": "https://au.indeed.com/viewjob?jk=158f9a705035cb25",
@@ -5998,5 +5920,83 @@
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=8f8d63bb601bbb35",
     "scraped_at": "2026-09-03T02:05:19.292798"
+  },
+  {
+    "title": "Analytics Solutions Developer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=194b3c0849d2380c",
+    "scraped_at": "2026-09-03T08:24:56.339274"
+  },
+  {
+    "title": "Competitive Intelligence Analyst - Data Solutions",
+    "company": "Qlik",
+    "url": "https://au.indeed.com/viewjob?jk=815a9e8b14dd5b02",
+    "scraped_at": "2026-09-03T08:24:56.348527"
+  },
+  {
+    "title": "Inside Account Executive, Strategic Acquisition",
+    "company": "Cisco",
+    "url": "https://au.indeed.com/viewjob?jk=f28bf1858d599a77",
+    "scraped_at": "2026-09-03T08:24:56.349897"
+  },
+  {
+    "title": "Specialist UI Designer",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=853a55dbe3d03ded",
+    "scraped_at": "2026-09-03T08:24:56.351098"
+  },
+  {
+    "title": "Software Developer - .Net / C# / MS SQL Server",
+    "company": "KION Group",
+    "url": "https://au.indeed.com/viewjob?jk=f03d57d16ef0f932",
+    "scraped_at": "2026-09-03T08:24:56.353355"
+  },
+  {
+    "title": "Data Center Ops Specialist",
+    "company": "NTT DATA",
+    "url": "https://au.indeed.com/viewjob?jk=b3406f83187ba8c3",
+    "scraped_at": "2026-09-03T08:24:56.354008"
+  },
+  {
+    "title": "Lead Site Reliability Engineer",
+    "company": "Heidi",
+    "url": "https://au.indeed.com/viewjob?jk=4f1cb94a56903446",
+    "scraped_at": "2026-09-03T08:24:56.361296"
+  },
+  {
+    "title": "Snr Cost Mgt & Estimating Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=17b351df32c42baa",
+    "scraped_at": "2026-09-03T08:24:56.363569"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Australian Payments Plus",
+    "url": "https://au.indeed.com/viewjob?jk=822c051412ef42cc",
+    "scraped_at": "2026-09-03T08:24:56.369271"
+  },
+  {
+    "title": "Product Manager",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=b2771b60f3e7a61e",
+    "scraped_at": "2026-09-03T08:24:56.371183"
+  },
+  {
+    "title": "Systems Security Engineer",
+    "company": "HUB24",
+    "url": "https://au.indeed.com/viewjob?jk=6a5e9ee2934aefa0",
+    "scraped_at": "2026-09-03T08:24:56.377566"
+  },
+  {
+    "title": "Maintenance Coordinator",
+    "company": "AirTrunk",
+    "url": "https://au.indeed.com/viewjob?jk=b497874778740008",
+    "scraped_at": "2026-09-03T08:24:56.382435"
+  },
+  {
+    "title": "Performance & Creative Marketer (Part-Time)",
+    "company": "Landmark Group",
+    "url": "https://au.indeed.com/viewjob?jk=1c2a74653664f6a2",
+    "scraped_at": "2026-09-03T08:24:56.384459"
   }
 ]
