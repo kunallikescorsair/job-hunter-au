@@ -1,83 +1,5 @@
 [
   {
-    "title": "Lead Data Engineer",
-    "company": "Veolia",
-    "url": "https://au.indeed.com/viewjob?jk=e16e27aba97ad09a",
-    "scraped_at": "2026-07-06T15:00:34.489187"
-  },
-  {
-    "title": "Microsoft Power Platform Engineer",
-    "company": "Avanade",
-    "url": "https://au.indeed.com/viewjob?jk=515d6cb47c395d57",
-    "scraped_at": "2026-07-06T15:00:34.491143"
-  },
-  {
-    "title": "Customer Analytics Applications Spec",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=125ff49bbe8f6c0c",
-    "scraped_at": "2026-07-06T18:05:26.942513"
-  },
-  {
-    "title": "Sr. Streaming Specialist Solutions Architect, WWSO Data & AI GTM",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=a491a277c700b88d",
-    "scraped_at": "2026-07-06T18:05:26.951096"
-  },
-  {
-    "title": "MLOps / AI Engineer",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=2bf1141f7b98fc9c",
-    "scraped_at": "2026-07-07T02:07:18.803396"
-  },
-  {
-    "title": "AI Solutions Architect / AI Engineer",
-    "company": "Guzman Y Gomez",
-    "url": "https://au.indeed.com/viewjob?jk=92c1ede94fda8aca",
-    "scraped_at": "2026-07-07T02:07:18.814750"
-  },
-  {
-    "title": "Business Analyst \u2013 Third Party Risk (6-month FTC)",
-    "company": "TAL",
-    "url": "https://au.indeed.com/viewjob?jk=e632d64a0dad770c",
-    "scraped_at": "2026-07-07T02:07:18.820525"
-  },
-  {
-    "title": "Chief Engineer",
-    "company": "Westpac Group",
-    "url": "https://au.indeed.com/viewjob?jk=4ffd8fb9d2cb11e6",
-    "scraped_at": "2026-07-07T07:29:40.623765"
-  },
-  {
-    "title": "Lead Design Technologist",
-    "company": "Culture Amp",
-    "url": "https://au.indeed.com/viewjob?jk=3cd35fe9b445f747",
-    "scraped_at": "2026-07-07T07:29:40.628076"
-  },
-  {
-    "title": "System Engineer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=c7f3b9f24e4240f5",
-    "scraped_at": "2026-07-07T07:29:40.628657"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "WeCare Wellness Services",
-    "url": "https://au.indeed.com/viewjob?jk=95b7e8da6569784a",
-    "scraped_at": "2026-07-07T07:29:40.629315"
-  },
-  {
-    "title": "Technical Business Analyst",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=b59ab286136bda23",
-    "scraped_at": "2026-07-07T07:29:40.630208"
-  },
-  {
-    "title": "Strategic Reporting Analyst",
-    "company": "NSW Department of Communities and Justice",
-    "url": "https://au.indeed.com/viewjob?jk=d7d979633c1081fc",
-    "scraped_at": "2026-07-07T07:29:40.635818"
-  },
-  {
     "title": "ServiceNow Developer",
     "company": "Capgemini",
     "url": "https://au.indeed.com/viewjob?jk=981fd734a38ccaaa",
@@ -5998,5 +5920,83 @@
     "company": "Sourceo",
     "url": "https://au.indeed.com/viewjob?jk=8c51ba1c6e23dffd",
     "scraped_at": "2026-09-04T08:19:46.206690"
+  },
+  {
+    "title": "Software Engineer - Search Platform Experience, Rovo Experiences & Growth",
+    "company": "Atlassian",
+    "url": "https://au.indeed.com/viewjob?jk=36d6022710e4fa3f",
+    "scraped_at": "2026-09-04T15:27:14.801651"
+  },
+  {
+    "title": "Microsoft Copilot and AI Ops Engineer",
+    "company": "Avanade",
+    "url": "https://au.indeed.com/viewjob?jk=7b3cc89a17f4f829",
+    "scraped_at": "2026-09-04T15:27:14.807048"
+  },
+  {
+    "title": "Sr Enterprise Account Exec - Utilities",
+    "company": "ServiceNow",
+    "url": "https://au.indeed.com/viewjob?jk=baf7bcd182775b09",
+    "scraped_at": "2026-09-04T15:27:14.807855"
+  },
+  {
+    "title": "Quantitative Engineer",
+    "company": "CHALLENGER",
+    "url": "https://au.indeed.com/viewjob?jk=8751cd8971538072",
+    "scraped_at": "2026-09-04T15:27:14.809031"
+  },
+  {
+    "title": "Quantitative Analyst - Asset-Backed Finance",
+    "company": "CHALLENGER",
+    "url": "https://au.indeed.com/viewjob?jk=5527430edf32b5a1",
+    "scraped_at": "2026-09-04T15:27:14.817129"
+  },
+  {
+    "title": "Ratings Associate - Corporate Finance",
+    "company": "Moody's",
+    "url": "https://au.indeed.com/viewjob?jk=c1c15f2c1954ae66",
+    "scraped_at": "2026-09-04T15:27:14.824310"
+  },
+  {
+    "title": "Vice President, Attack Surface Research Analyst, Global Information Security, Sydney, Australia",
+    "company": "Bank of America",
+    "url": "https://au.indeed.com/viewjob?jk=a7d7b29f4b7a7a25",
+    "scraped_at": "2026-09-04T15:27:14.826047"
+  },
+  {
+    "title": "Solutions Analyst",
+    "company": "Sourceo",
+    "url": "https://au.indeed.com/viewjob?jk=3db7cc1770ce593d",
+    "scraped_at": "2026-09-04T15:27:14.827877"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=1348d10608b90c81",
+    "scraped_at": "2026-09-04T15:27:14.829272"
+  },
+  {
+    "title": "Lead, Regulatory Affairs and Customer Assurance",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=4a44860c2bab635a",
+    "scraped_at": "2026-09-04T15:27:14.836925"
+  },
+  {
+    "title": "Digital Designer, Motion & Web",
+    "company": "Koala",
+    "url": "https://au.indeed.com/viewjob?jk=58e716a7ab2ec407",
+    "scraped_at": "2026-09-04T15:27:14.838104"
+  },
+  {
+    "title": "Digital Designer, Motion & Web",
+    "company": "Koala",
+    "url": "https://au.indeed.com/viewjob?jk=72e104a53eb57473",
+    "scraped_at": "2026-09-04T15:27:14.839164"
+  },
+  {
+    "title": "Lead Product Manager - AI Enablement",
+    "company": "Xero",
+    "url": "https://au.indeed.com/viewjob?jk=74ab1afb6d848d44",
+    "scraped_at": "2026-09-04T15:27:14.839479"
   }
 ]
