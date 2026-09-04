@@ -1,29 +1,5 @@
 [
   {
-    "title": "ServiceNow Developer",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=981fd734a38ccaaa",
-    "scraped_at": "2026-07-07T07:29:40.637257"
-  },
-  {
-    "title": "Platform Engineer (GCP)",
-    "company": "Showtime Consulting",
-    "url": "https://au.indeed.com/viewjob?jk=7bf295445ca458ab",
-    "scraped_at": "2026-07-07T07:29:40.640443"
-  },
-  {
-    "title": "Machine Learning Engineer Graduate, Trust and Safety Engineering - 2026 Start",
-    "company": "TikTok",
-    "url": "https://au.indeed.com/viewjob?jk=47b4bfd4f3821234",
-    "scraped_at": "2026-07-07T10:46:18.855177"
-  },
-  {
-    "title": "AI Architect",
-    "company": "Interactive",
-    "url": "https://au.indeed.com/viewjob?jk=2a1f3096659e82b7",
-    "scraped_at": "2026-07-07T10:46:18.857064"
-  },
-  {
     "title": "Shared Services Business Analyst (Workplace Advisory)",
     "company": "Avanade",
     "url": "https://au.indeed.com/viewjob?jk=9f0f75ed4ae9e124",
@@ -5998,5 +5974,29 @@
     "company": "Xero",
     "url": "https://au.indeed.com/viewjob?jk=74ab1afb6d848d44",
     "scraped_at": "2026-09-04T15:27:14.839479"
+  },
+  {
+    "title": "Applied Scientist 3",
+    "company": "Sourceo",
+    "url": "https://au.indeed.com/viewjob?jk=d84484cd64770472",
+    "scraped_at": "2026-09-04T18:43:01.126361"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Sourceo",
+    "url": "https://au.indeed.com/viewjob?jk=a138654eaa7df7d7",
+    "scraped_at": "2026-09-04T18:43:01.133429"
+  },
+  {
+    "title": "Forward Deployed Engineer, GenAI, Financial Services",
+    "company": "Sourceo",
+    "url": "https://au.indeed.com/viewjob?jk=115a38674b10b9f2",
+    "scraped_at": "2026-09-04T18:43:01.145904"
+  },
+  {
+    "title": "Data and Analytics Architect",
+    "company": "William Buck NSW",
+    "url": "https://au.indeed.com/viewjob?jk=58472a14e75885f5",
+    "scraped_at": "2026-09-04T18:43:01.147846"
   }
 ]
