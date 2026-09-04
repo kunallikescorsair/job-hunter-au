@@ -1,17 +1,5 @@
 [
   {
-    "title": "AI & Data Architect (Enterprise AI & Data Platforms)",
-    "company": "Dipole Group",
-    "url": "https://au.indeed.com/viewjob?jk=283513c1e75612c8",
-    "scraped_at": "2026-07-05T07:00:29.625741"
-  },
-  {
-    "title": "Technology Associate Program (Traineeship)",
-    "company": "Commonwealth Bank of Australia",
-    "url": "https://au.indeed.com/viewjob?jk=061f3760c24f3692",
-    "scraped_at": "2026-07-06T08:10:56.235125"
-  },
-  {
     "title": "Full Stack Engineer",
     "company": "FinXL",
     "url": "https://au.indeed.com/viewjob?jk=21f3fd1cd8e49774",
@@ -5998,5 +5986,17 @@
     "company": "Sourceo",
     "url": "https://au.indeed.com/viewjob?jk=51008c7ea0fd048f",
     "scraped_at": "2026-09-03T22:00:50.507286"
+  },
+  {
+    "title": "Channel Sales Manager, Sydney (NSW)",
+    "company": "Verkada",
+    "url": "https://au.indeed.com/viewjob?jk=eadb8dbf0d61a8bf",
+    "scraped_at": "2026-09-04T02:01:51.478572"
+  },
+  {
+    "title": "Building Analytics Engineer",
+    "company": "Sourceo",
+    "url": "https://au.indeed.com/viewjob?jk=3fa039826a082535",
+    "scraped_at": "2026-09-04T02:01:51.487061"
   }
 ]
