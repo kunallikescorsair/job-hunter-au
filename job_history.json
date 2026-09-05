@@ -1,11 +1,5 @@
 [
   {
-    "title": "Shared Services Business Analyst (Workplace Advisory)",
-    "company": "Avanade",
-    "url": "https://au.indeed.com/viewjob?jk=9f0f75ed4ae9e124",
-    "scraped_at": "2026-07-07T10:46:18.857671"
-  },
-  {
     "title": "Product Analyst",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=55f65c750705aa7d",
@@ -5998,5 +5992,11 @@
     "company": "William Buck NSW",
     "url": "https://au.indeed.com/viewjob?jk=58472a14e75885f5",
     "scraped_at": "2026-09-04T18:43:01.147846"
+  },
+  {
+    "title": "Offensive Security Engineer",
+    "company": "UST",
+    "url": "https://au.indeed.com/viewjob?jk=16cbb9cf7b920342",
+    "scraped_at": "2026-09-05T02:02:08.436656"
   }
 ]
