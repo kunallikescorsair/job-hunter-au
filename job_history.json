@@ -1,11 +1,5 @@
 [
   {
-    "title": "Product Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=55f65c750705aa7d",
-    "scraped_at": "2026-07-07T10:46:18.862042"
-  },
-  {
     "title": "Sales Engineer",
     "company": "MRI Software",
     "url": "https://au.indeed.com/viewjob?jk=c198d3aa14695ee2",
@@ -5998,5 +5992,11 @@
     "company": "UST",
     "url": "https://au.indeed.com/viewjob?jk=16cbb9cf7b920342",
     "scraped_at": "2026-09-05T02:02:08.436656"
+  },
+  {
+    "title": "Service Project Management Manager",
+    "company": "Sourceo",
+    "url": "https://au.indeed.com/viewjob?jk=ddf06278c4cf9257",
+    "scraped_at": "2026-09-05T11:30:12.686132"
   }
 ]
