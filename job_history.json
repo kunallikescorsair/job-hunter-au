@@ -1,17 +1,5 @@
 [
   {
-    "title": "Sales Engineer",
-    "company": "MRI Software",
-    "url": "https://au.indeed.com/viewjob?jk=c198d3aa14695ee2",
-    "scraped_at": "2026-07-07T14:08:18.603266"
-  },
-  {
-    "title": "Twilio Segment CDP Lead",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=b3e2ca18083d4507",
-    "scraped_at": "2026-07-07T14:08:18.608034"
-  },
-  {
     "title": "Braze Tech Lead",
     "company": "Tata Consultancy Services (TCS)",
     "url": "https://au.indeed.com/viewjob?jk=ce9419e8716a4f94",
@@ -5998,5 +5986,17 @@
     "company": "Sourceo",
     "url": "https://au.indeed.com/viewjob?jk=ddf06278c4cf9257",
     "scraped_at": "2026-09-05T11:30:12.686132"
+  },
+  {
+    "title": "Front-End Software Engineer, Google Photos",
+    "company": "Sourceo",
+    "url": "https://au.indeed.com/viewjob?jk=d551afca623f2694",
+    "scraped_at": "2026-09-05T17:48:49.282968"
+  },
+  {
+    "title": "Controls Engineer - Sydney, New South Wales, Australia - Melbourne, Victoria, Australia",
+    "company": "Sourceo",
+    "url": "https://au.indeed.com/viewjob?jk=f0b9830a4113e57d",
+    "scraped_at": "2026-09-05T17:48:49.301559"
   }
 ]
