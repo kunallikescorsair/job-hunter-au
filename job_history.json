@@ -1,41 +1,5 @@
 [
   {
-    "title": "AI Architect",
-    "company": "Virtusa",
-    "url": "https://au.indeed.com/viewjob?jk=fb55fe8f8578874c",
-    "scraped_at": "2026-07-08T01:48:09.518956"
-  },
-  {
-    "title": "Tech Lead, BTR",
-    "company": "Mirvac",
-    "url": "https://au.indeed.com/viewjob?jk=40603f7f90410750",
-    "scraped_at": "2026-07-08T01:48:09.522609"
-  },
-  {
-    "title": "Graduate Analyst",
-    "company": "BlueScope",
-    "url": "https://au.indeed.com/viewjob?jk=980e0c92a8627c46",
-    "scraped_at": "2026-07-08T01:48:09.529012"
-  },
-  {
-    "title": "Quality Engineering Analyst (Sentral)",
-    "company": "Global Payments",
-    "url": "https://au.indeed.com/viewjob?jk=e1c409d6085a25c7",
-    "scraped_at": "2026-07-08T01:48:09.530905"
-  },
-  {
-    "title": "GCP Data Engineer",
-    "company": "Virtusa",
-    "url": "https://au.indeed.com/viewjob?jk=c6641a2c197bd6a5",
-    "scraped_at": "2026-07-08T01:48:09.532248"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "REA Group",
-    "url": "https://au.indeed.com/viewjob?jk=aaf61c928f44dd7f",
-    "scraped_at": "2026-07-08T06:22:20.481435"
-  },
-  {
     "title": "Engineer, Machine Learning Systems (AI Products)",
     "company": "Xero",
     "url": "https://au.indeed.com/viewjob?jk=0ce9fb3f1d27303e",
@@ -5998,5 +5962,41 @@
     "company": "CSR",
     "url": "https://au.indeed.com/viewjob?jk=0690f363c40f959a",
     "scraped_at": "2026-09-07T08:45:18.508474"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Microsoft",
+    "url": "https://au.indeed.com/viewjob?jk=13ca6fbb2ad15ce9",
+    "scraped_at": "2026-09-07T16:52:24.158314"
+  },
+  {
+    "title": "AWS Agentic AI Engineer",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=97d088ea4f67b451",
+    "scraped_at": "2026-09-07T16:52:24.159440"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Colonial First State",
+    "url": "https://au.indeed.com/viewjob?jk=ba5b60f4100fb70a",
+    "scraped_at": "2026-09-07T16:52:24.172306"
+  },
+  {
+    "title": "Google SecOps engineer",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=1cf2b2746719f96a",
+    "scraped_at": "2026-09-07T16:52:24.172487"
+  },
+  {
+    "title": "Business Intelligence Data Analyst",
+    "company": "The NRMA",
+    "url": "https://au.indeed.com/viewjob?jk=0d2aaf23799488f0",
+    "scraped_at": "2026-09-07T16:52:24.173823"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "Tyroola",
+    "url": "https://au.indeed.com/viewjob?jk=0903f4d51ecbd4c2",
+    "scraped_at": "2026-09-07T16:52:24.174097"
   }
 ]
