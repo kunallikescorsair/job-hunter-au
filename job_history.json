@@ -1,41 +1,5 @@
 [
   {
-    "title": "Data Scientist",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=0b0a319c0b3a0b1b",
-    "scraped_at": "2026-07-07T17:52:30.686444"
-  },
-  {
-    "title": "Lead Software Engineer, Global Technology",
-    "company": "JPMorganChase",
-    "url": "https://au.indeed.com/viewjob?jk=6140f657939a6d18",
-    "scraped_at": "2026-07-07T17:52:30.698538"
-  },
-  {
-    "title": "AI Architect",
-    "company": "Interactive",
-    "url": "https://au.indeed.com/viewjob?jk=d36e91c1c926736b",
-    "scraped_at": "2026-07-07T17:52:30.699263"
-  },
-  {
-    "title": "GTM Engineer \u2013 APAC",
-    "company": "xe",
-    "url": "https://au.indeed.com/viewjob?jk=41f5eff0557ced49",
-    "scraped_at": "2026-07-07T17:52:30.707038"
-  },
-  {
-    "title": "Data Center Technical Operations Engineer",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=2a19f8caa70598fa",
-    "scraped_at": "2026-07-07T17:52:30.708821"
-  },
-  {
-    "title": "Data Center Technical Operations Engineer, SYD Colo DCEO",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=a09165aae5c5af5e",
-    "scraped_at": "2026-07-07T17:52:30.710807"
-  },
-  {
     "title": "AI Architect",
     "company": "Virtusa",
     "url": "https://au.indeed.com/viewjob?jk=fb55fe8f8578874c",
@@ -5998,5 +5962,41 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=dcde79b7777d078e",
     "scraped_at": "2026-09-07T01:55:04.039482"
+  },
+  {
+    "title": "Technical Representative NSW",
+    "company": "Axalta Coating Systems",
+    "url": "https://au.indeed.com/viewjob?jk=c7c7b002e90993a2",
+    "scraped_at": "2026-09-07T08:45:18.489852"
+  },
+  {
+    "title": "Technical Specialist",
+    "company": "HCLTech",
+    "url": "https://au.indeed.com/viewjob?jk=85e01faeb97a6bb7",
+    "scraped_at": "2026-09-07T08:45:18.490648"
+  },
+  {
+    "title": "IT Business Systems Analyst",
+    "company": "FinXL",
+    "url": "https://au.indeed.com/viewjob?jk=8322ee815bfb0882",
+    "scraped_at": "2026-09-07T08:45:18.499184"
+  },
+  {
+    "title": "Analyst Programmer/Software Developer",
+    "company": "FinXL",
+    "url": "https://au.indeed.com/viewjob?jk=bfba973ccad72185",
+    "scraped_at": "2026-09-07T08:45:18.506068"
+  },
+  {
+    "title": "Analyst Programmer / Software Developer",
+    "company": "FinXL",
+    "url": "https://au.indeed.com/viewjob?jk=c46c512cb2548f69",
+    "scraped_at": "2026-09-07T08:45:18.506742"
+  },
+  {
+    "title": "Process Engineer",
+    "company": "CSR",
+    "url": "https://au.indeed.com/viewjob?jk=0690f363c40f959a",
+    "scraped_at": "2026-09-07T08:45:18.508474"
   }
 ]
