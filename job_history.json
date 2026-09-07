@@ -1,11 +1,5 @@
 [
   {
-    "title": "PlatformTechnical Program Manager",
-    "company": "Future Secure AI",
-    "url": "https://au.indeed.com/viewjob?jk=1f83b4d5708228bb",
-    "scraped_at": "2026-07-07T14:08:18.616803"
-  },
-  {
     "title": "Data Scientist",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=0b0a319c0b3a0b1b",
@@ -5998,5 +5992,11 @@
     "company": "TAL",
     "url": "https://au.indeed.com/viewjob?jk=1f1b293acb5d5cc3",
     "scraped_at": "2026-09-06T21:51:36.861621"
+  },
+  {
+    "title": "Financial Insights Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=dcde79b7777d078e",
+    "scraped_at": "2026-09-07T01:55:04.039482"
   }
 ]
