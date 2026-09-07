@@ -1,47 +1,5 @@
 [
   {
-    "title": "Engineer, Machine Learning Systems (AI Products)",
-    "company": "Xero",
-    "url": "https://au.indeed.com/viewjob?jk=0ce9fb3f1d27303e",
-    "scraped_at": "2026-07-08T06:22:20.481849"
-  },
-  {
-    "title": "Lead AI Engineer",
-    "company": "Worley",
-    "url": "https://au.indeed.com/viewjob?jk=3c8e98281e7a92ea",
-    "scraped_at": "2026-07-08T06:22:20.492718"
-  },
-  {
-    "title": "Security Engineer - Okta",
-    "company": "The Missing Link",
-    "url": "https://au.indeed.com/viewjob?jk=0e84f678c1f0f731",
-    "scraped_at": "2026-07-08T06:22:20.493398"
-  },
-  {
-    "title": "Building Services Customer Success Manager",
-    "company": "CIM Operations Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=701d91383f1d35d8",
-    "scraped_at": "2026-07-08T06:22:20.493800"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Resmed",
-    "url": "https://au.indeed.com/viewjob?jk=a1978f2e1f48a497",
-    "scraped_at": "2026-07-08T06:22:20.494338"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Resmed",
-    "url": "https://au.indeed.com/viewjob?jk=bdabd17e6bd3fdcc",
-    "scraped_at": "2026-07-08T06:22:20.494865"
-  },
-  {
-    "title": "ICT Commercial Account Executive",
-    "company": "Datadog",
-    "url": "https://au.indeed.com/viewjob?jk=041a071af3bed7df",
-    "scraped_at": "2026-07-08T06:22:20.495536"
-  },
-  {
     "title": "Site Reliability Engineer Graduate (Video & Edge Global Engineering) - 2027 Start (BS/MS)",
     "company": "TikTok",
     "url": "https://au.indeed.com/viewjob?jk=983cfaebe272c3d7",
@@ -5998,5 +5956,47 @@
     "company": "Tyroola",
     "url": "https://au.indeed.com/viewjob?jk=0903f4d51ecbd4c2",
     "scraped_at": "2026-09-07T16:52:24.174097"
+  },
+  {
+    "title": "Forward Deployed Engineer, Generative AI, GECX, Google Cloud",
+    "company": "Sourceo",
+    "url": "https://au.indeed.com/viewjob?jk=b1bf053f0bd12671",
+    "scraped_at": "2026-09-07T22:23:49.831597"
+  },
+  {
+    "title": "Enterprise Applications Sales Specialist, VMware Engine and SAP (English)",
+    "company": "Sourceo",
+    "url": "https://au.indeed.com/viewjob?jk=abeeef9a0f2f0937",
+    "scraped_at": "2026-09-07T22:23:49.835625"
+  },
+  {
+    "title": "Applied Solutions Architect",
+    "company": "Sourceo",
+    "url": "https://au.indeed.com/viewjob?jk=3ced445059d94c07",
+    "scraped_at": "2026-09-07T22:23:49.836139"
+  },
+  {
+    "title": "Consumer Insights Analyst",
+    "company": "PepsiCo",
+    "url": "https://au.indeed.com/viewjob?jk=973e802826f09df6",
+    "scraped_at": "2026-09-07T22:23:49.839175"
+  },
+  {
+    "title": "Internal Technical Sales",
+    "company": "Sourceo",
+    "url": "https://au.indeed.com/viewjob?jk=b60889e8a7738adb",
+    "scraped_at": "2026-09-07T22:23:49.847562"
+  },
+  {
+    "title": "Maintenance Coordinator",
+    "company": "Sourceo",
+    "url": "https://au.indeed.com/viewjob?jk=9f8febe7fae7931d",
+    "scraped_at": "2026-09-07T22:23:49.851764"
+  },
+  {
+    "title": "Lead, Regulatory Affairs and Customer Assurance",
+    "company": "Sourceo",
+    "url": "https://au.indeed.com/viewjob?jk=f51f35cf9eea5688",
+    "scraped_at": "2026-09-07T22:23:49.855812"
   }
 ]
