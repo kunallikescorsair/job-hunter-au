@@ -1,59 +1,5 @@
 [
   {
-    "title": "Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS)",
-    "company": "TikTok",
-    "url": "https://au.indeed.com/viewjob?jk=4612f912eb57685e",
-    "scraped_at": "2026-07-08T06:22:20.497381"
-  },
-  {
-    "title": "GIS Analyst",
-    "company": "SMEC",
-    "url": "https://au.indeed.com/viewjob?jk=a7f9a21ed712e019",
-    "scraped_at": "2026-07-08T06:22:20.501382"
-  },
-  {
-    "title": "Graduate Finance Analyst",
-    "company": "BlueScope",
-    "url": "https://au.indeed.com/viewjob?jk=e757b7e72b6e5f1c",
-    "scraped_at": "2026-07-08T06:22:20.503026"
-  },
-  {
-    "title": "Product Designer",
-    "company": "Commonwealth Bank of Australia",
-    "url": "https://au.indeed.com/viewjob?jk=8d1d3faa96d8e52c",
-    "scraped_at": "2026-07-08T10:08:15.868362"
-  },
-  {
-    "title": "BI Developer / Sales Operations Business Analyst",
-    "company": "Pernod Ricard",
-    "url": "https://au.indeed.com/viewjob?jk=4da70331eefe2fb9",
-    "scraped_at": "2026-07-08T10:08:15.873177"
-  },
-  {
-    "title": "Data operations manager",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=c6e8b8143d2144bf",
-    "scraped_at": "2026-07-08T10:08:15.878448"
-  },
-  {
-    "title": "Agent Development Engineer Graduate (Media Network) - 2027 Start (BS/MS)",
-    "company": "TikTok",
-    "url": "https://au.indeed.com/viewjob?jk=39bf54ecf5b39a2f",
-    "scraped_at": "2026-07-08T13:41:47.446569"
-  },
-  {
-    "title": "Analyst - GES Immigration",
-    "company": "Deloitte",
-    "url": "https://au.indeed.com/viewjob?jk=10470d218c07a94c",
-    "scraped_at": "2026-07-08T13:41:47.452512"
-  },
-  {
-    "title": "Customer Journey Expert, Enterprise Data",
-    "company": "ING",
-    "url": "https://au.indeed.com/viewjob?jk=86e99c343fac8ba9",
-    "scraped_at": "2026-07-08T13:41:47.457059"
-  },
-  {
     "title": "Associate Developer",
     "company": "MYOB",
     "url": "https://au.indeed.com/viewjob?jk=550525bbef88a040",
@@ -5998,5 +5944,59 @@
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=43eb02b6a3641d2e",
     "scraped_at": "2026-09-08T02:06:09.982778"
+  },
+  {
+    "title": "AI Product Lead",
+    "company": "Insignia Financial",
+    "url": "https://au.indeed.com/viewjob?jk=44f9847241e43c47",
+    "scraped_at": "2026-09-08T08:26:30.065334"
+  },
+  {
+    "title": "Digital R&D Engineer",
+    "company": "WEIR",
+    "url": "https://au.indeed.com/viewjob?jk=7d616e3dcc0fd456",
+    "scraped_at": "2026-09-08T08:26:30.067024"
+  },
+  {
+    "title": "Software Engineer (Developer) III - Game Development",
+    "company": "IGT",
+    "url": "https://au.indeed.com/viewjob?jk=527e32ff0c1b0183",
+    "scraped_at": "2026-09-08T08:26:30.073369"
+  },
+  {
+    "title": "GCP Data & Cloud Engineer",
+    "company": "Intelligen Group",
+    "url": "https://au.indeed.com/viewjob?jk=03cc9107003b67f3",
+    "scraped_at": "2026-09-08T08:26:30.074194"
+  },
+  {
+    "title": "Underground Technologies Sr. Project Lead",
+    "company": "Sourceo",
+    "url": "https://au.indeed.com/viewjob?jk=1729302aeba0c161",
+    "scraped_at": "2026-09-08T08:26:30.075242"
+  },
+  {
+    "title": "Technical Product Trainer - Navigation Solutions",
+    "company": "Advanced Navigation",
+    "url": "https://au.indeed.com/viewjob?jk=7f553034c58ea317",
+    "scraped_at": "2026-09-08T08:26:30.078320"
+  },
+  {
+    "title": "Credit Risk Analyst",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=d84e6cbdd7d41135",
+    "scraped_at": "2026-09-08T08:26:30.079973"
+  },
+  {
+    "title": "Quality Engineering Analyst (Sentral)",
+    "company": "Global Payments",
+    "url": "https://au.indeed.com/viewjob?jk=8cfbfea2cb8a5c03",
+    "scraped_at": "2026-09-08T08:26:30.087025"
+  },
+  {
+    "title": "Graphic Designer",
+    "company": "YATSAL DISTRUBUTORS PTY LTD",
+    "url": "https://au.indeed.com/viewjob?jk=df6924663983dc51",
+    "scraped_at": "2026-09-08T08:26:30.098879"
   }
 ]
