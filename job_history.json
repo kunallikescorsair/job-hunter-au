@@ -1,89 +1,5 @@
 [
   {
-    "title": "Associate Developer",
-    "company": "MYOB",
-    "url": "https://au.indeed.com/viewjob?jk=550525bbef88a040",
-    "scraped_at": "2026-07-08T13:41:47.464399"
-  },
-  {
-    "title": "Associate Developer",
-    "company": "AXSYS",
-    "url": "https://au.indeed.com/viewjob?jk=2040de1d057820bd",
-    "scraped_at": "2026-07-08T13:41:47.465053"
-  },
-  {
-    "title": "Netsuite Technical Analyst",
-    "company": "Rhino-Rack Australia & MAXTRAX Australia",
-    "url": "https://au.indeed.com/viewjob?jk=3e5dad7c777e2ab8",
-    "scraped_at": "2026-07-08T17:20:04.965341"
-  },
-  {
-    "title": "Business Support Services Manager",
-    "company": "Microsoft",
-    "url": "https://au.indeed.com/viewjob?jk=a381a8e13d27d062",
-    "scraped_at": "2026-07-08T17:20:04.969489"
-  },
-  {
-    "title": "Sr Solutions Engineer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=19d4b8586358987a",
-    "scraped_at": "2026-07-08T20:57:28.480879"
-  },
-  {
-    "title": "Solutions Engineer - ThousandEyes Assurance & AI (Enterprise)",
-    "company": "Cisco",
-    "url": "https://au.indeed.com/viewjob?jk=45733b7c677a8d84",
-    "scraped_at": "2026-07-09T02:00:22.837059"
-  },
-  {
-    "title": "Business Analyst - 12 Month Contract",
-    "company": "MYOB",
-    "url": "https://au.indeed.com/viewjob?jk=e69611509d0036e1",
-    "scraped_at": "2026-07-09T02:00:22.842233"
-  },
-  {
-    "title": "Business Analyst - 12 Month Contract",
-    "company": "AXSYS",
-    "url": "https://au.indeed.com/viewjob?jk=9ecd886894ef518f",
-    "scraped_at": "2026-07-09T02:00:22.842890"
-  },
-  {
-    "title": "AI Forward Deployment Engineer (Professional Services)",
-    "company": "Zoom Communications",
-    "url": "https://au.indeed.com/viewjob?jk=5309e3a43e819921",
-    "scraped_at": "2026-07-09T07:29:57.037191"
-  },
-  {
-    "title": "AWS Consultant - AWS Connect - CX",
-    "company": "Concentrix",
-    "url": "https://au.indeed.com/viewjob?jk=87aa5026e19e37f7",
-    "scraped_at": "2026-07-09T07:29:57.040658"
-  },
-  {
-    "title": "Security Platform Engineer - Microsegmentation",
-    "company": "Optus",
-    "url": "https://au.indeed.com/viewjob?jk=2f8709a6ad985fdc",
-    "scraped_at": "2026-07-09T07:29:57.046610"
-  },
-  {
-    "title": "Commercial Intelligence Analyst",
-    "company": "DAZN",
-    "url": "https://au.indeed.com/viewjob?jk=77074729df2b0a10",
-    "scraped_at": "2026-07-09T07:29:57.048726"
-  },
-  {
-    "title": "Commercial Intelligence Coordinator",
-    "company": "DAZN",
-    "url": "https://au.indeed.com/viewjob?jk=e8b4a275da70f941",
-    "scraped_at": "2026-07-09T07:29:57.052356"
-  },
-  {
-    "title": "Quality Engineer",
-    "company": "Duxxel",
-    "url": "https://au.indeed.com/viewjob?jk=3e1710eef6a2dd58",
-    "scraped_at": "2026-07-09T07:29:57.054221"
-  },
-  {
     "title": "AI Engineer",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=a182633eede93891",
@@ -5998,5 +5914,89 @@
     "company": "YATSAL DISTRUBUTORS PTY LTD",
     "url": "https://au.indeed.com/viewjob?jk=df6924663983dc51",
     "scraped_at": "2026-09-08T08:26:30.098879"
+  },
+  {
+    "title": "AI Product Engineer",
+    "company": "Insignia Financial",
+    "url": "https://au.indeed.com/viewjob?jk=8b253f536f8c73f5",
+    "scraped_at": "2026-09-08T15:40:19.641199"
+  },
+  {
+    "title": "AI Engineer \u2013 SAS to Snowflake Migration",
+    "company": "Neuronimbus Digital Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=bf9c4aa128295393",
+    "scraped_at": "2026-09-08T15:40:19.642167"
+  },
+  {
+    "title": "Cloud & AI Infrastructure Solution Engineer",
+    "company": "Microsoft",
+    "url": "https://au.indeed.com/viewjob?jk=8d3fd55e236cb9c4",
+    "scraped_at": "2026-09-08T15:40:19.645384"
+  },
+  {
+    "title": "Cloud Endpoint Solution Engineer",
+    "company": "Microsoft",
+    "url": "https://au.indeed.com/viewjob?jk=c76ff9a997bc09f4",
+    "scraped_at": "2026-09-08T15:40:19.645939"
+  },
+  {
+    "title": "Enterprise Account Executive - High tech and Professional Services",
+    "company": "Salesforce",
+    "url": "https://au.indeed.com/viewjob?jk=16a6eb26c794eb86",
+    "scraped_at": "2026-09-08T15:40:19.648033"
+  },
+  {
+    "title": "ICT Business Analyst",
+    "company": "Mitra Innovation",
+    "url": "https://au.indeed.com/viewjob?jk=212fec14e36f60d5",
+    "scraped_at": "2026-09-08T15:40:19.649121"
+  },
+  {
+    "title": "Sr Data Analyst, Japan market",
+    "company": "Dynatrace",
+    "url": "https://au.indeed.com/viewjob?jk=f85b3b6feb96e478",
+    "scraped_at": "2026-09-08T15:40:19.650004"
+  },
+  {
+    "title": "Team Lead - Quality Engineering",
+    "company": "Reserve Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=5d78b8db5be1dcec",
+    "scraped_at": "2026-09-08T15:40:19.655381"
+  },
+  {
+    "title": "Grafana Developer",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=73d6b604cc4b0b13",
+    "scraped_at": "2026-09-08T15:40:19.656335"
+  },
+  {
+    "title": "Network Engineer",
+    "company": "Reserve Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=631e2f871ac0c06f",
+    "scraped_at": "2026-09-08T15:40:19.658286"
+  },
+  {
+    "title": "Lead Snowflake Architect",
+    "company": "Neuronimbus Digital Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=cf98486d8164eb38",
+    "scraped_at": "2026-09-08T15:40:19.658908"
+  },
+  {
+    "title": "AI Developer",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=9cd5efc93a4422bd",
+    "scraped_at": "2026-09-08T15:40:19.662835"
+  },
+  {
+    "title": "AI-native software developer",
+    "company": "Law of the Jungle",
+    "url": "https://au.indeed.com/viewjob?jk=59c3e20611ac6d7c",
+    "scraped_at": "2026-09-08T15:40:19.663174"
+  },
+  {
+    "title": "AI Developer",
+    "company": "All in IT Solutions",
+    "url": "https://au.indeed.com/viewjob?jk=f7d8edeb67977082",
+    "scraped_at": "2026-09-08T15:40:19.663586"
   }
 ]
