@@ -1,35 +1,5 @@
 [
   {
-    "title": "Product Designer",
-    "company": "Domain Group",
-    "url": "https://au.indeed.com/viewjob?jk=9e520c1d747b88f4",
-    "scraped_at": "2026-07-09T10:53:32.688553"
-  },
-  {
-    "title": "Commercial Analyst (Logistics & Production)",
-    "company": "Harris Farm Markets",
-    "url": "https://au.indeed.com/viewjob?jk=0f9c088d26d796a0",
-    "scraped_at": "2026-07-09T10:53:32.692020"
-  },
-  {
-    "title": "CX Project Manager",
-    "company": "Mirvac",
-    "url": "https://au.indeed.com/viewjob?jk=e7720d15d556f9b4",
-    "scraped_at": "2026-07-09T10:53:32.695880"
-  },
-  {
-    "title": "Commercial Insights Lead",
-    "company": "Boody Australia",
-    "url": "https://au.indeed.com/viewjob?jk=aaaa124e454ec9c9",
-    "scraped_at": "2026-07-09T10:53:32.697667"
-  },
-  {
-    "title": "Technical Account Manager",
-    "company": "Adobe",
-    "url": "https://au.indeed.com/viewjob?jk=8f6d5eeb5a615b04",
-    "scraped_at": "2026-07-09T14:31:42.193381"
-  },
-  {
     "title": "AIX Systems Engineer",
     "company": "Capgemini",
     "url": "https://au.indeed.com/viewjob?jk=b0a1cbdb8aa26c84",
@@ -5998,5 +5968,35 @@
     "company": "Sitecore",
     "url": "https://au.indeed.com/viewjob?jk=946d13d9c2b1783e",
     "scraped_at": "2026-09-08T19:08:45.236577"
+  },
+  {
+    "title": "MLOps / AI Engineer",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=2bf1141f7b98fc9c",
+    "scraped_at": "2026-09-08T22:10:40.149908"
+  },
+  {
+    "title": "Platform Engineer",
+    "company": "LUMI",
+    "url": "https://au.indeed.com/viewjob?jk=82275a43c74cc5e0",
+    "scraped_at": "2026-09-08T22:10:40.150620"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=c6386145b7f0e740",
+    "scraped_at": "2026-09-08T22:10:40.151170"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "BizCover",
+    "url": "https://au.indeed.com/viewjob?jk=1671dca7de44fc32",
+    "scraped_at": "2026-09-08T22:10:40.165329"
+  },
+  {
+    "title": "AWS Data Engineer",
+    "company": "Accenture",
+    "url": "https://au.indeed.com/viewjob?jk=008ea0b9ea3d4100",
+    "scraped_at": "2026-09-08T22:10:40.170623"
   }
 ]
