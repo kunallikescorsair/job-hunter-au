@@ -1,47 +1,5 @@
 [
   {
-    "title": "Forward Deployed Engineer III, Conversational AI",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=070c59eac868a27c",
-    "scraped_at": "2026-07-09T21:13:25.111355"
-  },
-  {
-    "title": "Customer Engineer Associate, Platform, Google Cloud",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=035f27cbab3fec5f",
-    "scraped_at": "2026-07-09T21:13:25.112700"
-  },
-  {
-    "title": "Customer Engineer, Platform, Google Cloud",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=ad6d8ce7b5569da5",
-    "scraped_at": "2026-07-09T21:13:25.113330"
-  },
-  {
-    "title": "Market Analyst",
-    "company": "Modo Energy",
-    "url": "https://au.indeed.com/viewjob?jk=489acd4529f952ed",
-    "scraped_at": "2026-07-09T21:13:25.117538"
-  },
-  {
-    "title": "Product Deployment Engineer, gTech Ads",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=345e781825d96b2e",
-    "scraped_at": "2026-07-09T21:13:25.125625"
-  },
-  {
-    "title": "Azure Cloud Engineer",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=6ac0c76ac44a4ff5",
-    "scraped_at": "2026-07-10T01:58:30.250349"
-  },
-  {
-    "title": "Software Engineer(Cybersecurity)",
-    "company": "Hanshow Australia Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=6e9cd8b1dda62494",
-    "scraped_at": "2026-07-10T01:58:30.259732"
-  },
-  {
     "title": "Associate Data Scientist",
     "company": "Culture Amp",
     "url": "https://au.indeed.com/viewjob?jk=dd3e83d49b2a499c",
@@ -5998,5 +5956,47 @@
     "company": "William Grant & Sons",
     "url": "https://au.indeed.com/viewjob?jk=7f4cbe5f2c1ec864",
     "scraped_at": "2026-09-09T08:29:06.612163"
+  },
+  {
+    "title": "FP&A Analyst",
+    "company": "Heidi",
+    "url": "https://au.indeed.com/viewjob?jk=95a6f04e3b8a5a92",
+    "scraped_at": "2026-09-09T15:34:20.355100"
+  },
+  {
+    "title": "Forward Deployed Engineer - Sydney",
+    "company": "OpenAI",
+    "url": "https://au.indeed.com/viewjob?jk=2a3ddfe059754155",
+    "scraped_at": "2026-09-09T15:34:20.358486"
+  },
+  {
+    "title": "Project Controls Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=ba00d79b1b9d391b",
+    "scraped_at": "2026-09-09T15:34:20.362175"
+  },
+  {
+    "title": "Sr Pricing Analyst",
+    "company": "Honeywell",
+    "url": "https://au.indeed.com/viewjob?jk=5a0c5db668cd748e",
+    "scraped_at": "2026-09-09T15:34:20.363270"
+  },
+  {
+    "title": "Quality Assurance Test Engineer",
+    "company": "FinXL",
+    "url": "https://au.indeed.com/viewjob?jk=ce396f62a8ce6c0a",
+    "scraped_at": "2026-09-09T15:34:20.372733"
+  },
+  {
+    "title": "System Analyst",
+    "company": "HCF (Australia)",
+    "url": "https://au.indeed.com/viewjob?jk=682e70972b3f098f",
+    "scraped_at": "2026-09-09T15:34:20.380988"
+  },
+  {
+    "title": "Junior Systems Developer",
+    "company": "Brighte Capital",
+    "url": "https://au.indeed.com/viewjob?jk=e3916b1c180c7392",
+    "scraped_at": "2026-09-09T15:34:20.381608"
   }
 ]
