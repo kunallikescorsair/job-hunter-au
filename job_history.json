@@ -1,23 +1,5 @@
 [
   {
-    "title": "Technical Business Analyst - Integrations",
-    "company": "Scape Australia",
-    "url": "https://au.indeed.com/viewjob?jk=5054bb5fe30fe803",
-    "scraped_at": "2026-07-10T07:27:13.123896"
-  },
-  {
-    "title": "Analyst, AM Distribution Data and Analytics",
-    "company": "Insignia Financial",
-    "url": "https://au.indeed.com/viewjob?jk=8f2502ef52a5a7b2",
-    "scraped_at": "2026-07-10T07:27:13.125349"
-  },
-  {
-    "title": "Governance Analyst, Pacific",
-    "company": "AIG",
-    "url": "https://au.indeed.com/viewjob?jk=41319359e853ca1d",
-    "scraped_at": "2026-07-10T07:27:13.130031"
-  },
-  {
     "title": "Tech Lead Engineer (Salesforce)",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=3203024255fd44bc",
@@ -5998,5 +5980,23 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=a182633eede93891",
     "scraped_at": "2026-09-09T18:56:27.939514"
+  },
+  {
+    "title": "Associate Data Scientist",
+    "company": "Culture Amp",
+    "url": "https://au.indeed.com/viewjob?jk=dd3e83d49b2a499c",
+    "scraped_at": "2026-09-09T22:06:38.694965"
+  },
+  {
+    "title": "PMO Analyst",
+    "company": "CSR",
+    "url": "https://au.indeed.com/viewjob?jk=16db823bad62d011",
+    "scraped_at": "2026-09-09T22:06:38.717268"
+  },
+  {
+    "title": "AML Risk Operations Analyst",
+    "company": "HUB24",
+    "url": "https://au.indeed.com/viewjob?jk=47485b7b6920c322",
+    "scraped_at": "2026-09-09T22:06:38.719066"
   }
 ]
