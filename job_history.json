@@ -1,47 +1,5 @@
 [
   {
-    "title": "AIX Systems Engineer",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=b0a1cbdb8aa26c84",
-    "scraped_at": "2026-07-09T14:31:42.193944"
-  },
-  {
-    "title": "IP Network Engineer",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=f6db12f82dbf8b55",
-    "scraped_at": "2026-07-09T14:31:42.194752"
-  },
-  {
-    "title": "Business Case Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=0579d0084ef8f240",
-    "scraped_at": "2026-07-09T14:31:42.200018"
-  },
-  {
-    "title": "UI/UX Designer(6 months Contract)",
-    "company": "Binance",
-    "url": "https://au.indeed.com/viewjob?jk=f8c4e6bf76e7a56d",
-    "scraped_at": "2026-07-09T14:31:42.211570"
-  },
-  {
-    "title": "Partner Success Analyst - APAC",
-    "company": "orgvue",
-    "url": "https://au.indeed.com/viewjob?jk=419f6967564ecb59",
-    "scraped_at": "2026-07-09T17:48:13.327180"
-  },
-  {
-    "title": "Cybersecurity Exposure & Vulnerability Management Engineer",
-    "company": "Cognizant",
-    "url": "https://au.indeed.com/viewjob?jk=e518a4b2f007ef21",
-    "scraped_at": "2026-07-09T17:48:13.333728"
-  },
-  {
-    "title": "Applied Solutions Architect, Google Cloud",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=afdc6ec128ef8973",
-    "scraped_at": "2026-07-09T21:13:25.110588"
-  },
-  {
     "title": "Forward Deployed Engineer III, Conversational AI",
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=070c59eac868a27c",
@@ -5998,5 +5956,47 @@
     "company": "Accenture",
     "url": "https://au.indeed.com/viewjob?jk=008ea0b9ea3d4100",
     "scraped_at": "2026-09-08T22:10:40.170623"
+  },
+  {
+    "title": "Technical Project Manager",
+    "company": "Silicon Quantum Computing",
+    "url": "https://au.indeed.com/viewjob?jk=ebefe27eb58740fb",
+    "scraped_at": "2026-09-09T08:29:06.592526"
+  },
+  {
+    "title": "Solutions Engineer, Sydney",
+    "company": "Cribl",
+    "url": "https://au.indeed.com/viewjob?jk=2035e140ee779991",
+    "scraped_at": "2026-09-09T08:29:06.597501"
+  },
+  {
+    "title": "Software Engineer, Splunk - Product Sizing and Packaging - Australia",
+    "company": "Cisco",
+    "url": "https://au.indeed.com/viewjob?jk=b5fdd908b9667a0d",
+    "scraped_at": "2026-09-09T08:29:06.598133"
+  },
+  {
+    "title": "Cyber Security Engineer",
+    "company": "Avant",
+    "url": "https://au.indeed.com/viewjob?jk=0661f541184a9aa7",
+    "scraped_at": "2026-09-09T08:29:06.598790"
+  },
+  {
+    "title": "Technical Account Manager",
+    "company": "Ideagen",
+    "url": "https://au.indeed.com/viewjob?jk=1d0debe765ae8711",
+    "scraped_at": "2026-09-09T08:29:06.599350"
+  },
+  {
+    "title": "Data Quality and Governance Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=867ce73f71b68793",
+    "scraped_at": "2026-09-09T08:29:06.605093"
+  },
+  {
+    "title": "Finance Analyst",
+    "company": "William Grant & Sons",
+    "url": "https://au.indeed.com/viewjob?jk=7f4cbe5f2c1ec864",
+    "scraped_at": "2026-09-09T08:29:06.612163"
   }
 ]
