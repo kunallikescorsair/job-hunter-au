@@ -1,29 +1,5 @@
 [
   {
-    "title": "Associate Data Scientist",
-    "company": "Culture Amp",
-    "url": "https://au.indeed.com/viewjob?jk=dd3e83d49b2a499c",
-    "scraped_at": "2026-07-10T07:27:13.103553"
-  },
-  {
-    "title": "Orchard - AI Skills Manager",
-    "company": "Orchard Marketing",
-    "url": "https://au.indeed.com/viewjob?jk=a2a7a90ad9af0115",
-    "scraped_at": "2026-07-10T07:27:13.116453"
-  },
-  {
-    "title": "Azure Cloud Engineer",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=7fbcc7866885f849",
-    "scraped_at": "2026-07-10T07:27:13.117221"
-  },
-  {
-    "title": "Knowledge Management Analyst",
-    "company": "HUB24",
-    "url": "https://au.indeed.com/viewjob?jk=0c7f447a9beaf3e3",
-    "scraped_at": "2026-07-10T07:27:13.122713"
-  },
-  {
     "title": "Technical Business Analyst - Integrations",
     "company": "Scape Australia",
     "url": "https://au.indeed.com/viewjob?jk=5054bb5fe30fe803",
@@ -5998,5 +5974,29 @@
     "company": "Brighte Capital",
     "url": "https://au.indeed.com/viewjob?jk=e3916b1c180c7392",
     "scraped_at": "2026-09-09T15:34:20.381608"
+  },
+  {
+    "title": "Security Customer Engineer, Google Cloud",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=53d8f3fb6a206e47",
+    "scraped_at": "2026-09-09T18:56:27.918004"
+  },
+  {
+    "title": "Detection and SOAR Engineer, Mandiant Consulting, Google Cloud",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=0d8823f009d6d0d3",
+    "scraped_at": "2026-09-09T18:56:27.931650"
+  },
+  {
+    "title": "SQL Data Engineer",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=146fd5a612e7fce9",
+    "scraped_at": "2026-09-09T18:56:27.938613"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=a182633eede93891",
+    "scraped_at": "2026-09-09T18:56:27.939514"
   }
 ]
