@@ -1,11 +1,5 @@
 [
   {
-    "title": "Data Scientist - Risk Management",
-    "company": "Commonwealth Bank of Australia",
-    "url": "https://au.indeed.com/viewjob?jk=2e103d1713898eff",
-    "scraped_at": "2026-07-13T01:51:42.718258"
-  },
-  {
     "title": "ML Engineer",
     "company": "Cognizant",
     "url": "https://au.indeed.com/viewjob?jk=700a231d9d9c63fe",
@@ -5998,5 +5992,11 @@
     "company": "Capgemini",
     "url": "https://au.indeed.com/viewjob?jk=fa944f214e5f8f06",
     "scraped_at": "2026-09-10T18:49:47.645303"
+  },
+  {
+    "title": "Technical Business Analyst ? Appian Workflow (Banking)",
+    "company": "Persistent Systems",
+    "url": "https://au.indeed.com/viewjob?jk=caf02d161bcc8472",
+    "scraped_at": "2026-09-10T22:05:32.656190"
   }
 ]
