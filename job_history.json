@@ -1,23 +1,5 @@
 [
   {
-    "title": "Integration Developer- Sydney Olympic Park",
-    "company": "4WD Supacentre",
-    "url": "https://au.indeed.com/viewjob?jk=fcb41517a04e8bcd",
-    "scraped_at": "2026-07-10T10:45:06.881917"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "News Corp",
-    "url": "https://au.indeed.com/viewjob?jk=6ecb298a59bf46ad",
-    "scraped_at": "2026-07-10T14:00:43.696803"
-  },
-  {
-    "title": "Research Analyst (OE China/Taiwan)",
-    "company": "Institutional Shareholder Services",
-    "url": "https://au.indeed.com/viewjob?jk=3f6453393aca1cf6",
-    "scraped_at": "2026-07-10T14:00:43.706568"
-  },
-  {
     "title": "Campaign Executive",
     "company": "News Corp",
     "url": "https://au.indeed.com/viewjob?jk=a0f7eefbcb75bee9",
@@ -5998,5 +5980,23 @@
     "company": "Tata Consultancy Services (TCS)",
     "url": "https://au.indeed.com/viewjob?jk=19c391552c7389a0",
     "scraped_at": "2026-09-10T02:08:14.207806"
+  },
+  {
+    "title": "Software Engineer \u00e2\u20ac\u201c Engineering Enablement (AI, Quality & Platform Reliability)",
+    "company": "The Argyle Network",
+    "url": "https://au.indeed.com/viewjob?jk=cb2541b07cfeef11",
+    "scraped_at": "2026-09-10T08:30:45.664334"
+  },
+  {
+    "title": "Risk Transformation Analyst",
+    "company": "Colonial First State",
+    "url": "https://au.indeed.com/viewjob?jk=ef2e364c5d5e48a0",
+    "scraped_at": "2026-09-10T08:30:45.666259"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Centelon",
+    "url": "https://au.indeed.com/viewjob?jk=528c0c0edc2a3829",
+    "scraped_at": "2026-09-10T08:30:45.680880"
   }
 ]
