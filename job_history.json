@@ -1,53 +1,5 @@
 [
   {
-    "title": "Tech Lead Engineer (Salesforce)",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=3203024255fd44bc",
-    "scraped_at": "2026-07-10T07:27:13.131157"
-  },
-  {
-    "title": "Advanced Project Engineer (System and Application Integration \u2013 BMS/SCADA)",
-    "company": "Honeywell",
-    "url": "https://au.indeed.com/viewjob?jk=0195ffe5b7ddef0f",
-    "scraped_at": "2026-07-10T07:27:13.133198"
-  },
-  {
-    "title": "Assistant Business Controller",
-    "company": "Permobil",
-    "url": "https://au.indeed.com/viewjob?jk=51290521382acd51",
-    "scraped_at": "2026-07-10T07:27:13.136401"
-  },
-  {
-    "title": "Manager Precinct Operations",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=c0233567fa4dafe8",
-    "scraped_at": "2026-07-10T07:27:13.138525"
-  },
-  {
-    "title": "AI Deployment Engineer (Professional Services)",
-    "company": "Zoom Communications",
-    "url": "https://au.indeed.com/viewjob?jk=c97366c2cd7a1cc1",
-    "scraped_at": "2026-07-10T10:45:06.866068"
-  },
-  {
-    "title": "Analytics Engineer",
-    "company": "Scape Australia",
-    "url": "https://au.indeed.com/viewjob?jk=eb404bd05655a281",
-    "scraped_at": "2026-07-10T10:45:06.868939"
-  },
-  {
-    "title": "Data Site Reliability Engineer, Video Platform - USDS",
-    "company": "TikTok USDS JV",
-    "url": "https://au.indeed.com/viewjob?jk=0ef26a8315481001",
-    "scraped_at": "2026-07-10T10:45:06.872369"
-  },
-  {
-    "title": "Project Manager",
-    "company": "EXL Service",
-    "url": "https://au.indeed.com/viewjob?jk=e21ea2f213de1be6",
-    "scraped_at": "2026-07-10T10:45:06.877839"
-  },
-  {
     "title": "Integration Developer- Sydney Olympic Park",
     "company": "4WD Supacentre",
     "url": "https://au.indeed.com/viewjob?jk=fcb41517a04e8bcd",
@@ -5998,5 +5950,53 @@
     "company": "HUB24",
     "url": "https://au.indeed.com/viewjob?jk=47485b7b6920c322",
     "scraped_at": "2026-09-09T22:06:38.719066"
+  },
+  {
+    "title": "Device Operations Manager",
+    "company": "Silicon Quantum Computing",
+    "url": "https://au.indeed.com/viewjob?jk=f6aff30c6f93b1ce",
+    "scraped_at": "2026-09-10T02:08:14.182078"
+  },
+  {
+    "title": "Product Owner - Remote",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=5c47620a224c52f9",
+    "scraped_at": "2026-09-10T02:08:14.183528"
+  },
+  {
+    "title": "Escala - Wealth Management - Graduate Opportunity",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=a21d21efabc9d402",
+    "scraped_at": "2026-09-10T02:08:14.188672"
+  },
+  {
+    "title": "Planning Analytics Engineer",
+    "company": "Pyramid Global Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=b2dcab77abb8024e",
+    "scraped_at": "2026-09-10T02:08:14.194367"
+  },
+  {
+    "title": "Software Engineer, Internet Edge Services",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=8ed7432ae2ff2cca",
+    "scraped_at": "2026-09-10T02:08:14.199406"
+  },
+  {
+    "title": "Google Data Engineer - GCP",
+    "company": "NCS",
+    "url": "https://au.indeed.com/viewjob?jk=ab6d61d74ace1acd",
+    "scraped_at": "2026-09-10T02:08:14.205327"
+  },
+  {
+    "title": "Tech Architecture Sr Manager / Manager / Associate Manager / Specialist/ Sr. Analyst",
+    "company": "Accenture",
+    "url": "https://au.indeed.com/viewjob?jk=515bbc8ee80b8dbb",
+    "scraped_at": "2026-09-10T02:08:14.206403"
+  },
+  {
+    "title": "AI Developer",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=19c391552c7389a0",
+    "scraped_at": "2026-09-10T02:08:14.207806"
   }
 ]
