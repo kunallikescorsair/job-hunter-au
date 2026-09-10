@@ -1,53 +1,5 @@
 [
   {
-    "title": "Campaign Executive",
-    "company": "News Corp",
-    "url": "https://au.indeed.com/viewjob?jk=a0f7eefbcb75bee9",
-    "scraped_at": "2026-07-10T14:00:43.710657"
-  },
-  {
-    "title": "Lead Agentic AI Developer",
-    "company": "News Corp",
-    "url": "https://au.indeed.com/viewjob?jk=3f8fdf0d84a91d08",
-    "scraped_at": "2026-07-10T17:41:48.029552"
-  },
-  {
-    "title": "Frontend Software Engineer Graduate (TikTok Foundation) - 2027 Start (BS/MS)",
-    "company": "TikTok",
-    "url": "https://au.indeed.com/viewjob?jk=6305ba5516e9537c",
-    "scraped_at": "2026-07-10T17:41:48.031367"
-  },
-  {
-    "title": "Mobile Software Engineer Graduate (TikTok Foundation) - 2027 Start (BS/MS)",
-    "company": "TikTok",
-    "url": "https://au.indeed.com/viewjob?jk=f5256eb10623bd4e",
-    "scraped_at": "2026-07-10T17:41:48.031983"
-  },
-  {
-    "title": "Technology Application Support",
-    "company": "Bupa",
-    "url": "https://au.indeed.com/viewjob?jk=97046053294d38e7",
-    "scraped_at": "2026-07-10T17:41:48.040241"
-  },
-  {
-    "title": "Enterprise Applications Sales Specialist, VMware Engine and SAP (English)",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=bf59661b8f47b2fe",
-    "scraped_at": "2026-07-11T01:46:58.666254"
-  },
-  {
-    "title": "Integration Developer- Sydney Olympic Park",
-    "company": "Employment Hero",
-    "url": "https://au.indeed.com/viewjob?jk=55310a5d39a808a6",
-    "scraped_at": "2026-07-12T06:26:53.776124"
-  },
-  {
-    "title": "Risk Analyst \u2013 Investigations",
-    "company": "Westpac Group",
-    "url": "https://au.indeed.com/viewjob?jk=0c1cf781109e93a0",
-    "scraped_at": "2026-07-12T06:26:53.779978"
-  },
-  {
     "title": "UX Designer",
     "company": "Advanced Navigation",
     "url": "https://au.indeed.com/viewjob?jk=f3dc9140ec5598c7",
@@ -5998,5 +5950,53 @@
     "company": "Centelon",
     "url": "https://au.indeed.com/viewjob?jk=528c0c0edc2a3829",
     "scraped_at": "2026-09-10T08:30:45.680880"
+  },
+  {
+    "title": "ICT Business Analyst",
+    "company": "Southern English College",
+    "url": "https://au.indeed.com/viewjob?jk=cea5faf55192d05b",
+    "scraped_at": "2026-09-10T15:30:19.235628"
+  },
+  {
+    "title": "Customer & Operations Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=b4eb3b1b0aedbe0f",
+    "scraped_at": "2026-09-10T15:30:19.236371"
+  },
+  {
+    "title": "Client Consulting Manager, Visa Consulting & Analytics (VCA) 12-Month Fixed Term",
+    "company": "Visa",
+    "url": "https://au.indeed.com/viewjob?jk=567b7a44fad96524",
+    "scraped_at": "2026-09-10T15:30:19.237858"
+  },
+  {
+    "title": "Warehouse Associate",
+    "company": "Sycomp",
+    "url": "https://au.indeed.com/viewjob?jk=457d267ad87b40a3",
+    "scraped_at": "2026-09-10T15:30:19.246979"
+  },
+  {
+    "title": "Software Engineer (AI Tooling & Enablement)",
+    "company": "hipages Group",
+    "url": "https://au.indeed.com/viewjob?jk=cd054f6a4ec195b4",
+    "scraped_at": "2026-09-10T15:30:19.247884"
+  },
+  {
+    "title": "Full Stack Software Engineer \u2014 AI,Fronted Oriented (Fully Remote)",
+    "company": "Binance",
+    "url": "https://au.indeed.com/viewjob?jk=c1a06256b651cb81",
+    "scraped_at": "2026-09-10T15:30:19.256788"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Propeller",
+    "url": "https://au.indeed.com/viewjob?jk=50111477b129e2f3",
+    "scraped_at": "2026-09-10T15:30:19.257429"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "CoreFlow",
+    "url": "https://au.indeed.com/viewjob?jk=15afc85ff37d8b8a",
+    "scraped_at": "2026-09-10T15:30:19.258137"
   }
 ]
