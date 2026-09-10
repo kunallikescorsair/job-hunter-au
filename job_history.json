@@ -1,41 +1,5 @@
 [
   {
-    "title": "UX Designer",
-    "company": "Advanced Navigation",
-    "url": "https://au.indeed.com/viewjob?jk=f3dc9140ec5598c7",
-    "scraped_at": "2026-07-12T16:47:26.089670"
-  },
-  {
-    "title": "Product Trainer and Technical Writer",
-    "company": "Advanced Navigation",
-    "url": "https://au.indeed.com/viewjob?jk=d15048b1874b020e",
-    "scraped_at": "2026-07-12T16:47:26.090757"
-  },
-  {
-    "title": "Fiber Optical Coil Tester - Botany",
-    "company": "Advanced Navigation",
-    "url": "https://au.indeed.com/viewjob?jk=68560370d52103ae",
-    "scraped_at": "2026-07-12T16:47:26.091560"
-  },
-  {
-    "title": "Business Intelligence Specialist",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=1b18bbb0421301ca",
-    "scraped_at": "2026-07-12T20:36:02.400640"
-  },
-  {
-    "title": "Project Cost Practice Lead",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=869474f3603918e6",
-    "scraped_at": "2026-07-12T20:36:02.406962"
-  },
-  {
-    "title": "Sales Operations Analyst - Reddit",
-    "company": "Recoveriescorp",
-    "url": "https://au.indeed.com/viewjob?jk=72181cc9f5d03efd",
-    "scraped_at": "2026-07-12T20:36:02.407962"
-  },
-  {
     "title": "Data Scientist - Risk Management",
     "company": "Commonwealth Bank of Australia",
     "url": "https://au.indeed.com/viewjob?jk=2e103d1713898eff",
@@ -5998,5 +5962,41 @@
     "company": "CoreFlow",
     "url": "https://au.indeed.com/viewjob?jk=15afc85ff37d8b8a",
     "scraped_at": "2026-09-10T15:30:19.258137"
+  },
+  {
+    "title": "Manufacturing Support & Automation Engineer",
+    "company": "Cochlear",
+    "url": "https://au.indeed.com/viewjob?jk=99d40f6d225558f6",
+    "scraped_at": "2026-09-10T18:49:47.621880"
+  },
+  {
+    "title": "Security Engineer",
+    "company": "Snap Inc.",
+    "url": "https://au.indeed.com/viewjob?jk=ca80fcc05e5200e7",
+    "scraped_at": "2026-09-10T18:49:47.629129"
+  },
+  {
+    "title": "Reporting Analytics Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=0d507f1753ee9067",
+    "scraped_at": "2026-09-10T18:49:47.632297"
+  },
+  {
+    "title": "Systems Assurance Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=5f0f8bb251cb7a67",
+    "scraped_at": "2026-09-10T18:49:47.635580"
+  },
+  {
+    "title": "Oracle EBS Developer",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=e186ad4ab79dd4e4",
+    "scraped_at": "2026-09-10T18:49:47.644522"
+  },
+  {
+    "title": "Oracle EBS Developer",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=fa944f214e5f8f06",
+    "scraped_at": "2026-09-10T18:49:47.645303"
   }
 ]
