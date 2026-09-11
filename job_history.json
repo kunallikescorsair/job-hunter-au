@@ -1,11 +1,5 @@
 [
   {
-    "title": "ML Engineer",
-    "company": "Cognizant",
-    "url": "https://au.indeed.com/viewjob?jk=700a231d9d9c63fe",
-    "scraped_at": "2026-07-13T06:45:32.798179"
-  },
-  {
     "title": "Snowflake Architect",
     "company": "Cognizant",
     "url": "https://au.indeed.com/viewjob?jk=36629d188ea00612",
@@ -5998,5 +5992,11 @@
     "company": "Persistent Systems",
     "url": "https://au.indeed.com/viewjob?jk=caf02d161bcc8472",
     "scraped_at": "2026-09-10T22:05:32.656190"
+  },
+  {
+    "title": "Manufacturing Engineer",
+    "company": "Aristocrat",
+    "url": "https://au.indeed.com/viewjob?jk=3f81ae13e8de223e",
+    "scraped_at": "2026-09-11T02:04:55.826216"
   }
 ]
