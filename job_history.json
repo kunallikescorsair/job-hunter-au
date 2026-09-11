@@ -1,23 +1,5 @@
 [
   {
-    "title": "Analyst BAO Services",
-    "company": "Westpac Group",
-    "url": "https://au.indeed.com/viewjob?jk=f7cc9e89f96b2be5",
-    "scraped_at": "2026-07-13T06:45:32.814776"
-  },
-  {
-    "title": "Full Stack Developer (Azure/Blazor)",
-    "company": "Think Global Logistics Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=a76c9717c757968e",
-    "scraped_at": "2026-07-13T06:45:32.817234"
-  },
-  {
-    "title": "Asset Acceptance Officer",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=3ac10dc14ea61763",
-    "scraped_at": "2026-07-13T06:45:32.818173"
-  },
-  {
     "title": "Asset Officer",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=36f9a4b881fd7a16",
@@ -5998,5 +5980,23 @@
     "company": "Advanced Navigation",
     "url": "https://au.indeed.com/viewjob?jk=24c828cfced1e123",
     "scraped_at": "2026-09-11T08:25:21.220305"
+  },
+  {
+    "title": "Software Engineer (Model Inference)",
+    "company": "CoreFlow",
+    "url": "https://au.indeed.com/viewjob?jk=d305d1d2bd02abce",
+    "scraped_at": "2026-09-11T15:32:24.908246"
+  },
+  {
+    "title": "Site Reliability Engineer, AML Platform - USDS",
+    "company": "TikTok USDS JV",
+    "url": "https://au.indeed.com/viewjob?jk=f9e81b75a574353d",
+    "scraped_at": "2026-09-11T15:32:24.911217"
+  },
+  {
+    "title": "Data Business Analyst Graduate (GBS) - 2027 Start",
+    "company": "TikTok",
+    "url": "https://au.indeed.com/viewjob?jk=84b8385945705623",
+    "scraped_at": "2026-09-11T15:32:24.918265"
   }
 ]
