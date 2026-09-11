@@ -1,35 +1,5 @@
 [
   {
-    "title": "Asset Officer",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=36f9a4b881fd7a16",
-    "scraped_at": "2026-07-13T06:45:32.819132"
-  },
-  {
-    "title": "Full Stack Engineer",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=26d998d3e5e558bb",
-    "scraped_at": "2026-07-13T10:50:46.517792"
-  },
-  {
-    "title": "Warehouse All Rounder",
-    "company": "HELI Material Handling Oceania PTY LTD",
-    "url": "https://au.indeed.com/viewjob?jk=9062a0b8728f175d",
-    "scraped_at": "2026-07-13T10:50:46.518436"
-  },
-  {
-    "title": "Pricing & Profitability Analyst",
-    "company": "MUFG",
-    "url": "https://au.indeed.com/viewjob?jk=dd71c8b10f713ef0",
-    "scraped_at": "2026-07-13T10:50:46.524628"
-  },
-  {
-    "title": "Analyst, Data Governance",
-    "company": "BT Financial Group",
-    "url": "https://au.indeed.com/viewjob?jk=ce0df4335d6eaaa0",
-    "scraped_at": "2026-07-13T10:50:46.525135"
-  },
-  {
     "title": "Data Analytics & Intelligence Analyst",
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=9512edf2433ea2bb",
@@ -5998,5 +5968,35 @@
     "company": "TikTok",
     "url": "https://au.indeed.com/viewjob?jk=84b8385945705623",
     "scraped_at": "2026-09-11T15:32:24.918265"
+  },
+  {
+    "title": "Finance Analyst ANZ Beverages",
+    "company": "PepsiCo",
+    "url": "https://au.indeed.com/viewjob?jk=259cd58505141674",
+    "scraped_at": "2026-09-11T18:52:43.681150"
+  },
+  {
+    "title": "Commercial Finance Analyst",
+    "company": "Campari Group",
+    "url": "https://au.indeed.com/viewjob?jk=5b3afdd05e1b2b00",
+    "scraped_at": "2026-09-11T18:52:43.685090"
+  },
+  {
+    "title": "Practice Customer Engineer, Artificial Intelligence, Google Cloud",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=78380349cd6196d5",
+    "scraped_at": "2026-09-11T18:52:43.686781"
+  },
+  {
+    "title": "Delivery Lead",
+    "company": "Ampol",
+    "url": "https://au.indeed.com/viewjob?jk=af9fd17b868194c5",
+    "scraped_at": "2026-09-11T18:52:43.693189"
+  },
+  {
+    "title": "Network Development Engineer, Core Network - Data Center Life Cycle",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=9ee5b1d363e57370",
+    "scraped_at": "2026-09-11T18:52:43.694891"
   }
 ]
