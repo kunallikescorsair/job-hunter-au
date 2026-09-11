@@ -1,41 +1,5 @@
 [
   {
-    "title": "Snowflake Architect",
-    "company": "Cognizant",
-    "url": "https://au.indeed.com/viewjob?jk=36629d188ea00612",
-    "scraped_at": "2026-07-13T06:45:32.805165"
-  },
-  {
-    "title": "Snowflake Lead Data Engineer",
-    "company": "Cognizant",
-    "url": "https://au.indeed.com/viewjob?jk=3aa4b2b54db1c44c",
-    "scraped_at": "2026-07-13T06:45:32.807063"
-  },
-  {
-    "title": "QE/Test Manager",
-    "company": "Deloitte",
-    "url": "https://au.indeed.com/viewjob?jk=bcad779fcaa80ee2",
-    "scraped_at": "2026-07-13T06:45:32.808093"
-  },
-  {
-    "title": "Data Engineer -Coalesce",
-    "company": "Cognizant",
-    "url": "https://au.indeed.com/viewjob?jk=1e709624bb880612",
-    "scraped_at": "2026-07-13T06:45:32.810576"
-  },
-  {
-    "title": "Data Analyst - ESG",
-    "company": "Environmental Resources Management",
-    "url": "https://au.indeed.com/viewjob?jk=33326c29a1da3508",
-    "scraped_at": "2026-07-13T06:45:32.811338"
-  },
-  {
-    "title": "Supply & Demand Analytics Specialist, ACM",
-    "company": "Medtronic",
-    "url": "https://au.indeed.com/viewjob?jk=f05bdf5de2a796e2",
-    "scraped_at": "2026-07-13T06:45:32.814094"
-  },
-  {
     "title": "Analyst BAO Services",
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=f7cc9e89f96b2be5",
@@ -5998,5 +5962,41 @@
     "company": "Aristocrat",
     "url": "https://au.indeed.com/viewjob?jk=3f81ae13e8de223e",
     "scraped_at": "2026-09-11T02:04:55.826216"
+  },
+  {
+    "title": "Applied Scientist 3",
+    "company": "Sourceo",
+    "url": "https://au.indeed.com/viewjob?jk=ee42e11dee23988c",
+    "scraped_at": "2026-09-11T08:25:21.179793"
+  },
+  {
+    "title": "Pioneer Talent Program - Applied AI Agent/AI Productivity Engineer (Top Talent Program)",
+    "company": "Binance",
+    "url": "https://au.indeed.com/viewjob?jk=ab40b1113b8e921c",
+    "scraped_at": "2026-09-11T08:25:21.181482"
+  },
+  {
+    "title": "Technical Business Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=0b648f90f18ecff2",
+    "scraped_at": "2026-09-11T08:25:21.199488"
+  },
+  {
+    "title": "Data Analyst \u2013 Trades, Ops & Growth Focus",
+    "company": "Ruttley Services",
+    "url": "https://au.indeed.com/viewjob?jk=3b0d67f30e299ec8",
+    "scraped_at": "2026-09-11T08:25:21.210179"
+  },
+  {
+    "title": "AI Engineering Consultant",
+    "company": "Practiv",
+    "url": "https://au.indeed.com/viewjob?jk=b8dcdf00ed6f8d52",
+    "scraped_at": "2026-09-11T08:25:21.217842"
+  },
+  {
+    "title": "Test Automation Engineer - Hardware and Systems",
+    "company": "Advanced Navigation",
+    "url": "https://au.indeed.com/viewjob?jk=24c828cfced1e123",
+    "scraped_at": "2026-09-11T08:25:21.220305"
   }
 ]
