@@ -1,17 +1,5 @@
 [
   {
-    "title": "Data Analytics & Intelligence Analyst",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=9512edf2433ea2bb",
-    "scraped_at": "2026-07-13T10:50:46.526654"
-  },
-  {
-    "title": "Analyst, Investment Data Management",
-    "company": "Aware Super",
-    "url": "https://au.indeed.com/viewjob?jk=ac92fab79c746f6e",
-    "scraped_at": "2026-07-13T10:50:46.527311"
-  },
-  {
     "title": "Site Reliability Engineer Graduate (Technical Infrastructure) - 2027 Start (BS/MS)",
     "company": "TikTok",
     "url": "https://au.indeed.com/viewjob?jk=3a2404cf0cce3565",
@@ -5998,5 +5986,17 @@
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=9ee5b1d363e57370",
     "scraped_at": "2026-09-11T18:52:43.694891"
+  },
+  {
+    "title": "People & Culture Partner - Hybrid",
+    "company": "Humanforce",
+    "url": "https://au.indeed.com/viewjob?jk=699d2f3d095888ef",
+    "scraped_at": "2026-09-11T22:06:45.759319"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Aware Super",
+    "url": "https://au.indeed.com/viewjob?jk=30e1a3d9fd7d33a9",
+    "scraped_at": "2026-09-11T22:06:45.771546"
   }
 ]
