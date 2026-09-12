@@ -1,17 +1,5 @@
 [
   {
-    "title": "AI Web Fullstack Developer (Node, Javascript, React)",
-    "company": "Binance",
-    "url": "https://au.indeed.com/viewjob?jk=fa4f829d059e3b72",
-    "scraped_at": "2026-07-13T10:50:46.539869"
-  },
-  {
-    "title": "Platform Engineer",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=d34e575174375ddc",
-    "scraped_at": "2026-07-13T17:48:58.121244"
-  },
-  {
     "title": "Mainframe Test Lead",
     "company": "Tata Consultancy Services (TCS)",
     "url": "https://au.indeed.com/viewjob?jk=ac08c2b8cc1e7c6c",
@@ -5998,5 +5986,17 @@
     "company": "JPMorganChase",
     "url": "https://au.indeed.com/viewjob?jk=ff864443ffa25564",
     "scraped_at": "2026-09-12T02:10:21.960829"
+  },
+  {
+    "title": "iOS Engineer (TradFi), AI",
+    "company": "Binance",
+    "url": "https://au.indeed.com/viewjob?jk=2d1569a216b591ce",
+    "scraped_at": "2026-09-12T08:13:55.872917"
+  },
+  {
+    "title": "Forward Deployed Engineer - Agentforce Operations (Regrillo)",
+    "company": "Salesforce",
+    "url": "https://au.indeed.com/viewjob?jk=9064289f16a2fc60",
+    "scraped_at": "2026-09-12T08:13:55.876669"
   }
 ]
