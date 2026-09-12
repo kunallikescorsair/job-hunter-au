@@ -1,23 +1,5 @@
 [
   {
-    "title": "Mainframe Test Lead",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=ac08c2b8cc1e7c6c",
-    "scraped_at": "2026-07-13T17:48:58.126447"
-  },
-  {
-    "title": "Solutions Engineer - NSW - Splunk",
-    "company": "Cisco",
-    "url": "https://au.indeed.com/viewjob?jk=65208cadd9ba0431",
-    "scraped_at": "2026-07-13T20:50:28.078313"
-  },
-  {
-    "title": "Technical Program Manager",
-    "company": "Nearmap",
-    "url": "https://au.indeed.com/viewjob?jk=86a853669704b8c2",
-    "scraped_at": "2026-07-14T06:04:13.084196"
-  },
-  {
     "title": "ICT Business Analyst",
     "company": "KPay Group",
     "url": "https://au.indeed.com/viewjob?jk=bf68e5502f031da7",
@@ -5998,5 +5980,23 @@
     "company": "Salesforce",
     "url": "https://au.indeed.com/viewjob?jk=9064289f16a2fc60",
     "scraped_at": "2026-09-12T08:13:55.876669"
+  },
+  {
+    "title": "Software Engineer III, Full Stack .NET Developer (.NET, AWS & Microservices, React)",
+    "company": "JPMorganChase",
+    "url": "https://au.indeed.com/viewjob?jk=466e2a7f5342b725",
+    "scraped_at": "2026-09-12T14:39:10.343226"
+  },
+  {
+    "title": "Technology Support Lead",
+    "company": "JPMorganChase",
+    "url": "https://au.indeed.com/viewjob?jk=8cb89f7170aa4849",
+    "scraped_at": "2026-09-12T14:39:10.344039"
+  },
+  {
+    "title": "Optical Network Development Engineer, DCNE",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=b158ef823b765339",
+    "scraped_at": "2026-09-12T14:39:10.345859"
   }
 ]
