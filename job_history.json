@@ -1,11 +1,5 @@
 [
   {
-    "title": "Site Reliability Engineer Graduate (Technical Infrastructure) - 2027 Start (BS/MS)",
-    "company": "TikTok",
-    "url": "https://au.indeed.com/viewjob?jk=3a2404cf0cce3565",
-    "scraped_at": "2026-07-13T10:50:46.532742"
-  },
-  {
     "title": "AI Web Fullstack Developer (Node, Javascript, React)",
     "company": "Binance",
     "url": "https://au.indeed.com/viewjob?jk=fa4f829d059e3b72",
@@ -5998,5 +5992,11 @@
     "company": "Aware Super",
     "url": "https://au.indeed.com/viewjob?jk=30e1a3d9fd7d33a9",
     "scraped_at": "2026-09-11T22:06:45.771546"
+  },
+  {
+    "title": "Software Engineer III, Full Stack .NET Developer (.NET, AWS & Microservices, React)",
+    "company": "JPMorganChase",
+    "url": "https://au.indeed.com/viewjob?jk=ff864443ffa25564",
+    "scraped_at": "2026-09-12T02:10:21.960829"
   }
 ]
