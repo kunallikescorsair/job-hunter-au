@@ -1,11 +1,5 @@
 [
   {
-    "title": "Junior Settlements Analyst",
-    "company": "Alinta Energy",
-    "url": "https://au.indeed.com/viewjob?jk=79f8f359ff66087a",
-    "scraped_at": "2026-07-14T06:04:13.093074"
-  },
-  {
     "title": "Engagement Platforms Analyst",
     "company": "Commonwealth Bank of Australia",
     "url": "https://au.indeed.com/viewjob?jk=6bf98cc4015dade8",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=1b18bbb0421301ca",
     "scraped_at": "2026-09-13T18:25:46.120839"
+  },
+  {
+    "title": "Software Engineer III, Full Stack .NET Developer (.NET, AWS & Microservices, React)",
+    "company": "JPMorganChase",
+    "url": "https://au.indeed.com/viewjob?jk=402c8c22d897ab84",
+    "scraped_at": "2026-09-13T21:56:49.249755"
   }
 ]
