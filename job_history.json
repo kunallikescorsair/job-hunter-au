@@ -1,29 +1,5 @@
 [
   {
-    "title": "AI Full-Stack Developer",
-    "company": "Architectus",
-    "url": "https://au.indeed.com/viewjob?jk=6a0710fa29259b19",
-    "scraped_at": "2026-07-14T06:04:13.105487"
-  },
-  {
-    "title": "AI Engineer",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=569bcea03bc73045",
-    "scraped_at": "2026-07-14T09:47:29.846647"
-  },
-  {
-    "title": "Tech Lead Enterprise Platforms",
-    "company": "Mirvac",
-    "url": "https://au.indeed.com/viewjob?jk=eaf1f4e601c8a46f",
-    "scraped_at": "2026-07-14T09:47:29.856045"
-  },
-  {
-    "title": "Full Stack Product Developer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=cb7c767dc3af646f",
-    "scraped_at": "2026-07-14T09:47:29.863833"
-  },
-  {
     "title": "Technical Architect, AI/ML",
     "company": "Snowflake",
     "url": "https://au.indeed.com/viewjob?jk=41b755ff2f670e55",
@@ -5998,5 +5974,29 @@
     "company": "Deloitte",
     "url": "https://au.indeed.com/viewjob?jk=baa6316cde7f6623",
     "scraped_at": "2026-09-14T09:23:24.853400"
+  },
+  {
+    "title": "Intern - Data, Analytics & AI",
+    "company": "Zimmer Biomet",
+    "url": "https://au.indeed.com/viewjob?jk=f35db66a4888add6",
+    "scraped_at": "2026-09-14T17:15:45.801987"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Sourceo",
+    "url": "https://au.indeed.com/viewjob?jk=337b918a77164a7a",
+    "scraped_at": "2026-09-14T17:15:45.811261"
+  },
+  {
+    "title": "Business Technology Analyst",
+    "company": "Dooleys Lidcombe Catholic Club",
+    "url": "https://au.indeed.com/viewjob?jk=e20c01641d64f633",
+    "scraped_at": "2026-09-14T17:15:45.811738"
+  },
+  {
+    "title": "Risk Analyst, Core+",
+    "company": "AIG",
+    "url": "https://au.indeed.com/viewjob?jk=1263d3c6f1a6f878",
+    "scraped_at": "2026-09-14T17:15:45.813045"
   }
 ]
