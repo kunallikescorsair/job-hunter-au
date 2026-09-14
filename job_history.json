@@ -1,17 +1,5 @@
 [
   {
-    "title": "Engagement Platforms Analyst",
-    "company": "Commonwealth Bank of Australia",
-    "url": "https://au.indeed.com/viewjob?jk=6bf98cc4015dade8",
-    "scraped_at": "2026-07-14T06:04:13.095865"
-  },
-  {
-    "title": "Data Engineer - Data Platforms",
-    "company": "Xero",
-    "url": "https://au.indeed.com/viewjob?jk=c5184ae34235d286",
-    "scraped_at": "2026-07-14T06:04:13.098297"
-  },
-  {
     "title": "AI Full-Stack Developer",
     "company": "Architectus",
     "url": "https://au.indeed.com/viewjob?jk=6a0710fa29259b19",
@@ -5998,5 +5986,17 @@
     "company": "JPMorganChase",
     "url": "https://au.indeed.com/viewjob?jk=402c8c22d897ab84",
     "scraped_at": "2026-09-13T21:56:49.249755"
+  },
+  {
+    "title": "DevOps Cloud Infrastructure Engineer",
+    "company": "1QLabs",
+    "url": "https://au.indeed.com/viewjob?jk=5759191c927a8cbb",
+    "scraped_at": "2026-09-14T09:23:24.839281"
+  },
+  {
+    "title": "Engineer",
+    "company": "Deloitte",
+    "url": "https://au.indeed.com/viewjob?jk=baa6316cde7f6623",
+    "scraped_at": "2026-09-14T09:23:24.853400"
   }
 ]
