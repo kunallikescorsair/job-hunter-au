@@ -1,59 +1,5 @@
 [
   {
-    "title": "Technical Architect, AI/ML",
-    "company": "Snowflake",
-    "url": "https://au.indeed.com/viewjob?jk=41b755ff2f670e55",
-    "scraped_at": "2026-07-14T13:09:18.265306"
-  },
-  {
-    "title": "Hyper-Edge Technology Development Engineer Graduate (Data Application) - 2027 Start (BS/MS)",
-    "company": "TikTok",
-    "url": "https://au.indeed.com/viewjob?jk=57f0f55891ae8e73",
-    "scraped_at": "2026-07-14T13:09:18.277343"
-  },
-  {
-    "title": "Intelligent Automation Engineer",
-    "company": "Scape Australia",
-    "url": "https://au.indeed.com/viewjob?jk=7058fc0aa3aebdec",
-    "scraped_at": "2026-07-14T13:09:18.278009"
-  },
-  {
-    "title": "Junior Quality Control Officer - Chemistry",
-    "company": "Vitex Pharmaceuticals",
-    "url": "https://au.indeed.com/viewjob?jk=f057e3b7fc59a472",
-    "scraped_at": "2026-07-14T13:09:18.283671"
-  },
-  {
-    "title": "sales engineer",
-    "company": "Check Point Software Technologies",
-    "url": "https://au.indeed.com/viewjob?jk=312d2a63c4647d55",
-    "scraped_at": "2026-07-14T17:04:03.277836"
-  },
-  {
-    "title": "Forward Deployed Engineer III, Gen AI, Retail",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=47ae2418d9ade4f3",
-    "scraped_at": "2026-07-14T17:04:03.278627"
-  },
-  {
-    "title": "Consultant - ServiceNow",
-    "company": "Coforge",
-    "url": "https://au.indeed.com/viewjob?jk=9f2fde8dca8c80ad",
-    "scraped_at": "2026-07-14T17:04:03.283015"
-  },
-  {
-    "title": "Product Owner",
-    "company": "ELMO Software",
-    "url": "https://au.indeed.com/viewjob?jk=05fdb1a8ef3cf5c9",
-    "scraped_at": "2026-07-14T17:04:03.288989"
-  },
-  {
-    "title": "Data Engineer - GCP",
-    "company": "Stake",
-    "url": "https://au.indeed.com/viewjob?jk=c3a7ac79f526a7e8",
-    "scraped_at": "2026-07-14T20:50:43.906810"
-  },
-  {
     "title": "Product Owner/Design Manager",
     "company": "Sitemate",
     "url": "https://au.indeed.com/viewjob?jk=9fc63167bb3c4d55",
@@ -5998,5 +5944,59 @@
     "company": "AIG",
     "url": "https://au.indeed.com/viewjob?jk=1263d3c6f1a6f878",
     "scraped_at": "2026-09-14T17:15:45.813045"
+  },
+  {
+    "title": "Postdoctoral Research Fellow",
+    "company": "University of Sydney",
+    "url": "https://au.indeed.com/viewjob?jk=6426f4e19d729919",
+    "scraped_at": "2026-09-14T22:52:07.773829"
+  },
+  {
+    "title": "Software Engineer III, Full Stack .NET Developer (.NET, AWS & Microservices, React)",
+    "company": "JPMorganChase",
+    "url": "https://au.indeed.com/viewjob?jk=b9c1a13e41a7e38a",
+    "scraped_at": "2026-09-14T22:52:07.781530"
+  },
+  {
+    "title": "Field Service Specialist",
+    "company": "Salesforce",
+    "url": "https://au.indeed.com/viewjob?jk=2e4fa7b2e76b81c8",
+    "scraped_at": "2026-09-14T22:52:07.783468"
+  },
+  {
+    "title": "Investment Banking Division - Analyst, Investment Banking - FIG (Sydney)",
+    "company": "Morgan Stanley",
+    "url": "https://au.indeed.com/viewjob?jk=adba21863b1957ed",
+    "scraped_at": "2026-09-14T22:52:07.792141"
+  },
+  {
+    "title": "Credit Risk Opportunities - permanent and fixed term contract",
+    "company": "ING",
+    "url": "https://au.indeed.com/viewjob?jk=9ca9f4ad96385f85",
+    "scraped_at": "2026-09-14T22:52:07.793256"
+  },
+  {
+    "title": "Junior Property Analyst",
+    "company": "Colliers",
+    "url": "https://au.indeed.com/viewjob?jk=e473cb1d6a699cf5",
+    "scraped_at": "2026-09-14T22:52:07.794873"
+  },
+  {
+    "title": "Junior Property Analyst",
+    "company": "Colliers",
+    "url": "https://au.indeed.com/viewjob?jk=21599cd95d8611b8",
+    "scraped_at": "2026-09-14T22:52:07.795994"
+  },
+  {
+    "title": "IT Security Architect - 12 Month Fixed Term",
+    "company": "Reserve Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=66781fd33ee3a07f",
+    "scraped_at": "2026-09-14T22:52:07.800292"
+  },
+  {
+    "title": "Full Stack Developer - React, Supabase & Stripe",
+    "company": "iSEAO",
+    "url": "https://au.indeed.com/viewjob?jk=07fe6e95a91a0a19",
+    "scraped_at": "2026-09-14T22:52:07.802089"
   }
 ]
