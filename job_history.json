@@ -1,65 +1,5 @@
 [
   {
-    "title": "Business Analyst Student Administration",
-    "company": "EDU Corporate Services Pty Limited",
-    "url": "https://au.indeed.com/viewjob?jk=312b9bfa1135757b",
-    "scraped_at": "2026-07-15T06:08:02.947184"
-  },
-  {
-    "title": "Cloud Security Engineer",
-    "company": "DNX Solutions",
-    "url": "https://au.indeed.com/viewjob?jk=b940b272932afcda",
-    "scraped_at": "2026-07-15T06:08:02.954656"
-  },
-  {
-    "title": "ICT Business Analyst",
-    "company": "Chief Group Services",
-    "url": "https://au.indeed.com/viewjob?jk=2f4517cd9a93c0b8",
-    "scraped_at": "2026-07-15T09:51:36.879119"
-  },
-  {
-    "title": "Assistant Commercial Analyst",
-    "company": "Metcash",
-    "url": "https://au.indeed.com/viewjob?jk=8de81db470831243",
-    "scraped_at": "2026-07-15T09:51:36.881195"
-  },
-  {
-    "title": "Business Analyst",
-    "company": "Qantas",
-    "url": "https://au.indeed.com/viewjob?jk=dd1b40b9db5580bc",
-    "scraped_at": "2026-07-15T09:51:36.884711"
-  },
-  {
-    "title": "Android Engineer - Camera & Video / Image Recognition",
-    "company": "Binance",
-    "url": "https://au.indeed.com/viewjob?jk=85041edf68a65309",
-    "scraped_at": "2026-07-15T13:13:24.270680"
-  },
-  {
-    "title": "Web Frontend Engineer - Camera & Video / Image Recognition",
-    "company": "Binance",
-    "url": "https://au.indeed.com/viewjob?jk=a63c8bb6660fb982",
-    "scraped_at": "2026-07-15T13:13:24.275114"
-  },
-  {
-    "title": "Binance Accelerator Program - Java Backend Engineer",
-    "company": "Binance",
-    "url": "https://au.indeed.com/viewjob?jk=af856d45bc6c73d3",
-    "scraped_at": "2026-07-15T13:13:24.275656"
-  },
-  {
-    "title": "Team Lead - Quality Engineering",
-    "company": "Reserve Bank of Australia",
-    "url": "https://au.indeed.com/viewjob?jk=88b0d1026d456b1c",
-    "scraped_at": "2026-07-15T13:13:24.286293"
-  },
-  {
-    "title": "Business Solutions Partner",
-    "company": "Sanitarium Health Food Company",
-    "url": "https://au.indeed.com/viewjob?jk=c49bba153247a6ec",
-    "scraped_at": "2026-07-15T13:13:24.287161"
-  },
-  {
     "title": "Innovation Product Manager, Australia",
     "company": "HARVEY",
     "url": "https://au.indeed.com/viewjob?jk=46268e19707cf2d8",
@@ -5998,5 +5938,65 @@
     "company": "Healthengine",
     "url": "https://au.indeed.com/viewjob?jk=2da310235dde7dad",
     "scraped_at": "2026-09-15T02:34:59.791953"
+  },
+  {
+    "title": "Data Scientist II",
+    "company": "Schneider Electric",
+    "url": "https://au.indeed.com/viewjob?jk=4d1ea146b880925e",
+    "scraped_at": "2026-09-15T09:04:15.818101"
+  },
+  {
+    "title": "Associate Data Scientist",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=2ace58f996b45a92",
+    "scraped_at": "2026-09-15T09:04:15.823277"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Novon",
+    "url": "https://au.indeed.com/viewjob?jk=89ccb923ae2526e4",
+    "scraped_at": "2026-09-15T09:04:15.827534"
+  },
+  {
+    "title": "AI Consulting Solutions Engineer",
+    "company": "Netskope",
+    "url": "https://au.indeed.com/viewjob?jk=6b607c3c752ca089",
+    "scraped_at": "2026-09-15T09:04:15.833168"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Iress",
+    "url": "https://au.indeed.com/viewjob?jk=e1cff11885a306ab",
+    "scraped_at": "2026-09-15T09:04:15.838653"
+  },
+  {
+    "title": "Client Reporting Coordinator/Analyst",
+    "company": "Wotton Kearney",
+    "url": "https://au.indeed.com/viewjob?jk=406ca3b658e63592",
+    "scraped_at": "2026-09-15T09:04:15.839508"
+  },
+  {
+    "title": "Category Manager - Range | Beverages",
+    "company": "Endeavour Group",
+    "url": "https://au.indeed.com/viewjob?jk=5b5399b0ff4dd53f",
+    "scraped_at": "2026-09-15T09:04:15.846401"
+  },
+  {
+    "title": "Cyber Security Engineer/SME",
+    "company": "Novon",
+    "url": "https://au.indeed.com/viewjob?jk=c8c9d1cfc021f01f",
+    "scraped_at": "2026-09-15T09:04:15.846911"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Novon",
+    "url": "https://au.indeed.com/viewjob?jk=627f903c96efed44",
+    "scraped_at": "2026-09-15T09:04:15.847381"
+  },
+  {
+    "title": "Civil Engineering Technician",
+    "company": "Rca Services",
+    "url": "https://au.indeed.com/viewjob?jk=5ec4c827cd62d535",
+    "scraped_at": "2026-09-15T09:04:15.848127"
   }
 ]
