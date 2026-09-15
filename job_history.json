@@ -1,17 +1,5 @@
 [
   {
-    "title": "ServiceNow Developer",
-    "company": "Australian Payments Plus",
-    "url": "https://au.indeed.com/viewjob?jk=d29300f542e14fc8",
-    "scraped_at": "2026-07-16T09:57:57.887401"
-  },
-  {
-    "title": "AI and Automation Engineer",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=53b5817a0bc68aca",
-    "scraped_at": "2026-07-16T13:21:32.221421"
-  },
-  {
     "title": "Business Development Representative",
     "company": "ServiceNow",
     "url": "https://au.indeed.com/viewjob?jk=2f0c058d94bb64c5",
@@ -5998,5 +5986,17 @@
     "company": "Probe CX",
     "url": "https://au.indeed.com/viewjob?jk=ac827aa8e33559c2",
     "scraped_at": "2026-09-15T15:55:28.809981"
+  },
+  {
+    "title": "Insights Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=7b4f926231425c47",
+    "scraped_at": "2026-09-15T19:22:36.530161"
+  },
+  {
+    "title": "BI Engineer",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=2dc1aba8c841b72e",
+    "scraped_at": "2026-09-15T19:22:36.530589"
   }
 ]
