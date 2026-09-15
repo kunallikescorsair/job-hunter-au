@@ -1,23 +1,5 @@
 [
   {
-    "title": "Product Owner/Design Manager",
-    "company": "Sitemate",
-    "url": "https://au.indeed.com/viewjob?jk=9fc63167bb3c4d55",
-    "scraped_at": "2026-07-15T01:25:24.533841"
-  },
-  {
-    "title": "Product Design Manager",
-    "company": "Sitemate",
-    "url": "https://au.indeed.com/viewjob?jk=b28aa5eb9c082ebf",
-    "scraped_at": "2026-07-15T01:25:24.535277"
-  },
-  {
-    "title": "Lead Software Engineer",
-    "company": "Rippling",
-    "url": "https://au.indeed.com/viewjob?jk=becfaab10aa00df6",
-    "scraped_at": "2026-07-15T06:08:02.942059"
-  },
-  {
     "title": "Business Analyst Student Administration",
     "company": "EDU Corporate Services Pty Limited",
     "url": "https://au.indeed.com/viewjob?jk=312b9bfa1135757b",
@@ -5998,5 +5980,23 @@
     "company": "iSEAO",
     "url": "https://au.indeed.com/viewjob?jk=07fe6e95a91a0a19",
     "scraped_at": "2026-09-14T22:52:07.802089"
+  },
+  {
+    "title": "Process Automation Engineer",
+    "company": "Global Sustainable Energy Solutions",
+    "url": "https://au.indeed.com/viewjob?jk=fbc9e07b4f1d0d4d",
+    "scraped_at": "2026-09-15T02:34:59.788047"
+  },
+  {
+    "title": "Detection Engineer",
+    "company": "Orro Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=a0f969ebdb6a9e56",
+    "scraped_at": "2026-09-15T02:34:59.788580"
+  },
+  {
+    "title": "Patient CRM Lead",
+    "company": "Healthengine",
+    "url": "https://au.indeed.com/viewjob?jk=2da310235dde7dad",
+    "scraped_at": "2026-09-15T02:34:59.791953"
   }
 ]
