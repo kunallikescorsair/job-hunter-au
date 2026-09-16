@@ -1,89 +1,5 @@
 [
   {
-    "title": "Moveworks Sr Customer Success Manager",
-    "company": "ServiceNow",
-    "url": "https://au.indeed.com/viewjob?jk=06a142b1b768d0c7",
-    "scraped_at": "2026-07-17T09:48:13.684672"
-  },
-  {
-    "title": "Delivery Consultant: Agentic AI FullStack SDE, AWS Professional Services",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=dfca2eea1a9f3141",
-    "scraped_at": "2026-07-17T09:48:13.686124"
-  },
-  {
-    "title": "Delivery Consultant: Agentic AI FullStack SDE, AWS Professional Services",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=2119b8c5f3b9f14b",
-    "scraped_at": "2026-07-17T09:48:13.687484"
-  },
-  {
-    "title": "Delivery Consultant: Agentic AI FullStack SDE, AWS Professional Services",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=022ec0c565c4c311",
-    "scraped_at": "2026-07-17T09:48:13.689061"
-  },
-  {
-    "title": "Delivery Consultant: Agentic AI FullStack SDE, AWS Professional Services",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=416d9f040dd69ded",
-    "scraped_at": "2026-07-17T09:48:13.690456"
-  },
-  {
-    "title": "IT Vendor Risk Specialist",
-    "company": "HCF (Australia)",
-    "url": "https://au.indeed.com/viewjob?jk=8cb5223b7fa8c76f",
-    "scraped_at": "2026-07-17T09:48:13.698268"
-  },
-  {
-    "title": "National Account Executive",
-    "company": "Diageo",
-    "url": "https://au.indeed.com/viewjob?jk=affc3547c002da05",
-    "scraped_at": "2026-07-17T13:05:37.452195"
-  },
-  {
-    "title": "Technology Governance Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=97b9ec6f6cd9d53a",
-    "scraped_at": "2026-07-17T13:05:37.455332"
-  },
-  {
-    "title": "Security Platform Engineer - Secrets Management",
-    "company": "Optus",
-    "url": "https://au.indeed.com/viewjob?jk=b01b9d6997389815",
-    "scraped_at": "2026-07-17T13:05:37.457419"
-  },
-  {
-    "title": "Operation Engineer , AWS Managed Services",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=392d2fc2b9444da5",
-    "scraped_at": "2026-07-17T17:01:02.704255"
-  },
-  {
-    "title": "Database Engineer",
-    "company": "ELMO Software",
-    "url": "https://au.indeed.com/viewjob?jk=321f954160953021",
-    "scraped_at": "2026-07-17T17:01:02.707714"
-  },
-  {
-    "title": "Site Reliability Engineer",
-    "company": "Westpac Group",
-    "url": "https://au.indeed.com/viewjob?jk=b54e166b5902a9d5",
-    "scraped_at": "2026-07-17T17:01:02.708338"
-  },
-  {
-    "title": "Databricks Resident Solutions Architect",
-    "company": "Ultra Tendency",
-    "url": "https://au.indeed.com/viewjob?jk=81db32c94a7600ef",
-    "scraped_at": "2026-07-17T20:43:30.008383"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "AI Talent",
-    "url": "https://au.indeed.com/viewjob?jk=c9e17122a8997e12",
-    "scraped_at": "2026-07-18T05:57:22.376192"
-  },
-  {
     "title": "Data Analyst",
     "company": "AI Talent",
     "url": "https://au.indeed.com/viewjob?jk=07d945cc24423d7e",
@@ -5998,5 +5914,89 @@
     "company": "NCS",
     "url": "https://au.indeed.com/viewjob?jk=2a94b8222ab72525",
     "scraped_at": "2026-09-16T08:56:49.442605"
+  },
+  {
+    "title": "AI Deployment Strategist, Australia",
+    "company": "Mistral AI",
+    "url": "https://au.indeed.com/viewjob?jk=39e2368f2a3220ce",
+    "scraped_at": "2026-09-16T15:47:11.483276"
+  },
+  {
+    "title": "Applied AI Engineer, Australia",
+    "company": "Mistral AI",
+    "url": "https://au.indeed.com/viewjob?jk=661c964312e964cb",
+    "scraped_at": "2026-09-16T15:47:11.488243"
+  },
+  {
+    "title": "Databricks Platform Engineer",
+    "company": "Delivery Centric",
+    "url": "https://au.indeed.com/viewjob?jk=a50da363a20ae8fc",
+    "scraped_at": "2026-09-16T15:47:11.492757"
+  },
+  {
+    "title": "Snowflake Data Engineer | Sydney",
+    "company": "Deloitte",
+    "url": "https://au.indeed.com/viewjob?jk=122f405adf26227e",
+    "scraped_at": "2026-09-16T15:47:11.493437"
+  },
+  {
+    "title": "AI Outcome Customer Engineer, Google Cloud",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=dd6bd07f3db207c0",
+    "scraped_at": "2026-09-16T15:47:11.496555"
+  },
+  {
+    "title": "Outcome Customer Engineer, AI, Google Cloud",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=470d589a2b56d55e",
+    "scraped_at": "2026-09-16T15:47:11.497263"
+  },
+  {
+    "title": "Cloud Security Engineer - CTEM",
+    "company": "REST",
+    "url": "https://au.indeed.com/viewjob?jk=3552a4aa2ff7a109",
+    "scraped_at": "2026-09-16T15:47:11.498531"
+  },
+  {
+    "title": "Client Partner - Banking and Financial Services",
+    "company": "EPAM Systems",
+    "url": "https://au.indeed.com/viewjob?jk=270a80463e302df0",
+    "scraped_at": "2026-09-16T15:47:11.499264"
+  },
+  {
+    "title": "Application Security Analyst",
+    "company": "REST",
+    "url": "https://au.indeed.com/viewjob?jk=4e79299caf17d2f0",
+    "scraped_at": "2026-09-16T15:47:11.501469"
+  },
+  {
+    "title": "Research Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=e3d98949c77166c1",
+    "scraped_at": "2026-09-16T15:47:11.502853"
+  },
+  {
+    "title": "Sales - Carrier Business Analyst",
+    "company": "Apple",
+    "url": "https://au.indeed.com/viewjob?jk=1009ef18c19e3435",
+    "scraped_at": "2026-09-16T15:47:11.506157"
+  },
+  {
+    "title": "Salesforce Sr Developer",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=1764fdbd169da5ba",
+    "scraped_at": "2026-09-16T15:47:11.512633"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Southern Cross Austereo",
+    "url": "https://au.indeed.com/viewjob?jk=6a6e0162cb5f51eb",
+    "scraped_at": "2026-09-16T15:47:11.518171"
+  },
+  {
+    "title": "Software Engineer - Splunk, Australia",
+    "company": "Cisco",
+    "url": "https://au.indeed.com/viewjob?jk=a9f750c71f985fd6",
+    "scraped_at": "2026-09-16T15:47:11.519137"
   }
 ]
