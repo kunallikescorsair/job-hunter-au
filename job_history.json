@@ -1,17 +1,5 @@
 [
   {
-    "title": "Data Analyst",
-    "company": "AI Talent",
-    "url": "https://au.indeed.com/viewjob?jk=07d945cc24423d7e",
-    "scraped_at": "2026-07-18T05:57:22.376730"
-  },
-  {
-    "title": "ICT Systems Test Engineer",
-    "company": "AI Talent",
-    "url": "https://au.indeed.com/viewjob?jk=01595c1302dda457",
-    "scraped_at": "2026-07-18T05:57:22.393937"
-  },
-  {
     "title": "Software and Applications Programmer",
     "company": "AI Talent",
     "url": "https://au.indeed.com/viewjob?jk=40604c4e3e3078e3",
@@ -5998,5 +5986,17 @@
     "company": "Cisco",
     "url": "https://au.indeed.com/viewjob?jk=a9f750c71f985fd6",
     "scraped_at": "2026-09-16T15:47:11.519137"
+  },
+  {
+    "title": "Sales Engineer",
+    "company": "Ideagen",
+    "url": "https://au.indeed.com/viewjob?jk=c133eb941ce7702b",
+    "scraped_at": "2026-09-16T19:13:19.098424"
+  },
+  {
+    "title": "Analyst Programmer",
+    "company": "TRULUX",
+    "url": "https://au.indeed.com/viewjob?jk=23a47220d209d48e",
+    "scraped_at": "2026-09-16T19:13:19.107335"
   }
 ]
