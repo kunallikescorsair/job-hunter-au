@@ -1,17 +1,5 @@
 [
   {
-    "title": "Tech Lead Manager, Risk & Value Optimisation (RVO)",
-    "company": "Neara",
-    "url": "https://au.indeed.com/viewjob?jk=9486ba608f1b96a8",
-    "scraped_at": "2026-07-16T17:04:15.383641"
-  },
-  {
-    "title": "Security Engineer, AWS Security Incident Response",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=0a0d5f7f2b02c155",
-    "scraped_at": "2026-07-16T17:04:15.400406"
-  },
-  {
     "title": "Data Analyst",
     "company": "JBS",
     "url": "https://au.indeed.com/viewjob?jk=23ce6cf50a8af349",
@@ -5998,5 +5986,17 @@
     "company": "Boehringer Ingelheim",
     "url": "https://au.indeed.com/viewjob?jk=35c6335774928e3f",
     "scraped_at": "2026-09-15T22:32:59.566713"
+  },
+  {
+    "title": "Technical Business Analyst (DevSecOps) - Contract",
+    "company": "NCS",
+    "url": "https://au.indeed.com/viewjob?jk=a977a89e1b75d5ee",
+    "scraped_at": "2026-09-16T02:23:40.078735"
+  },
+  {
+    "title": "Analytics Operations Officer",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=18c36cc72d276df3",
+    "scraped_at": "2026-09-16T02:23:40.080059"
   }
 ]
