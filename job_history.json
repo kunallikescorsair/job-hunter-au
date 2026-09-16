@@ -1,65 +1,5 @@
 [
   {
-    "title": "Data Analyst",
-    "company": "JBS",
-    "url": "https://au.indeed.com/viewjob?jk=23ce6cf50a8af349",
-    "scraped_at": "2026-07-17T01:49:14.287749"
-  },
-  {
-    "title": "Conversion Rate Optimisation Manager",
-    "company": "Bupa",
-    "url": "https://au.indeed.com/viewjob?jk=e7ba1c62954a3fa8",
-    "scraped_at": "2026-07-17T01:49:14.291072"
-  },
-  {
-    "title": "Service Delivery Manager",
-    "company": "Future Secure AI",
-    "url": "https://au.indeed.com/viewjob?jk=dd28601e193bf6f1",
-    "scraped_at": "2026-07-17T06:09:21.424345"
-  },
-  {
-    "title": "Sales Engineer",
-    "company": "MRI Software",
-    "url": "https://au.indeed.com/viewjob?jk=62f668d168c4099d",
-    "scraped_at": "2026-07-17T06:09:21.427942"
-  },
-  {
-    "title": "Twilio Segment CDP Lead",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=7cff0e6765ba465e",
-    "scraped_at": "2026-07-17T06:09:21.431941"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "LUMI",
-    "url": "https://au.indeed.com/viewjob?jk=fdb796c190da38a2",
-    "scraped_at": "2026-07-17T06:09:21.432786"
-  },
-  {
-    "title": "Salesforce Engineer",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=16a77aa922d309d4",
-    "scraped_at": "2026-07-17T06:09:21.436166"
-  },
-  {
-    "title": "Modern Workplace Analyst",
-    "company": "Harvey Norman",
-    "url": "https://au.indeed.com/viewjob?jk=bd80027f9afdd633",
-    "scraped_at": "2026-07-17T06:09:21.437341"
-  },
-  {
-    "title": "Platform Lead \u2013 ServiceNow",
-    "company": "NCS",
-    "url": "https://au.indeed.com/viewjob?jk=cff9d6fb43e9c708",
-    "scraped_at": "2026-07-17T06:09:21.445219"
-  },
-  {
-    "title": "AI/ML Consultant, AWS Professional Services",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=cb217c7bf986dd8f",
-    "scraped_at": "2026-07-17T09:48:13.670797"
-  },
-  {
     "title": "Moveworks Sr Customer Success Manager",
     "company": "ServiceNow",
     "url": "https://au.indeed.com/viewjob?jk=06a142b1b768d0c7",
@@ -5998,5 +5938,65 @@
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=18c36cc72d276df3",
     "scraped_at": "2026-09-16T02:23:40.080059"
+  },
+  {
+    "title": "Quantitative Trading Strategy Algorithm Engineer",
+    "company": "Binance",
+    "url": "https://au.indeed.com/viewjob?jk=025511d611f8fdf6",
+    "scraped_at": "2026-09-16T08:56:49.421867"
+  },
+  {
+    "title": "AI & Data Consultant | Sydney",
+    "company": "Deloitte",
+    "url": "https://au.indeed.com/viewjob?jk=44b98d9a38e00362",
+    "scraped_at": "2026-09-16T08:56:49.422562"
+  },
+  {
+    "title": "Design Engineer",
+    "company": "Fetch Pet",
+    "url": "https://au.indeed.com/viewjob?jk=b7cef18280377fe7",
+    "scraped_at": "2026-09-16T08:56:49.426186"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=4e4f18392d603ac6",
+    "scraped_at": "2026-09-16T08:56:49.428097"
+  },
+  {
+    "title": "Protective Security Intelligence Analyst",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=ba010145b3e1af6b",
+    "scraped_at": "2026-09-16T08:56:49.434228"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Decision Inc.",
+    "url": "https://au.indeed.com/viewjob?jk=fb2cd7760c80b7e6",
+    "scraped_at": "2026-09-16T08:56:49.435862"
+  },
+  {
+    "title": "Procurement Excellence and Projects Lead\u200b",
+    "company": "Evolution Mining",
+    "url": "https://au.indeed.com/viewjob?jk=99e283895d7281e1",
+    "scraped_at": "2026-09-16T08:56:49.436504"
+  },
+  {
+    "title": "Process Engineer",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=ac02d8d20ede4b85",
+    "scraped_at": "2026-09-16T08:56:49.437860"
+  },
+  {
+    "title": "Primavera P6 Administrator",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=8c4ea0ace81b2779",
+    "scraped_at": "2026-09-16T08:56:49.439167"
+  },
+  {
+    "title": "AI DevSecOps Governance SME - Contract",
+    "company": "NCS",
+    "url": "https://au.indeed.com/viewjob?jk=2a94b8222ab72525",
+    "scraped_at": "2026-09-16T08:56:49.442605"
   }
 ]
