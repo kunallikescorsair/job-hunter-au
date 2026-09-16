@@ -1,17 +1,5 @@
 [
   {
-    "title": "Software and Applications Programmer",
-    "company": "AI Talent",
-    "url": "https://au.indeed.com/viewjob?jk=40604c4e3e3078e3",
-    "scraped_at": "2026-07-18T05:57:22.395523"
-  },
-  {
-    "title": "DevOps Engineer",
-    "company": "AI Talent",
-    "url": "https://au.indeed.com/viewjob?jk=97a1c0938ff5a71e",
-    "scraped_at": "2026-07-18T05:57:22.395872"
-  },
-  {
     "title": "Strategy & Operations Project Intern (Monetization AI) - 2026 Start (MBA)",
     "company": "TikTok",
     "url": "https://au.indeed.com/viewjob?jk=ed3a0459f1024a54",
@@ -5998,5 +5986,17 @@
     "company": "TRULUX",
     "url": "https://au.indeed.com/viewjob?jk=23a47220d209d48e",
     "scraped_at": "2026-09-16T19:13:19.107335"
+  },
+  {
+    "title": "Sr Full Stack Engineer - AI, LLM & Intelligent Document Processing",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=b90f329bab165569",
+    "scraped_at": "2026-09-16T22:29:26.279372"
+  },
+  {
+    "title": "Sr Data Engineer (Cloud Data Modernization)",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=cc8db0cc5dbe1c64",
+    "scraped_at": "2026-09-16T22:29:26.290699"
   }
 ]
