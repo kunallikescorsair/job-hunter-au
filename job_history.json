@@ -1,11 +1,5 @@
 [
   {
-    "title": "Lead PMO",
-    "company": "Showtime Consulting",
-    "url": "https://au.indeed.com/viewjob?jk=b0c9bf1409ff841e",
-    "scraped_at": "2026-07-20T10:41:54.297604"
-  },
-  {
     "title": "Software Engineer (mid-level) - AI Team",
     "company": "Nuix",
     "url": "https://au.indeed.com/viewjob?jk=15037672385152f2",
@@ -5998,5 +5992,11 @@
     "company": "PwC",
     "url": "https://au.indeed.com/viewjob?jk=c7b2b4fed798eb7e",
     "scraped_at": "2026-09-17T15:53:52.112316"
+  },
+  {
+    "title": "Data Center Build Engineer- Sydney based",
+    "company": "Sourceo",
+    "url": "https://au.indeed.com/viewjob?jk=12ce58e1e917695a",
+    "scraped_at": "2026-09-17T19:25:21.892331"
   }
 ]
