@@ -1,11 +1,5 @@
 [
   {
-    "title": "Business Analyst - ServiceNow",
-    "company": "Datacom Connect",
-    "url": "https://au.indeed.com/viewjob?jk=dc9058e70e0ba997",
-    "scraped_at": "2026-07-21T06:22:28.861513"
-  },
-  {
     "title": "Data Test Analyst",
     "company": "FinXL",
     "url": "https://au.indeed.com/viewjob?jk=36a26ecec6609524",
@@ -5998,5 +5992,11 @@
     "company": "DocuSign",
     "url": "https://au.indeed.com/viewjob?jk=2444facc89197d38",
     "scraped_at": "2026-09-18T08:36:25.220784"
+  },
+  {
+    "title": "Software Engineer (mid-level) - AI Team",
+    "company": "Nuix",
+    "url": "https://au.indeed.com/viewjob?jk=15037672385152f2",
+    "scraped_at": "2026-09-18T18:44:49.657232"
   }
 ]
