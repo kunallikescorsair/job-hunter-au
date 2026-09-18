@@ -1,17 +1,5 @@
 [
   {
-    "title": "Promotions Analyst",
-    "company": "EG Group",
-    "url": "https://au.indeed.com/viewjob?jk=8b498d5421379c81",
-    "scraped_at": "2026-07-20T13:48:58.411400"
-  },
-  {
-    "title": "Software Engineer, Automated Trading - Phuket, Thailand",
-    "company": "Cobblestone Energy",
-    "url": "https://au.indeed.com/viewjob?jk=775b0ef40d0cf24c",
-    "scraped_at": "2026-07-20T17:26:47.671985"
-  },
-  {
     "title": "Software Engineer, Data Infrastructure & Acquisition - Sydney, Australia",
     "company": "Speechify",
     "url": "https://au.indeed.com/viewjob?jk=f6e7e175d128d7be",
@@ -5998,5 +5986,17 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=214412d690a7202f",
     "scraped_at": "2026-09-17T22:32:36.316725"
+  },
+  {
+    "title": "Customer Experience Lead",
+    "company": "Marloo",
+    "url": "https://au.indeed.com/viewjob?jk=617d35497d71e893",
+    "scraped_at": "2026-09-18T02:13:22.633565"
+  },
+  {
+    "title": "Customer Success Engineer",
+    "company": "Algolia",
+    "url": "https://au.indeed.com/viewjob?jk=8ffa88154225a1fb",
+    "scraped_at": "2026-09-18T02:13:22.634360"
   }
 ]
