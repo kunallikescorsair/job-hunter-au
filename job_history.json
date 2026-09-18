@@ -1,29 +1,5 @@
 [
   {
-    "title": "Software Engineer, Data Infrastructure & Acquisition - Sydney, Australia",
-    "company": "Speechify",
-    "url": "https://au.indeed.com/viewjob?jk=f6e7e175d128d7be",
-    "scraped_at": "2026-07-20T21:01:35.328198"
-  },
-  {
-    "title": "Manager, Systems Engineering",
-    "company": "Clio",
-    "url": "https://au.indeed.com/viewjob?jk=71a9e30dbfb08f9b",
-    "scraped_at": "2026-07-21T01:46:50.968924"
-  },
-  {
-    "title": "QA Engineer - Automation",
-    "company": "Cuscal",
-    "url": "https://au.indeed.com/viewjob?jk=f75a92f8e2e4d00e",
-    "scraped_at": "2026-07-21T01:46:50.969614"
-  },
-  {
-    "title": "Junior Risk Analyst",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=452cef3e17400447",
-    "scraped_at": "2026-07-21T01:46:50.973278"
-  },
-  {
     "title": "Business Analyst - ServiceNow",
     "company": "Datacom Connect",
     "url": "https://au.indeed.com/viewjob?jk=dc9058e70e0ba997",
@@ -5998,5 +5974,29 @@
     "company": "Algolia",
     "url": "https://au.indeed.com/viewjob?jk=8ffa88154225a1fb",
     "scraped_at": "2026-09-18T02:13:22.634360"
+  },
+  {
+    "title": "Graduate Engineer/Scientist - Contaminated Land",
+    "company": "SMEC",
+    "url": "https://au.indeed.com/viewjob?jk=e927993df6c9b026",
+    "scraped_at": "2026-09-18T08:36:25.204637"
+  },
+  {
+    "title": "AI Automation Lead",
+    "company": "Optus",
+    "url": "https://au.indeed.com/viewjob?jk=8a606cd401c15b8f",
+    "scraped_at": "2026-09-18T08:36:25.209691"
+  },
+  {
+    "title": "Technology Domain Owner - Data Delivery",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=6a807d7b322e5fa2",
+    "scraped_at": "2026-09-18T08:36:25.210351"
+  },
+  {
+    "title": "Account Executive, Small to Medium Business",
+    "company": "DocuSign",
+    "url": "https://au.indeed.com/viewjob?jk=2444facc89197d38",
+    "scraped_at": "2026-09-18T08:36:25.220784"
   }
 ]
