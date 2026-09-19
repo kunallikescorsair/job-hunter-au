@@ -1,11 +1,5 @@
 [
   {
-    "title": "Data Test Analyst",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=36a26ecec6609524",
-    "scraped_at": "2026-07-21T06:22:28.861762"
-  },
-  {
     "title": "Technical Business Analyst",
     "company": "Thinktank",
     "url": "https://au.indeed.com/viewjob?jk=0a04aa507d3d45f8",
@@ -5998,5 +5992,11 @@
     "company": "Nuix",
     "url": "https://au.indeed.com/viewjob?jk=15037672385152f2",
     "scraped_at": "2026-09-18T18:44:49.657232"
+  },
+  {
+    "title": "Data Migration Architect Manager",
+    "company": "Avanade",
+    "url": "https://au.indeed.com/viewjob?jk=a6bcc0abfa11d9fc",
+    "scraped_at": "2026-09-19T08:23:40.638740"
   }
 ]
