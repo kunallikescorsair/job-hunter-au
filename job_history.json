@@ -1,107 +1,5 @@
 [
   {
-    "title": "UI Designer",
-    "company": "Dovetail",
-    "url": "https://au.indeed.com/viewjob?jk=ef7b70e748e9879e",
-    "scraped_at": "2026-07-22T10:15:52.283640"
-  },
-  {
-    "title": "UI Designer",
-    "company": "Dovetail",
-    "url": "https://au.indeed.com/viewjob?jk=1c7f96595a0c5bdd",
-    "scraped_at": "2026-07-22T10:15:52.284572"
-  },
-  {
-    "title": "Bid Manager",
-    "company": "Heidi",
-    "url": "https://au.indeed.com/viewjob?jk=b4a327da1d6fc741",
-    "scraped_at": "2026-07-22T10:15:52.285700"
-  },
-  {
-    "title": "Network Engineer",
-    "company": "NATIONAL HEAVY VEHICLE REGULATOR",
-    "url": "https://au.indeed.com/viewjob?jk=2fed3fe2ab150848",
-    "scraped_at": "2026-07-22T10:15:52.289959"
-  },
-  {
-    "title": "Team Manager - Financial Crime",
-    "company": "Westpac Group",
-    "url": "https://au.indeed.com/viewjob?jk=4152996eacfaa463",
-    "scraped_at": "2026-07-22T10:15:52.295118"
-  },
-  {
-    "title": "Test Analysts",
-    "company": "IQ Group",
-    "url": "https://au.indeed.com/viewjob?jk=886970af591c698c",
-    "scraped_at": "2026-07-22T10:15:52.295428"
-  },
-  {
-    "title": "Data Center Technical Operations Engineer, AWS Infrastructure Operations",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=048ef00d0be0d231",
-    "scraped_at": "2026-07-22T10:15:52.304626"
-  },
-  {
-    "title": "Financial Accountant",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=1472a1bd38764aa4",
-    "scraped_at": "2026-07-22T13:22:39.774144"
-  },
-  {
-    "title": "Strategic Writer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=11332d5bb28304d5",
-    "scraped_at": "2026-07-22T13:22:39.775643"
-  },
-  {
-    "title": "Business Analyst (Operations & Support)",
-    "company": "Neuronimbus Digital Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=bf571632b2851117",
-    "scraped_at": "2026-07-22T13:22:39.780421"
-  },
-  {
-    "title": "Designer - Primary",
-    "company": "Consolidated Power Projects Australia",
-    "url": "https://au.indeed.com/viewjob?jk=44575c2a1e2d7bbf",
-    "scraped_at": "2026-07-22T17:07:48.752273"
-  },
-  {
-    "title": "Master Scheduler (Sr. PP&C Analyst)",
-    "company": "Honeywell",
-    "url": "https://au.indeed.com/viewjob?jk=0f039aa7cb0281ea",
-    "scraped_at": "2026-07-22T17:07:48.762054"
-  },
-  {
-    "title": "React Frontend Engineer, BigPay (Fully Remote)",
-    "company": "Binance",
-    "url": "https://au.indeed.com/viewjob?jk=7666c0caa34179ae",
-    "scraped_at": "2026-07-22T20:56:21.256208"
-  },
-  {
-    "title": "Integration Analyst \u2013 Perpetual Wealth Management",
-    "company": "Perpetual",
-    "url": "https://au.indeed.com/viewjob?jk=8b9cc2e53694554e",
-    "scraped_at": "2026-07-22T20:56:21.265931"
-  },
-  {
-    "title": "Risk & Compliance Analyst",
-    "company": "HUB24",
-    "url": "https://au.indeed.com/viewjob?jk=77052288d6167069",
-    "scraped_at": "2026-07-23T01:53:29.483847"
-  },
-  {
-    "title": "Construction Surveyor - Wollongong",
-    "company": "TSS Total Surveying Solutions",
-    "url": "https://au.indeed.com/viewjob?jk=75f2de59f87aa3a1",
-    "scraped_at": "2026-07-23T01:53:29.489066"
-  },
-  {
-    "title": "Sr Product Marketing Manager II \u2014 AI GTM Strategy, APJ",
-    "company": "Smartsheet",
-    "url": "https://au.indeed.com/viewjob?jk=cee4162d4fc9e4fe",
-    "scraped_at": "2026-07-23T06:24:02.039079"
-  },
-  {
     "title": "Assistant Analyst",
     "company": "NSW Department of Communities and Justice",
     "url": "https://au.indeed.com/viewjob?jk=fc4eb4a9dfc74cff",
@@ -5998,5 +5896,107 @@
     "company": "Sitemate",
     "url": "https://au.indeed.com/viewjob?jk=7ceff5c2e51509e5",
     "scraped_at": "2026-09-21T17:26:39.551443"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=c9f82c1b1bd032f5",
+    "scraped_at": "2026-09-21T22:56:14.799254"
+  },
+  {
+    "title": "Software Engineer, Network Security",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=d5701e4ab3473f18",
+    "scraped_at": "2026-09-21T22:56:14.803623"
+  },
+  {
+    "title": "Lead - Engineer",
+    "company": "Orica",
+    "url": "https://au.indeed.com/viewjob?jk=976d723ebaf9ea76",
+    "scraped_at": "2026-09-21T22:56:14.804345"
+  },
+  {
+    "title": "Lead Software Engineer, Securities Services Technology",
+    "company": "JPMorganChase",
+    "url": "https://au.indeed.com/viewjob?jk=7488f0a51bde17a8",
+    "scraped_at": "2026-09-21T22:56:14.806720"
+  },
+  {
+    "title": "Supply Chain Manager",
+    "company": "Nebius",
+    "url": "https://au.indeed.com/viewjob?jk=88f9ee8953d1e4b8",
+    "scraped_at": "2026-09-21T22:56:14.807103"
+  },
+  {
+    "title": "Forward Deployed Engineer, GenAI",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=747d3e386400410f",
+    "scraped_at": "2026-09-21T22:56:14.807846"
+  },
+  {
+    "title": "Delivery Solution Architect",
+    "company": "Niteco Vietnam Company Limited",
+    "url": "https://au.indeed.com/viewjob?jk=31d0f86b4d670e48",
+    "scraped_at": "2026-09-21T22:56:14.808488"
+  },
+  {
+    "title": "VP of Marketing",
+    "company": "Sitemate",
+    "url": "https://au.indeed.com/viewjob?jk=a5d74b27047d680f",
+    "scraped_at": "2026-09-21T22:56:14.811123"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=855536d9081626aa",
+    "scraped_at": "2026-09-21T22:56:14.811461"
+  },
+  {
+    "title": "GCP Cloud Architect / Lead Platform Engineer",
+    "company": "NCS",
+    "url": "https://au.indeed.com/viewjob?jk=77b06e800b2409bf",
+    "scraped_at": "2026-09-21T22:56:14.813252"
+  },
+  {
+    "title": "Business Finance Analyst, Financial Planning and Analysis",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=2f45b626b695117d",
+    "scraped_at": "2026-09-21T22:56:14.813646"
+  },
+  {
+    "title": "APG&Co - Data & Reporting Analyst",
+    "company": "APG & Co",
+    "url": "https://au.indeed.com/viewjob?jk=3fd1bb30f121410d",
+    "scraped_at": "2026-09-21T22:56:14.814108"
+  },
+  {
+    "title": "Junior Securitisation Trust Analyst \u2013 Perpetual Corporate Trust",
+    "company": "Perpetual",
+    "url": "https://au.indeed.com/viewjob?jk=fdf59c2580a81014",
+    "scraped_at": "2026-09-21T22:56:14.815456"
+  },
+  {
+    "title": "IoT Engineer - Digital Services : Sydney",
+    "company": "Schneider Electric",
+    "url": "https://au.indeed.com/viewjob?jk=1635a1fc2215096b",
+    "scraped_at": "2026-09-21T22:56:14.818823"
+  },
+  {
+    "title": "Data and BI Engineer",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=8cb099b7a7cbf8a4",
+    "scraped_at": "2026-09-21T22:56:14.820109"
+  },
+  {
+    "title": "Commercial Systems & Analytics Analyst",
+    "company": "ARBEX",
+    "url": "https://au.indeed.com/viewjob?jk=9b3ab60d42488d9c",
+    "scraped_at": "2026-09-21T22:56:14.821114"
+  },
+  {
+    "title": "BMS Service Engineer",
+    "company": "Schneider Electric",
+    "url": "https://au.indeed.com/viewjob?jk=7e403350c5b76b13",
+    "scraped_at": "2026-09-21T22:56:14.825608"
   }
 ]
