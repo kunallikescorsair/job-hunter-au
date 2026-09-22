@@ -1,23 +1,5 @@
 [
   {
-    "title": "Assistant Analyst",
-    "company": "NSW Department of Communities and Justice",
-    "url": "https://au.indeed.com/viewjob?jk=fc4eb4a9dfc74cff",
-    "scraped_at": "2026-07-23T06:24:02.051378"
-  },
-  {
-    "title": "Business Analyst",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=9851cdcff5e2c895",
-    "scraped_at": "2026-07-23T06:24:02.051725"
-  },
-  {
-    "title": "Corporate Governance Research Associate, Australia/NZ",
-    "company": "Institutional Shareholder Services",
-    "url": "https://au.indeed.com/viewjob?jk=a74eabab37dca9f3",
-    "scraped_at": "2026-07-23T06:24:02.054328"
-  },
-  {
     "title": "Analytics Engineer",
     "company": "Colliers",
     "url": "https://au.indeed.com/viewjob?jk=02060d8eef405050",
@@ -5998,5 +5980,23 @@
     "company": "Schneider Electric",
     "url": "https://au.indeed.com/viewjob?jk=7e403350c5b76b13",
     "scraped_at": "2026-09-21T22:56:14.825608"
+  },
+  {
+    "title": "Business Analyst, Payments (12-month contract)",
+    "company": "Cuscal",
+    "url": "https://au.indeed.com/viewjob?jk=ab2099993fb2559b",
+    "scraped_at": "2026-09-22T02:27:01.370110"
+  },
+  {
+    "title": "Project Administrative Support - Pipeline & Project Coordination",
+    "company": "Aluminium Specialties Group Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=bd85f10e2b0dc2ca",
+    "scraped_at": "2026-09-22T02:27:01.376998"
+  },
+  {
+    "title": "Optical Network Development Engineer, Core Networking",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=4e1189f2a9404bf5",
+    "scraped_at": "2026-09-22T02:27:01.378895"
   }
 ]
