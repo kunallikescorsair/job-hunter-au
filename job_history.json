@@ -1,65 +1,5 @@
 [
   {
-    "title": "Applied Solutions Architect",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=ff24f1b4ab407217",
-    "scraped_at": "2026-07-23T10:12:10.383524"
-  },
-  {
-    "title": "Solution Engineer, Integration & DevOps",
-    "company": "Mirvac",
-    "url": "https://au.indeed.com/viewjob?jk=77cb5d0935cc0ae5",
-    "scraped_at": "2026-07-23T10:12:10.384232"
-  },
-  {
-    "title": "Lead Data Engineer / Architect | GCP, BigQuery & DBT",
-    "company": "Deloitte",
-    "url": "https://au.indeed.com/viewjob?jk=2729acb01d0f1061",
-    "scraped_at": "2026-07-23T10:12:10.387947"
-  },
-  {
-    "title": "Client Consulting Analyst (Service / Customer Experience Design), Visa Consulting & Analytics",
-    "company": "Visa",
-    "url": "https://au.indeed.com/viewjob?jk=20bee8e136dba9ce",
-    "scraped_at": "2026-07-23T10:12:10.393319"
-  },
-  {
-    "title": "AI Architect",
-    "company": "Adobe",
-    "url": "https://au.indeed.com/viewjob?jk=a0f788fe3dd285fb",
-    "scraped_at": "2026-07-23T10:12:10.394180"
-  },
-  {
-    "title": "Brand Analyst, Amazon Vendor Services, Amazon Vendor Services",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=2a6ea88139181bca",
-    "scraped_at": "2026-07-23T10:12:10.395696"
-  },
-  {
-    "title": "QA Engineer (Frontend, Mobile, Java) - Trading",
-    "company": "Binance",
-    "url": "https://au.indeed.com/viewjob?jk=10cdd57692960a5a",
-    "scraped_at": "2026-07-23T13:25:23.862752"
-  },
-  {
-    "title": "AI Specialist",
-    "company": "ASC Employment Services Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=7317f11e2b0d5dea",
-    "scraped_at": "2026-07-23T17:09:54.120687"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "PERFECTION FRESH AUSTRALIA",
-    "url": "https://au.indeed.com/viewjob?jk=bdc726f788ead966",
-    "scraped_at": "2026-07-23T17:09:54.129554"
-  },
-  {
-    "title": "Penetration Tester",
-    "company": "Microsoft",
-    "url": "https://au.indeed.com/viewjob?jk=d0df9715bc2eb995",
-    "scraped_at": "2026-07-23T17:09:54.139508"
-  },
-  {
     "title": "UKG Pro WFM Solution Architect",
     "company": "Accenture",
     "url": "https://au.indeed.com/viewjob?jk=8fa1d0b55d91c197",
@@ -5998,5 +5938,65 @@
     "company": "Eaton",
     "url": "https://au.indeed.com/viewjob?jk=18cd2ceb13587107",
     "scraped_at": "2026-09-22T08:54:24.614159"
+  },
+  {
+    "title": "TIPM, Network Delivery, Data Center Capacity Delivery, BaND Network Delivery, Data Center Capacity Delivery",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=d713ea85046236b6",
+    "scraped_at": "2026-09-22T15:57:57.546583"
+  },
+  {
+    "title": "Applied AI Engineer, Codex",
+    "company": "OpenAI",
+    "url": "https://au.indeed.com/viewjob?jk=71fc435aa03b9cd9",
+    "scraped_at": "2026-09-22T15:57:57.548092"
+  },
+  {
+    "title": "Multimedia Engineer - Multimedia Software Development (Mandarin Speaking)",
+    "company": "TikTok",
+    "url": "https://au.indeed.com/viewjob?jk=c845d9547f01e287",
+    "scraped_at": "2026-09-22T15:57:57.549122"
+  },
+  {
+    "title": "Technical Lead - Network Services",
+    "company": "FinXL",
+    "url": "https://au.indeed.com/viewjob?jk=d66afd30d47f5ca3",
+    "scraped_at": "2026-09-22T15:57:57.549398"
+  },
+  {
+    "title": "Gaming Analyst",
+    "company": "Workers Lifestyle Group",
+    "url": "https://au.indeed.com/viewjob?jk=781e583d12c0364b",
+    "scraped_at": "2026-09-22T15:57:57.556228"
+  },
+  {
+    "title": "Marketing Specialist - Australia",
+    "company": "Oxford Economics",
+    "url": "https://au.indeed.com/viewjob?jk=3daf073f65287b0f",
+    "scraped_at": "2026-09-22T15:57:57.558557"
+  },
+  {
+    "title": "Marketing Specialist - Australia",
+    "company": "Oxford Economics",
+    "url": "https://au.indeed.com/viewjob?jk=26ace02361504367",
+    "scraped_at": "2026-09-22T15:57:57.559369"
+  },
+  {
+    "title": "Market Analyst (Full-time, Remote)",
+    "company": "Simply Wall St",
+    "url": "https://au.indeed.com/viewjob?jk=1cec9704da677a99",
+    "scraped_at": "2026-09-22T15:57:57.559963"
+  },
+  {
+    "title": "Dynamics 365 Developer",
+    "company": "Colonial First State",
+    "url": "https://au.indeed.com/viewjob?jk=59fb5c6c63d4e88d",
+    "scraped_at": "2026-09-22T15:57:57.567352"
+  },
+  {
+    "title": "Delivery Consultant - Agentic AI Full Stack Developer, Professional Services",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=c53e9b1aeb4a1595",
+    "scraped_at": "2026-09-22T15:57:57.568854"
   }
 ]
