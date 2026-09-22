@@ -1,35 +1,5 @@
 [
   {
-    "title": "Analytics Engineer",
-    "company": "Colliers",
-    "url": "https://au.indeed.com/viewjob?jk=02060d8eef405050",
-    "scraped_at": "2026-07-23T06:24:02.057062"
-  },
-  {
-    "title": "Analytics Engineer",
-    "company": "Colliers",
-    "url": "https://au.indeed.com/viewjob?jk=9a7d97f0ff66237b",
-    "scraped_at": "2026-07-23T06:24:02.057866"
-  },
-  {
-    "title": "ServiceNow ITSM Developer",
-    "company": "AMP",
-    "url": "https://au.indeed.com/viewjob?jk=3a42cacf9bce749d",
-    "scraped_at": "2026-07-23T06:24:02.060559"
-  },
-  {
-    "title": "Python, SQL & Network Engineer - Short Term Contract",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=f6eb965ed14f71bd",
-    "scraped_at": "2026-07-23T06:24:02.061051"
-  },
-  {
-    "title": "Business Intelligence Engineer, Marketing and Prime",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=2575b546b814a256",
-    "scraped_at": "2026-07-23T10:12:10.382345"
-  },
-  {
     "title": "Applied Solutions Architect",
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=ff24f1b4ab407217",
@@ -5998,5 +5968,35 @@
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=4e1189f2a9404bf5",
     "scraped_at": "2026-09-22T02:27:01.378895"
+  },
+  {
+    "title": "Full Stack AI Engineer",
+    "company": "Duxxel",
+    "url": "https://au.indeed.com/viewjob?jk=d4b787f8aabfe2b4",
+    "scraped_at": "2026-09-22T08:54:24.600091"
+  },
+  {
+    "title": "Engineer (12 Month Contract)",
+    "company": "Chubb Insurance",
+    "url": "https://au.indeed.com/viewjob?jk=46fe4fa2eb0f3ee6",
+    "scraped_at": "2026-09-22T08:54:24.603917"
+  },
+  {
+    "title": "Governance, Risk and Compliance Analyst",
+    "company": "Mission Australia",
+    "url": "https://au.indeed.com/viewjob?jk=691d1a5a69d65472",
+    "scraped_at": "2026-09-22T08:54:24.608042"
+  },
+  {
+    "title": "Databricks Tech Lead",
+    "company": "Delivery Centric",
+    "url": "https://au.indeed.com/viewjob?jk=21be10957e97df0b",
+    "scraped_at": "2026-09-22T08:54:24.613222"
+  },
+  {
+    "title": "Quality Engineer (Customer & Projects)",
+    "company": "Eaton",
+    "url": "https://au.indeed.com/viewjob?jk=18cd2ceb13587107",
+    "scraped_at": "2026-09-22T08:54:24.614159"
   }
 ]
