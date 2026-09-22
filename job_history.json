@@ -1,17 +1,5 @@
 [
   {
-    "title": "UKG Pro WFM Solution Architect",
-    "company": "Accenture",
-    "url": "https://au.indeed.com/viewjob?jk=8fa1d0b55d91c197",
-    "scraped_at": "2026-07-23T20:52:00.512650"
-  },
-  {
-    "title": "Engineering Division Partner / Lead Engineer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=8fa902007becfba4",
-    "scraped_at": "2026-07-24T01:49:41.079306"
-  },
-  {
     "title": "Lead Data Scientist",
     "company": "Resmed",
     "url": "https://au.indeed.com/viewjob?jk=845f8d43e7910fa3",
@@ -5998,5 +5986,17 @@
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=c53e9b1aeb4a1595",
     "scraped_at": "2026-09-22T15:57:57.568854"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=b8e93b4b63bded06",
+    "scraped_at": "2026-09-22T22:32:24.964976"
+  },
+  {
+    "title": "Practice Customer Engineer, Artificial Intelligence, Google Cloud",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=135232bb8c8f38ff",
+    "scraped_at": "2026-09-22T22:32:24.966684"
   }
 ]
