@@ -1,11 +1,5 @@
 [
   {
-    "title": "Lead Software Engineer, Payments Technology",
-    "company": "JPMorganChase",
-    "url": "https://au.indeed.com/viewjob?jk=7598be3ee4fcd3c3",
-    "scraped_at": "2026-07-25T01:49:10.031336"
-  },
-  {
     "title": "Information Security Operations Lead (Sydney, Australia)",
     "company": "Starling",
     "url": "https://au.indeed.com/viewjob?jk=dca8b782652a9613",
@@ -5998,5 +5992,11 @@
     "company": "University of Sydney",
     "url": "https://au.indeed.com/viewjob?jk=411b921c7a0172d3",
     "scraped_at": "2026-09-23T15:47:25.543699"
+  },
+  {
+    "title": "WW Specialist Solutions Architect In-Memory, WWSO Data",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=e46504437310c32c",
+    "scraped_at": "2026-09-23T19:20:12.598913"
   }
 ]
