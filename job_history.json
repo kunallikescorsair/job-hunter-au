@@ -1,11 +1,5 @@
 [
   {
-    "title": "Lead Data Scientist",
-    "company": "Resmed",
-    "url": "https://au.indeed.com/viewjob?jk=845f8d43e7910fa3",
-    "scraped_at": "2026-07-24T06:19:18.101439"
-  },
-  {
     "title": "Kubernetes Engineer",
     "company": "AC3",
     "url": "https://au.indeed.com/viewjob?jk=1226c841994a37f8",
@@ -5998,5 +5992,11 @@
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=135232bb8c8f38ff",
     "scraped_at": "2026-09-22T22:32:24.966684"
+  },
+  {
+    "title": "Business Development Representative",
+    "company": "Braze",
+    "url": "https://au.indeed.com/viewjob?jk=25d26ed32fb8bd89",
+    "scraped_at": "2026-09-23T02:27:01.463245"
   }
 ]
