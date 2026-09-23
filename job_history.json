@@ -1,71 +1,5 @@
 [
   {
-    "title": "Kubernetes Engineer",
-    "company": "AC3",
-    "url": "https://au.indeed.com/viewjob?jk=1226c841994a37f8",
-    "scraped_at": "2026-07-24T06:19:18.116699"
-  },
-  {
-    "title": "Software Quality & Validation Specialist",
-    "company": "MoleMap Australia & New Zealand",
-    "url": "https://au.indeed.com/viewjob?jk=9053907db13f67dd",
-    "scraped_at": "2026-07-24T06:19:18.117319"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Heidi",
-    "url": "https://au.indeed.com/viewjob?jk=2413ba7d0c2c5533",
-    "scraped_at": "2026-07-24T06:19:18.118186"
-  },
-  {
-    "title": "Cloud Data Platform Engineer",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=4f5a9e8589a987c5",
-    "scraped_at": "2026-07-24T06:19:18.122856"
-  },
-  {
-    "title": "Commercial Officer",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=88c2ad43aa17cfe6",
-    "scraped_at": "2026-07-24T06:19:18.123439"
-  },
-  {
-    "title": "Business Analyst - SAP",
-    "company": "Konica Minolta",
-    "url": "https://au.indeed.com/viewjob?jk=f26b646f4df016f1",
-    "scraped_at": "2026-07-24T06:19:18.125649"
-  },
-  {
-    "title": "Range Optimisation Analyst",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=bdc58b8bf9d3d6b9",
-    "scraped_at": "2026-07-24T06:19:18.129217"
-  },
-  {
-    "title": "Merchandising Optimisation Analyst",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=f68d9f55c14316a5",
-    "scraped_at": "2026-07-24T06:19:18.130874"
-  },
-  {
-    "title": "Vulnerability Management Specialist",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=97ae360304e1d3a2",
-    "scraped_at": "2026-07-24T06:19:18.135508"
-  },
-  {
-    "title": "Power Systems Consultant - Emerging Technologies",
-    "company": "Eaton",
-    "url": "https://au.indeed.com/viewjob?jk=4dbf03f91c5e0128",
-    "scraped_at": "2026-07-24T06:19:18.142637"
-  },
-  {
-    "title": "Advanced Analytics Analyst - Product Strategy & Governance",
-    "company": "Commonwealth Bank of Australia",
-    "url": "https://au.indeed.com/viewjob?jk=b3cfe67cc3bb44b4",
-    "scraped_at": "2026-07-24T10:08:31.658915"
-  },
-  {
     "title": "Data Center Technical Operations Engineer, AWS Data Center Engineering Operations",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=19cd83f6463f3f0b",
@@ -5998,5 +5932,71 @@
     "company": "Braze",
     "url": "https://au.indeed.com/viewjob?jk=25d26ed32fb8bd89",
     "scraped_at": "2026-09-23T02:27:01.463245"
+  },
+  {
+    "title": "Medical Scientist / Scientific Curator",
+    "company": "Elemnt Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=b8ed87feb7455891",
+    "scraped_at": "2026-09-23T08:56:38.258026"
+  },
+  {
+    "title": "End User Computer Security Engineer - 12 Month Fixed Term Contract",
+    "company": "REST",
+    "url": "https://au.indeed.com/viewjob?jk=73e874a8b8db9b56",
+    "scraped_at": "2026-09-23T08:56:38.264264"
+  },
+  {
+    "title": "Solution Engineer, Platform Integrations",
+    "company": "Mirvac",
+    "url": "https://au.indeed.com/viewjob?jk=ec90b5c8ecc6b7d5",
+    "scraped_at": "2026-09-23T08:56:38.264958"
+  },
+  {
+    "title": "Business Analyst - Data and Analytics",
+    "company": "NSW Department of Communities and Justice",
+    "url": "https://au.indeed.com/viewjob?jk=9de2222fe3b2b04d",
+    "scraped_at": "2026-09-23T08:56:38.273246"
+  },
+  {
+    "title": "Payroll Automation Analyst",
+    "company": "Ramsay Health Care",
+    "url": "https://au.indeed.com/viewjob?jk=400ae5a970b8362f",
+    "scraped_at": "2026-09-23T08:56:38.274197"
+  },
+  {
+    "title": "Project Manager - Medium Voltage",
+    "company": "Eaton",
+    "url": "https://au.indeed.com/viewjob?jk=aaad6a7160940768",
+    "scraped_at": "2026-09-23T08:56:38.278266"
+  },
+  {
+    "title": "Merch Strategy & Operations Analyst | rebel",
+    "company": "Rebel",
+    "url": "https://au.indeed.com/viewjob?jk=be46998527063f7f",
+    "scraped_at": "2026-09-23T08:56:38.279437"
+  },
+  {
+    "title": "Property Graduate",
+    "company": "Colliers",
+    "url": "https://au.indeed.com/viewjob?jk=6861173f95ff2918",
+    "scraped_at": "2026-09-23T08:56:38.281534"
+  },
+  {
+    "title": "Property Graduate",
+    "company": "Colliers",
+    "url": "https://au.indeed.com/viewjob?jk=519bc91bf061d597",
+    "scraped_at": "2026-09-23T08:56:38.282708"
+  },
+  {
+    "title": "Mechanical Services Engineer - Critical Power Cooling Systems",
+    "company": "Ampcontrol",
+    "url": "https://au.indeed.com/viewjob?jk=d6316bef2c777d5b",
+    "scraped_at": "2026-09-23T08:56:38.285028"
+  },
+  {
+    "title": "Production Engineer (12 month fixed-term contract)",
+    "company": "BlueScope",
+    "url": "https://au.indeed.com/viewjob?jk=df26dcb50cf42b8a",
+    "scraped_at": "2026-09-23T08:56:38.286655"
   }
 ]
