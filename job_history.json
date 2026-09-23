@@ -1,65 +1,5 @@
 [
   {
-    "title": "Data Center Technical Operations Engineer, AWS Data Center Engineering Operations",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=19cd83f6463f3f0b",
-    "scraped_at": "2026-07-24T10:08:31.687816"
-  },
-  {
-    "title": "High Voltage Commissioning Engineer, APJC ACx",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=88d3bd7873314a40",
-    "scraped_at": "2026-07-24T10:08:31.689427"
-  },
-  {
-    "title": "Project Engineer",
-    "company": "Air Liquide",
-    "url": "https://au.indeed.com/viewjob?jk=a459465151ac1f85",
-    "scraped_at": "2026-07-24T10:08:31.690856"
-  },
-  {
-    "title": "Lead Software Engineer, Payments Technology",
-    "company": "JPMorganChase",
-    "url": "https://au.indeed.com/viewjob?jk=4012fc5193589a24",
-    "scraped_at": "2026-07-24T13:18:26.614047"
-  },
-  {
-    "title": "Test Engineer",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=c768c5b4ce0e4389",
-    "scraped_at": "2026-07-24T13:18:26.617904"
-  },
-  {
-    "title": "Remediation Analyst",
-    "company": "Downer Group",
-    "url": "https://au.indeed.com/viewjob?jk=3eefbcc0e1001087",
-    "scraped_at": "2026-07-24T13:18:26.624199"
-  },
-  {
-    "title": "Sr. Solutions Architect - F&O (Finance) (6-Month Fixed Term)",
-    "company": "Hitachi Solutions North America",
-    "url": "https://au.indeed.com/viewjob?jk=8f90b86eaecc74db",
-    "scraped_at": "2026-07-24T13:18:26.625834"
-  },
-  {
-    "title": "FastTrack Full Stack Engineer",
-    "company": "Microsoft",
-    "url": "https://au.indeed.com/viewjob?jk=29b2a3e00629e158",
-    "scraped_at": "2026-07-24T17:21:13.463536"
-  },
-  {
-    "title": "Level 2 Application Support Analyst - Education",
-    "company": "Civica",
-    "url": "https://au.indeed.com/viewjob?jk=c799b47a394624d7",
-    "scraped_at": "2026-07-24T17:21:13.469428"
-  },
-  {
-    "title": "BMS Project Engineer",
-    "company": "Johnson Controls",
-    "url": "https://au.indeed.com/viewjob?jk=788c64e152f230ad",
-    "scraped_at": "2026-07-24T20:55:55.634765"
-  },
-  {
     "title": "Lead Software Engineer, Payments Technology",
     "company": "JPMorganChase",
     "url": "https://au.indeed.com/viewjob?jk=7598be3ee4fcd3c3",
@@ -5998,5 +5938,65 @@
     "company": "BlueScope",
     "url": "https://au.indeed.com/viewjob?jk=df26dcb50cf42b8a",
     "scraped_at": "2026-09-23T08:56:38.286655"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "News Corp",
+    "url": "https://au.indeed.com/viewjob?jk=0bdcbe984e7b818d",
+    "scraped_at": "2026-09-23T15:47:25.524174"
+  },
+  {
+    "title": "Project Interface Specialist",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=2efd3c622f0cc3e8",
+    "scraped_at": "2026-09-23T15:47:25.525376"
+  },
+  {
+    "title": "Salesforce Automation & AI Specialist",
+    "company": "Globespan Technology Solutions",
+    "url": "https://au.indeed.com/viewjob?jk=e74075a1ba87ff41",
+    "scraped_at": "2026-09-23T15:47:25.527011"
+  },
+  {
+    "title": "Master Data Analyst",
+    "company": "Hungry Jack's",
+    "url": "https://au.indeed.com/viewjob?jk=80d4d91c286a2694",
+    "scraped_at": "2026-09-23T15:47:25.531157"
+  },
+  {
+    "title": "Payroll Automation Analyst",
+    "company": "Ramsay Health Care",
+    "url": "https://au.indeed.com/viewjob?jk=da87a5d8632488ce",
+    "scraped_at": "2026-09-23T15:47:25.531967"
+  },
+  {
+    "title": "QA Data Analyst",
+    "company": "WeBuild",
+    "url": "https://au.indeed.com/viewjob?jk=c29ebcfb585aca7f",
+    "scraped_at": "2026-09-23T15:47:25.533424"
+  },
+  {
+    "title": "Accounting Manager",
+    "company": "Graymont",
+    "url": "https://au.indeed.com/viewjob?jk=a4a30742d13411fa",
+    "scraped_at": "2026-09-23T15:47:25.538106"
+  },
+  {
+    "title": "Sr Full Stack Engineer (AI, LLM & Intelligent Document Processing)",
+    "company": "Tata Consultancy Services (TCS)",
+    "url": "https://au.indeed.com/viewjob?jk=cf4d5abc14890239",
+    "scraped_at": "2026-09-23T15:47:25.540886"
+  },
+  {
+    "title": "B2B Marketing Lead, ANZ",
+    "company": "OpenAI",
+    "url": "https://au.indeed.com/viewjob?jk=71a0b1b1634fcb71",
+    "scraped_at": "2026-09-23T15:47:25.542966"
+  },
+  {
+    "title": "Magma Research Associate / Magma Research Fellow",
+    "company": "University of Sydney",
+    "url": "https://au.indeed.com/viewjob?jk=411b921c7a0172d3",
+    "scraped_at": "2026-09-23T15:47:25.543699"
   }
 ]
