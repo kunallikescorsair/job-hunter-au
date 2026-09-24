@@ -1,59 +1,5 @@
 [
   {
-    "title": "Solution Architect",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=96e63dd237b0288a",
-    "scraped_at": "2026-07-27T06:55:35.126201"
-  },
-  {
-    "title": "Salesforce Data Cloud Engineer",
-    "company": "Showtime Consulting",
-    "url": "https://au.indeed.com/viewjob?jk=dfd72395629a4593",
-    "scraped_at": "2026-07-27T06:55:35.130204"
-  },
-  {
-    "title": "Performance Analyst",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=5a210d37b67ef45d",
-    "scraped_at": "2026-07-27T06:55:35.136682"
-  },
-  {
-    "title": "Product Manager (Data)",
-    "company": "Duxxel",
-    "url": "https://au.indeed.com/viewjob?jk=9be8b59655f6b672",
-    "scraped_at": "2026-07-27T11:10:56.992310"
-  },
-  {
-    "title": "Applications Support Analyst/Solution Engineer - IT Application Services",
-    "company": "Catholic Healthcare Limited",
-    "url": "https://au.indeed.com/viewjob?jk=3ab86d1843542baa",
-    "scraped_at": "2026-07-27T11:10:56.998897"
-  },
-  {
-    "title": "GTM Operations Lead",
-    "company": "Heidi",
-    "url": "https://au.indeed.com/viewjob?jk=89b7c7f1b2c6a5c2",
-    "scraped_at": "2026-07-27T11:10:56.999992"
-  },
-  {
-    "title": "Technology Support Lead",
-    "company": "JPMorganChase",
-    "url": "https://au.indeed.com/viewjob?jk=fbea0bd50e274bbe",
-    "scraped_at": "2026-07-27T11:10:57.000858"
-  },
-  {
-    "title": "Java Full Stack Developer",
-    "company": "Lyfy",
-    "url": "https://au.indeed.com/viewjob?jk=8907af57a04eddc0",
-    "scraped_at": "2026-07-27T11:10:57.001553"
-  },
-  {
-    "title": "Product Designer",
-    "company": "Mirvac",
-    "url": "https://au.indeed.com/viewjob?jk=391c379548c38f41",
-    "scraped_at": "2026-07-27T11:10:57.002672"
-  },
-  {
     "title": "Business Analyst - Project",
     "company": "Mission Australia",
     "url": "https://au.indeed.com/viewjob?jk=2280cc79d6c09a54",
@@ -5998,5 +5944,59 @@
     "company": "Eaton",
     "url": "https://au.indeed.com/viewjob?jk=d06c850a802787a6",
     "scraped_at": "2026-09-24T08:51:55.628236"
+  },
+  {
+    "title": "Lead Product Design Engineer",
+    "company": "DIUS",
+    "url": "https://au.indeed.com/viewjob?jk=9cd808a40bbff85e",
+    "scraped_at": "2026-09-24T16:09:03.928815"
+  },
+  {
+    "title": "Network Engineer",
+    "company": "FinXL",
+    "url": "https://au.indeed.com/viewjob?jk=8805a0bed7d1c5f3",
+    "scraped_at": "2026-09-24T16:09:03.931913"
+  },
+  {
+    "title": "Associate Software Engineer",
+    "company": "Karbon",
+    "url": "https://au.indeed.com/viewjob?jk=a823cf3f9ba3ed22",
+    "scraped_at": "2026-09-24T16:09:03.932857"
+  },
+  {
+    "title": "Transport Data Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=1dcfae96b9d1b203",
+    "scraped_at": "2026-09-24T16:09:03.937874"
+  },
+  {
+    "title": "Azure Data Engineer",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=df0eab49e9235f94",
+    "scraped_at": "2026-09-24T16:09:03.939324"
+  },
+  {
+    "title": "Data Center Technical Operations Engineer, AWS Data Center Engineering Operations",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=501e6c959205f8e4",
+    "scraped_at": "2026-09-24T16:09:03.944728"
+  },
+  {
+    "title": "EBIP Engineer",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=a09b5904c25a9ac9",
+    "scraped_at": "2026-09-24T16:09:03.946309"
+  },
+  {
+    "title": "Data Center Strategic Negotiator, Market Development",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=1c8b907366ce2415",
+    "scraped_at": "2026-09-24T16:09:03.950881"
+  },
+  {
+    "title": "Solicitor, Real Estate",
+    "company": "Herbert Smith Freehills",
+    "url": "https://au.indeed.com/viewjob?jk=e08d40f111615fec",
+    "scraped_at": "2026-09-24T16:09:03.951680"
   }
 ]
