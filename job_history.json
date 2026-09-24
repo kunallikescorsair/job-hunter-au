@@ -1,17 +1,5 @@
 [
   {
-    "title": "Business Analyst - Project",
-    "company": "Mission Australia",
-    "url": "https://au.indeed.com/viewjob?jk=2280cc79d6c09a54",
-    "scraped_at": "2026-07-27T11:10:57.012434"
-  },
-  {
-    "title": "Controls Design Engineer, Controls Design Engineering",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=537c895b2bd22dd9",
-    "scraped_at": "2026-07-27T11:10:57.018231"
-  },
-  {
     "title": "Sr. Corporate Account Manager",
     "company": "CrowdStrike",
     "url": "https://au.indeed.com/viewjob?jk=9c91f1b12efb2390",
@@ -5998,5 +5986,17 @@
     "company": "Herbert Smith Freehills",
     "url": "https://au.indeed.com/viewjob?jk=e08d40f111615fec",
     "scraped_at": "2026-09-24T16:09:03.951680"
+  },
+  {
+    "title": "Road Safety Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=c4431a8087b2ed10",
+    "scraped_at": "2026-09-24T22:50:15.538129"
+  },
+  {
+    "title": "Cloud Engineer - Operations",
+    "company": "Accenture",
+    "url": "https://au.indeed.com/viewjob?jk=c86b1256acb310ce",
+    "scraped_at": "2026-09-24T22:50:15.542532"
   }
 ]
