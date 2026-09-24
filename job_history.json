@@ -1,11 +1,5 @@
 [
   {
-    "title": "Information Security Operations Lead (Sydney, Australia)",
-    "company": "Starling",
-    "url": "https://au.indeed.com/viewjob?jk=dca8b782652a9613",
-    "scraped_at": "2026-07-25T16:45:32.511114"
-  },
-  {
     "title": "Lead Account Executive, Specialization",
     "company": "HubSpot",
     "url": "https://au.indeed.com/viewjob?jk=24f6f678d286f8e3",
@@ -5998,5 +5992,11 @@
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=e46504437310c32c",
     "scraped_at": "2026-09-23T19:20:12.598913"
+  },
+  {
+    "title": "QA Data Analyst",
+    "company": "Clough",
+    "url": "https://au.indeed.com/viewjob?jk=6b6819e0418f5445",
+    "scraped_at": "2026-09-24T02:15:43.910600"
   }
 ]
