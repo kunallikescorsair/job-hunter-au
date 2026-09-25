@@ -1,11 +1,5 @@
 [
   {
-    "title": "Sr. Corporate Account Manager",
-    "company": "CrowdStrike",
-    "url": "https://au.indeed.com/viewjob?jk=9c91f1b12efb2390",
-    "scraped_at": "2026-07-27T14:11:23.734975"
-  },
-  {
     "title": "Software Engineer, Netsoft Planning Area",
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=36d3714aa592e801",
@@ -5998,5 +5992,11 @@
     "company": "Accenture",
     "url": "https://au.indeed.com/viewjob?jk=c86b1256acb310ce",
     "scraped_at": "2026-09-24T22:50:15.542532"
+  },
+  {
+    "title": "Sr Account Solutions Executive (APAC)",
+    "company": "Smartsheet",
+    "url": "https://au.indeed.com/viewjob?jk=4bea5683d8955184",
+    "scraped_at": "2026-09-25T02:32:25.624464"
   }
 ]
