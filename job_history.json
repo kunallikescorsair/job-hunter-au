@@ -1,35 +1,5 @@
 [
   {
-    "title": "Software Engineer, Netsoft Planning Area",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=36d3714aa592e801",
-    "scraped_at": "2026-07-27T17:30:41.814169"
-  },
-  {
-    "title": "Software Engineer (Full Stack)",
-    "company": "Morningstar",
-    "url": "https://au.indeed.com/viewjob?jk=8c21f0a3f64a5946",
-    "scraped_at": "2026-07-27T17:30:41.815792"
-  },
-  {
-    "title": "Technical Solutions Consultant, Google Photos",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=beb82eefc9d9b7a2",
-    "scraped_at": "2026-07-27T21:03:12.172394"
-  },
-  {
-    "title": "Binance Accelarator Program - Risk Analyst",
-    "company": "Binance",
-    "url": "https://au.indeed.com/viewjob?jk=455b21807c4d49af",
-    "scraped_at": "2026-07-27T21:03:12.181298"
-  },
-  {
-    "title": "Lead Software Engineer, Securities Services Technology",
-    "company": "JPMorganChase",
-    "url": "https://au.indeed.com/viewjob?jk=775279302c7892ac",
-    "scraped_at": "2026-07-28T01:43:04.369743"
-  },
-  {
     "title": "Frontend Developer",
     "company": "Tata Consultancy Services (TCS)",
     "url": "https://au.indeed.com/viewjob?jk=a74bab3c77306f4f",
@@ -5998,5 +5968,35 @@
     "company": "Smartsheet",
     "url": "https://au.indeed.com/viewjob?jk=4bea5683d8955184",
     "scraped_at": "2026-09-25T02:32:25.624464"
+  },
+  {
+    "title": "Structural Modeller",
+    "company": "Aurecon Group",
+    "url": "https://au.indeed.com/viewjob?jk=09729ebcef64f70d",
+    "scraped_at": "2026-09-25T09:12:39.345935"
+  },
+  {
+    "title": "Materials Analyst, AHMC",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=e33de38ed34ac15f",
+    "scraped_at": "2026-09-25T09:12:39.349885"
+  },
+  {
+    "title": "Compliance Analyst",
+    "company": "WeeL",
+    "url": "https://au.indeed.com/viewjob?jk=236a26fbeac8c2f2",
+    "scraped_at": "2026-09-25T09:12:39.352166"
+  },
+  {
+    "title": "Pricing Analyst",
+    "company": "Planit Testing",
+    "url": "https://au.indeed.com/viewjob?jk=fcff56c3f2e75527",
+    "scraped_at": "2026-09-25T09:12:39.354335"
+  },
+  {
+    "title": "Planning Analyst AHMC",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=ed4e4a0a370eea6a",
+    "scraped_at": "2026-09-25T09:12:39.356328"
   }
 ]
