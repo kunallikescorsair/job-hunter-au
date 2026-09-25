@@ -1,35 +1,5 @@
 [
   {
-    "title": "Frontend Developer",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=a74bab3c77306f4f",
-    "scraped_at": "2026-07-28T01:43:04.373611"
-  },
-  {
-    "title": "Java Developer",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=698dcc84ded02aff",
-    "scraped_at": "2026-07-28T01:43:04.373896"
-  },
-  {
-    "title": "Information Security Analyst",
-    "company": "Beforepay Group",
-    "url": "https://au.indeed.com/viewjob?jk=5257eca181b58a50",
-    "scraped_at": "2026-07-28T01:43:04.379191"
-  },
-  {
-    "title": "Cloud Engineer",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=4008355e9da0cffb",
-    "scraped_at": "2026-07-28T06:19:19.337818"
-  },
-  {
-    "title": "Software Engineer (Site Reliability)",
-    "company": "CoreFlow",
-    "url": "https://au.indeed.com/viewjob?jk=ab61565a4bf8a7e7",
-    "scraped_at": "2026-07-28T06:19:19.338490"
-  },
-  {
     "title": "Postdoctoral Research Fellow in Quantitative Analysis of Economic Impacts of Ultra-Processed Foods",
     "company": "University of Sydney",
     "url": "https://au.indeed.com/viewjob?jk=3ec175798ab9aa82",
@@ -5998,5 +5968,35 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=ed4e4a0a370eea6a",
     "scraped_at": "2026-09-25T09:12:39.356328"
+  },
+  {
+    "title": "IT Security Architect",
+    "company": "Reserve Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=5e03fb6aca10219d",
+    "scraped_at": "2026-09-25T16:09:38.768026"
+  },
+  {
+    "title": "People Operations Partner - Hybrid",
+    "company": "Humanforce",
+    "url": "https://au.indeed.com/viewjob?jk=da5861bfe528ca14",
+    "scraped_at": "2026-09-25T16:09:38.771514"
+  },
+  {
+    "title": "Sales Planning Analyst",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=822eeb277188a1d3",
+    "scraped_at": "2026-09-25T16:09:38.774695"
+  },
+  {
+    "title": "Solution Design Consultant",
+    "company": "KARDEX",
+    "url": "https://au.indeed.com/viewjob?jk=22d57584d61eb70b",
+    "scraped_at": "2026-09-25T16:09:38.776484"
+  },
+  {
+    "title": "Network Design Engineer",
+    "company": "Ventia",
+    "url": "https://au.indeed.com/viewjob?jk=9fe2738f0923ffb0",
+    "scraped_at": "2026-09-25T16:09:38.777373"
   }
 ]
