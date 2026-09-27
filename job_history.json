@@ -1,11 +1,5 @@
 [
   {
-    "title": "Finance Systems & Automation Lead",
-    "company": "Firmus Technologies",
-    "url": "https://au.indeed.com/viewjob?jk=2aaa18609b4d6796",
-    "scraped_at": "2026-07-28T10:25:40.760285"
-  },
-  {
     "title": "Quality Systems Engineer",
     "company": "Anduril",
     "url": "https://au.indeed.com/viewjob?jk=e4209f63bd37e2e2",
@@ -5998,5 +5992,11 @@
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=9118d087842d759d",
     "scraped_at": "2026-09-27T09:39:46.803669"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Enrich IT Services Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=fa4376c15e7cb29c",
+    "scraped_at": "2026-09-27T16:02:19.449802"
   }
 ]
