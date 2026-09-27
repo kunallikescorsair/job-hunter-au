@@ -1,17 +1,5 @@
 [
   {
-    "title": "Operations Research and AI Consultant, AWS Professional Services",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=5654bc85fdc4bfaa",
-    "scraped_at": "2026-07-28T10:25:40.753103"
-  },
-  {
-    "title": "Technical Program Manager, Security & Compliance",
-    "company": "Heidi",
-    "url": "https://au.indeed.com/viewjob?jk=b1dcd62ff7d3c362",
-    "scraped_at": "2026-07-28T10:25:40.759230"
-  },
-  {
     "title": "Finance Systems & Automation Lead",
     "company": "Firmus Technologies",
     "url": "https://au.indeed.com/viewjob?jk=2aaa18609b4d6796",
@@ -5998,5 +5986,17 @@
     "company": "Vision Personal Training Studios in NSW",
     "url": "https://au.indeed.com/viewjob?jk=ff9d4feec663e75c",
     "scraped_at": "2026-09-26T15:23:02.328582"
+  },
+  {
+    "title": "Lead AI Engineer - Intelligence & Protection",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=05ce61482e070e5d",
+    "scraped_at": "2026-09-27T09:39:46.803188"
+  },
+  {
+    "title": "AI Engineer - Intelligence & Protection",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=9118d087842d759d",
+    "scraped_at": "2026-09-27T09:39:46.803669"
   }
 ]
