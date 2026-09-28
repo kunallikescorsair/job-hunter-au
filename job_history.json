@@ -1,41 +1,5 @@
 [
   {
-    "title": "Software Test Engineer",
-    "company": "Dipole Group",
-    "url": "https://au.indeed.com/viewjob?jk=b741af483864d239",
-    "scraped_at": "2026-07-29T01:44:44.297632"
-  },
-  {
-    "title": "Data and Ai Engineer",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=87da88b33f989064",
-    "scraped_at": "2026-07-29T06:24:51.846689"
-  },
-  {
-    "title": "Technical Engineer, Low Latency Trading Platform",
-    "company": "UBS",
-    "url": "https://au.indeed.com/viewjob?jk=8cd8f6ec4b7b2251",
-    "scraped_at": "2026-07-29T06:24:51.848128"
-  },
-  {
-    "title": "Full Stack Developer",
-    "company": "Duxxel",
-    "url": "https://au.indeed.com/viewjob?jk=224f7064b4e51b1d",
-    "scraped_at": "2026-07-29T06:24:51.857067"
-  },
-  {
-    "title": "Snr Strategic Performance Rep Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=8540ef31e2fae7b4",
-    "scraped_at": "2026-07-29T06:24:51.863259"
-  },
-  {
-    "title": "Commercial Analyst",
-    "company": "Canon",
-    "url": "https://au.indeed.com/viewjob?jk=1cef50895d2920a9",
-    "scraped_at": "2026-07-29T06:24:51.863910"
-  },
-  {
     "title": "C++ Engineer - Capital Markets",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=910730df70244537",
@@ -5998,5 +5962,41 @@
     "company": "KPMG",
     "url": "https://au.indeed.com/viewjob?jk=e6ad02494bbaf683",
     "scraped_at": "2026-09-28T10:18:47.710082"
+  },
+  {
+    "title": "EUC Test Engineer",
+    "company": "Accenture",
+    "url": "https://au.indeed.com/viewjob?jk=89acc8102ad97da0",
+    "scraped_at": "2026-09-28T18:57:55.203959"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "FinXL",
+    "url": "https://au.indeed.com/viewjob?jk=b4af8d5afd6f49b7",
+    "scraped_at": "2026-09-28T18:57:55.204415"
+  },
+  {
+    "title": "Construction Project Manager (Level 4) \u2013 Site Foreman",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=1ecdd121c0c3ac2d",
+    "scraped_at": "2026-09-28T18:57:55.205171"
+  },
+  {
+    "title": "Lead Devops Engineer",
+    "company": "ING",
+    "url": "https://au.indeed.com/viewjob?jk=06e7cd0675d47173",
+    "scraped_at": "2026-09-28T18:57:55.210046"
+  },
+  {
+    "title": "Global Investment Research, Equity Research, Australia REITs, Analyst/Associate \u2013 Sydney",
+    "company": "Goldman Sachs",
+    "url": "https://au.indeed.com/viewjob?jk=c162f5736c36ada6",
+    "scraped_at": "2026-09-28T18:57:55.212437"
+  },
+  {
+    "title": "Business Program Manager, Third Party Data Center Operations",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=62f603d006887d03",
+    "scraped_at": "2026-09-28T18:57:55.226510"
   }
 ]
