@@ -1,17 +1,5 @@
 [
   {
-    "title": "Quality Systems Engineer",
-    "company": "Anduril",
-    "url": "https://au.indeed.com/viewjob?jk=e4209f63bd37e2e2",
-    "scraped_at": "2026-07-28T10:25:40.761375"
-  },
-  {
-    "title": "Databricks Architect",
-    "company": "UNISON Group",
-    "url": "https://au.indeed.com/viewjob?jk=5bd2fc382799e519",
-    "scraped_at": "2026-07-28T10:25:40.770996"
-  },
-  {
     "title": "DevOps Engineer",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=f6717d74ffb64ba5",
@@ -5998,5 +5986,17 @@
     "company": "Enrich IT Services Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=fa4376c15e7cb29c",
     "scraped_at": "2026-09-27T16:02:19.449802"
+  },
+  {
+    "title": "ICT Business Analyst",
+    "company": "IT HUB Australia Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=14d8e9566a514dcb",
+    "scraped_at": "2026-09-28T02:36:44.662066"
+  },
+  {
+    "title": "Process Improvement Engineer",
+    "company": "Kingspan",
+    "url": "https://au.indeed.com/viewjob?jk=df28a3ecbd9322e3",
+    "scraped_at": "2026-09-28T02:36:44.666894"
   }
 ]
