@@ -1,59 +1,5 @@
 [
   {
-    "title": "DevOps Engineer",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=f6717d74ffb64ba5",
-    "scraped_at": "2026-07-28T10:25:40.773113"
-  },
-  {
-    "title": "Python Engineer - Security Automation",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=16e3ff96507824ef",
-    "scraped_at": "2026-07-28T10:25:40.773769"
-  },
-  {
-    "title": "Network Development Engineer",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=c43a5968fe7c045b",
-    "scraped_at": "2026-07-28T10:25:40.775139"
-  },
-  {
-    "title": "Product Delivery Lead",
-    "company": "Macquarie Technology Group",
-    "url": "https://au.indeed.com/viewjob?jk=022bbe5de8d31bb7",
-    "scraped_at": "2026-07-28T17:19:18.395676"
-  },
-  {
-    "title": "Technical Team Lead",
-    "company": "ELMO Software",
-    "url": "https://au.indeed.com/viewjob?jk=e23de186a9abfc40",
-    "scraped_at": "2026-07-28T17:19:18.410090"
-  },
-  {
-    "title": "Business Reporter",
-    "company": "News Corp",
-    "url": "https://au.indeed.com/viewjob?jk=cb68e35acc0f2a6d",
-    "scraped_at": "2026-07-28T20:59:52.892958"
-  },
-  {
-    "title": "Junior Business Analyst",
-    "company": "My Muscle Chef",
-    "url": "https://au.indeed.com/viewjob?jk=83406db6379b5b8c",
-    "scraped_at": "2026-07-29T01:44:44.290916"
-  },
-  {
-    "title": "Third Party Risk Analyst",
-    "company": "TAL",
-    "url": "https://au.indeed.com/viewjob?jk=12eb4975656bedb5",
-    "scraped_at": "2026-07-29T01:44:44.292463"
-  },
-  {
-    "title": "Technical Business Analyst",
-    "company": "Dipole Group",
-    "url": "https://au.indeed.com/viewjob?jk=3b3b37261e01d08a",
-    "scraped_at": "2026-07-29T01:44:44.297015"
-  },
-  {
     "title": "Software Test Engineer",
     "company": "Dipole Group",
     "url": "https://au.indeed.com/viewjob?jk=b741af483864d239",
@@ -5998,5 +5944,59 @@
     "company": "Kingspan",
     "url": "https://au.indeed.com/viewjob?jk=df28a3ecbd9322e3",
     "scraped_at": "2026-09-28T02:36:44.666894"
+  },
+  {
+    "title": "Transformation Success Engineer - ANZ",
+    "company": "Palo Alto Networks",
+    "url": "https://au.indeed.com/viewjob?jk=6afe2a99662f544f",
+    "scraped_at": "2026-09-28T10:18:47.683371"
+  },
+  {
+    "title": "Sales Development Representative (Hybrid, AUS)",
+    "company": "CrowdStrike",
+    "url": "https://au.indeed.com/viewjob?jk=9d3dba191af72677",
+    "scraped_at": "2026-09-28T10:18:47.684638"
+  },
+  {
+    "title": "Analyst, Performance & Reporting (Consumer Cards)",
+    "company": "NAB - National Australia Bank",
+    "url": "https://au.indeed.com/viewjob?jk=72cf9e4c9865ef5b",
+    "scraped_at": "2026-09-28T10:18:47.690319"
+  },
+  {
+    "title": "Payroll Test Analyst",
+    "company": "Downer Group",
+    "url": "https://au.indeed.com/viewjob?jk=c94e1a765823f4fe",
+    "scraped_at": "2026-09-28T10:18:47.691495"
+  },
+  {
+    "title": "Business Associate, ANZ Institutional",
+    "company": "Wellington Management",
+    "url": "https://au.indeed.com/viewjob?jk=ad9734436dd95bb6",
+    "scraped_at": "2026-09-28T10:18:47.693878"
+  },
+  {
+    "title": "Financial Planning and Analyst",
+    "company": "Smiths Group",
+    "url": "https://au.indeed.com/viewjob?jk=d8f5e98c6fa406dc",
+    "scraped_at": "2026-09-28T10:18:47.696160"
+  },
+  {
+    "title": "Digital Strategist",
+    "company": "Digital Ninjas Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=ee971bd87925ace9",
+    "scraped_at": "2026-09-28T10:18:47.697586"
+  },
+  {
+    "title": "Full Stack Developer (UI)",
+    "company": "Janison Solutions Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=8d4024db54078006",
+    "scraped_at": "2026-09-28T10:18:47.709024"
+  },
+  {
+    "title": "Mid-Market & Private Consulting \u2013 Advisory \u2013 Technology Solutions, Community Care - Manager",
+    "company": "KPMG",
+    "url": "https://au.indeed.com/viewjob?jk=e6ad02494bbaf683",
+    "scraped_at": "2026-09-28T10:18:47.710082"
   }
 ]
