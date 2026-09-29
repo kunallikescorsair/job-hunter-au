@@ -2,12 +2,6 @@
   {
     "title": "API/GCP Platform Engineer",
     "company": "NCS",
-    "url": "https://au.indeed.com/viewjob?jk=e1861f08b2018fbe",
-    "scraped_at": "2026-07-30T01:27:04.540180"
-  },
-  {
-    "title": "API/GCP Platform Engineer",
-    "company": "NCS",
     "url": "https://au.indeed.com/viewjob?jk=8ca9b4ea888ee158",
     "scraped_at": "2026-07-30T01:27:04.541111"
   },
@@ -5998,5 +5992,11 @@
     "company": "DIUS",
     "url": "https://au.indeed.com/viewjob?jk=3bec55c4e2c5a9e0",
     "scraped_at": "2026-09-29T17:16:53.005286"
+  },
+  {
+    "title": "CyberCX - Engineer (FDE) - Secure AI",
+    "company": "Accenture",
+    "url": "https://au.indeed.com/viewjob?jk=e102710561577363",
+    "scraped_at": "2026-09-29T23:17:01.000806"
   }
 ]
