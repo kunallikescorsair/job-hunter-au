@@ -1,41 +1,5 @@
 [
   {
-    "title": "Integration Engineer - Workato",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=05efa11cb9ccccf0",
-    "scraped_at": "2026-07-29T13:46:20.498645"
-  },
-  {
-    "title": "Corporate Strategy & Financial Analyst",
-    "company": "Pet Circle",
-    "url": "https://au.indeed.com/viewjob?jk=ffb3d5fcf39b142d",
-    "scraped_at": "2026-07-29T13:46:20.502599"
-  },
-  {
-    "title": "Network Engineer - Network Infrastructure",
-    "company": "TikTok",
-    "url": "https://au.indeed.com/viewjob?jk=413be39d8c9bf65b",
-    "scraped_at": "2026-07-29T13:46:20.507547"
-  },
-  {
-    "title": "Front-End Software Engineer, Google Photos",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=c460a81c522c610a",
-    "scraped_at": "2026-07-29T17:04:53.760274"
-  },
-  {
-    "title": "AI & Cloud Operations Student Placement",
-    "company": "Aussie Hybrid Solar",
-    "url": "https://au.indeed.com/viewjob?jk=ebf37fda58a350ea",
-    "scraped_at": "2026-07-30T01:27:04.526111"
-  },
-  {
-    "title": "AI Build Lead",
-    "company": "Future Secure AI",
-    "url": "https://au.indeed.com/viewjob?jk=55d9e3742817ce8b",
-    "scraped_at": "2026-07-30T01:27:04.535108"
-  },
-  {
     "title": "API/GCP Platform Engineer",
     "company": "NCS",
     "url": "https://au.indeed.com/viewjob?jk=e1861f08b2018fbe",
@@ -5998,5 +5962,41 @@
     "company": "ServiceNow",
     "url": "https://au.indeed.com/viewjob?jk=2935392366548344",
     "scraped_at": "2026-09-29T10:15:01.439098"
+  },
+  {
+    "title": "Transformation Success Engineer",
+    "company": "Palo Alto Networks",
+    "url": "https://au.indeed.com/viewjob?jk=69a6f6162226eb23",
+    "scraped_at": "2026-09-29T17:16:52.992358"
+  },
+  {
+    "title": "ESI Trainer & Assessor",
+    "company": "Aurecon Group",
+    "url": "https://au.indeed.com/viewjob?jk=fa436701a85ced68",
+    "scraped_at": "2026-09-29T17:16:52.992803"
+  },
+  {
+    "title": "Full Stack Engineer",
+    "company": "Capgemini",
+    "url": "https://au.indeed.com/viewjob?jk=1aa316dac2820b55",
+    "scraped_at": "2026-09-29T17:16:52.993616"
+  },
+  {
+    "title": "Full Stack Engineer",
+    "company": "Capgemini Engineering",
+    "url": "https://au.indeed.com/viewjob?jk=cc5cd811d4d06fd6",
+    "scraped_at": "2026-09-29T17:16:52.996385"
+  },
+  {
+    "title": "Business and Process Analyst | Client Onboarding",
+    "company": "PwC",
+    "url": "https://au.indeed.com/viewjob?jk=ff02727dcf468cc4",
+    "scraped_at": "2026-09-29T17:16:52.998025"
+  },
+  {
+    "title": "Lead ML/AI Engineering Consultant",
+    "company": "DIUS",
+    "url": "https://au.indeed.com/viewjob?jk=3bec55c4e2c5a9e0",
+    "scraped_at": "2026-09-29T17:16:53.005286"
   }
 ]
