@@ -1,17 +1,5 @@
 [
   {
-    "title": "API/GCP Platform Engineer",
-    "company": "NCS",
-    "url": "https://au.indeed.com/viewjob?jk=8ca9b4ea888ee158",
-    "scraped_at": "2026-07-30T01:27:04.541111"
-  },
-  {
-    "title": "SAP CAP Developer",
-    "company": "NCS",
-    "url": "https://au.indeed.com/viewjob?jk=484e85a91f79f096",
-    "scraped_at": "2026-07-30T01:27:04.557570"
-  },
-  {
     "title": "Software Engineer \u2013 Data & Analytics - Equity Derivatives and Trading",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=f28028b8bb805803",
@@ -5998,5 +5986,17 @@
     "company": "Accenture",
     "url": "https://au.indeed.com/viewjob?jk=e102710561577363",
     "scraped_at": "2026-09-29T23:17:01.000806"
+  },
+  {
+    "title": "API & Platform Engineer - 12 Month Fixed Term Contract",
+    "company": "REST",
+    "url": "https://au.indeed.com/viewjob?jk=36d58c2248f41751",
+    "scraped_at": "2026-09-30T03:01:32.018937"
+  },
+  {
+    "title": "Application Security Engineer - CTEM, 12 Month Fixed Term Contract",
+    "company": "REST",
+    "url": "https://au.indeed.com/viewjob?jk=195253dc38445fb8",
+    "scraped_at": "2026-09-30T03:01:32.019845"
   }
 ]
