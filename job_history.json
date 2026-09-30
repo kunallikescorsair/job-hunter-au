@@ -1,17 +1,5 @@
 [
   {
-    "title": "Controls Engineer",
-    "company": "Equinix",
-    "url": "https://au.indeed.com/viewjob?jk=eb9443a969abb237",
-    "scraped_at": "2026-07-30T10:13:34.830796"
-  },
-  {
-    "title": "Tech Lead - Financial Services / Lending",
-    "company": "Bridgit",
-    "url": "https://au.indeed.com/viewjob?jk=b2e445ae750bc0b0",
-    "scraped_at": "2026-07-30T10:13:34.832217"
-  },
-  {
     "title": "Agentic AI Developer",
     "company": "Delivery Centric",
     "url": "https://au.indeed.com/viewjob?jk=389c658d6e64f218",
@@ -5998,5 +5986,17 @@
     "company": "Optus",
     "url": "https://au.indeed.com/viewjob?jk=492c217a7833e3cd",
     "scraped_at": "2026-09-30T10:06:18.486135"
+  },
+  {
+    "title": "Mid Level Business Analyst / Consultant (Asset Management & Power BI)",
+    "company": "powerdata group consulting",
+    "url": "https://au.indeed.com/viewjob?jk=36585c2901614c98",
+    "scraped_at": "2026-09-30T23:20:08.762093"
+  },
+  {
+    "title": "Sustainability Analyst",
+    "company": "JLL",
+    "url": "https://au.indeed.com/viewjob?jk=3c5350818d66affd",
+    "scraped_at": "2026-09-30T23:20:08.764601"
   }
 ]
