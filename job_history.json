@@ -1,29 +1,5 @@
 [
   {
-    "title": "Full Stack AI Engineer",
-    "company": "Industracom",
-    "url": "https://au.indeed.com/viewjob?jk=99c0c53de4cd57a8",
-    "scraped_at": "2026-07-31T01:54:01.895168"
-  },
-  {
-    "title": "eDiscovery Analyst",
-    "company": "Ashurst Perkins Coie",
-    "url": "https://au.indeed.com/viewjob?jk=1f7ce27bb7cbe7e3",
-    "scraped_at": "2026-07-31T01:54:01.902032"
-  },
-  {
-    "title": "DevOps Engineer (Google Cloud)",
-    "company": "NCS",
-    "url": "https://au.indeed.com/viewjob?jk=88a158b96160dfc0",
-    "scraped_at": "2026-07-31T06:37:16.914477"
-  },
-  {
-    "title": "Puppet Engineer",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=734e55429ede1243",
-    "scraped_at": "2026-07-31T06:37:16.915242"
-  },
-  {
     "title": "Data Integration Developer",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=47f388bf470e24e0",
@@ -5998,5 +5974,29 @@
     "company": "Resmed",
     "url": "https://au.indeed.com/viewjob?jk=c385c79bf3f9afe9",
     "scraped_at": "2026-10-01T10:34:40.420198"
+  },
+  {
+    "title": "Expression of Interests: Data Center Asset Engineer (6-month contract)",
+    "company": "CBRE",
+    "url": "https://au.indeed.com/viewjob?jk=70c69c561e7ccbc8",
+    "scraped_at": "2026-10-01T17:43:55.226818"
+  },
+  {
+    "title": "IT Business Analyst",
+    "company": "Johnson Controls",
+    "url": "https://au.indeed.com/viewjob?jk=07e4d835df93d405",
+    "scraped_at": "2026-10-01T17:43:55.230714"
+  },
+  {
+    "title": "Business & Systems Analyst",
+    "company": "PLENTI GROUP",
+    "url": "https://au.indeed.com/viewjob?jk=15cf58ab21903ad3",
+    "scraped_at": "2026-10-01T17:43:55.231422"
+  },
+  {
+    "title": "Red Hat Developer",
+    "company": "Accenture",
+    "url": "https://au.indeed.com/viewjob?jk=dc8c50f3af14c6de",
+    "scraped_at": "2026-10-01T17:43:55.244519"
   }
 ]
