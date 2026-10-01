@@ -1,23 +1,5 @@
 [
   {
-    "title": "Data Integration Developer",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=47f388bf470e24e0",
-    "scraped_at": "2026-07-31T06:37:16.916327"
-  },
-  {
-    "title": "Technical Escalations Engineer 2 (Revenue and Cost Management) - APJ",
-    "company": "Datadog",
-    "url": "https://au.indeed.com/viewjob?jk=883fa5b8053d63d4",
-    "scraped_at": "2026-07-31T06:37:16.920409"
-  },
-  {
-    "title": "Systems Analyst",
-    "company": "BGL Management",
-    "url": "https://au.indeed.com/viewjob?jk=b496aeff9858e3b6",
-    "scraped_at": "2026-07-31T06:37:16.923804"
-  },
-  {
     "title": "Data Analyst",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=c6213ae7a5a4389e",
@@ -5998,5 +5980,23 @@
     "company": "Accenture",
     "url": "https://au.indeed.com/viewjob?jk=dc8c50f3af14c6de",
     "scraped_at": "2026-10-01T17:43:55.244519"
+  },
+  {
+    "title": "Software Engineer, Backend, Photos",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=34de02331ac2fa3e",
+    "scraped_at": "2026-10-01T23:34:37.099477"
+  },
+  {
+    "title": "Automation Tester",
+    "company": "EY",
+    "url": "https://au.indeed.com/viewjob?jk=94f242ade8892354",
+    "scraped_at": "2026-10-01T23:34:37.117453"
+  },
+  {
+    "title": "Pricing Analyst",
+    "company": "NRI Australia",
+    "url": "https://au.indeed.com/viewjob?jk=8ee48ed523fabd68",
+    "scraped_at": "2026-10-01T23:34:37.119730"
   }
 ]
