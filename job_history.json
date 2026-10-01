@@ -1,17 +1,5 @@
 [
   {
-    "title": "Agentic AI Developer",
-    "company": "Delivery Centric",
-    "url": "https://au.indeed.com/viewjob?jk=389c658d6e64f218",
-    "scraped_at": "2026-07-30T10:13:34.837312"
-  },
-  {
-    "title": "Binance Accelerator Program - Data Scientist (KYB/KYC Ops), AI",
-    "company": "Binance",
-    "url": "https://au.indeed.com/viewjob?jk=21686b934080e24e",
-    "scraped_at": "2026-07-30T13:28:03.145240"
-  },
-  {
     "title": "Consultant, AI Engineer",
     "company": "NAB - National Australia Bank",
     "url": "https://au.indeed.com/viewjob?jk=eb05610dc707e50d",
@@ -5998,5 +5986,17 @@
     "company": "JLL",
     "url": "https://au.indeed.com/viewjob?jk=3c5350818d66affd",
     "scraped_at": "2026-09-30T23:20:08.764601"
+  },
+  {
+    "title": "GCP Data Engineer (Google Cloud)",
+    "company": "NCS",
+    "url": "https://au.indeed.com/viewjob?jk=d5555ecae2a6ece6",
+    "scraped_at": "2026-10-01T03:08:25.070164"
+  },
+  {
+    "title": "Technical Representative WA",
+    "company": "Axalta Coating Systems",
+    "url": "https://au.indeed.com/viewjob?jk=ba84e14385a2de1d",
+    "scraped_at": "2026-10-01T03:08:25.080578"
   }
 ]
