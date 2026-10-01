@@ -1,53 +1,5 @@
 [
   {
-    "title": "Consultant, AI Engineer",
-    "company": "NAB - National Australia Bank",
-    "url": "https://au.indeed.com/viewjob?jk=eb05610dc707e50d",
-    "scraped_at": "2026-07-30T13:28:03.157329"
-  },
-  {
-    "title": "Business Intelligence Delivery Lead",
-    "company": "Pickles Auctions",
-    "url": "https://au.indeed.com/viewjob?jk=3350b104b8656581",
-    "scraped_at": "2026-07-30T13:28:03.162055"
-  },
-  {
-    "title": "Freight Insights Visualisation Spec",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=1b22c8f290c6a54c",
-    "scraped_at": "2026-07-30T13:28:03.168160"
-  },
-  {
-    "title": "Security Systems Technician",
-    "company": "Johnson Controls",
-    "url": "https://au.indeed.com/viewjob?jk=3b74289d3cdba34e",
-    "scraped_at": "2026-07-30T17:15:34.013603"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=b1feefae3a417351",
-    "scraped_at": "2026-07-30T20:56:57.652299"
-  },
-  {
-    "title": "Analyst",
-    "company": "NSW Department of Communities and Justice",
-    "url": "https://au.indeed.com/viewjob?jk=a90c64a74059a18b",
-    "scraped_at": "2026-07-30T20:56:57.670418"
-  },
-  {
-    "title": "Commercial Analyst, Enterprise",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=b303760097d982eb",
-    "scraped_at": "2026-07-30T20:56:57.675345"
-  },
-  {
-    "title": "GCP Data Engineer (Google)",
-    "company": "NCS",
-    "url": "https://au.indeed.com/viewjob?jk=2feb20de89f458d4",
-    "scraped_at": "2026-07-31T01:54:01.889099"
-  },
-  {
     "title": "Full Stack AI Engineer",
     "company": "Industracom",
     "url": "https://au.indeed.com/viewjob?jk=99c0c53de4cd57a8",
@@ -5998,5 +5950,53 @@
     "company": "Axalta Coating Systems",
     "url": "https://au.indeed.com/viewjob?jk=ba84e14385a2de1d",
     "scraped_at": "2026-10-01T03:08:25.080578"
+  },
+  {
+    "title": "Forward Deployed Engineer",
+    "company": "Future Secure AI",
+    "url": "https://au.indeed.com/viewjob?jk=10fcc41663a32663",
+    "scraped_at": "2026-10-01T10:34:40.397326"
+  },
+  {
+    "title": "Forward Deployed Engineer",
+    "company": "Future Secure AI",
+    "url": "https://au.indeed.com/viewjob?jk=867510c27f915331",
+    "scraped_at": "2026-10-01T10:34:40.397904"
+  },
+  {
+    "title": "Information Security Risk Analyst - Consultant",
+    "company": "KPMG",
+    "url": "https://au.indeed.com/viewjob?jk=91d21d758c9f8d05",
+    "scraped_at": "2026-10-01T10:34:40.402210"
+  },
+  {
+    "title": "Quantitative Researcher",
+    "company": "Vivienne Court",
+    "url": "https://au.indeed.com/viewjob?jk=7bb6eec32a8384cd",
+    "scraped_at": "2026-10-01T10:34:40.402607"
+  },
+  {
+    "title": "Project Manager - Medium Voltage",
+    "company": "Eaton",
+    "url": "https://au.indeed.com/viewjob?jk=040aaff4bb54f30c",
+    "scraped_at": "2026-10-01T10:34:40.408155"
+  },
+  {
+    "title": "SOC Manager",
+    "company": "Sedgwick",
+    "url": "https://au.indeed.com/viewjob?jk=572f1e03517c9e98",
+    "scraped_at": "2026-10-01T10:34:40.410733"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Atlassian",
+    "url": "https://au.indeed.com/viewjob?jk=78cbda4f9106a0d7",
+    "scraped_at": "2026-10-01T10:34:40.412741"
+  },
+  {
+    "title": "Student Software Engineer",
+    "company": "Resmed",
+    "url": "https://au.indeed.com/viewjob?jk=c385c79bf3f9afe9",
+    "scraped_at": "2026-10-01T10:34:40.420198"
   }
 ]
