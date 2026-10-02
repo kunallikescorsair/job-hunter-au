@@ -1,41 +1,5 @@
 [
   {
-    "title": "Junior Data Scientist",
-    "company": "Blackwoods",
-    "url": "https://au.indeed.com/viewjob?jk=9fef2f94db3482f4",
-    "scraped_at": "2026-07-31T13:42:05.929605"
-  },
-  {
-    "title": "Commercial Excellence Manager",
-    "company": "Abbott",
-    "url": "https://au.indeed.com/viewjob?jk=12aaefb20e097aa0",
-    "scraped_at": "2026-07-31T13:42:05.936256"
-  },
-  {
-    "title": "Health Economics and Reimbursement Analyst",
-    "company": "Abbott",
-    "url": "https://au.indeed.com/viewjob?jk=736cfc7a2efa6706",
-    "scraped_at": "2026-07-31T13:42:05.937373"
-  },
-  {
-    "title": "Puppet Engineer",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=482b260f5e4c7c24",
-    "scraped_at": "2026-07-31T13:42:05.941690"
-  },
-  {
-    "title": "Network & Geospatial Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=f826368aa4045efe",
-    "scraped_at": "2026-07-31T13:42:05.947988"
-  },
-  {
-    "title": "Applications Analyst",
-    "company": "Baptistcare - WA",
-    "url": "https://au.indeed.com/viewjob?jk=9f7aed659a6402a0",
-    "scraped_at": "2026-07-31T13:42:05.952110"
-  },
-  {
     "title": "Applications Analyst",
     "company": "Baptist Care",
     "url": "https://au.indeed.com/viewjob?jk=b6357ff493c3aee8",
@@ -5998,5 +5962,41 @@
     "company": "CoStar Group",
     "url": "https://au.indeed.com/viewjob?jk=6e520ae423d17fe1",
     "scraped_at": "2026-10-02T10:09:33.959322"
+  },
+  {
+    "title": "Geospatial Data Scientist",
+    "company": "NSW Government",
+    "url": "https://au.indeed.com/viewjob?jk=a993388629ab47c0",
+    "scraped_at": "2026-10-02T17:03:15.348916"
+  },
+  {
+    "title": "Test Automation Engineer",
+    "company": "Bright & Duggan Property Group",
+    "url": "https://au.indeed.com/viewjob?jk=144186dad9a02e3a",
+    "scraped_at": "2026-10-02T17:03:15.363832"
+  },
+  {
+    "title": "Network Engineer",
+    "company": "Capgemini Engineering",
+    "url": "https://au.indeed.com/viewjob?jk=eff0b2f5e7895d3d",
+    "scraped_at": "2026-10-02T17:03:15.365277"
+  },
+  {
+    "title": "Site Reliability Engineer - Video Platform",
+    "company": "TikTok USDS JV",
+    "url": "https://au.indeed.com/viewjob?jk=f671a9b0052fb098",
+    "scraped_at": "2026-10-02T17:03:15.368939"
+  },
+  {
+    "title": "Quality Engineering Analyst (Sentral)",
+    "company": "Global Payments",
+    "url": "https://au.indeed.com/viewjob?jk=8a074dae12c26e71",
+    "scraped_at": "2026-10-02T17:03:15.376638"
+  },
+  {
+    "title": "Security Partner for Oceania",
+    "company": "Global Payments",
+    "url": "https://au.indeed.com/viewjob?jk=dcda9e3add063cf7",
+    "scraped_at": "2026-10-02T17:03:15.378273"
   }
 ]
