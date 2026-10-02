@@ -1,11 +1,5 @@
 [
   {
-    "title": "Data Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=c6213ae7a5a4389e",
-    "scraped_at": "2026-07-31T06:37:16.924736"
-  },
-  {
     "title": "Product Analyst TfNSW Grade 7",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=89ad27467f16c91f",
@@ -5998,5 +5992,11 @@
     "company": "NRI Australia",
     "url": "https://au.indeed.com/viewjob?jk=8ee48ed523fabd68",
     "scraped_at": "2026-10-01T23:34:37.119730"
+  },
+  {
+    "title": "Product Engineer",
+    "company": "EQ8",
+    "url": "https://au.indeed.com/viewjob?jk=3e96a3cc289d139b",
+    "scraped_at": "2026-10-02T03:10:13.730793"
   }
 ]
