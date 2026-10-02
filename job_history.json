@@ -1,53 +1,5 @@
 [
   {
-    "title": "Product Analyst TfNSW Grade 7",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=89ad27467f16c91f",
-    "scraped_at": "2026-07-31T06:37:16.925443"
-  },
-  {
-    "title": "Mid-Level Project Manager",
-    "company": "EML",
-    "url": "https://au.indeed.com/viewjob?jk=b6f5bb2462878a9e",
-    "scraped_at": "2026-07-31T06:37:16.929740"
-  },
-  {
-    "title": "Planner",
-    "company": "Acciona",
-    "url": "https://au.indeed.com/viewjob?jk=986478269b0e96d7",
-    "scraped_at": "2026-07-31T06:37:16.932306"
-  },
-  {
-    "title": "Customer Solutions Engineer",
-    "company": "Macquarie Technology Group",
-    "url": "https://au.indeed.com/viewjob?jk=20706ee336d78c5a",
-    "scraped_at": "2026-07-31T06:37:16.933135"
-  },
-  {
-    "title": "Scientist",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=0b7affccdc0561db",
-    "scraped_at": "2026-07-31T10:29:02.016210"
-  },
-  {
-    "title": "Regulatory Reporting Analyst",
-    "company": "TabCorp Holdings",
-    "url": "https://au.indeed.com/viewjob?jk=5d61bfb9fed35e2e",
-    "scraped_at": "2026-07-31T10:29:02.026692"
-  },
-  {
-    "title": "Functional Test Engineer",
-    "company": "Duxxel",
-    "url": "https://au.indeed.com/viewjob?jk=574ef85d93a40e48",
-    "scraped_at": "2026-07-31T10:29:02.029273"
-  },
-  {
-    "title": "Automation Engineer \u2013 Data Platform",
-    "company": "Duxxel",
-    "url": "https://au.indeed.com/viewjob?jk=113b00686eeffa21",
-    "scraped_at": "2026-07-31T10:29:02.031642"
-  },
-  {
     "title": "Junior Data Scientist",
     "company": "Blackwoods",
     "url": "https://au.indeed.com/viewjob?jk=9fef2f94db3482f4",
@@ -5998,5 +5950,53 @@
     "company": "EQ8",
     "url": "https://au.indeed.com/viewjob?jk=3e96a3cc289d139b",
     "scraped_at": "2026-10-02T03:10:13.730793"
+  },
+  {
+    "title": "Software Engineer (Frontend)",
+    "company": "DTN",
+    "url": "https://au.indeed.com/viewjob?jk=62e9afdbe6982cc9",
+    "scraped_at": "2026-10-02T10:09:33.944209"
+  },
+  {
+    "title": "Lead Fiber Optical Gyroscope Engineer - Sydney based, Australia",
+    "company": "Advanced Navigation",
+    "url": "https://au.indeed.com/viewjob?jk=54a97f4e251c5b85",
+    "scraped_at": "2026-10-02T10:09:33.944748"
+  },
+  {
+    "title": "Assembly Technician - Fiber Optical assembly",
+    "company": "Advanced Navigation",
+    "url": "https://au.indeed.com/viewjob?jk=23941c9b8bc87df4",
+    "scraped_at": "2026-10-02T10:09:33.945549"
+  },
+  {
+    "title": "Binance Accelerator Program - Backend Engineer, Pay & Card",
+    "company": "Binance",
+    "url": "https://au.indeed.com/viewjob?jk=a0eef99c06dc0c9d",
+    "scraped_at": "2026-10-02T10:09:33.946737"
+  },
+  {
+    "title": "Equity Research \u2013 Analyst/Associate, Australia Non-Bank Financials Team (Sydney)",
+    "company": "Morgan Stanley",
+    "url": "https://au.indeed.com/viewjob?jk=68d9975c79298452",
+    "scraped_at": "2026-10-02T10:09:33.952329"
+  },
+  {
+    "title": "Service Improvement Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=1125be99b2d91aad",
+    "scraped_at": "2026-10-02T10:09:33.953045"
+  },
+  {
+    "title": "Finance Analyst WAN",
+    "company": "George Weston Foods",
+    "url": "https://au.indeed.com/viewjob?jk=5482d6a5b2acf774",
+    "scraped_at": "2026-10-02T10:09:33.957670"
+  },
+  {
+    "title": "Software Engineer - Trade Platform",
+    "company": "CoStar Group",
+    "url": "https://au.indeed.com/viewjob?jk=6e520ae423d17fe1",
+    "scraped_at": "2026-10-02T10:09:33.959322"
   }
 ]
