@@ -34,21 +34,21 @@ def get_jobs_in_range(days=14):
     
     recent_jobs = []
     for entry in history:
-        if 'timestamp' in entry and 'job_key' in entry:
-            try:
-                job_time = datetime.fromisoformat(entry["timestamp"])
-                if job_time >= cutoff_date:
-                    job_details = entry['job_key'].split('|')
-                    if len(job_details) == 3:
-                        recent_jobs.append({
-                            "title": job_details[0],
-                            "company": job_details[1],
-                            "location": job_details[2],
-                            "timestamp": entry["timestamp"]
-                        })
-            except (ValueError, TypeError):
-                continue # Skip jobs with invalid timestamps
-            
+        ts = entry.get("scraped_at") or entry.get("timestamp")
+        if not ts:
+            continue
+        try:
+            job_time = datetime.fromisoformat(ts)
+        except (ValueError, TypeError):
+            continue  # Skip jobs with invalid timestamps
+        if job_time >= cutoff_date:
+            recent_jobs.append({
+                "title": entry.get("title", "Unknown"),
+                "company": entry.get("company", "Unknown"),
+                "location": entry.get("location") or "Unknown",
+                "timestamp": ts
+            })
+
     return recent_jobs
 
 def get_job_stats(days=14):
