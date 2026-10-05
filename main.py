@@ -54,6 +54,10 @@ def save_history(history):
     with open(HISTORY_FILE, "w") as f:
         json.dump(history[-1000:], f, indent=2)
 
+def escape_md(text):
+    """Escape characters that break Telegram's legacy Markdown parser."""
+    return re.sub(r"([_*`\[])", r"\\\1", str(text))
+
 def send_telegram(message):
     """
     Send a message to all configured Telegram chat IDs.
@@ -217,6 +221,9 @@ def run_scraper():
         if not matches_keywords(full_text, config.REQUIRED_KEYWORDS):
             continue
 
+        safe_title, safe_company = escape_md(title), escape_md(company)
+        safe_location = escape_md(location.title())
+
         # Step 5: Determine job location type
         location_text = description + " " + location
         is_sydney = matches_keywords(location, config.SYDNEY_LOCATION_TERMS)
@@ -230,15 +237,15 @@ def run_scraper():
         # - Other locations: skip
 
         if is_sydney and is_hybrid:
-            formatted = f"*{title}*\n🏢 {company}\n📍 {location.title()} (Hybrid)\n🔗 [Apply Here]({job_url})"
+            formatted = f"*{safe_title}*\n🏢 {safe_company}\n📍 {safe_location} (Hybrid)\n🔗 [Apply Here]({job_url})"
             hybrid_jobs.append(formatted)
 
         elif is_sydney:
-            formatted = f"*{title}*\n🏢 {company}\n📍 {location.title()}\n🔗 [Apply Here]({job_url})"
+            formatted = f"*{safe_title}*\n🏢 {safe_company}\n📍 {safe_location}\n🔗 [Apply Here]({job_url})"
             sydney_jobs.append(formatted)
 
         elif is_remote:
-            formatted = f"*{title}*\n🏢 {company}\n📍 {location.title()} (Remote)\n🔗 [Apply Here]({job_url})"
+            formatted = f"*{safe_title}*\n🏢 {safe_company}\n📍 {safe_location} (Remote)\n🔗 [Apply Here]({job_url})"
             remote_jobs.append(formatted)
 
         else:
