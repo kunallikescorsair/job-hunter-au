@@ -1,11 +1,5 @@
 [
   {
-    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-    "company": "Databricks",
-    "url": "https://au.indeed.com/viewjob?jk=9ef9c623922387ca",
-    "scraped_at": "2026-07-31T17:20:21.794162"
-  },
-  {
     "title": "2027 | APEJ | Sydney | Engineering | Summer Analyst",
     "company": "Goldman Sachs",
     "url": "https://au.indeed.com/viewjob?jk=8147f987f9591970",
@@ -5998,5 +5992,11 @@
     "company": "Qube Research & Technologies",
     "url": "https://au.indeed.com/viewjob?jk=d01960db8b3e0df6",
     "scraped_at": "2026-10-05T03:04:08.898926"
+  },
+  {
+    "title": "Technical Lead Manager, FDE",
+    "company": "Veeam Software",
+    "url": "https://au.indeed.com/viewjob?jk=93f7525da78419b5",
+    "scraped_at": "2026-10-05T10:59:41.052107"
   }
 ]
