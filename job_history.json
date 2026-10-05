@@ -1,11 +1,5 @@
 [
   {
-    "title": "Applications Analyst",
-    "company": "Baptist Care",
-    "url": "https://au.indeed.com/viewjob?jk=b6357ff493c3aee8",
-    "scraped_at": "2026-07-31T13:42:05.953523"
-  },
-  {
     "title": "AI Engineer - FDE (Forward Deployed Engineer)",
     "company": "Databricks",
     "url": "https://au.indeed.com/viewjob?jk=9ef9c623922387ca",
@@ -5998,5 +5992,11 @@
     "company": "Global Payments",
     "url": "https://au.indeed.com/viewjob?jk=dcda9e3add063cf7",
     "scraped_at": "2026-10-02T17:03:15.378273"
+  },
+  {
+    "title": "Quantitative Researcher",
+    "company": "Qube Research & Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=d01960db8b3e0df6",
+    "scraped_at": "2026-10-05T03:04:08.898926"
   }
 ]
