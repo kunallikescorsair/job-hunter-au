@@ -98,8 +98,9 @@ def send_telegram_chunks(header, jobs, chunk_size=8):
     This avoids Telegram message length limits and Markdown failures.
     """
     if not jobs:
-        return
+        return True
 
+    ok = True
     total = len(jobs)
 
     for start in range(0, total, chunk_size):
@@ -112,8 +113,10 @@ def send_telegram_chunks(header, jobs, chunk_size=8):
             + "\n\n".join(chunk_jobs)
         )
 
-        send_telegram(message)
+        ok = send_telegram(message) and ok
         time.sleep(1)
+
+    return ok
 
 def matches_keywords(text, keywords):
     """
@@ -262,23 +265,27 @@ def run_scraper():
     if all_jobs_to_alert:
         logger.info(f"💌 Sending {len(all_jobs_to_alert)} alerts...")
         intro = f"👋 *Found {len(all_jobs_to_alert)} new jobs for you!*"
-        send_telegram(intro)
+        sent_ok = send_telegram(intro)
         
         # Send alerts by category
         # Send alerts by category in smaller chunks
         if sydney_jobs:
-            send_telegram_chunks("🏙️ *NEW SYDNEY JOBS*", sydney_jobs, chunk_size=8)
+            sent_ok = send_telegram_chunks("🏙️ *NEW SYDNEY JOBS*", sydney_jobs, chunk_size=8) and sent_ok
 
         if hybrid_jobs:
-            send_telegram_chunks("🏢 *NEW HYBRID JOBS*", hybrid_jobs, chunk_size=8)
+            sent_ok = send_telegram_chunks("🏢 *NEW HYBRID JOBS*", hybrid_jobs, chunk_size=8) and sent_ok
 
         if remote_jobs:
-            send_telegram_chunks("🌏 *NEW REMOTE JOBS*", remote_jobs, chunk_size=8)
+            sent_ok = send_telegram_chunks("🌏 *NEW REMOTE JOBS*", remote_jobs, chunk_size=8) and sent_ok
             
-        # Step 8: Update job history
-        history.extend(new_history_entries)
-        save_history(history)
-        logger.info("💾 History updated.")
+        # Step 8: Update job history only if every alert was delivered,
+        # so failed alerts are retried on the next run
+        if sent_ok:
+            history.extend(new_history_entries)
+            save_history(history)
+            logger.info("💾 History updated.")
+        else:
+            logger.warning("⚠️ Some alerts failed; history not updated so they retry next run.")
     else:
         logger.info("😴 No new matching jobs found.")
 
