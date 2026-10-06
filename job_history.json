@@ -1,41 +1,5 @@
 [
   {
-    "title": "Technical Engagement Specialist",
-    "company": "Advanced Navigation",
-    "url": "https://au.indeed.com/viewjob?jk=73325be4258d4aa9",
-    "scraped_at": "2026-08-03T06:52:01.756505"
-  },
-  {
-    "title": "Software Engineer (Model Deployment)",
-    "company": "CoreFlow",
-    "url": "https://au.indeed.com/viewjob?jk=a26dc4e99efa48be",
-    "scraped_at": "2026-08-03T06:52:01.759285"
-  },
-  {
-    "title": "Data Insights Analyst",
-    "company": "Mission Australia",
-    "url": "https://au.indeed.com/viewjob?jk=69da830b7716833e",
-    "scraped_at": "2026-08-03T06:52:01.762536"
-  },
-  {
-    "title": "Actuarial Consulting Intern",
-    "company": "Mercer",
-    "url": "https://au.indeed.com/viewjob?jk=ed933f7050f5c5b1",
-    "scraped_at": "2026-08-03T06:52:01.764343"
-  },
-  {
-    "title": "Postdoctoral Research Associate in Spatial Omics, Artificial Intelligence and Computational Pathology",
-    "company": "University of Sydney",
-    "url": "https://au.indeed.com/viewjob?jk=c8ba8a9897e7163b",
-    "scraped_at": "2026-08-03T11:13:44.309822"
-  },
-  {
-    "title": "Postdoctoral Research Associate in Spatial Omics and Statistical Data Science",
-    "company": "University of Sydney",
-    "url": "https://au.indeed.com/viewjob?jk=c10528425fa13cf3",
-    "scraped_at": "2026-08-03T11:13:44.310618"
-  },
-  {
     "title": "PhD Graduate Machine Learning Engineer Graduate, Trust and Safety Engineering - 2026 Start",
     "company": "TikTok",
     "url": "https://au.indeed.com/viewjob?jk=bc33ef99479ef2f9",
@@ -5998,5 +5962,41 @@
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=19c5ebf2e5a3e813",
     "scraped_at": "2026-10-06T10:54:28.775097"
+  },
+  {
+    "title": "Machine Learning Engineer Graduate (Trust and Safety Engineering) - 2027 Start (BS/MS)",
+    "company": "TikTok",
+    "url": "https://au.indeed.com/viewjob?jk=be440c688971c4c0",
+    "scraped_at": "2026-10-06T17:36:51.913804"
+  },
+  {
+    "title": "Commercial Finance Analyst",
+    "company": "News Corp",
+    "url": "https://au.indeed.com/viewjob?jk=d30fb6270bf8159c",
+    "scraped_at": "2026-10-06T17:36:51.925571"
+  },
+  {
+    "title": "Sales Specialist, Business Application Platform, Google Cloud",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=558405ed487b37af",
+    "scraped_at": "2026-10-06T17:36:51.933347"
+  },
+  {
+    "title": "Game Artist & Animator",
+    "company": "PLAYTECH",
+    "url": "https://au.indeed.com/viewjob?jk=27d8d562ad0992fd",
+    "scraped_at": "2026-10-06T17:36:51.934158"
+  },
+  {
+    "title": "Game Artist & Animator",
+    "company": "PLAYTECH",
+    "url": "https://au.indeed.com/viewjob?jk=441e5faad11f0412",
+    "scraped_at": "2026-10-06T17:36:51.934890"
+  },
+  {
+    "title": "Game Artist & Animator",
+    "company": "PLAYTECH",
+    "url": "https://au.indeed.com/viewjob?jk=30ab4ea319548e8b",
+    "scraped_at": "2026-10-06T17:36:51.935610"
   }
 ]
