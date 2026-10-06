@@ -1,65 +1,5 @@
 [
   {
-    "title": "2027 | APEJ | Sydney | Engineering | Summer Analyst",
-    "company": "Goldman Sachs",
-    "url": "https://au.indeed.com/viewjob?jk=8147f987f9591970",
-    "scraped_at": "2026-07-31T17:20:21.794564"
-  },
-  {
-    "title": "Machine Learning Engineer Graduate (Trust and Safety Engineering) - 2027 Start (BS/MS)",
-    "company": "TikTok",
-    "url": "https://au.indeed.com/viewjob?jk=be440c688971c4c0",
-    "scraped_at": "2026-07-31T17:20:21.795353"
-  },
-  {
-    "title": "Software Engineer - AI Automation",
-    "company": "Ericsson",
-    "url": "https://au.indeed.com/viewjob?jk=515087110d24595e",
-    "scraped_at": "2026-07-31T17:20:21.796991"
-  },
-  {
-    "title": "Business Analyst (Graduate)",
-    "company": "Pharmacare group",
-    "url": "https://au.indeed.com/viewjob?jk=d1ccff70f7d44045",
-    "scraped_at": "2026-07-31T17:20:21.804354"
-  },
-  {
-    "title": "Global Advisory & Markets, Synthetics Products Group Engineer, Associate, Sydney",
-    "company": "Goldman Sachs",
-    "url": "https://au.indeed.com/viewjob?jk=9c5b690ab5d3b8c6",
-    "scraped_at": "2026-07-31T20:54:42.720958"
-  },
-  {
-    "title": "Treasury Operations Analyst (6 months contract)",
-    "company": "MAREX",
-    "url": "https://au.indeed.com/viewjob?jk=ca10f42c861077ef",
-    "scraped_at": "2026-07-31T20:54:42.734384"
-  },
-  {
-    "title": "Snr Specialist Cyber Insights &Analytics",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=75af85931a0722c5",
-    "scraped_at": "2026-08-01T09:50:14.031286"
-  },
-  {
-    "title": "PMO Analyst",
-    "company": "Dnata",
-    "url": "https://au.indeed.com/viewjob?jk=f3bff11553b11e50",
-    "scraped_at": "2026-08-01T20:40:48.774413"
-  },
-  {
-    "title": "Actuarial System Analyst",
-    "company": "TAL",
-    "url": "https://au.indeed.com/viewjob?jk=67cb23c5d30e18c7",
-    "scraped_at": "2026-08-03T01:54:07.342247"
-  },
-  {
-    "title": "Product Marketing Manager",
-    "company": "Heidi",
-    "url": "https://au.indeed.com/viewjob?jk=9ff083490486e54b",
-    "scraped_at": "2026-08-03T06:52:01.755426"
-  },
-  {
     "title": "Technical Engagement Specialist",
     "company": "Advanced Navigation",
     "url": "https://au.indeed.com/viewjob?jk=73325be4258d4aa9",
@@ -5998,5 +5938,65 @@
     "company": "Veeam Software",
     "url": "https://au.indeed.com/viewjob?jk=93f7525da78419b5",
     "scraped_at": "2026-10-05T10:59:41.052107"
+  },
+  {
+    "title": "System Engineer (Decision Support, Real Time)",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=39d44715c3b135c7",
+    "scraped_at": "2026-10-06T10:54:28.763475"
+  },
+  {
+    "title": "Commercial & Investment Bank - Rates Trading - Analyst, Sydney",
+    "company": "JPMorganChase",
+    "url": "https://au.indeed.com/viewjob?jk=983f9195bbbd558a",
+    "scraped_at": "2026-10-06T10:54:28.764078"
+  },
+  {
+    "title": "Business Test Analyst",
+    "company": "BNP Paribas",
+    "url": "https://au.indeed.com/viewjob?jk=7aa5d2b6db2bca12",
+    "scraped_at": "2026-10-06T10:54:28.764734"
+  },
+  {
+    "title": "Associate Business Analyst - Feeds",
+    "company": "HUB24",
+    "url": "https://au.indeed.com/viewjob?jk=25480092139ab339",
+    "scraped_at": "2026-10-06T10:54:28.765407"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Built Holdings",
+    "url": "https://au.indeed.com/viewjob?jk=dbaeb21336c2b05d",
+    "scraped_at": "2026-10-06T10:54:28.765963"
+  },
+  {
+    "title": "Solutions Consultant Sydney (ANZ)",
+    "company": "Braze",
+    "url": "https://au.indeed.com/viewjob?jk=ec73dd044cddd61b",
+    "scraped_at": "2026-10-06T10:54:28.770112"
+  },
+  {
+    "title": "Project Assistant Officer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=b0c1a631edd3612d",
+    "scraped_at": "2026-10-06T10:54:28.771005"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=33b4799c5351ff31",
+    "scraped_at": "2026-10-06T10:54:28.771487"
+  },
+  {
+    "title": "Applications Analyst",
+    "company": "Baptist Care",
+    "url": "https://au.indeed.com/viewjob?jk=ef0975e34188676d",
+    "scraped_at": "2026-10-06T10:54:28.772466"
+  },
+  {
+    "title": "Technical Infrastructure Program Manager, Global Network Delivery",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=19c5ebf2e5a3e813",
+    "scraped_at": "2026-10-06T10:54:28.775097"
   }
 ]
