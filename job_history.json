@@ -1,41 +1,5 @@
 [
   {
-    "title": "Commercial Solutions Sales Executive (Sydney) - Cyber Security",
-    "company": "OpenText",
-    "url": "https://au.indeed.com/viewjob?jk=c5ac9ec7c7224c20",
-    "scraped_at": "2026-08-03T11:13:44.322196"
-  },
-  {
-    "title": "Civil Engineering draftsperson",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=1edf532567b1b04e",
-    "scraped_at": "2026-08-03T11:13:44.336067"
-  },
-  {
-    "title": "Network Development Engineer",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=8c16433f8678348c",
-    "scraped_at": "2026-08-03T11:13:44.337520"
-  },
-  {
-    "title": ".Net Developer",
-    "company": "Employment Hero",
-    "url": "https://au.indeed.com/viewjob?jk=70c9d02ba77d1f07",
-    "scraped_at": "2026-08-03T17:43:14.195020"
-  },
-  {
-    "title": "Java Platform Performance Engineer (Performance Optimization)",
-    "company": "Binance",
-    "url": "https://au.indeed.com/viewjob?jk=7b1a5cf352ed68c8",
-    "scraped_at": "2026-08-03T20:55:31.513755"
-  },
-  {
-    "title": "Services Sales Manager",
-    "company": "OutSystems",
-    "url": "https://au.indeed.com/viewjob?jk=840a6f3b600ecd75",
-    "scraped_at": "2026-08-03T20:55:31.531936"
-  },
-  {
     "title": "Category Implementation Manager",
     "company": "Endeavour Group",
     "url": "https://au.indeed.com/viewjob?jk=b2338b763379d42e",
@@ -5998,5 +5962,41 @@
     "company": "Employment Hero",
     "url": "https://au.indeed.com/viewjob?jk=b63755f4d67cc5bc",
     "scraped_at": "2026-10-06T23:27:18.453851"
+  },
+  {
+    "title": "Tech Lead Manager - Experience Platform",
+    "company": "Neara",
+    "url": "https://au.indeed.com/viewjob?jk=7b6068dd0ec89f11",
+    "scraped_at": "2026-10-07T03:21:00.757005"
+  },
+  {
+    "title": "PhD Graduate Machine Learning Engineer Graduate, Trust and Safety Engineering - 2026 Start",
+    "company": "TikTok",
+    "url": "https://au.indeed.com/viewjob?jk=bc33ef99479ef2f9",
+    "scraped_at": "2026-10-07T03:21:00.760425"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Immutable",
+    "url": "https://au.indeed.com/viewjob?jk=6357949a30927525",
+    "scraped_at": "2026-10-07T03:21:00.761910"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Evse",
+    "url": "https://au.indeed.com/viewjob?jk=6fca1cef85296911",
+    "scraped_at": "2026-10-07T03:21:00.777839"
+  },
+  {
+    "title": "Quality Engineer",
+    "company": "Built Holdings",
+    "url": "https://au.indeed.com/viewjob?jk=494d1e9944d97d64",
+    "scraped_at": "2026-10-07T03:21:00.780847"
+  },
+  {
+    "title": "Sustainability and Social Impact Coordinator",
+    "company": "Built Holdings",
+    "url": "https://au.indeed.com/viewjob?jk=34c7b33aaae57258",
+    "scraped_at": "2026-10-07T03:21:00.782423"
   }
 ]
