@@ -1,11 +1,5 @@
 [
   {
-    "title": "Field Medical Team Lead",
-    "company": "Pfizer",
-    "url": "https://au.indeed.com/viewjob?jk=c70257ba2b59bf5d",
-    "scraped_at": "2026-08-04T13:48:42.634032"
-  },
-  {
     "title": "Solution Analyst",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=c48176c815422bef",
@@ -5998,5 +5992,11 @@
     "company": "DHI Group",
     "url": "https://au.indeed.com/viewjob?jk=99ae2bd188a4a3bc",
     "scraped_at": "2026-10-07T18:08:41.018368"
+  },
+  {
+    "title": "Software Engineer (Lead Developer) - ANZSCO 261313",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=b38a376693007844",
+    "scraped_at": "2026-10-07T23:56:30.155943"
   }
 ]
