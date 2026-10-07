@@ -1,17 +1,5 @@
 [
   {
-    "title": "Lead Application Support Engineer",
-    "company": "SS&C",
-    "url": "https://au.indeed.com/viewjob?jk=75f30245fe36cc32",
-    "scraped_at": "2026-08-04T10:27:40.852007"
-  },
-  {
-    "title": "Financial Crime Data Analyst",
-    "company": "Neuronimbus Digital Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=5472f96035fd8889",
-    "scraped_at": "2026-08-04T10:27:40.855874"
-  },
-  {
     "title": "Field Medical Team Lead",
     "company": "Pfizer",
     "url": "https://au.indeed.com/viewjob?jk=c70257ba2b59bf5d",
@@ -5998,5 +5986,17 @@
     "company": "Dematic",
     "url": "https://au.indeed.com/viewjob?jk=d9463bc288f55f2e",
     "scraped_at": "2026-10-07T10:42:16.382208"
+  },
+  {
+    "title": "Group Product Manager, Google Photos Organization and Sharing",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=74aba36e89bfab7a",
+    "scraped_at": "2026-10-07T18:08:41.013369"
+  },
+  {
+    "title": "Decision Support Systems Engineer",
+    "company": "DHI Group",
+    "url": "https://au.indeed.com/viewjob?jk=99ae2bd188a4a3bc",
+    "scraped_at": "2026-10-07T18:08:41.018368"
   }
 ]
