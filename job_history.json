@@ -1,47 +1,5 @@
 [
   {
-    "title": "Category Implementation Manager",
-    "company": "Endeavour Group",
-    "url": "https://au.indeed.com/viewjob?jk=b2338b763379d42e",
-    "scraped_at": "2026-08-04T01:28:54.059397"
-  },
-  {
-    "title": "Technical Business Analyst",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=6b39bfb09ecbcd0d",
-    "scraped_at": "2026-08-04T06:20:20.051021"
-  },
-  {
-    "title": "Lead EBIP Engineer",
-    "company": "Cognizant",
-    "url": "https://au.indeed.com/viewjob?jk=7e47e79466390a26",
-    "scraped_at": "2026-08-04T06:20:20.052926"
-  },
-  {
-    "title": "Quality Engineering Analyst (Sentral)",
-    "company": "Global Payments",
-    "url": "https://au.indeed.com/viewjob?jk=6ce44d462ba366b5",
-    "scraped_at": "2026-08-04T06:20:20.055957"
-  },
-  {
-    "title": "Account Executive",
-    "company": "Modo Energy",
-    "url": "https://au.indeed.com/viewjob?jk=550bb3924695ddb0",
-    "scraped_at": "2026-08-04T06:20:20.056572"
-  },
-  {
-    "title": "HR Systems & Reporting Specialist (SAP SuccessFactors)",
-    "company": "WaterNSW",
-    "url": "https://au.indeed.com/viewjob?jk=508d98a7667b8b00",
-    "scraped_at": "2026-08-04T06:20:20.059251"
-  },
-  {
-    "title": "Category Implementation Manager",
-    "company": "Endeavour Group",
-    "url": "https://au.indeed.com/viewjob?jk=482ecfefa07373bf",
-    "scraped_at": "2026-08-04T06:20:20.064762"
-  },
-  {
     "title": "Lead Application Support Engineer",
     "company": "SS&C",
     "url": "https://au.indeed.com/viewjob?jk=75f30245fe36cc32",
@@ -5998,5 +5956,47 @@
     "company": "Built Holdings",
     "url": "https://au.indeed.com/viewjob?jk=34c7b33aaae57258",
     "scraped_at": "2026-10-07T03:21:00.782423"
+  },
+  {
+    "title": "Digital Innovations Engineer",
+    "company": "Endeavour Energy",
+    "url": "https://au.indeed.com/viewjob?jk=a66c8d132f3d1cf5",
+    "scraped_at": "2026-10-07T10:42:16.357361"
+  },
+  {
+    "title": "Strategic Technical Product Manager",
+    "company": "Marsh",
+    "url": "https://au.indeed.com/viewjob?jk=8e68f519e793cdd5",
+    "scraped_at": "2026-10-07T10:42:16.358432"
+  },
+  {
+    "title": "Software Engineer (Lead Developer) - ANZSCO 261313",
+    "company": "nan",
+    "url": "https://au.indeed.com/viewjob?jk=9013b93a524ba384",
+    "scraped_at": "2026-10-07T10:42:16.359033"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "NTT DATA",
+    "url": "https://au.indeed.com/viewjob?jk=7d89cea89295ba69",
+    "scraped_at": "2026-10-07T10:42:16.369971"
+  },
+  {
+    "title": "Associate Product Manager - Digital",
+    "company": "Eco Outdoor",
+    "url": "https://au.indeed.com/viewjob?jk=c1353b367c54d36f",
+    "scraped_at": "2026-10-07T10:42:16.376300"
+  },
+  {
+    "title": "Engineering Assistant - Internship",
+    "company": "City of Ryde",
+    "url": "https://au.indeed.com/viewjob?jk=cdb5b3027aa8f68a",
+    "scraped_at": "2026-10-07T10:42:16.379643"
+  },
+  {
+    "title": "Quality Engineer - Automated Warehousing / DC",
+    "company": "Dematic",
+    "url": "https://au.indeed.com/viewjob?jk=d9463bc288f55f2e",
+    "scraped_at": "2026-10-07T10:42:16.382208"
   }
 ]
