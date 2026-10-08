@@ -1,47 +1,5 @@
 [
   {
-    "title": "Solution Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=c48176c815422bef",
-    "scraped_at": "2026-08-04T13:48:42.645227"
-  },
-  {
-    "title": "Practice Customer Engineer, Application Modernization",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=64227b8eca3fc611",
-    "scraped_at": "2026-08-04T17:29:08.650641"
-  },
-  {
-    "title": "Sustainability Specialist",
-    "company": "John Holland",
-    "url": "https://au.indeed.com/viewjob?jk=7fdbd59385bc42b7",
-    "scraped_at": "2026-08-04T17:29:08.659743"
-  },
-  {
-    "title": "Group Manager Environment & Sustainability",
-    "company": "John Holland",
-    "url": "https://au.indeed.com/viewjob?jk=f0c6ed504fc2380c",
-    "scraped_at": "2026-08-04T17:29:08.660757"
-  },
-  {
-    "title": "Technical Program Manager, Global Network Delivery, DCNet Delivery",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=002001a010fef74a",
-    "scraped_at": "2026-08-05T01:43:03.034204"
-  },
-  {
-    "title": "Automation Engineer",
-    "company": "NTT DATA",
-    "url": "https://au.indeed.com/viewjob?jk=33e3d2aa8362d9ac",
-    "scraped_at": "2026-08-05T01:43:03.036007"
-  },
-  {
-    "title": "Commercial Finance Analyst",
-    "company": "George Weston Foods",
-    "url": "https://au.indeed.com/viewjob?jk=2b94f66706636975",
-    "scraped_at": "2026-08-05T06:20:14.879025"
-  },
-  {
     "title": "Software Engineer (AI / Full Stack)",
     "company": "Avreo",
     "url": "https://au.indeed.com/viewjob?jk=15096185ead44e79",
@@ -5998,5 +5956,47 @@
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=b38a376693007844",
     "scraped_at": "2026-10-07T23:56:30.155943"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "DoorDash ANZ",
+    "url": "https://au.indeed.com/viewjob?jk=b90608d8f15fe6e8",
+    "scraped_at": "2026-10-08T03:49:25.309626"
+  },
+  {
+    "title": "Lead System Engineer",
+    "company": "Kapsch TrafficCom AG",
+    "url": "https://au.indeed.com/viewjob?jk=fa30f027e136e156",
+    "scraped_at": "2026-10-08T03:49:25.321024"
+  },
+  {
+    "title": "Corporate Strategy & Financial Analyst",
+    "company": "Pet Circle",
+    "url": "https://au.indeed.com/viewjob?jk=ffb3d5fcf39b142d",
+    "scraped_at": "2026-10-08T03:49:25.333733"
+  },
+  {
+    "title": "Group Manager-Analytics",
+    "company": "WNS Global Services",
+    "url": "https://au.indeed.com/viewjob?jk=88627b7c11acbb64",
+    "scraped_at": "2026-10-08T03:49:25.334414"
+  },
+  {
+    "title": "WCM (Process Engineer)",
+    "company": "CSR",
+    "url": "https://au.indeed.com/viewjob?jk=91f98d042d1fee7e",
+    "scraped_at": "2026-10-08T03:49:25.337932"
+  },
+  {
+    "title": "Application Support Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=836fb154c4ecc6fe",
+    "scraped_at": "2026-10-08T03:49:25.342048"
+  },
+  {
+    "title": "Systems Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=ad1ca8887a09339e",
+    "scraped_at": "2026-10-08T03:49:25.346695"
   }
 ]
