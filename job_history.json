@@ -1,65 +1,5 @@
 [
   {
-    "title": "Product Design Manager",
-    "company": "Sitemate",
-    "url": "https://au.indeed.com/viewjob?jk=02d438ed0b5dee43",
-    "scraped_at": "2026-08-05T13:43:54.256094"
-  },
-  {
-    "title": "Solutions Engineer",
-    "company": "LogicMonitor",
-    "url": "https://au.indeed.com/viewjob?jk=cceb450d42374457",
-    "scraped_at": "2026-08-05T13:43:54.257138"
-  },
-  {
-    "title": "AI Engineer",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=1c4739b42caa9d97",
-    "scraped_at": "2026-08-05T17:20:59.584118"
-  },
-  {
-    "title": "Platform Engineer",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=db7f64b7d3304709",
-    "scraped_at": "2026-08-05T17:20:59.587042"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "Accenture",
-    "url": "https://au.indeed.com/viewjob?jk=edf5a99410a170be",
-    "scraped_at": "2026-08-05T20:58:01.708791"
-  },
-  {
-    "title": "Forward Deployed Engineer, GenAI, Financial Services",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=08ee4367e9f1e43e",
-    "scraped_at": "2026-08-05T20:58:01.714656"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Lorikeet",
-    "url": "https://au.indeed.com/viewjob?jk=88425d40b361c95e",
-    "scraped_at": "2026-08-06T01:42:50.740882"
-  },
-  {
-    "title": "Fleet Reporting Analyst",
-    "company": "Avis Budget Group",
-    "url": "https://au.indeed.com/viewjob?jk=5394ede5c809ff85",
-    "scraped_at": "2026-08-06T01:42:50.744810"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "FinXL",
-    "url": "https://au.indeed.com/viewjob?jk=48dca8a0c4ab2726",
-    "scraped_at": "2026-08-06T06:23:10.296657"
-  },
-  {
-    "title": "HCM Business Analyst",
-    "company": "NCS",
-    "url": "https://au.indeed.com/viewjob?jk=b6b99d2d3cc224c5",
-    "scraped_at": "2026-08-06T06:23:10.309408"
-  },
-  {
     "title": "Geospatial Services Lead",
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=a1765fc6b0a1f824",
@@ -5998,5 +5938,65 @@
     "company": "Salesforce",
     "url": "https://au.indeed.com/viewjob?jk=9f4f6dc4b21568b3",
     "scraped_at": "2026-10-08T11:02:19.396895"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "News Corp",
+    "url": "https://au.indeed.com/viewjob?jk=6ecb298a59bf46ad",
+    "scraped_at": "2026-10-08T18:10:40.536864"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "REA Group",
+    "url": "https://au.indeed.com/viewjob?jk=aaf61c928f44dd7f",
+    "scraped_at": "2026-10-08T18:10:40.537543"
+  },
+  {
+    "title": "AI and Power Platform Engineer",
+    "company": "Built Holdings",
+    "url": "https://au.indeed.com/viewjob?jk=8bc752587ea95be6",
+    "scraped_at": "2026-10-08T18:10:40.556947"
+  },
+  {
+    "title": "Orchard - AI Skills Manager",
+    "company": "Orchard Marketing",
+    "url": "https://au.indeed.com/viewjob?jk=a2a7a90ad9af0115",
+    "scraped_at": "2026-10-08T18:10:40.559107"
+  },
+  {
+    "title": "Java Full Stack || Sydney",
+    "company": "iGreenData Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=6e87368a74b2aa7c",
+    "scraped_at": "2026-10-08T18:10:40.560302"
+  },
+  {
+    "title": "Team Lead (Software Engineering)",
+    "company": "Domain Group",
+    "url": "https://au.indeed.com/viewjob?jk=7f99fc6d44397782",
+    "scraped_at": "2026-10-08T18:10:40.574773"
+  },
+  {
+    "title": "Contracts Administrator",
+    "company": "ICONIC (NSW)",
+    "url": "https://au.indeed.com/viewjob?jk=a8cb4b7f1419a2e8",
+    "scraped_at": "2026-10-08T18:10:40.577282"
+  },
+  {
+    "title": "Estimator",
+    "company": "Fulton Hogan",
+    "url": "https://au.indeed.com/viewjob?jk=aaf8d6a97f6027c6",
+    "scraped_at": "2026-10-08T18:10:40.579098"
+  },
+  {
+    "title": "Software Engineer \u00e2\u20ac\u201c Data & AI Platforms - Financial Markets",
+    "company": "The Argyle Network",
+    "url": "https://au.indeed.com/viewjob?jk=37981efc7a9bdb77",
+    "scraped_at": "2026-10-08T18:10:40.585401"
+  },
+  {
+    "title": "Developer Programmer (Sydney, Adelaide, Canberra, Brisbane, Perth & Melbourne)",
+    "company": "Ariston Partners Technology Solutions Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=35062fff8076b11a",
+    "scraped_at": "2026-10-08T18:10:40.586623"
   }
 ]
