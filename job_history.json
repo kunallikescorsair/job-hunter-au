@@ -1,59 +1,5 @@
 [
   {
-    "title": "Software Engineer (AI / Full Stack)",
-    "company": "Avreo",
-    "url": "https://au.indeed.com/viewjob?jk=15096185ead44e79",
-    "scraped_at": "2026-08-05T10:25:51.774186"
-  },
-  {
-    "title": "Platform Reliability Engineer (Zabbix)",
-    "company": "Showtime Consulting",
-    "url": "https://au.indeed.com/viewjob?jk=e1255422c96bac81",
-    "scraped_at": "2026-08-05T10:25:51.778113"
-  },
-  {
-    "title": "Fleet Reporting Analyst",
-    "company": "Avis Budget Group",
-    "url": "https://au.indeed.com/viewjob?jk=b299fc735ad44d6c",
-    "scraped_at": "2026-08-05T10:25:51.778874"
-  },
-  {
-    "title": "Analyst - Data Engineering",
-    "company": "DXC Technology",
-    "url": "https://au.indeed.com/viewjob?jk=c3bc603e13107d96",
-    "scraped_at": "2026-08-05T10:25:51.779336"
-  },
-  {
-    "title": "Java Engineer",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=4a30fa7e88420617",
-    "scraped_at": "2026-08-05T10:25:51.788305"
-  },
-  {
-    "title": "Databricks Application Engineer",
-    "company": "Showtime Consulting",
-    "url": "https://au.indeed.com/viewjob?jk=920a5fa68cb2ac6a",
-    "scraped_at": "2026-08-05T10:25:51.789156"
-  },
-  {
-    "title": "Network Installation Technician, Infrastructure Delivery",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=947033232427bc6e",
-    "scraped_at": "2026-08-05T10:25:51.790623"
-  },
-  {
-    "title": "Solutions Consultant",
-    "company": "Plexa",
-    "url": "https://au.indeed.com/viewjob?jk=e1857c03cbe740cd",
-    "scraped_at": "2026-08-05T13:43:54.253848"
-  },
-  {
-    "title": "Product Owner/Design Manager",
-    "company": "Sitemate",
-    "url": "https://au.indeed.com/viewjob?jk=ddb7604f9f0bbcc2",
-    "scraped_at": "2026-08-05T13:43:54.255021"
-  },
-  {
     "title": "Product Design Manager",
     "company": "Sitemate",
     "url": "https://au.indeed.com/viewjob?jk=02d438ed0b5dee43",
@@ -5998,5 +5944,59 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=ad1ca8887a09339e",
     "scraped_at": "2026-10-08T03:49:25.346695"
+  },
+  {
+    "title": "Software Engineer, Control & Error Correction",
+    "company": "Silicon Quantum Computing",
+    "url": "https://au.indeed.com/viewjob?jk=da1d2c55a17772f8",
+    "scraped_at": "2026-10-08T11:02:19.359082"
+  },
+  {
+    "title": "Operations Research and AI Consultant, AWS Professional Services",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=5654bc85fdc4bfaa",
+    "scraped_at": "2026-10-08T11:02:19.360394"
+  },
+  {
+    "title": "Operations Research and AI Consultant, AWS Professional Services",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=4d50196c0bafcb35",
+    "scraped_at": "2026-10-08T11:02:19.366622"
+  },
+  {
+    "title": "5G Core Data Management Support Engineer",
+    "company": "Ericsson",
+    "url": "https://au.indeed.com/viewjob?jk=64fc5c22108566a6",
+    "scraped_at": "2026-10-08T11:02:19.376625"
+  },
+  {
+    "title": "Data and Business Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=de78cc4d0e6fcef8",
+    "scraped_at": "2026-10-08T11:02:19.377712"
+  },
+  {
+    "title": "Maintenance Planning Analyst",
+    "company": "Downer Group",
+    "url": "https://au.indeed.com/viewjob?jk=901aa0ecfc55e6b5",
+    "scraped_at": "2026-10-08T11:02:19.379118"
+  },
+  {
+    "title": "Analyst, Responsible Investment",
+    "company": "REST",
+    "url": "https://au.indeed.com/viewjob?jk=156542c5ae4ffec8",
+    "scraped_at": "2026-10-08T11:02:19.381041"
+  },
+  {
+    "title": "Commercial Revenue Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=08ebaad23a9a8069",
+    "scraped_at": "2026-10-08T11:02:19.381864"
+  },
+  {
+    "title": "Enterprise Corporate Sales - Public Sector",
+    "company": "Salesforce",
+    "url": "https://au.indeed.com/viewjob?jk=9f4f6dc4b21568b3",
+    "scraped_at": "2026-10-08T11:02:19.396895"
   }
 ]
