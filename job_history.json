@@ -1,35 +1,5 @@
 [
   {
-    "title": "Security Engineer, AWS Security Incident Response",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=3451eac0562b4288",
-    "scraped_at": "2026-08-06T10:28:49.279233"
-  },
-  {
-    "title": "System Development Engineer, Network Core",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=0c0c3adc7a95b4a8",
-    "scraped_at": "2026-08-06T10:28:49.280466"
-  },
-  {
-    "title": "Cloud DevOps Engineer",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=15685bc174a13bc3",
-    "scraped_at": "2026-08-06T13:42:28.084004"
-  },
-  {
-    "title": "Visualisation Engineer",
-    "company": "HammondCare",
-    "url": "https://au.indeed.com/viewjob?jk=f6389e06a9ed3c9d",
-    "scraped_at": "2026-08-06T13:42:28.084741"
-  },
-  {
-    "title": "Delivery and Change Coordinator",
-    "company": "Australian Red Cross Lifeblood",
-    "url": "https://au.indeed.com/viewjob?jk=dc16c73d99eca9fa",
-    "scraped_at": "2026-08-06T13:42:28.085495"
-  },
-  {
     "title": "Cloud DevOps Engineer",
     "company": "Capgemini",
     "url": "https://au.indeed.com/viewjob?jk=40fe4d6db539075b",
@@ -5998,5 +5968,35 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=47446e4fc09f5b8b",
     "scraped_at": "2026-10-09T00:03:20.339120"
+  },
+  {
+    "title": "AI & Analytics Engineer",
+    "company": "Monks",
+    "url": "https://au.indeed.com/viewjob?jk=35dabe36631de32e",
+    "scraped_at": "2026-10-09T11:01:25.521552"
+  },
+  {
+    "title": "Commercial Insights Lead",
+    "company": "Boody Australia",
+    "url": "https://au.indeed.com/viewjob?jk=aaaa124e454ec9c9",
+    "scraped_at": "2026-10-09T11:01:25.523030"
+  },
+  {
+    "title": "Hyper-Edge Technology Development Engineer Graduate (Data Application) - 2027 Start (BS/MS)",
+    "company": "TikTok",
+    "url": "https://au.indeed.com/viewjob?jk=57f0f55891ae8e73",
+    "scraped_at": "2026-10-09T11:01:25.524552"
+  },
+  {
+    "title": "Backend Software Engineer Graduate (Trust and Safety Engineering) - 2027 Start (BS/MS)",
+    "company": "TikTok",
+    "url": "https://au.indeed.com/viewjob?jk=e36953256b19584a",
+    "scraped_at": "2026-10-09T11:01:25.525281"
+  },
+  {
+    "title": "Agentic AI Engineer",
+    "company": "Delivery Centric",
+    "url": "https://au.indeed.com/viewjob?jk=61c800cf57c91527",
+    "scraped_at": "2026-10-09T11:01:25.526389"
   }
 ]
