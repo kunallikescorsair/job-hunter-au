@@ -1,35 +1,5 @@
 [
   {
-    "title": "Geospatial Services Lead",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=a1765fc6b0a1f824",
-    "scraped_at": "2026-08-06T06:23:10.311296"
-  },
-  {
-    "title": "Computer Network and System Engineer",
-    "company": "Layer2 APAC",
-    "url": "https://au.indeed.com/viewjob?jk=b35fa462f5a0a1d1",
-    "scraped_at": "2026-08-06T06:23:10.314505"
-  },
-  {
-    "title": "Solution Consultant - Emerging Technologies",
-    "company": "Eaton",
-    "url": "https://au.indeed.com/viewjob?jk=2eec4cae83ffca78",
-    "scraped_at": "2026-08-06T06:23:10.320823"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=5cd8e232b3fc0f8b",
-    "scraped_at": "2026-08-06T10:28:49.275120"
-  },
-  {
-    "title": "Analyst - Industrial Investment",
-    "company": "Mirvac",
-    "url": "https://au.indeed.com/viewjob?jk=e5541ed0e1ed1871",
-    "scraped_at": "2026-08-06T10:28:49.277558"
-  },
-  {
     "title": "Security Engineer, AWS Security Incident Response",
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=3451eac0562b4288",
@@ -5998,5 +5968,35 @@
     "company": "Ariston Partners Technology Solutions Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=35062fff8076b11a",
     "scraped_at": "2026-10-08T18:10:40.586623"
+  },
+  {
+    "title": "IT Support Engineer - Deployment",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=ce580a94617f3967",
+    "scraped_at": "2026-10-09T00:03:20.333292"
+  },
+  {
+    "title": "Systems Engineer",
+    "company": "AKUNA CAPITAL",
+    "url": "https://au.indeed.com/viewjob?jk=67380cda79e652a9",
+    "scraped_at": "2026-10-09T00:03:20.334218"
+  },
+  {
+    "title": "IT Operations Engineer",
+    "company": "Stake",
+    "url": "https://au.indeed.com/viewjob?jk=394761c2ef353261",
+    "scraped_at": "2026-10-09T00:03:20.336267"
+  },
+  {
+    "title": "Change Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=1ac9dc06877e99ae",
+    "scraped_at": "2026-10-09T00:03:20.337520"
+  },
+  {
+    "title": "Systems Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=47446e4fc09f5b8b",
+    "scraped_at": "2026-10-09T00:03:20.339120"
   }
 ]
