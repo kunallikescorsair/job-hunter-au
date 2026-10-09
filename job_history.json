@@ -1,23 +1,5 @@
 [
   {
-    "title": "Cloud DevOps Engineer",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=40fe4d6db539075b",
-    "scraped_at": "2026-08-06T13:42:28.086083"
-  },
-  {
-    "title": "Data Analyst Maritime",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=d4755a7f6b4ea154",
-    "scraped_at": "2026-08-06T13:42:28.089912"
-  },
-  {
-    "title": "Security Customer Engineer, Google Cloud",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=999b1202833b5521",
-    "scraped_at": "2026-08-07T00:50:45.295110"
-  },
-  {
     "title": "Business Analyst",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=947332639d7e6c93",
@@ -5998,5 +5980,23 @@
     "company": "Delivery Centric",
     "url": "https://au.indeed.com/viewjob?jk=61c800cf57c91527",
     "scraped_at": "2026-10-09T11:01:25.526389"
+  },
+  {
+    "title": "Network Design Engineer",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=4928f411c4e8e30b",
+    "scraped_at": "2026-10-09T17:43:58.674558"
+  },
+  {
+    "title": "Graduate Application Security Analyst",
+    "company": "NextGen.Net",
+    "url": "https://au.indeed.com/viewjob?jk=000e8af9d219a7f1",
+    "scraped_at": "2026-10-09T17:43:58.679517"
+  },
+  {
+    "title": "Junior C# Developer \u2013 AWS, DevOps & AI Automation",
+    "company": "FTI Group",
+    "url": "https://au.indeed.com/viewjob?jk=7e2fb208d38fde49",
+    "scraped_at": "2026-10-09T17:43:58.686544"
   }
 ]
