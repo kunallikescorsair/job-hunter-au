@@ -1,29 +1,5 @@
 [
   {
-    "title": "Business Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=947332639d7e6c93",
-    "scraped_at": "2026-08-07T00:50:45.299736"
-  },
-  {
-    "title": "Regional Project Design Controls Engineer - APJC, Fleet Remediation Engineering",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=df5300cbbbececef",
-    "scraped_at": "2026-08-07T00:50:45.309558"
-  },
-  {
-    "title": "Product Manager, Exceptions Management",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=a9a47a767c261144",
-    "scraped_at": "2026-08-07T00:50:45.312046"
-  },
-  {
-    "title": "AI Application Developer",
-    "company": "Gym Plug",
-    "url": "https://au.indeed.com/viewjob?jk=6d346854db970987",
-    "scraped_at": "2026-08-07T00:50:45.318387"
-  },
-  {
     "title": "Manager Early Careers Program",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=fb672e8094a5f37d",
@@ -5998,5 +5974,29 @@
     "company": "FTI Group",
     "url": "https://au.indeed.com/viewjob?jk=7e2fb208d38fde49",
     "scraped_at": "2026-10-09T17:43:58.686544"
+  },
+  {
+    "title": "Research Officer",
+    "company": "The Garvan Institute of Medical Research",
+    "url": "https://au.indeed.com/viewjob?jk=5f3ae75b2724926e",
+    "scraped_at": "2026-10-10T03:23:07.080151"
+  },
+  {
+    "title": "Software Engineer \u00e2\u20ac\u201c Engineering Enablement (AI, Quality & Platform Reliability)",
+    "company": "The Argyle Network",
+    "url": "https://au.indeed.com/viewjob?jk=e12f4c6cbdf92fc1",
+    "scraped_at": "2026-10-10T03:23:07.086000"
+  },
+  {
+    "title": "Data Quality Analyst, ProCare",
+    "company": "Stryker",
+    "url": "https://au.indeed.com/viewjob?jk=a8286998b6b0a660",
+    "scraped_at": "2026-10-10T03:23:07.092804"
+  },
+  {
+    "title": "Software Engineer - Database",
+    "company": "Xero",
+    "url": "https://au.indeed.com/viewjob?jk=b8f23e52347cd2f7",
+    "scraped_at": "2026-10-10T03:23:07.096606"
   }
 ]
