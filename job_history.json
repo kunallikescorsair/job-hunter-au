@@ -1,23 +1,5 @@
 [
   {
-    "title": "Manager Early Careers Program",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=fb672e8094a5f37d",
-    "scraped_at": "2026-08-07T00:50:45.318883"
-  },
-  {
-    "title": "Valuations & Pricing Analyst",
-    "company": "Carma",
-    "url": "https://au.indeed.com/viewjob?jk=00752820dd06e750",
-    "scraped_at": "2026-08-07T05:28:15.513730"
-  },
-  {
-    "title": "Business Performance Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=8ffdb726e06d8297",
-    "scraped_at": "2026-08-07T05:28:15.514431"
-  },
-  {
     "title": "Road Safety Analyst",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=e5cfd597e94261b3",
@@ -5998,5 +5980,23 @@
     "company": "Xero",
     "url": "https://au.indeed.com/viewjob?jk=b8f23e52347cd2f7",
     "scraped_at": "2026-10-10T03:23:07.096606"
+  },
+  {
+    "title": "Front End Developer",
+    "company": "Duxxel",
+    "url": "https://au.indeed.com/viewjob?jk=a9d54d50dd5313de",
+    "scraped_at": "2026-10-10T10:15:33.128204"
+  },
+  {
+    "title": "Front Office Python Developer",
+    "company": "Eclipse Trading",
+    "url": "https://au.indeed.com/viewjob?jk=e1d70b9aeb8f1492",
+    "scraped_at": "2026-10-10T10:15:33.129928"
+  },
+  {
+    "title": "Data Engineer - GCP",
+    "company": "Stake",
+    "url": "https://au.indeed.com/viewjob?jk=c3a7ac79f526a7e8",
+    "scraped_at": "2026-10-10T10:15:33.133529"
   }
 ]
