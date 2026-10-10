@@ -1,11 +1,5 @@
 [
   {
-    "title": "Road Safety Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=e5cfd597e94261b3",
-    "scraped_at": "2026-08-07T05:28:15.515805"
-  },
-  {
     "title": "Digital Configuration Sitecore Analyst",
     "company": "MUFG",
     "url": "https://au.indeed.com/viewjob?jk=0622ce87831779f8",
@@ -5998,5 +5992,11 @@
     "company": "Stake",
     "url": "https://au.indeed.com/viewjob?jk=c3a7ac79f526a7e8",
     "scraped_at": "2026-10-10T10:15:33.133529"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Mutinex",
+    "url": "https://au.indeed.com/viewjob?jk=379539684ba7e17a",
+    "scraped_at": "2026-10-10T16:36:19.663433"
   }
 ]
