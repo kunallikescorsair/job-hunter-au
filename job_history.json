@@ -1,11 +1,5 @@
 [
   {
-    "title": "Digital Configuration Sitecore Analyst",
-    "company": "MUFG",
-    "url": "https://au.indeed.com/viewjob?jk=0622ce87831779f8",
-    "scraped_at": "2026-08-07T05:28:15.523139"
-  },
-  {
     "title": "Finance Analyst, Retail Labour (Dan Murphy's)",
     "company": "Endeavour Group",
     "url": "https://au.indeed.com/viewjob?jk=5556af108dc65b68",
@@ -5998,5 +5992,11 @@
     "company": "Mutinex",
     "url": "https://au.indeed.com/viewjob?jk=379539684ba7e17a",
     "scraped_at": "2026-10-10T16:36:19.663433"
+  },
+  {
+    "title": "Full Stack Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=c29f2d965e75fd91",
+    "scraped_at": "2026-10-11T02:56:17.530776"
   }
 ]
