@@ -1,11 +1,5 @@
 [
   {
-    "title": "AI and Automation Specialist - Risk",
-    "company": "Insignia Financial",
-    "url": "https://au.indeed.com/viewjob?jk=b978725a97cc5eb2",
-    "scraped_at": "2026-08-07T08:46:44.264422"
-  },
-  {
     "title": "Onboarding Manager",
     "company": "Mutinex",
     "url": "https://au.indeed.com/viewjob?jk=2d73479af545b8f5",
@@ -5998,5 +5992,11 @@
     "company": "Workers Lifestyle Group",
     "url": "https://au.indeed.com/viewjob?jk=5b3154cccf7411ff",
     "scraped_at": "2026-10-12T03:19:29.580714"
+  },
+  {
+    "title": "AI & Analytics Engineer - Freelance",
+    "company": "Monks",
+    "url": "https://au.indeed.com/viewjob?jk=a7a6d8606ba4b943",
+    "scraped_at": "2026-10-12T20:36:09.336603"
   }
 ]
