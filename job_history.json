@@ -1,11 +1,5 @@
 [
   {
-    "title": "Finance Analyst, Retail Labour (Dan Murphy's)",
-    "company": "Endeavour Group",
-    "url": "https://au.indeed.com/viewjob?jk=5556af108dc65b68",
-    "scraped_at": "2026-08-07T05:28:15.523901"
-  },
-  {
     "title": "AI and Automation Specialist - Risk",
     "company": "Insignia Financial",
     "url": "https://au.indeed.com/viewjob?jk=b978725a97cc5eb2",
@@ -5998,5 +5992,11 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=c29f2d965e75fd91",
     "scraped_at": "2026-10-11T02:56:17.530776"
+  },
+  {
+    "title": "Gaming Analyst",
+    "company": "Workers Lifestyle Group",
+    "url": "https://au.indeed.com/viewjob?jk=5b3154cccf7411ff",
+    "scraped_at": "2026-10-12T03:19:29.580714"
   }
 ]
