@@ -1,17 +1,5 @@
 [
   {
-    "title": "Commercial Analyst",
-    "company": "The Arnott's Group",
-    "url": "https://au.indeed.com/viewjob?jk=5de16071ee8ce830",
-    "scraped_at": "2026-08-07T08:46:44.282778"
-  },
-  {
-    "title": "Quantitative Analyst, Non-Retail Models",
-    "company": "Commonwealth Bank of Australia",
-    "url": "https://au.indeed.com/viewjob?jk=b4e56f3e30bbd8bc",
-    "scraped_at": "2026-08-07T08:46:44.283515"
-  },
-  {
     "title": "Technology - Data Integration Analyst",
     "company": "Venues NSW",
     "url": "https://au.indeed.com/viewjob?jk=a1fd9e4bc40890b7",
@@ -5998,5 +5986,17 @@
     "company": "Star Phones Australia Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=9b3380c86ac43306",
     "scraped_at": "2026-10-13T04:34:23.629477"
+  },
+  {
+    "title": "GHD\u00a0Graduate Program\u00a02026/27\u00a0\u2013 Location Intelligence (GIS)\u00a0- Multiple Locations",
+    "company": "GHD",
+    "url": "https://au.indeed.com/viewjob?jk=8370487e5f1d88be",
+    "scraped_at": "2026-10-13T15:24:49.657567"
+  },
+  {
+    "title": "Graduate Electrical Engineer",
+    "company": "WeBuild",
+    "url": "https://au.indeed.com/viewjob?jk=0188c91c1b1706f8",
+    "scraped_at": "2026-10-13T15:24:49.687653"
   }
 ]
