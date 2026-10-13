@@ -1,11 +1,5 @@
 [
   {
-    "title": "Technology - Data Integration Analyst",
-    "company": "Venues NSW",
-    "url": "https://au.indeed.com/viewjob?jk=a1fd9e4bc40890b7",
-    "scraped_at": "2026-08-07T08:46:44.284266"
-  },
-  {
     "title": "Demand Forecasting Specialist",
     "company": "Metcash",
     "url": "https://au.indeed.com/viewjob?jk=2df3ce45e359674d",
@@ -5998,5 +5992,11 @@
     "company": "WeBuild",
     "url": "https://au.indeed.com/viewjob?jk=0188c91c1b1706f8",
     "scraped_at": "2026-10-13T15:24:49.687653"
+  },
+  {
+    "title": "Data Platform Engineer",
+    "company": "Insignia Financial",
+    "url": "https://au.indeed.com/viewjob?jk=7d96888c7e72d438",
+    "scraped_at": "2026-10-13T20:54:03.388995"
   }
 ]
