@@ -1,23 +1,5 @@
 [
   {
-    "title": "Onboarding Manager",
-    "company": "Mutinex",
-    "url": "https://au.indeed.com/viewjob?jk=2d73479af545b8f5",
-    "scraped_at": "2026-08-07T08:46:44.270819"
-  },
-  {
-    "title": "AI Engineer",
-    "company": "Intelligen Group",
-    "url": "https://au.indeed.com/viewjob?jk=7df9925cf82e1f8f",
-    "scraped_at": "2026-08-07T08:46:44.272228"
-  },
-  {
-    "title": "National Service Operations Manager",
-    "company": "Eaton",
-    "url": "https://au.indeed.com/viewjob?jk=86ebd5df5f1f5755",
-    "scraped_at": "2026-08-07T08:46:44.281868"
-  },
-  {
     "title": "Commercial Analyst",
     "company": "The Arnott's Group",
     "url": "https://au.indeed.com/viewjob?jk=5de16071ee8ce830",
@@ -5998,5 +5980,23 @@
     "company": "Monks",
     "url": "https://au.indeed.com/viewjob?jk=a7a6d8606ba4b943",
     "scraped_at": "2026-10-12T20:36:09.336603"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "ATNIS PTY LTD",
+    "url": "https://au.indeed.com/viewjob?jk=00b8923b29244c22",
+    "scraped_at": "2026-10-13T04:34:23.609261"
+  },
+  {
+    "title": "Graduate Electrical Engineer",
+    "company": "Clough",
+    "url": "https://au.indeed.com/viewjob?jk=1523e6f7024af255",
+    "scraped_at": "2026-10-13T04:34:23.626805"
+  },
+  {
+    "title": "Junior Full Stack Developer \u2013 AI & SEO",
+    "company": "Star Phones Australia Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=9b3380c86ac43306",
+    "scraped_at": "2026-10-13T04:34:23.629477"
   }
 ]
