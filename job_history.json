@@ -1,41 +1,5 @@
 [
   {
-    "title": "Implementation Manager",
-    "company": "Splose",
-    "url": "https://au.indeed.com/viewjob?jk=2f880b8ac8878b71",
-    "scraped_at": "2026-08-07T12:40:59.651937"
-  },
-  {
-    "title": "National Service Operations Manager",
-    "company": "Eaton",
-    "url": "https://au.indeed.com/viewjob?jk=f1d2307278826a7d",
-    "scraped_at": "2026-08-07T12:40:59.655378"
-  },
-  {
-    "title": "Database Analyst",
-    "company": "Barings",
-    "url": "https://au.indeed.com/viewjob?jk=8aa455170ed0fd0c",
-    "scraped_at": "2026-08-07T12:40:59.658547"
-  },
-  {
-    "title": "Analyst, Asset Based Finance",
-    "company": "Barings",
-    "url": "https://au.indeed.com/viewjob?jk=fe7cb90922d9bf15",
-    "scraped_at": "2026-08-07T12:40:59.659923"
-  },
-  {
-    "title": "Planner",
-    "company": "Acciona",
-    "url": "https://au.indeed.com/viewjob?jk=4a4ca1decfd67e28",
-    "scraped_at": "2026-08-07T12:40:59.669559"
-  },
-  {
-    "title": "Junior Scheduler",
-    "company": "Fulton Hogan",
-    "url": "https://au.indeed.com/viewjob?jk=286a78608100a5bf",
-    "scraped_at": "2026-08-07T12:40:59.671364"
-  },
-  {
     "title": "Technology Solutions Manager - Model Risk Management Transformation",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=61ed3bb7b56fa694",
@@ -5998,5 +5962,41 @@
     "company": "The Arnott's Group",
     "url": "https://au.indeed.com/viewjob?jk=5de16071ee8ce830",
     "scraped_at": "2026-10-14T02:44:26.970482"
+  },
+  {
+    "title": "Platform Engineer",
+    "company": "Resmed",
+    "url": "https://au.indeed.com/viewjob?jk=431535c2a89785fa",
+    "scraped_at": "2026-10-14T09:08:44.076799"
+  },
+  {
+    "title": "Data Analyst (Contract)",
+    "company": "ROLLER",
+    "url": "https://au.indeed.com/viewjob?jk=a0e30f994e674ddb",
+    "scraped_at": "2026-10-14T09:08:44.077684"
+  },
+  {
+    "title": "Junior Finance Analyst/Trade Spend Analyst",
+    "company": "Pernod Ricard",
+    "url": "https://au.indeed.com/viewjob?jk=efc93c0ca9fc2021",
+    "scraped_at": "2026-10-14T09:08:44.079856"
+  },
+  {
+    "title": "Junior Data Business Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=668b616dacca91e3",
+    "scraped_at": "2026-10-14T09:08:44.080725"
+  },
+  {
+    "title": "Marketing Science Analyst",
+    "company": "Analytic Partners",
+    "url": "https://au.indeed.com/viewjob?jk=a9cd16b5b99d97c6",
+    "scraped_at": "2026-10-14T09:08:44.085029"
+  },
+  {
+    "title": "Compliance Analyst",
+    "company": "American Express",
+    "url": "https://au.indeed.com/viewjob?jk=ee692ebf512d4d55",
+    "scraped_at": "2026-10-14T09:08:44.088576"
   }
 ]
