@@ -1,11 +1,5 @@
 [
   {
-    "title": "2027 | APEJ | Sydney | Global Investment Research | Summer Analyst",
-    "company": "Goldman Sachs",
-    "url": "https://au.indeed.com/viewjob?jk=8d7bdd9b7446d860",
-    "scraped_at": "2026-08-08T08:28:46.881138"
-  },
-  {
     "title": "2027 | APEJ | Sydney | Global Investment Research | New Analyst",
     "company": "Goldman Sachs",
     "url": "https://au.indeed.com/viewjob?jk=2bc9d174435758a5",
@@ -5998,5 +5992,11 @@
     "company": "ISS Facility Services",
     "url": "https://au.indeed.com/viewjob?jk=1c6311c7a4d91a25",
     "scraped_at": "2026-10-14T16:10:54.454844"
+  },
+  {
+    "title": "Junior QA Analyst",
+    "company": "Luxury Escapes",
+    "url": "https://au.indeed.com/viewjob?jk=f6eceab07e777c38",
+    "scraped_at": "2026-10-14T22:51:22.951597"
   }
 ]
