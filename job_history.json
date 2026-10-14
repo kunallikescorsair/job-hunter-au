@@ -1,11 +1,5 @@
 [
   {
-    "title": "Demand Forecasting Specialist",
-    "company": "Metcash",
-    "url": "https://au.indeed.com/viewjob?jk=2df3ce45e359674d",
-    "scraped_at": "2026-08-07T08:46:44.289815"
-  },
-  {
     "title": "Implementation Manager",
     "company": "Splose",
     "url": "https://au.indeed.com/viewjob?jk=2f880b8ac8878b71",
@@ -5998,5 +5992,11 @@
     "company": "Insignia Financial",
     "url": "https://au.indeed.com/viewjob?jk=7d96888c7e72d438",
     "scraped_at": "2026-10-13T20:54:03.388995"
+  },
+  {
+    "title": "Commercial Analyst",
+    "company": "The Arnott's Group",
+    "url": "https://au.indeed.com/viewjob?jk=5de16071ee8ce830",
+    "scraped_at": "2026-10-14T02:44:26.970482"
   }
 ]
