@@ -2,12 +2,6 @@
   {
     "title": "Logistics Solutions Engineer",
     "company": "UPS",
-    "url": "https://au.indeed.com/viewjob?jk=0fd03267c49797ad",
-    "scraped_at": "2026-08-10T05:16:42.254450"
-  },
-  {
-    "title": "Logistics Solutions Engineer",
-    "company": "UPS",
     "url": "https://au.indeed.com/viewjob?jk=52664f87b638dccf",
     "scraped_at": "2026-08-10T09:07:41.626777"
   },
@@ -5998,5 +5992,11 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=59abfdb053a7ed14",
     "scraped_at": "2026-10-15T08:41:35.427562"
+  },
+  {
+    "title": "Data Site Reliability Engineer, Video Platform",
+    "company": "TikTok USDS JV",
+    "url": "https://au.indeed.com/viewjob?jk=0ef26a8315481001",
+    "scraped_at": "2026-10-15T15:58:46.252831"
   }
 ]
