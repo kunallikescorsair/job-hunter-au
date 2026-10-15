@@ -1,17 +1,5 @@
 [
   {
-    "title": "GCP Data Engineer",
-    "company": "Showtime Consulting",
-    "url": "https://au.indeed.com/viewjob?jk=f61bc1aac79b6d14",
-    "scraped_at": "2026-08-10T05:16:42.244354"
-  },
-  {
-    "title": "Technical Lead",
-    "company": "HCLTech",
-    "url": "https://au.indeed.com/viewjob?jk=9e3f63882163945f",
-    "scraped_at": "2026-08-10T05:16:42.249546"
-  },
-  {
     "title": "Logistics Solutions Engineer",
     "company": "UPS",
     "url": "https://au.indeed.com/viewjob?jk=0fd03267c49797ad",
@@ -5998,5 +5986,17 @@
     "company": "Vitex Pharmaceuticals",
     "url": "https://au.indeed.com/viewjob?jk=21fb3597bffd3aea",
     "scraped_at": "2026-10-15T02:23:25.916745"
+  },
+  {
+    "title": "2027 | APEJ | Sydney | Global Investment Research, Equity Research, Insurance | New Analyst",
+    "company": "Goldman Sachs",
+    "url": "https://au.indeed.com/viewjob?jk=2bc9d174435758a5",
+    "scraped_at": "2026-10-15T08:41:35.417238"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=59abfdb053a7ed14",
+    "scraped_at": "2026-10-15T08:41:35.427562"
   }
 ]
