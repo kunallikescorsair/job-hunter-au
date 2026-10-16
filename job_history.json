@@ -1,17 +1,5 @@
 [
   {
-    "title": "Logistics Solutions Engineer",
-    "company": "UPS",
-    "url": "https://au.indeed.com/viewjob?jk=be8301ba646568b2",
-    "scraped_at": "2026-08-10T09:07:41.629705"
-  },
-  {
-    "title": "Pre-Construction Cost Planner, APJC Data Center Capacity Delivery",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=b370f600d65e1b40",
-    "scraped_at": "2026-08-10T09:07:41.631018"
-  },
-  {
     "title": "Data Analyst",
     "company": "HUB24",
     "url": "https://au.indeed.com/viewjob?jk=657d7690a6377971",
@@ -5998,5 +5986,17 @@
     "company": "Octagon",
     "url": "https://au.indeed.com/viewjob?jk=08b64c6fb589f3ef",
     "scraped_at": "2026-10-16T15:46:38.666994"
+  },
+  {
+    "title": "Lead Platform Operations Engineer",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=7f7a6425feea4e3a",
+    "scraped_at": "2026-10-16T19:08:06.076753"
+  },
+  {
+    "title": "Compliance Analyst (Transaction Monitoring)",
+    "company": "Sokin",
+    "url": "https://au.indeed.com/viewjob?jk=b05acce0c30d8022",
+    "scraped_at": "2026-10-16T19:08:06.081361"
   }
 ]
