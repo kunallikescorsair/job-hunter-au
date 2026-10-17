@@ -1,29 +1,5 @@
 [
   {
-    "title": "Team Leader",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=64b75b35cb69e635",
-    "scraped_at": "2026-08-10T12:45:18.688862"
-  },
-  {
-    "title": "Data Platform Engineer",
-    "company": "Property Me",
-    "url": "https://au.indeed.com/viewjob?jk=378a0875eea08949",
-    "scraped_at": "2026-08-10T12:45:18.695476"
-  },
-  {
-    "title": "Digital Product Owner (eCommerce)",
-    "company": "Harvey Norman",
-    "url": "https://au.indeed.com/viewjob?jk=74b92d63f3a1c966",
-    "scraped_at": "2026-08-10T12:45:18.697770"
-  },
-  {
-    "title": "Sales Manager - FSI",
-    "company": "Teradata",
-    "url": "https://au.indeed.com/viewjob?jk=47de68d688b3beb1",
-    "scraped_at": "2026-08-10T12:45:18.698485"
-  },
-  {
     "title": "Site Reliability Engineer",
     "company": "FIS",
     "url": "https://au.indeed.com/viewjob?jk=9af17f5ab4bcb6d0",
@@ -5998,5 +5974,29 @@
     "company": "AI Talent",
     "url": "https://au.indeed.com/viewjob?jk=0033f0b62235da69",
     "scraped_at": "2026-10-17T08:08:22.102711"
+  },
+  {
+    "title": "Referrals for Google Cloud Practitioners (EoI)",
+    "company": "Accenture",
+    "url": "https://au.indeed.com/viewjob?jk=7947db00197815ae",
+    "scraped_at": "2026-10-17T14:39:44.838471"
+  },
+  {
+    "title": "ETL Data Test Analyst - Banking",
+    "company": "The Argyle Network",
+    "url": "https://au.indeed.com/viewjob?jk=1f6c0d1a18e1eec6",
+    "scraped_at": "2026-10-17T14:39:44.841591"
+  },
+  {
+    "title": "Risk & Compliance Analyst",
+    "company": "HUB24",
+    "url": "https://au.indeed.com/viewjob?jk=77052288d6167069",
+    "scraped_at": "2026-10-17T14:39:44.847589"
+  },
+  {
+    "title": "AWS Data Engineer",
+    "company": "Accenture",
+    "url": "https://au.indeed.com/viewjob?jk=6d40578cc1ecee4b",
+    "scraped_at": "2026-10-17T14:39:44.849400"
   }
 ]
