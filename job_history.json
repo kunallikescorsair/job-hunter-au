@@ -1,17 +1,5 @@
 [
   {
-    "title": "Data Analyst",
-    "company": "HUB24",
-    "url": "https://au.indeed.com/viewjob?jk=657d7690a6377971",
-    "scraped_at": "2026-08-10T09:07:41.631717"
-  },
-  {
-    "title": "Data Platforms Engineer (Azure DataBricks)",
-    "company": "Downer Group",
-    "url": "https://au.indeed.com/viewjob?jk=de0d13fd6c2b826d",
-    "scraped_at": "2026-08-10T12:45:18.686932"
-  },
-  {
     "title": "Team Leader",
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=64b75b35cb69e635",
@@ -5998,5 +5986,17 @@
     "company": "Sokin",
     "url": "https://au.indeed.com/viewjob?jk=b05acce0c30d8022",
     "scraped_at": "2026-10-16T19:08:06.081361"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "AI Talent",
+    "url": "https://au.indeed.com/viewjob?jk=adcb3c03f1b90b61",
+    "scraped_at": "2026-10-17T08:08:22.082249"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "AI Talent",
+    "url": "https://au.indeed.com/viewjob?jk=0033f0b62235da69",
+    "scraped_at": "2026-10-17T08:08:22.102711"
   }
 ]
