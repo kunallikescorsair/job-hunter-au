@@ -1,17 +1,5 @@
 [
   {
-    "title": "Site Reliability Engineer",
-    "company": "FIS",
-    "url": "https://au.indeed.com/viewjob?jk=9af17f5ab4bcb6d0",
-    "scraped_at": "2026-08-10T12:45:18.701784"
-  },
-  {
-    "title": "Commercial Revenue Analyst G7",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=bf5c701b0e2d901c",
-    "scraped_at": "2026-08-10T12:45:18.703818"
-  },
-  {
     "title": "Global Advisory & Markets, GSET FPGA Engineer, Associate / Vice Preisdent, Sydney",
     "company": "Goldman Sachs",
     "url": "https://au.indeed.com/viewjob?jk=4518c308ecabc454",
@@ -5998,5 +5986,17 @@
     "company": "Accenture",
     "url": "https://au.indeed.com/viewjob?jk=6d40578cc1ecee4b",
     "scraped_at": "2026-10-17T14:39:44.849400"
+  },
+  {
+    "title": "Data Analyst, Hill's ANZ",
+    "company": "Hill's Pet Nutrition",
+    "url": "https://au.indeed.com/viewjob?jk=ed32b795b13c777b",
+    "scraped_at": "2026-10-17T18:02:54.314734"
+  },
+  {
+    "title": "Data Virtualization Engineer",
+    "company": "Ashurst Perkins Coie",
+    "url": "https://au.indeed.com/viewjob?jk=a561ecce57bd1629",
+    "scraped_at": "2026-10-17T18:02:54.315454"
   }
 ]
