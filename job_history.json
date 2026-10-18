@@ -1,11 +1,5 @@
 [
   {
-    "title": "Analyst, Measurement Success, AUS (Bilingual Japanese/English Required)",
-    "company": "CINT",
-    "url": "https://au.indeed.com/viewjob?jk=8940d70961f3ea68",
-    "scraped_at": "2026-08-10T16:43:38.923133"
-  },
-  {
     "title": "AI Architect - Databricks",
     "company": "UNISON Group",
     "url": "https://au.indeed.com/viewjob?jk=1b08e8367c92cc5d",
@@ -5998,5 +5992,11 @@
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=a09165aae5c5af5e",
     "scraped_at": "2026-10-18T08:25:23.784489"
+  },
+  {
+    "title": "Site Reliability Engineer Graduate (Technical Infrastructure) - 2027 Start (BS/MS)",
+    "company": "TikTok",
+    "url": "https://au.indeed.com/viewjob?jk=3a2404cf0cce3565",
+    "scraped_at": "2026-10-18T22:03:45.887516"
   }
 ]
