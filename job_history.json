@@ -1,17 +1,5 @@
 [
   {
-    "title": "Network Engineer",
-    "company": "NCS",
-    "url": "https://au.indeed.com/viewjob?jk=5d49bc8faa8ae68d",
-    "scraped_at": "2026-08-11T04:58:39.849701"
-  },
-  {
-    "title": "VoidZero Engineer",
-    "company": "Cloudflare",
-    "url": "https://au.indeed.com/viewjob?jk=5956c79e756455cf",
-    "scraped_at": "2026-08-11T04:58:39.850443"
-  },
-  {
     "title": "Legal Engineer - Custom Solutions",
     "company": "HARVEY",
     "url": "https://au.indeed.com/viewjob?jk=17835aa3bbbfc0fb",
@@ -5998,5 +5986,17 @@
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=2dc5cec9ca67a0b5",
     "scraped_at": "2026-10-20T09:00:04.371707"
+  },
+  {
+    "title": "Power Platform Specialist/AI Engineer",
+    "company": "HammondCare",
+    "url": "https://au.indeed.com/viewjob?jk=d688be045e590a47",
+    "scraped_at": "2026-10-20T16:02:02.297717"
+  },
+  {
+    "title": "Content Solutions Engineer (Pre Sales)",
+    "company": "TransPerfect",
+    "url": "https://au.indeed.com/viewjob?jk=7b64954ff3a24d10",
+    "scraped_at": "2026-10-20T16:02:02.307920"
   }
 ]
