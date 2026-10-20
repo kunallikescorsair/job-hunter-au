@@ -1,11 +1,5 @@
 [
   {
-    "title": "Frontend Software Engineer",
-    "company": "Corto Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=dd82e261ed89aee4",
-    "scraped_at": "2026-08-11T00:59:22.222370"
-  },
-  {
     "title": "Content Solutions Engineer (Pre Sales)",
     "company": "TransPerfect",
     "url": "https://au.indeed.com/viewjob?jk=7b64954ff3a24d10",
@@ -5998,5 +5992,11 @@
     "company": "Atlassian",
     "url": "https://au.indeed.com/viewjob?jk=7ac693da9dcae8d5",
     "scraped_at": "2026-10-19T17:58:02.437432"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Linfox",
+    "url": "https://au.indeed.com/viewjob?jk=72b4a50b11920fd7",
+    "scraped_at": "2026-10-20T02:38:40.183220"
   }
 ]
