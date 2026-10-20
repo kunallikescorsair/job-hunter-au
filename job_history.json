@@ -1,11 +1,5 @@
 [
   {
-    "title": "Content Solutions Engineer (Pre Sales)",
-    "company": "TransPerfect",
-    "url": "https://au.indeed.com/viewjob?jk=7b64954ff3a24d10",
-    "scraped_at": "2026-08-11T00:59:22.243398"
-  },
-  {
     "title": "Network Engineer",
     "company": "NCS",
     "url": "https://au.indeed.com/viewjob?jk=5d49bc8faa8ae68d",
@@ -5998,5 +5992,11 @@
     "company": "Linfox",
     "url": "https://au.indeed.com/viewjob?jk=72b4a50b11920fd7",
     "scraped_at": "2026-10-20T02:38:40.183220"
+  },
+  {
+    "title": "Data Scientist, Group Audit",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=2dc5cec9ca67a0b5",
+    "scraped_at": "2026-10-20T09:00:04.371707"
   }
 ]
