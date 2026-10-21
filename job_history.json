@@ -1,11 +1,5 @@
 [
   {
-    "title": "Forward Deployed Engineer III - Applied AI",
-    "company": "v2 Digital",
-    "url": "https://au.indeed.com/viewjob?jk=a1810942bb5dad85",
-    "scraped_at": "2026-08-11T08:44:13.421144"
-  },
-  {
     "title": "Lending Services Analyst",
     "company": "REA Group",
     "url": "https://au.indeed.com/viewjob?jk=b31c821ec76fd538",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=76792452a04f53a4",
     "scraped_at": "2026-10-20T22:49:44.545782"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "HUB24",
+    "url": "https://au.indeed.com/viewjob?jk=cb4c733be1ec84cd",
+    "scraped_at": "2026-10-21T02:32:38.006888"
   }
 ]
