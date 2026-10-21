@@ -1,29 +1,5 @@
 [
   {
-    "title": "Machine Vision Engineer",
-    "company": "VERIDAPT",
-    "url": "https://au.indeed.com/viewjob?jk=c2f2faa02b9f593a",
-    "scraped_at": "2026-08-11T12:41:48.130957"
-  },
-  {
-    "title": "AWS DevOps Platform Technical Lead",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=a0f58945bf5a1426",
-    "scraped_at": "2026-08-11T12:41:48.136511"
-  },
-  {
-    "title": "Quantitative Researcher | Asia Pacific Systematic Trading",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=9bfee505afb255df",
-    "scraped_at": "2026-08-11T12:41:48.139429"
-  },
-  {
-    "title": "Cloud Native Customer Engineer",
-    "company": "Everpure",
-    "url": "https://au.indeed.com/viewjob?jk=ff0525a03d651c62",
-    "scraped_at": "2026-08-11T12:41:48.146330"
-  },
-  {
     "title": "Cloud System Integrator",
     "company": "Ericsson",
     "url": "https://au.indeed.com/viewjob?jk=9fd113569d8ed911",
@@ -5998,5 +5974,29 @@
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=56b6896032f3b8e5",
     "scraped_at": "2026-10-21T16:19:01.490921"
+  },
+  {
+    "title": "Financial Advisor",
+    "company": "Baseline Construction",
+    "url": "https://au.indeed.com/viewjob?jk=0fa4a03f33a2bfac",
+    "scraped_at": "2026-10-21T22:54:04.685363"
+  },
+  {
+    "title": "Business Solutions Partner",
+    "company": "Sanitarium Health Food Company",
+    "url": "https://au.indeed.com/viewjob?jk=c49bba153247a6ec",
+    "scraped_at": "2026-10-21T22:54:04.686552"
+  },
+  {
+    "title": "Tech BA",
+    "company": "Pyramid Global Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=22858f78ed30c97d",
+    "scraped_at": "2026-10-21T22:54:04.687380"
+  },
+  {
+    "title": "Contract Administrator",
+    "company": "Road and Rail Excavations Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=9eac51705a2df23c",
+    "scraped_at": "2026-10-21T22:54:04.689618"
   }
 ]
