@@ -1,17 +1,5 @@
 [
   {
-    "title": "Talent Acquisition Operations Analyst",
-    "company": "VetPartners",
-    "url": "https://au.indeed.com/viewjob?jk=94185c51e06670be",
-    "scraped_at": "2026-08-11T08:44:13.434777"
-  },
-  {
-    "title": "Manager, Modern Data Platform",
-    "company": "CIMIC Group",
-    "url": "https://au.indeed.com/viewjob?jk=69f93af265ecd979",
-    "scraped_at": "2026-08-11T12:41:48.126487"
-  },
-  {
     "title": "Machine Vision Engineer",
     "company": "VERIDAPT",
     "url": "https://au.indeed.com/viewjob?jk=c2f2faa02b9f593a",
@@ -5998,5 +5986,17 @@
     "company": "Aristocrat",
     "url": "https://au.indeed.com/viewjob?jk=3c71efc666618d66",
     "scraped_at": "2026-10-21T08:59:15.589408"
+  },
+  {
+    "title": "Operations Analyst",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=0b4ee5eb29ac6197",
+    "scraped_at": "2026-10-21T16:19:01.481859"
+  },
+  {
+    "title": "Data Center Technical Operations Engineer, AWS Data Center Engineering Operations",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=56b6896032f3b8e5",
+    "scraped_at": "2026-10-21T16:19:01.490921"
   }
 ]
