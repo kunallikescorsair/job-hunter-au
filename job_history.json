@@ -1,17 +1,5 @@
 [
   {
-    "title": "ECS Account Executive - Public Sector",
-    "company": "Salesforce",
-    "url": "https://au.indeed.com/viewjob?jk=69e1d4029a0fb425",
-    "scraped_at": "2026-08-12T09:02:14.604836"
-  },
-  {
-    "title": "Solution Engineer",
-    "company": "Mirvac",
-    "url": "https://au.indeed.com/viewjob?jk=f02d8c14068fa794",
-    "scraped_at": "2026-08-12T09:02:14.605572"
-  },
-  {
     "title": "Commercial Manager - International & B2B",
     "company": "Woolworths Group Limited",
     "url": "https://au.indeed.com/viewjob?jk=eb6d3655f61de588",
@@ -5998,5 +5986,17 @@
     "company": "Nuix",
     "url": "https://au.indeed.com/viewjob?jk=f99c917c1a4a1ca2",
     "scraped_at": "2026-10-23T16:08:14.402816"
+  },
+  {
+    "title": "Gaming Analyst",
+    "company": "Workers Lifestyle Group",
+    "url": "https://au.indeed.com/viewjob?jk=c1f09be739a4d818",
+    "scraped_at": "2026-10-23T22:45:06.921045"
+  },
+  {
+    "title": "Business Planning and Service Analyst",
+    "company": "Blacktown City Council",
+    "url": "https://au.indeed.com/viewjob?jk=b44982604f5d3715",
+    "scraped_at": "2026-10-23T22:45:06.921820"
   }
 ]
