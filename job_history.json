@@ -1,11 +1,5 @@
 [
   {
-    "title": "Commercial Manager - International & B2B",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=eb6d3655f61de588",
-    "scraped_at": "2026-08-12T09:02:14.609432"
-  },
-  {
     "title": "Physical Security Architect, Data Center Design Engineering",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=2e5405ea9d66b1a0",
@@ -5998,5 +5992,11 @@
     "company": "Blacktown City Council",
     "url": "https://au.indeed.com/viewjob?jk=b44982604f5d3715",
     "scraped_at": "2026-10-23T22:45:06.921820"
+  },
+  {
+    "title": "Forward Deployed Engineer Intern",
+    "company": "Lorikeet",
+    "url": "https://au.indeed.com/viewjob?jk=96b229884db06628",
+    "scraped_at": "2026-10-24T08:30:21.378511"
   }
 ]
