@@ -1,11 +1,5 @@
 [
   {
-    "title": "Physical Security Architect, Data Center Design Engineering",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=2e5405ea9d66b1a0",
-    "scraped_at": "2026-08-12T09:02:14.618929"
-  },
-  {
     "title": "Front end Full stack Engineer with AI",
     "company": "Tata Consultancy Services (TCS)",
     "url": "https://au.indeed.com/viewjob?jk=7513a884f45ecfe5",
@@ -5998,5 +5992,11 @@
     "company": "Lorikeet",
     "url": "https://au.indeed.com/viewjob?jk=96b229884db06628",
     "scraped_at": "2026-10-24T08:30:21.378511"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "AirLabOne",
+    "url": "https://au.indeed.com/viewjob?jk=1980529a7022b41f",
+    "scraped_at": "2026-10-24T15:04:13.627860"
   }
 ]
