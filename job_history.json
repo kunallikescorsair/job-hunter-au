@@ -1,17 +1,5 @@
 [
   {
-    "title": "Front end Full stack Engineer with AI",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=7513a884f45ecfe5",
-    "scraped_at": "2026-08-12T12:45:03.530127"
-  },
-  {
-    "title": "Design Quality Engineer",
-    "company": "Heidi",
-    "url": "https://au.indeed.com/viewjob?jk=e52453050937218e",
-    "scraped_at": "2026-08-12T12:45:03.531054"
-  },
-  {
     "title": "Raw Material Planner",
     "company": "Valvoline Global Operations",
     "url": "https://au.indeed.com/viewjob?jk=73ef77e886e5991e",
@@ -5998,5 +5986,17 @@
     "company": "AirLabOne",
     "url": "https://au.indeed.com/viewjob?jk=1980529a7022b41f",
     "scraped_at": "2026-10-24T15:04:13.627860"
+  },
+  {
+    "title": "SAP Data Consultant",
+    "company": "Duxxel",
+    "url": "https://au.indeed.com/viewjob?jk=ebc46fc7b1323ab7",
+    "scraped_at": "2026-10-24T22:07:17.864982"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Providence Disability and Ageing Support Services Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=0695b743185734bc",
+    "scraped_at": "2026-10-24T22:07:17.873111"
   }
 ]
