@@ -1,11 +1,5 @@
 [
   {
-    "title": "Project Engineer - Transmission Lines",
-    "company": "Consolidated Power Projects Australia",
-    "url": "https://au.indeed.com/viewjob?jk=99d5e53c304ad0c7",
-    "scraped_at": "2026-08-12T16:46:39.598108"
-  },
-  {
     "title": "Insights & Visualisation Engineer- 2 positions (12-month Max term contract)",
     "company": "HCF (Australia)",
     "url": "https://au.indeed.com/viewjob?jk=f5a87c626614fe82",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=7d05ccc97926f697",
     "scraped_at": "2026-10-25T08:49:19.909889"
+  },
+  {
+    "title": "Systems Analyst",
+    "company": "SEARCH Education",
+    "url": "https://au.indeed.com/viewjob?jk=f5abd291ed7449e7",
+    "scraped_at": "2026-10-25T22:10:19.307466"
   }
 ]
