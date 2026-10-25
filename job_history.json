@@ -1,11 +1,5 @@
 [
   {
-    "title": "Raw Material Planner",
-    "company": "Valvoline Global Operations",
-    "url": "https://au.indeed.com/viewjob?jk=73ef77e886e5991e",
-    "scraped_at": "2026-08-12T12:45:03.541723"
-  },
-  {
     "title": "Nuclear Medicine Technologist",
     "company": "NSW Government",
     "url": "https://au.indeed.com/viewjob?jk=510d43fb29c6a44d",
@@ -5998,5 +5992,11 @@
     "company": "Providence Disability and Ageing Support Services Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=0695b743185734bc",
     "scraped_at": "2026-10-24T22:07:17.873111"
+  },
+  {
+    "title": "Developer Programmer",
+    "company": "A S Consultants",
+    "url": "https://au.indeed.com/viewjob?jk=a00d74415a01124d",
+    "scraped_at": "2026-10-25T02:20:00.365838"
   }
 ]
