@@ -1,11 +1,5 @@
 [
   {
-    "title": "Nuclear Medicine Technologist",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=510d43fb29c6a44d",
-    "scraped_at": "2026-08-12T16:46:39.590042"
-  },
-  {
     "title": "Project Engineer - Transmission Lines",
     "company": "Consolidated Power Projects Australia",
     "url": "https://au.indeed.com/viewjob?jk=99d5e53c304ad0c7",
@@ -5998,5 +5992,11 @@
     "company": "A S Consultants",
     "url": "https://au.indeed.com/viewjob?jk=a00d74415a01124d",
     "scraped_at": "2026-10-25T02:20:00.365838"
+  },
+  {
+    "title": "Solution Architect",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=7d05ccc97926f697",
+    "scraped_at": "2026-10-25T08:49:19.909889"
   }
 ]
