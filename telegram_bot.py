@@ -40,7 +40,7 @@ Available commands:
 • `/recent` - View the most recent jobs
 • `/help` - Show this help message
 
-I'll automatically send you new job opportunities every 3 hours!
+I'll automatically send you new job opportunities every 4 hours!
 """
     await update.message.reply_text(welcome_text, parse_mode='Markdown')
 
