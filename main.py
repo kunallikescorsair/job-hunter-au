@@ -250,6 +250,7 @@ def run_scraper():
             "title": title,
             "company": company,
             "url": job_url,
+            "location": location.title(),
             "scraped_at": datetime.now().isoformat()
         })
 
