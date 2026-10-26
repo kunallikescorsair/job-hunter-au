@@ -1,11 +1,5 @@
 [
   {
-    "title": "Quality Engineer",
-    "company": "Corto Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=960ce12aa06ca7ed",
-    "scraped_at": "2026-08-13T01:07:33.207430"
-  },
-  {
     "title": "Cyber Threat Detection & Response Analyst",
     "company": "Cuscal",
     "url": "https://au.indeed.com/viewjob?jk=2a442b2dca1ca2aa",
@@ -5998,5 +5992,11 @@
     "company": "MoEngage Inc",
     "url": "https://au.indeed.com/viewjob?jk=d48c52a461ece73e",
     "scraped_at": "2026-10-26T17:55:04.407993"
+  },
+  {
+    "title": "Intelligence and Decisions Specialist",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=4676a86837592b8a",
+    "scraped_at": "2026-10-26T23:27:57.760798"
   }
 ]
