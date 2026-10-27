@@ -1,11 +1,5 @@
 [
   {
-    "title": "AWS Data Engineer",
-    "company": "Duxxel",
-    "url": "https://au.indeed.com/viewjob?jk=31e1dd54c0aced85",
-    "scraped_at": "2026-08-13T05:27:37.525511"
-  },
-  {
     "title": "Environmental Scientist - Contaminated Land Management",
     "company": "WSP",
     "url": "https://au.indeed.com/viewjob?jk=1a7cdf81f32d5e5a",
@@ -5998,5 +5992,11 @@
     "company": "TikTok",
     "url": "https://au.indeed.com/viewjob?jk=270b0d5201310754",
     "scraped_at": "2026-10-27T17:02:11.260284"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "HUB24",
+    "url": "https://au.indeed.com/viewjob?jk=d04492e7109ad5fb",
+    "scraped_at": "2026-10-27T23:21:13.585594"
   }
 ]
