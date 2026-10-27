@@ -1,17 +1,5 @@
 [
   {
-    "title": "Frontend Engineer - Luxury Travel",
-    "company": "Luxury Escapes",
-    "url": "https://au.indeed.com/viewjob?jk=0d127c9da3cd8669",
-    "scraped_at": "2026-08-13T05:27:37.516521"
-  },
-  {
-    "title": "Site Reliability Engineer",
-    "company": "Westpac Group",
-    "url": "https://au.indeed.com/viewjob?jk=543ad129e766908d",
-    "scraped_at": "2026-08-13T05:27:37.517322"
-  },
-  {
     "title": "AWS Data Engineer",
     "company": "Duxxel",
     "url": "https://au.indeed.com/viewjob?jk=31e1dd54c0aced85",
@@ -5998,5 +5986,17 @@
     "company": "Commonwealth Bank of Australia",
     "url": "https://au.indeed.com/viewjob?jk=ff52d36f0e0d5780",
     "scraped_at": "2026-10-27T09:26:47.806119"
+  },
+  {
+    "title": "Research Scientist, Generative Media and Multimodal LLM",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=024af53151915197",
+    "scraped_at": "2026-10-27T17:02:11.242152"
+  },
+  {
+    "title": "Site Reliability Engineer Graduate (Video & Edge Global Engineering) - 2027 Start (BS/MS)",
+    "company": "TikTok",
+    "url": "https://au.indeed.com/viewjob?jk=270b0d5201310754",
+    "scraped_at": "2026-10-27T17:02:11.260284"
   }
 ]
