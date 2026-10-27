@@ -1,17 +1,5 @@
 [
   {
-    "title": "Cyber Threat Detection & Response Analyst",
-    "company": "Cuscal",
-    "url": "https://au.indeed.com/viewjob?jk=2a442b2dca1ca2aa",
-    "scraped_at": "2026-08-13T01:07:33.217588"
-  },
-  {
-    "title": "GCP Data & AI/MLOps Engineer",
-    "company": "Showtime Consulting",
-    "url": "https://au.indeed.com/viewjob?jk=2b102c7eaaeecd0c",
-    "scraped_at": "2026-08-13T05:27:37.512190"
-  },
-  {
     "title": "Frontend Engineer - Luxury Travel",
     "company": "Luxury Escapes",
     "url": "https://au.indeed.com/viewjob?jk=0d127c9da3cd8669",
@@ -5998,5 +5986,17 @@
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=4676a86837592b8a",
     "scraped_at": "2026-10-26T23:27:57.760798"
+  },
+  {
+    "title": "Technology Associate Program (Traineeship)",
+    "company": "BankWest",
+    "url": "https://au.indeed.com/viewjob?jk=a969baa4d8b4918d",
+    "scraped_at": "2026-10-27T09:26:47.805430"
+  },
+  {
+    "title": "Technology Associate Program (Traineeship)",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=ff52d36f0e0d5780",
+    "scraped_at": "2026-10-27T09:26:47.806119"
   }
 ]
