@@ -1,53 +1,5 @@
 [
   {
-    "title": "Cortex XSIAM SME / Engineer",
-    "company": "Showtime Consulting",
-    "url": "https://au.indeed.com/viewjob?jk=0a41de6505675b84",
-    "scraped_at": "2026-08-13T09:04:03.793639"
-  },
-  {
-    "title": "Data Center Technical Operations Engineer, AWS Data Center Engineering Operations",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=5bcd702aebd10b7d",
-    "scraped_at": "2026-08-13T12:46:11.771285"
-  },
-  {
-    "title": "Software Development Engineer, Network Fabric Engineering, MONA",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=05ab96e2d21014b0",
-    "scraped_at": "2026-08-13T12:46:11.772842"
-  },
-  {
-    "title": "ICT Academic Partnerships Project Manager",
-    "company": "Wix.com, Inc.",
-    "url": "https://au.indeed.com/viewjob?jk=2b011aeea87fc072",
-    "scraped_at": "2026-08-13T12:46:11.777212"
-  },
-  {
-    "title": "AI Business Partner",
-    "company": "Australian Food and Fibre",
-    "url": "https://au.indeed.com/viewjob?jk=784257dff2412f63",
-    "scraped_at": "2026-08-13T16:45:30.285648"
-  },
-  {
-    "title": "Database Admin",
-    "company": "Epicor Software",
-    "url": "https://au.indeed.com/viewjob?jk=fbc1eabe01135c57",
-    "scraped_at": "2026-08-13T16:45:30.297139"
-  },
-  {
-    "title": "Product Deployment Engineer, gTech Ads (Fixed-Term Contract)",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=b549fdee72865fe8",
-    "scraped_at": "2026-08-13T16:45:30.309661"
-  },
-  {
-    "title": "Technical Solutions Consultant, Google Photos (English, Mandarin)",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=ff76ccd25a1e2e9e",
-    "scraped_at": "2026-08-14T01:06:42.403326"
-  },
-  {
     "title": "Automation Engineer",
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=4dbaae39ecfebb1e",
@@ -5998,5 +5950,53 @@
     "company": "PLAYTECH",
     "url": "https://au.indeed.com/viewjob?jk=578454e9d0b5f119",
     "scraped_at": "2026-10-28T10:09:19.283930"
+  },
+  {
+    "title": "AI Solutions Engineer",
+    "company": "Dematic",
+    "url": "https://au.indeed.com/viewjob?jk=16c63acd869eb77d",
+    "scraped_at": "2026-10-28T17:39:12.326590"
+  },
+  {
+    "title": "Affiliates Manager",
+    "company": "Xero",
+    "url": "https://au.indeed.com/viewjob?jk=c7831a4753e47d04",
+    "scraped_at": "2026-10-28T17:39:12.332686"
+  },
+  {
+    "title": "Territory Specialist",
+    "company": "Abbott",
+    "url": "https://au.indeed.com/viewjob?jk=6379fc5c9f911d0f",
+    "scraped_at": "2026-10-28T17:39:12.336126"
+  },
+  {
+    "title": "Aviation Digital Modeller",
+    "company": "AECOM",
+    "url": "https://au.indeed.com/viewjob?jk=cd7395caf3d5327f",
+    "scraped_at": "2026-10-28T17:39:12.350628"
+  },
+  {
+    "title": "Accounts Payable Officer",
+    "company": "Firmus Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=2ee249339dad892d",
+    "scraped_at": "2026-10-28T17:39:12.351750"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=17f59295045bd63c",
+    "scraped_at": "2026-10-28T17:39:12.369077"
+  },
+  {
+    "title": "Frontend Software Engineer, TikTok LIVE - Australia",
+    "company": "TikTok",
+    "url": "https://au.indeed.com/viewjob?jk=6bd2ef05dbd55bae",
+    "scraped_at": "2026-10-28T17:39:12.370141"
+  },
+  {
+    "title": "Frontend Software Engineer Graduate (TikTok Foundation) - 2027 Start (BS/MS)",
+    "company": "TikTok",
+    "url": "https://au.indeed.com/viewjob?jk=6305ba5516e9537c",
+    "scraped_at": "2026-10-28T17:39:12.371222"
   }
 ]
