@@ -1,11 +1,5 @@
 [
   {
-    "title": "Environmental Scientist - Contaminated Land Management",
-    "company": "WSP",
-    "url": "https://au.indeed.com/viewjob?jk=1a7cdf81f32d5e5a",
-    "scraped_at": "2026-08-13T09:04:03.772642"
-  },
-  {
     "title": "Technical Business Analyst \u2013 Appian Workflow (Banking)",
     "company": "Persistent Systems",
     "url": "https://au.indeed.com/viewjob?jk=332a6ab14bf8af25",
@@ -5998,5 +5992,11 @@
     "company": "HUB24",
     "url": "https://au.indeed.com/viewjob?jk=d04492e7109ad5fb",
     "scraped_at": "2026-10-27T23:21:13.585594"
+  },
+  {
+    "title": "Manager, Scams Information Enrichment & Analytics",
+    "company": "Australian Financial Complaints Authority",
+    "url": "https://au.indeed.com/viewjob?jk=59f2263060d3ae67",
+    "scraped_at": "2026-10-28T03:04:46.027001"
   }
 ]
