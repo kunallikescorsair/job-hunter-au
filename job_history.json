@@ -1,41 +1,5 @@
 [
   {
-    "title": "Automation Engineer",
-    "company": "Westpac Group",
-    "url": "https://au.indeed.com/viewjob?jk=4dbaae39ecfebb1e",
-    "scraped_at": "2026-08-14T05:25:22.954774"
-  },
-  {
-    "title": "Product Manager",
-    "company": "Nuix",
-    "url": "https://au.indeed.com/viewjob?jk=86a664a480b1a561",
-    "scraped_at": "2026-08-14T08:59:03.566431"
-  },
-  {
-    "title": "Cloud Security Engineer",
-    "company": "Showtime Consulting",
-    "url": "https://au.indeed.com/viewjob?jk=5e4d1cf14356d4e8",
-    "scraped_at": "2026-08-14T08:59:03.569633"
-  },
-  {
-    "title": "Quantitative Analyst, Retail Models",
-    "company": "Commonwealth Bank of Australia",
-    "url": "https://au.indeed.com/viewjob?jk=ef74169041008e17",
-    "scraped_at": "2026-08-14T08:59:03.575116"
-  },
-  {
-    "title": "Graduate Analyst - ISO",
-    "company": "Perpetual",
-    "url": "https://au.indeed.com/viewjob?jk=7a59bb30914502fe",
-    "scraped_at": "2026-08-14T08:59:03.578762"
-  },
-  {
-    "title": "Research Officer - School of Medical Sciences",
-    "company": "University of Sydney",
-    "url": "https://au.indeed.com/viewjob?jk=3e030e64485d937d",
-    "scraped_at": "2026-08-14T16:40:51.585253"
-  },
-  {
     "title": "Risk Control Analyst, Card & ATO Risk",
     "company": "Binance",
     "url": "https://au.indeed.com/viewjob?jk=5982c5774aecdbf9",
@@ -5998,5 +5962,41 @@
     "company": "TikTok",
     "url": "https://au.indeed.com/viewjob?jk=6305ba5516e9537c",
     "scraped_at": "2026-10-28T17:39:12.371222"
+  },
+  {
+    "title": "AI Engineer - AI Innovation Office ...",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=a8de8aca8b24be8c",
+    "scraped_at": "2026-10-28T23:44:14.100202"
+  },
+  {
+    "title": "Data and Insights Analyst - Operations",
+    "company": "ING",
+    "url": "https://au.indeed.com/viewjob?jk=5829ba6dc999c3b7",
+    "scraped_at": "2026-10-28T23:44:14.108206"
+  },
+  {
+    "title": "Junior Laboratory Officer",
+    "company": "Vitex Pharmaceuticals",
+    "url": "https://au.indeed.com/viewjob?jk=100490ed424aa4ec",
+    "scraped_at": "2026-10-28T23:44:14.109948"
+  },
+  {
+    "title": "Data Center Network Operations Engineer",
+    "company": "Cloudflare",
+    "url": "https://au.indeed.com/viewjob?jk=48d8c0f6c9162d35",
+    "scraped_at": "2026-10-28T23:44:14.118524"
+  },
+  {
+    "title": "Data Center Technical Operations Engineer, AWS Data Center Engineering Operations",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=5bcd702aebd10b7d",
+    "scraped_at": "2026-10-28T23:44:14.126307"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=cc1e271fea7e07a5",
+    "scraped_at": "2026-10-28T23:44:14.130503"
   }
 ]
