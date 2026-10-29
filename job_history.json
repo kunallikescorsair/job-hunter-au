@@ -1,101 +1,5 @@
 [
   {
-    "title": "Risk Control Analyst, Card & ATO Risk",
-    "company": "Binance",
-    "url": "https://au.indeed.com/viewjob?jk=5982c5774aecdbf9",
-    "scraped_at": "2026-08-14T16:40:51.595229"
-  },
-  {
-    "title": "Risk Analyst - Line 1",
-    "company": "Reserve Bank of Australia",
-    "url": "https://au.indeed.com/viewjob?jk=ebcae6083766c555",
-    "scraped_at": "2026-08-14T16:40:51.596680"
-  },
-  {
-    "title": "Business Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=596e9dde5b3a455f",
-    "scraped_at": "2026-08-14T16:40:51.597734"
-  },
-  {
-    "title": "Analyst, Real Estate Debt",
-    "company": "TIAA",
-    "url": "https://au.indeed.com/viewjob?jk=98ff9376aa18fc32",
-    "scraped_at": "2026-08-14T16:40:51.601598"
-  },
-  {
-    "title": "Front End Developer",
-    "company": "Duxxel",
-    "url": "https://au.indeed.com/viewjob?jk=0ffccac44292883d",
-    "scraped_at": "2026-08-14T16:40:51.602116"
-  },
-  {
-    "title": "Resilience Engineer",
-    "company": "Endeavour Energy",
-    "url": "https://au.indeed.com/viewjob?jk=03e251ea06ce9b41",
-    "scraped_at": "2026-08-14T16:40:51.603625"
-  },
-  {
-    "title": "Controls Design Engineer, Controls Design Engineering",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=8d84a9b5d358d8ad",
-    "scraped_at": "2026-08-14T16:40:51.605812"
-  },
-  {
-    "title": "Tech Lead Manager (multiple teams)",
-    "company": "Neara",
-    "url": "https://au.indeed.com/viewjob?jk=c353d49424a59943",
-    "scraped_at": "2026-08-15T00:40:08.815548"
-  },
-  {
-    "title": "Knowledge Engineer",
-    "company": "Accenture",
-    "url": "https://au.indeed.com/viewjob?jk=1723b210c111e9d0",
-    "scraped_at": "2026-08-15T04:21:02.282196"
-  },
-  {
-    "title": "AI Engineer",
-    "company": "Accenture",
-    "url": "https://au.indeed.com/viewjob?jk=fa39286de9c1e2ef",
-    "scraped_at": "2026-08-15T04:21:02.283267"
-  },
-  {
-    "title": "Analyst, Securitisation",
-    "company": "RBC",
-    "url": "https://au.indeed.com/viewjob?jk=0d16f20d6eede160",
-    "scraped_at": "2026-08-15T04:21:02.294790"
-  },
-  {
-    "title": "AI Augmented Migration Engineer",
-    "company": "Cognizant",
-    "url": "https://au.indeed.com/viewjob?jk=8e3d4983fe7bbf32",
-    "scraped_at": "2026-08-15T08:15:50.768119"
-  },
-  {
-    "title": "AI-Augmented Data Migration Engineer",
-    "company": "Cognizant",
-    "url": "https://au.indeed.com/viewjob?jk=6927e2672384c7da",
-    "scraped_at": "2026-08-15T08:15:50.768953"
-  },
-  {
-    "title": "Duck Creek Delivery Lead / Scrum Master",
-    "company": "Cognizant",
-    "url": "https://au.indeed.com/viewjob?jk=1bbb8b51e87db4a1",
-    "scraped_at": "2026-08-15T08:15:50.776948"
-  },
-  {
-    "title": "Lead Data Engineer",
-    "company": "Cognizant",
-    "url": "https://au.indeed.com/viewjob?jk=5122cc6c0e0604a1",
-    "scraped_at": "2026-08-15T08:15:50.778004"
-  },
-  {
-    "title": "Machine Learning Platform Engineer",
-    "company": "Atlassian",
-    "url": "https://au.indeed.com/viewjob?jk=c12b82da0d5c25e2",
-    "scraped_at": "2026-08-15T12:18:46.602559"
-  },
-  {
     "title": "Quantexa Engineer",
     "company": "Infosys",
     "url": "https://au.indeed.com/viewjob?jk=7c51979a6fb021bb",
@@ -5998,5 +5902,101 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=cc1e271fea7e07a5",
     "scraped_at": "2026-10-28T23:44:14.130503"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=673083631263a2fd",
+    "scraped_at": "2026-10-29T03:31:10.686887"
+  },
+  {
+    "title": "Data Scientist - Credit Risk Models",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=9e8f78379d018458",
+    "scraped_at": "2026-10-29T03:31:10.692428"
+  },
+  {
+    "title": "Technical Business Analyst - Payments",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=2ddde069beeb765f",
+    "scraped_at": "2026-10-29T03:31:10.697015"
+  },
+  {
+    "title": "Office Manager",
+    "company": "Syenta",
+    "url": "https://au.indeed.com/viewjob?jk=f757ce8efed28279",
+    "scraped_at": "2026-10-29T03:31:10.697777"
+  },
+  {
+    "title": "Clinical AI Engineer",
+    "company": "Heidi",
+    "url": "https://au.indeed.com/viewjob?jk=c84fa1a761b8fae3",
+    "scraped_at": "2026-10-29T03:31:10.699303"
+  },
+  {
+    "title": "SAP Basis Engineer",
+    "company": "Persistent Systems",
+    "url": "https://au.indeed.com/viewjob?jk=f36f9f1e0fff2511",
+    "scraped_at": "2026-10-29T03:31:10.699969"
+  },
+  {
+    "title": "Enterprise Account Executive",
+    "company": "Rubrik",
+    "url": "https://au.indeed.com/viewjob?jk=e1ef303ea1c6a875",
+    "scraped_at": "2026-10-29T03:31:10.705587"
+  },
+  {
+    "title": "Data & Reporting Analyst",
+    "company": "Angle Finance",
+    "url": "https://au.indeed.com/viewjob?jk=e7faef3328ea4a98",
+    "scraped_at": "2026-10-29T03:31:10.706521"
+  },
+  {
+    "title": "BI Developer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=2cf83226dd5dff6e",
+    "scraped_at": "2026-10-29T03:31:10.707284"
+  },
+  {
+    "title": "Junior Quality Control Officer- Afternoon Shift",
+    "company": "Vitex Pharmaceuticals",
+    "url": "https://au.indeed.com/viewjob?jk=0bc0d9f968c15891",
+    "scraped_at": "2026-10-29T03:31:10.709389"
+  },
+  {
+    "title": "Compliance Investment Information Services - Associate",
+    "company": "JPMorganChase",
+    "url": "https://au.indeed.com/viewjob?jk=0918a72436475ddb",
+    "scraped_at": "2026-10-29T03:31:10.709976"
+  },
+  {
+    "title": "Associate Test Analyst",
+    "company": "HUB24",
+    "url": "https://au.indeed.com/viewjob?jk=080ce9465027cbb2",
+    "scraped_at": "2026-10-29T03:31:10.710586"
+  },
+  {
+    "title": "Cyber Assurance Analyst, Third Party Security",
+    "company": "Colonial First State",
+    "url": "https://au.indeed.com/viewjob?jk=53a0349a6b62255c",
+    "scraped_at": "2026-10-29T03:31:10.711442"
+  },
+  {
+    "title": "Lead Data Engineer",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=c686a2830a613248",
+    "scraped_at": "2026-10-29T03:31:10.712366"
+  },
+  {
+    "title": "Cyber Security Operations Lead",
+    "company": "AC3",
+    "url": "https://au.indeed.com/viewjob?jk=f76224c8b82eb629",
+    "scraped_at": "2026-10-29T03:31:10.716607"
+  },
+  {
+    "title": "Engineering Lead | APAC Gas, Power and Carbon",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=f74f9db7661da8a0",
+    "scraped_at": "2026-10-29T03:31:10.721604"
   }
 ]
