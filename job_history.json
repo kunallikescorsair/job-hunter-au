@@ -1,41 +1,5 @@
 [
   {
-    "title": "Quantexa Engineer",
-    "company": "Infosys",
-    "url": "https://au.indeed.com/viewjob?jk=7c51979a6fb021bb",
-    "scraped_at": "2026-08-15T16:13:18.627844"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "Rabobank",
-    "url": "https://au.indeed.com/viewjob?jk=f4417bee91393111",
-    "scraped_at": "2026-08-15T20:12:02.112453"
-  },
-  {
-    "title": "QA Software Engineer - Sensors and Effectors (AU)",
-    "company": "Rippling",
-    "url": "https://au.indeed.com/viewjob?jk=3e32a50a55f56f87",
-    "scraped_at": "2026-08-17T00:40:24.635349"
-  },
-  {
-    "title": "Investment Consulting Intern",
-    "company": "Mercer",
-    "url": "https://au.indeed.com/viewjob?jk=d11fe1bb1d022203",
-    "scraped_at": "2026-08-17T04:32:10.065712"
-  },
-  {
-    "title": "FP&A Analyst | Commodities & Global Markets",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=09817a993dffb8ec",
-    "scraped_at": "2026-08-17T04:32:10.070724"
-  },
-  {
-    "title": "AI driven Exercise Scientist/Physiologist",
-    "company": "Vision Personal Training Studios in NSW",
-    "url": "https://au.indeed.com/viewjob?jk=7aa54ee07d206d4e",
-    "scraped_at": "2026-08-17T08:32:19.920470"
-  },
-  {
     "title": "Software Engineer",
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=18c95fcb8de752bb",
@@ -5998,5 +5962,41 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=f74f9db7661da8a0",
     "scraped_at": "2026-10-29T03:31:10.721604"
+  },
+  {
+    "title": "AI Support Engineer",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=6eba3bc9f7956eb2",
+    "scraped_at": "2026-10-29T10:34:09.402674"
+  },
+  {
+    "title": "Lead Engineer - Applied AI",
+    "company": "Xero",
+    "url": "https://au.indeed.com/viewjob?jk=85cea403bfb0386c",
+    "scraped_at": "2026-10-29T10:34:09.402998"
+  },
+  {
+    "title": "Production Technician",
+    "company": "Q-CTRL",
+    "url": "https://au.indeed.com/viewjob?jk=cf27979a1d884317",
+    "scraped_at": "2026-10-29T10:34:09.404317"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Unifi Services",
+    "url": "https://au.indeed.com/viewjob?jk=5ced5538c525fcf2",
+    "scraped_at": "2026-10-29T10:34:09.410385"
+  },
+  {
+    "title": "Planning Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=31db4ec7d6560477",
+    "scraped_at": "2026-10-29T10:34:09.416447"
+  },
+  {
+    "title": "ICT Design Engineer, DC Design Engineering",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=63d9e845e08a3b50",
+    "scraped_at": "2026-10-29T10:34:09.418279"
   }
 ]
