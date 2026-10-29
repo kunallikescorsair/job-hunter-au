@@ -1,35 +1,5 @@
 [
   {
-    "title": "Technical Business Analyst",
-    "company": "ASC Employment Services Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=8d2b3e87d5892195",
-    "scraped_at": "2026-08-17T16:15:55.097159"
-  },
-  {
-    "title": "Civil BIM Designer, DC Design Engineering",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=4db8fc388896b855",
-    "scraped_at": "2026-08-17T16:15:55.106397"
-  },
-  {
-    "title": "Spatial Data Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=25bcf0caedd18e0b",
-    "scraped_at": "2026-08-17T16:15:55.108561"
-  },
-  {
-    "title": "Data engineer",
-    "company": "Acira Consultancy Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=15df0a7b473d3e7f",
-    "scraped_at": "2026-08-17T16:15:55.115904"
-  },
-  {
-    "title": "Tech Training Specialist, DCEO, AWS Infra Operations",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=f4279998f0fdd478",
-    "scraped_at": "2026-08-17T16:15:55.117911"
-  },
-  {
     "title": "Agent Harness Engineer - Core Runtime",
     "company": "NinjaTech AI",
     "url": "https://au.indeed.com/viewjob?jk=713704ffb87573f2",
@@ -5998,5 +5968,35 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=8a90654ce4684182",
     "scraped_at": "2026-10-29T17:46:57.341739"
+  },
+  {
+    "title": "Penetration Tester",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=78b1510d279808d6",
+    "scraped_at": "2026-10-29T23:42:39.213150"
+  },
+  {
+    "title": "Legal Engineer, Product Specialist",
+    "company": "HARVEY",
+    "url": "https://au.indeed.com/viewjob?jk=265e3be9e1a93886",
+    "scraped_at": "2026-10-29T23:42:39.216984"
+  },
+  {
+    "title": "Quality Assurance Analyst",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=10db60970badf131",
+    "scraped_at": "2026-10-29T23:42:39.221950"
+  },
+  {
+    "title": "Web Designer",
+    "company": "EXCLUSIVE NETWORKS",
+    "url": "https://au.indeed.com/viewjob?jk=27a434a3fbd201fc",
+    "scraped_at": "2026-10-29T23:42:39.232939"
+  },
+  {
+    "title": "Junior Designer",
+    "company": "EXCLUSIVE NETWORKS",
+    "url": "https://au.indeed.com/viewjob?jk=b56d5df8c3d8261a",
+    "scraped_at": "2026-10-29T23:42:39.233754"
   }
 ]
