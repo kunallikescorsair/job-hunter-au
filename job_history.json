@@ -1,53 +1,5 @@
 [
   {
-    "title": "Software Engineer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=18c95fcb8de752bb",
-    "scraped_at": "2026-08-17T08:32:19.928783"
-  },
-  {
-    "title": "Development Engineer Electronics",
-    "company": "Signify",
-    "url": "https://au.indeed.com/viewjob?jk=7c980a5882b8737b",
-    "scraped_at": "2026-08-17T08:32:19.930070"
-  },
-  {
-    "title": "Business Intelligence Data Modeller & Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=d479c79803323e38",
-    "scraped_at": "2026-08-17T08:32:19.934577"
-  },
-  {
-    "title": "AI Architect - Databricks",
-    "company": "UNISON Group",
-    "url": "https://au.indeed.com/viewjob?jk=f69fb4a0c2c8e180",
-    "scraped_at": "2026-08-17T08:32:19.946044"
-  },
-  {
-    "title": "Developer Programmer",
-    "company": "RESTOSUITE AU PTY LTD",
-    "url": "https://au.indeed.com/viewjob?jk=f67824b39c3b67ba",
-    "scraped_at": "2026-08-17T08:32:19.947044"
-  },
-  {
-    "title": "Lead Systems Engineer",
-    "company": "EPAM Systems",
-    "url": "https://au.indeed.com/viewjob?jk=90fe615fea9e513b",
-    "scraped_at": "2026-08-17T12:23:24.834401"
-  },
-  {
-    "title": "Sales Performance Analyst",
-    "company": "Qantas",
-    "url": "https://au.indeed.com/viewjob?jk=f910ad85f081e9ad",
-    "scraped_at": "2026-08-17T12:23:24.839604"
-  },
-  {
-    "title": "Data Center IT Operations Technician, Data Center Operations",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=dc15bc90fc15b1e3",
-    "scraped_at": "2026-08-17T12:23:24.848989"
-  },
-  {
     "title": "Technical Business Analyst",
     "company": "ASC Employment Services Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=8d2b3e87d5892195",
@@ -5998,5 +5950,53 @@
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=63d9e845e08a3b50",
     "scraped_at": "2026-10-29T10:34:09.418279"
+  },
+  {
+    "title": "Snowflake Platform Engineer / Administrator",
+    "company": "Nixil",
+    "url": "https://au.indeed.com/viewjob?jk=a1b1d3303b256000",
+    "scraped_at": "2026-10-29T17:46:57.316324"
+  },
+  {
+    "title": "Lead Data Engineer - AWS & AI | AI&Data | Sydney",
+    "company": "Deloitte",
+    "url": "https://au.indeed.com/viewjob?jk=2be3fe313e875fab",
+    "scraped_at": "2026-10-29T17:46:57.317322"
+  },
+  {
+    "title": "Middle Office Analyst (VN3283)",
+    "company": "MAREX",
+    "url": "https://au.indeed.com/viewjob?jk=88eb684d39f671b4",
+    "scraped_at": "2026-10-29T17:46:57.321339"
+  },
+  {
+    "title": "Sr Data Engineer",
+    "company": "Tech Aalto Pte ltd",
+    "url": "https://au.indeed.com/viewjob?jk=df106fde7a51b6bf",
+    "scraped_at": "2026-10-29T17:46:57.327916"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Rabobank",
+    "url": "https://au.indeed.com/viewjob?jk=f4417bee91393111",
+    "scraped_at": "2026-10-29T17:46:57.329425"
+  },
+  {
+    "title": "Information Security & Compliance Manager",
+    "company": "Salesforce",
+    "url": "https://au.indeed.com/viewjob?jk=f606e45fc4a54ff1",
+    "scraped_at": "2026-10-29T17:46:57.339458"
+  },
+  {
+    "title": "Software Engineer (.NET / Angular)",
+    "company": "TS Consulting Solutions",
+    "url": "https://au.indeed.com/viewjob?jk=f2cc67de19372420",
+    "scraped_at": "2026-10-29T17:46:57.339998"
+  },
+  {
+    "title": "Digital Business & AI Specialist",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=8a90654ce4684182",
+    "scraped_at": "2026-10-29T17:46:57.341739"
   }
 ]
