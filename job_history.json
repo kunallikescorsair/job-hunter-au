@@ -1,17 +1,5 @@
 [
   {
-    "title": "Spatial Specialist / Geospatial Analyst",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=44210c18483fd8dd",
-    "scraped_at": "2026-08-18T04:25:44.107701"
-  },
-  {
-    "title": "Cloud & AI Platform Specialist - Azure",
-    "company": "Datacom Connect",
-    "url": "https://au.indeed.com/viewjob?jk=ff954ba413770d54",
-    "scraped_at": "2026-08-18T04:25:44.122669"
-  },
-  {
     "title": "Information Security & IT Manager",
     "company": "Corto Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=25d1af81712274ef",
@@ -5998,5 +5986,17 @@
     "company": "Harvey Norman",
     "url": "https://au.indeed.com/viewjob?jk=3e94e06667754869",
     "scraped_at": "2026-10-30T03:34:00.616080"
+  },
+  {
+    "title": "P&C Operations Analyst",
+    "company": "AIA Australia",
+    "url": "https://au.indeed.com/viewjob?jk=ecdfdf149e464786",
+    "scraped_at": "2026-10-30T10:34:57.969234"
+  },
+  {
+    "title": "Engineering Assistant - Internship",
+    "company": "City of Ryde",
+    "url": "https://au.indeed.com/viewjob?jk=779ec1f4deeaf080",
+    "scraped_at": "2026-10-30T10:34:57.971625"
   }
 ]
