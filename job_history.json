@@ -1,29 +1,5 @@
 [
   {
-    "title": "Information Security & IT Manager",
-    "company": "Corto Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=25d1af81712274ef",
-    "scraped_at": "2026-08-18T04:25:44.123489"
-  },
-  {
-    "title": "DevOps Engineer",
-    "company": "Alinta Energy",
-    "url": "https://au.indeed.com/viewjob?jk=96eb7608ef91bd2e",
-    "scraped_at": "2026-08-18T08:24:18.938865"
-  },
-  {
-    "title": "Commercial Property Analyst",
-    "company": "CoStar Group",
-    "url": "https://au.indeed.com/viewjob?jk=acd4a6eaf095554c",
-    "scraped_at": "2026-08-18T08:24:18.943197"
-  },
-  {
-    "title": "Financial Analyst",
-    "company": "Covetrus",
-    "url": "https://au.indeed.com/viewjob?jk=10acafc2d9b7d822",
-    "scraped_at": "2026-08-18T08:24:18.946837"
-  },
-  {
     "title": "Digital Designer",
     "company": "3P LEARNING",
     "url": "https://au.indeed.com/viewjob?jk=c4de8d2c495730b7",
@@ -5998,5 +5974,29 @@
     "company": "City of Ryde",
     "url": "https://au.indeed.com/viewjob?jk=779ec1f4deeaf080",
     "scraped_at": "2026-10-30T10:34:57.971625"
+  },
+  {
+    "title": "Lead Data Engineer",
+    "company": "endava",
+    "url": "https://au.indeed.com/viewjob?jk=b5d6a628374ba56f",
+    "scraped_at": "2026-10-30T17:28:08.780231"
+  },
+  {
+    "title": "Data Operations Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=e3131cf8e0c55d22",
+    "scraped_at": "2026-10-30T17:28:08.783999"
+  },
+  {
+    "title": "IBM Cognos Developer",
+    "company": "Duxxel",
+    "url": "https://au.indeed.com/viewjob?jk=71f1cc3a5264a2b5",
+    "scraped_at": "2026-10-30T17:28:08.794040"
+  },
+  {
+    "title": "Automation & AI Integration Developer",
+    "company": "BORG",
+    "url": "https://au.indeed.com/viewjob?jk=392010d7919666c8",
+    "scraped_at": "2026-10-30T17:28:08.797769"
   }
 ]
