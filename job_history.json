@@ -1,11 +1,5 @@
 [
   {
-    "title": "Digital Designer",
-    "company": "3P LEARNING",
-    "url": "https://au.indeed.com/viewjob?jk=c4de8d2c495730b7",
-    "scraped_at": "2026-08-18T08:24:18.957483"
-  },
-  {
     "title": "Microsoft Applications AI Consultant",
     "company": "NTT DATA",
     "url": "https://au.indeed.com/viewjob?jk=7d9fc1cc2b57f930",
@@ -5998,5 +5992,11 @@
     "company": "BORG",
     "url": "https://au.indeed.com/viewjob?jk=392010d7919666c8",
     "scraped_at": "2026-10-30T17:28:08.797769"
+  },
+  {
+    "title": "Manager - Risk Analytics Engineering",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=82a2be0085e197fc",
+    "scraped_at": "2026-10-30T23:22:56.412134"
   }
 ]
