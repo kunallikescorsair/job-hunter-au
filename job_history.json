@@ -1,35 +1,5 @@
 [
   {
-    "title": "Agent Harness Engineer - Core Runtime",
-    "company": "NinjaTech AI",
-    "url": "https://au.indeed.com/viewjob?jk=713704ffb87573f2",
-    "scraped_at": "2026-08-18T00:40:02.775657"
-  },
-  {
-    "title": "Data Product Management Manager",
-    "company": "Commonwealth Bank of Australia",
-    "url": "https://au.indeed.com/viewjob?jk=4a0db2a3351dda67",
-    "scraped_at": "2026-08-18T00:40:02.776287"
-  },
-  {
-    "title": "Data Operations Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=e3131cf8e0c55d22",
-    "scraped_at": "2026-08-18T00:40:02.779270"
-  },
-  {
-    "title": "Warehouse Operator - CB1 - NM",
-    "company": "Axalta Coating Systems",
-    "url": "https://au.indeed.com/viewjob?jk=2e4f3e97dcae728f",
-    "scraped_at": "2026-08-18T04:25:44.102133"
-  },
-  {
-    "title": "DevOps Engineer",
-    "company": "Future Secure AI",
-    "url": "https://au.indeed.com/viewjob?jk=90dbafda87b651dc",
-    "scraped_at": "2026-08-18T04:25:44.103129"
-  },
-  {
     "title": "Spatial Specialist / Geospatial Analyst",
     "company": "nan",
     "url": "https://au.indeed.com/viewjob?jk=44210c18483fd8dd",
@@ -5998,5 +5968,35 @@
     "company": "EXCLUSIVE NETWORKS",
     "url": "https://au.indeed.com/viewjob?jk=b56d5df8c3d8261a",
     "scraped_at": "2026-10-29T23:42:39.233754"
+  },
+  {
+    "title": "Software Engineer, Business Accounts",
+    "company": "Airwallex",
+    "url": "https://au.indeed.com/viewjob?jk=7bedc9a9b608e212",
+    "scraped_at": "2026-10-30T03:34:00.587649"
+  },
+  {
+    "title": "Engineer - SRE",
+    "company": "Xero",
+    "url": "https://au.indeed.com/viewjob?jk=39ee83c3fc686f56",
+    "scraped_at": "2026-10-30T03:34:00.588452"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "ASI Solutions",
+    "url": "https://au.indeed.com/viewjob?jk=f8d1e0d06f5820d4",
+    "scraped_at": "2026-10-30T03:34:00.589405"
+  },
+  {
+    "title": "Risk Analyst",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=28bf0c743d2aacec",
+    "scraped_at": "2026-10-30T03:34:00.598675"
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "Harvey Norman",
+    "url": "https://au.indeed.com/viewjob?jk=3e94e06667754869",
+    "scraped_at": "2026-10-30T03:34:00.616080"
   }
 ]
