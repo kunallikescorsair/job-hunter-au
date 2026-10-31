@@ -1,11 +1,5 @@
 [
   {
-    "title": "Microsoft Applications AI Consultant",
-    "company": "NTT DATA",
-    "url": "https://au.indeed.com/viewjob?jk=7d9fc1cc2b57f930",
-    "scraped_at": "2026-08-18T12:25:02.756758"
-  },
-  {
     "title": "Manager, AI Evaluation",
     "company": "University of Sydney",
     "url": "https://au.indeed.com/viewjob?jk=89e15c426606b496",
@@ -5998,5 +5992,11 @@
     "company": "Commonwealth Bank of Australia",
     "url": "https://au.indeed.com/viewjob?jk=82a2be0085e197fc",
     "scraped_at": "2026-10-30T23:22:56.412134"
+  },
+  {
+    "title": "Sales Engineer, APJ",
+    "company": "Coalesce",
+    "url": "https://au.indeed.com/viewjob?jk=74d7868e3b45dde8",
+    "scraped_at": "2026-10-31T03:18:28.222033"
   }
 ]
