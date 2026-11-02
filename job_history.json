@@ -1,11 +1,5 @@
 [
   {
-    "title": "Contract Administrator - Marsden Park",
-    "company": "Built Holdings",
-    "url": "https://au.indeed.com/viewjob?jk=ab58045109b4fa95",
-    "scraped_at": "2026-08-18T12:25:02.789036"
-  },
-  {
     "title": "Microsoft Applications AI Consultant",
     "company": "NTT DATA",
     "url": "https://au.indeed.com/viewjob?jk=7c40c8a66b4f0a71",
@@ -5998,5 +5992,11 @@
     "company": "EG Australia",
     "url": "https://au.indeed.com/viewjob?jk=72c5a4f92aec6109",
     "scraped_at": "2026-11-02T11:50:27.551557"
+  },
+  {
+    "title": "Facility Operations Center Engineer, Facility Operations Center (FOC)",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=784854e6cda0e3db",
+    "scraped_at": "2026-11-02T21:04:34.967797"
   }
 ]
