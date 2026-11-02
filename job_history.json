@@ -1,35 +1,5 @@
 [
   {
-    "title": "Platform Engineer",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=cba68199abe1b9bc",
-    "scraped_at": "2026-08-18T12:25:02.770735"
-  },
-  {
-    "title": "Experienced Analyst | Regulatory Operations | Sydney",
-    "company": "Deloitte",
-    "url": "https://au.indeed.com/viewjob?jk=c52915d60b8ac8c0",
-    "scraped_at": "2026-08-18T12:25:02.776553"
-  },
-  {
-    "title": "Business Intelligence Analyst",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=485094a90c0dac18",
-    "scraped_at": "2026-08-18T12:25:02.778841"
-  },
-  {
-    "title": "AI Business Analyst - Delivery and Enablement",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=8f9cba3a2cf680c6",
-    "scraped_at": "2026-08-18T12:25:02.779421"
-  },
-  {
-    "title": "Security Operations Engineer",
-    "company": "Microsoft",
-    "url": "https://au.indeed.com/viewjob?jk=0248f16cf8014da7",
-    "scraped_at": "2026-08-18T12:25:02.786004"
-  },
-  {
     "title": "Contract Administrator - Marsden Park",
     "company": "Built Holdings",
     "url": "https://au.indeed.com/viewjob?jk=ab58045109b4fa95",
@@ -5998,5 +5968,35 @@
     "company": "Objective Corporation",
     "url": "https://au.indeed.com/viewjob?jk=acbb94e6e4a5d414",
     "scraped_at": "2026-11-02T03:26:35.764601"
+  },
+  {
+    "title": "Postdoctoral Scientist - McNamara Lab - Darlinghurst",
+    "company": "Victor Chang Cardiac Research Institute",
+    "url": "https://au.indeed.com/viewjob?jk=c0906e6794b41c76",
+    "scraped_at": "2026-11-02T11:50:27.531859"
+  },
+  {
+    "title": "Software Engineer \u2013 Python/Java Full Stack Hybrid\u00a0\u2014 Full time Sydney",
+    "company": "Objective",
+    "url": "https://au.indeed.com/viewjob?jk=8300f195f8e9ee66",
+    "scraped_at": "2026-11-02T11:50:27.544320"
+  },
+  {
+    "title": "Google SecOps Platform Engineer",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=4153c1d564fb9b3f",
+    "scraped_at": "2026-11-02T11:50:27.548525"
+  },
+  {
+    "title": "Systems Analyst (Ext Leave)",
+    "company": "Boral",
+    "url": "https://au.indeed.com/viewjob?jk=f8dabb6e78ba8401",
+    "scraped_at": "2026-11-02T11:50:27.549253"
+  },
+  {
+    "title": "Data and Analytics Engineer",
+    "company": "EG Australia",
+    "url": "https://au.indeed.com/viewjob?jk=72c5a4f92aec6109",
+    "scraped_at": "2026-11-02T11:50:27.551557"
   }
 ]
