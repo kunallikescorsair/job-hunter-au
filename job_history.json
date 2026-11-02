@@ -1,11 +1,5 @@
 [
   {
-    "title": "Respiratory Scientist",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=2df37e43d3747bf1",
-    "scraped_at": "2026-08-18T12:25:02.762241"
-  },
-  {
     "title": "Platform Engineer",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=cba68199abe1b9bc",
@@ -5998,5 +5992,11 @@
     "company": "atWork Australia",
     "url": "https://au.indeed.com/viewjob?jk=d1a1d4fec726fc78",
     "scraped_at": "2026-11-01T10:54:43.151481"
+  },
+  {
+    "title": "Software Engineer \u2013 Python/Java Full Stack",
+    "company": "Objective Corporation",
+    "url": "https://au.indeed.com/viewjob?jk=acbb94e6e4a5d414",
+    "scraped_at": "2026-11-02T03:26:35.764601"
   }
 ]
