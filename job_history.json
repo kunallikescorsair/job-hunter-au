@@ -1,41 +1,5 @@
 [
   {
-    "title": "Microsoft Applications AI Consultant",
-    "company": "NTT DATA",
-    "url": "https://au.indeed.com/viewjob?jk=7c40c8a66b4f0a71",
-    "scraped_at": "2026-08-18T16:19:54.262831"
-  },
-  {
-    "title": "Global Advisory & Markets, Synthetics Products Group Engineer, Associate/ VP, Sydney",
-    "company": "Goldman Sachs",
-    "url": "https://au.indeed.com/viewjob?jk=5b85cd7d03100f64",
-    "scraped_at": "2026-08-18T20:13:15.441220"
-  },
-  {
-    "title": "MDR Analyst, Unit 42",
-    "company": "Palo Alto Networks",
-    "url": "https://au.indeed.com/viewjob?jk=ed21723196462bd9",
-    "scraped_at": "2026-08-18T20:13:15.453354"
-  },
-  {
-    "title": "Analyst, Account Management",
-    "company": "Mastercard",
-    "url": "https://au.indeed.com/viewjob?jk=78841d8c61e248c9",
-    "scraped_at": "2026-08-19T00:40:02.330349"
-  },
-  {
-    "title": "Finance Analyst - Commercial",
-    "company": "Endeavour Group",
-    "url": "https://au.indeed.com/viewjob?jk=81a0f1477d1c2313",
-    "scraped_at": "2026-08-19T04:27:40.708132"
-  },
-  {
-    "title": "Project Manager",
-    "company": "Hitachi Energy",
-    "url": "https://au.indeed.com/viewjob?jk=c43d8b31b9650137",
-    "scraped_at": "2026-08-19T04:27:40.715680"
-  },
-  {
     "title": "Service Project Management Manager",
     "company": "ABB",
     "url": "https://au.indeed.com/viewjob?jk=1ac761eef93e30ca",
@@ -5998,5 +5962,41 @@
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=784854e6cda0e3db",
     "scraped_at": "2026-11-02T21:04:34.967797"
+  },
+  {
+    "title": "AI Product Builder",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=b144d0e75a8c5ee1",
+    "scraped_at": "2026-11-03T04:37:03.106102"
+  },
+  {
+    "title": "Forward Deployed Full Stack Engineer",
+    "company": "Deloitte",
+    "url": "https://au.indeed.com/viewjob?jk=f27252cc43799f50",
+    "scraped_at": "2026-11-03T04:37:03.111371"
+  },
+  {
+    "title": "Assembly Technician - Optics Team",
+    "company": "Advanced Navigation & Positioning Corporation",
+    "url": "https://au.indeed.com/viewjob?jk=5c8d0aa85218d5eb",
+    "scraped_at": "2026-11-03T04:37:03.112079"
+  },
+  {
+    "title": "Enterprise Security Manager",
+    "company": "Canva",
+    "url": "https://au.indeed.com/viewjob?jk=814d7f7b736af846",
+    "scraped_at": "2026-11-03T04:37:03.113407"
+  },
+  {
+    "title": "Enterprise Account Executive",
+    "company": "Salesforce",
+    "url": "https://au.indeed.com/viewjob?jk=d35cca177badc068",
+    "scraped_at": "2026-11-03T04:37:03.130082"
+  },
+  {
+    "title": "Lead Frontend Engineer",
+    "company": "Corto Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=ef360ff4a1c8dc2b",
+    "scraped_at": "2026-11-03T04:37:03.142111"
   }
 ]
