@@ -1,23 +1,5 @@
 [
   {
-    "title": "Service Project Management Manager",
-    "company": "ABB",
-    "url": "https://au.indeed.com/viewjob?jk=1ac761eef93e30ca",
-    "scraped_at": "2026-08-19T08:24:43.382930"
-  },
-  {
-    "title": "Investment Analyst",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=bd7749e2ca48bb01",
-    "scraped_at": "2026-08-19T08:24:43.384088"
-  },
-  {
-    "title": "WCM (Process Engineer)",
-    "company": "CSR",
-    "url": "https://au.indeed.com/viewjob?jk=37dde0f517672f13",
-    "scraped_at": "2026-08-19T08:24:43.392097"
-  },
-  {
     "title": "Project Manager",
     "company": "Hitachi Rail",
     "url": "https://au.indeed.com/viewjob?jk=6c59edcc3a0f2b53",
@@ -5998,5 +5980,23 @@
     "company": "Corto Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=ef360ff4a1c8dc2b",
     "scraped_at": "2026-11-03T04:37:03.142111"
+  },
+  {
+    "title": "Postdoctoral Research Associate - Digital Humanities / Philosophy of Science.",
+    "company": "University of Sydney",
+    "url": "https://au.indeed.com/viewjob?jk=5c58e65dc273829b",
+    "scraped_at": "2026-11-03T15:37:40.279511"
+  },
+  {
+    "title": "Platform Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=cba68199abe1b9bc",
+    "scraped_at": "2026-11-03T15:37:40.292700"
+  },
+  {
+    "title": "Cloud Data Engineer",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=3517de66ccc67a43",
+    "scraped_at": "2026-11-03T15:37:40.300561"
   }
 ]
