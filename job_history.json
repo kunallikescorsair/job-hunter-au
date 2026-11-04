@@ -1,23 +1,5 @@
 [
   {
-    "title": "Data and Insights Analyst",
-    "company": "Employment Hero",
-    "url": "https://au.indeed.com/viewjob?jk=4b2b0ead50b94f39",
-    "scraped_at": "2026-08-19T12:24:42.022065"
-  },
-  {
-    "title": "Business Finance Analyst, Financial Planning and Analysis",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=401c63ba0c3af3c8",
-    "scraped_at": "2026-08-19T12:24:42.022590"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=03f212aecb90dd2e",
-    "scraped_at": "2026-08-19T12:24:42.023370"
-  },
-  {
     "title": "Consultant, Information & Communications Technologies Growth Advisory",
     "company": "Frost & Sullivan",
     "url": "https://au.indeed.com/viewjob?jk=f79a77ce10924956",
@@ -5998,5 +5980,23 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=68613752f644887d",
     "scraped_at": "2026-11-04T03:56:20.588697"
+  },
+  {
+    "title": "Civil Modeller Cadet - Transport",
+    "company": "Aurecon Group",
+    "url": "https://au.indeed.com/viewjob?jk=708fa4a5b623e377",
+    "scraped_at": "2026-11-04T11:46:39.349753"
+  },
+  {
+    "title": "Analyst, Investment Reporting",
+    "company": "Aware Super",
+    "url": "https://au.indeed.com/viewjob?jk=562fa2402cfac09b",
+    "scraped_at": "2026-11-04T11:46:39.358833"
+  },
+  {
+    "title": "Cloud DevOps Engineer",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=bd9c10a4f95d8a72",
+    "scraped_at": "2026-11-04T11:46:39.364900"
   }
 ]
