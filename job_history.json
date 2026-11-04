@@ -1,35 +1,5 @@
 [
   {
-    "title": "Consultant, Information & Communications Technologies Growth Advisory",
-    "company": "Frost & Sullivan",
-    "url": "https://au.indeed.com/viewjob?jk=f79a77ce10924956",
-    "scraped_at": "2026-08-19T12:24:42.027475"
-  },
-  {
-    "title": "Python Engineer - Security Automation",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=cad00fd366719d10",
-    "scraped_at": "2026-08-19T12:24:42.029816"
-  },
-  {
-    "title": "Graduate Software Engineer",
-    "company": "Resmed",
-    "url": "https://au.indeed.com/viewjob?jk=0fa716fb3eddd32c",
-    "scraped_at": "2026-08-19T16:20:10.985154"
-  },
-  {
-    "title": "Enterprise Applications Sales Specialist, VMware Engine and SAP (English)",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=dff7fc047234c0ff",
-    "scraped_at": "2026-08-19T16:20:10.988422"
-  },
-  {
-    "title": "Managed Services Analyst",
-    "company": "FIS",
-    "url": "https://au.indeed.com/viewjob?jk=2ea9704b43b51d94",
-    "scraped_at": "2026-08-19T16:20:10.997905"
-  },
-  {
     "title": "Graduate Engineer - Field Investigations (Fixed-Term Contract, 12 Months)",
     "company": "Resmed",
     "url": "https://au.indeed.com/viewjob?jk=44751310bf2704e2",
@@ -5998,5 +5968,35 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=bd9c10a4f95d8a72",
     "scraped_at": "2026-11-04T11:46:39.364900"
+  },
+  {
+    "title": "Territory Specialist",
+    "company": "Abbott",
+    "url": "https://au.indeed.com/viewjob?jk=4b4ce845f94582dc",
+    "scraped_at": "2026-11-04T19:05:04.052606"
+  },
+  {
+    "title": "Sr Digital Sol Engineer",
+    "company": "Microsoft",
+    "url": "https://au.indeed.com/viewjob?jk=6672675aa7fd87c7",
+    "scraped_at": "2026-11-04T19:05:04.058939"
+  },
+  {
+    "title": "Business Projects Support Analyst",
+    "company": "JLL",
+    "url": "https://au.indeed.com/viewjob?jk=533371a141e73bef",
+    "scraped_at": "2026-11-04T19:05:04.064622"
+  },
+  {
+    "title": "Credit Risk Analyst - 14 months fixed term contract",
+    "company": "ING",
+    "url": "https://au.indeed.com/viewjob?jk=d7e4b351e1e1a015",
+    "scraped_at": "2026-11-04T19:05:04.066230"
+  },
+  {
+    "title": "Enterprise Security Architect",
+    "company": "Tyro Payments",
+    "url": "https://au.indeed.com/viewjob?jk=d4709f72c77496a0",
+    "scraped_at": "2026-11-04T19:05:04.075192"
   }
 ]
