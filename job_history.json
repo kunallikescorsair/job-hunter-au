@@ -1,35 +1,5 @@
 [
   {
-    "title": "Project Manager",
-    "company": "Hitachi Rail",
-    "url": "https://au.indeed.com/viewjob?jk=6c59edcc3a0f2b53",
-    "scraped_at": "2026-08-19T08:24:43.396583"
-  },
-  {
-    "title": "Full Stack Java Engineer",
-    "company": "Delivery Centric",
-    "url": "https://au.indeed.com/viewjob?jk=0e5b39af65da954d",
-    "scraped_at": "2026-08-19T12:24:42.014772"
-  },
-  {
-    "title": "Sr. Regional Partner Manager",
-    "company": "ServiceNow",
-    "url": "https://au.indeed.com/viewjob?jk=af4d7054b5af87a6",
-    "scraped_at": "2026-08-19T12:24:42.016024"
-  },
-  {
-    "title": "Software Engineer, Data Infrastructure & Acquisition - Sydney, Australia",
-    "company": "Speechify",
-    "url": "https://au.indeed.com/viewjob?jk=715147db175b8b4a",
-    "scraped_at": "2026-08-19T12:24:42.016838"
-  },
-  {
-    "title": "Technical Business Analyst \u2013 Microsoft Power Platform",
-    "company": "BMP Technologies Pty. Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=53fcf46dfa7ab924",
-    "scraped_at": "2026-08-19T12:24:42.021195"
-  },
-  {
     "title": "Data and Insights Analyst",
     "company": "Employment Hero",
     "url": "https://au.indeed.com/viewjob?jk=4b2b0ead50b94f39",
@@ -5998,5 +5968,35 @@
     "company": "Cognizant",
     "url": "https://au.indeed.com/viewjob?jk=3517de66ccc67a43",
     "scraped_at": "2026-11-03T15:37:40.300561"
+  },
+  {
+    "title": "Data Engineer - AI and Data - Technology Consulting",
+    "company": "EY",
+    "url": "https://au.indeed.com/viewjob?jk=f6068cae4056f407",
+    "scraped_at": "2026-11-04T03:56:20.579182"
+  },
+  {
+    "title": "Product Designer",
+    "company": "Optus",
+    "url": "https://au.indeed.com/viewjob?jk=80223abc0ab34da1",
+    "scraped_at": "2026-11-04T03:56:20.586308"
+  },
+  {
+    "title": "Cloud Data Engineer",
+    "company": "Cognizant",
+    "url": "https://au.indeed.com/viewjob?jk=0e73073fdc372d8c",
+    "scraped_at": "2026-11-04T03:56:20.587176"
+  },
+  {
+    "title": "Data & AI Delivery Specialist",
+    "company": "Iress",
+    "url": "https://au.indeed.com/viewjob?jk=bbdabc634c12e066",
+    "scraped_at": "2026-11-04T03:56:20.588185"
+  },
+  {
+    "title": "Technical Business Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=68613752f644887d",
+    "scraped_at": "2026-11-04T03:56:20.588697"
   }
 ]
