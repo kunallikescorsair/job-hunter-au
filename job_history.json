@@ -1,53 +1,5 @@
 [
   {
-    "title": "Graduate Engineer - Field Investigations (Fixed-Term Contract, 12 Months)",
-    "company": "Resmed",
-    "url": "https://au.indeed.com/viewjob?jk=44751310bf2704e2",
-    "scraped_at": "2026-08-19T20:16:15.240294"
-  },
-  {
-    "title": "Customer Engineer, APAC Market",
-    "company": "Aircall",
-    "url": "https://au.indeed.com/viewjob?jk=b727cf58558663ff",
-    "scraped_at": "2026-08-20T00:39:59.762545"
-  },
-  {
-    "title": "AIOps Associate, Sydney",
-    "company": "Marloo",
-    "url": "https://au.indeed.com/viewjob?jk=17a7c6760145b07d",
-    "scraped_at": "2026-08-20T04:27:13.897623"
-  },
-  {
-    "title": "NBA Designer",
-    "company": "Showtime Consulting",
-    "url": "https://au.indeed.com/viewjob?jk=baa7c8e43b25b850",
-    "scraped_at": "2026-08-20T04:27:13.900246"
-  },
-  {
-    "title": "Junior Automation Engineer",
-    "company": "The Arnott's Group",
-    "url": "https://au.indeed.com/viewjob?jk=52e15fc8222efce1",
-    "scraped_at": "2026-08-20T04:27:13.902244"
-  },
-  {
-    "title": "Technical Escalations Engineer 2 (RUM) - APJ",
-    "company": "Datadog",
-    "url": "https://au.indeed.com/viewjob?jk=8bb61c91d34cd933",
-    "scraped_at": "2026-08-20T08:26:15.848492"
-  },
-  {
-    "title": "Lead Data Engineer - Azure",
-    "company": "Rabobank",
-    "url": "https://au.indeed.com/viewjob?jk=5f9e22aa2bf57a97",
-    "scraped_at": "2026-08-20T08:26:15.852882"
-  },
-  {
-    "title": "MS Dynamics 365 Business Central Business Analyst",
-    "company": "WILD TECH",
-    "url": "https://au.indeed.com/viewjob?jk=520c4d8392510d24",
-    "scraped_at": "2026-08-20T08:26:15.854214"
-  },
-  {
     "title": "Junior System Analyst",
     "company": "Harris Farm Markets",
     "url": "https://au.indeed.com/viewjob?jk=6186ede37b1a0123",
@@ -5998,5 +5950,53 @@
     "company": "Tyro Payments",
     "url": "https://au.indeed.com/viewjob?jk=d4709f72c77496a0",
     "scraped_at": "2026-11-04T19:05:04.075192"
+  },
+  {
+    "title": "Product Manager",
+    "company": "carsales.com.au",
+    "url": "https://au.indeed.com/viewjob?jk=07c0264b28d7731e",
+    "scraped_at": "2026-11-05T00:38:46.574308"
+  },
+  {
+    "title": "Technical Lead - Network Services",
+    "company": "FinXL",
+    "url": "https://au.indeed.com/viewjob?jk=e8088f2cf7edc400",
+    "scraped_at": "2026-11-05T00:38:46.574632"
+  },
+  {
+    "title": "Business Projects Support Analyst",
+    "company": "JLL",
+    "url": "https://au.indeed.com/viewjob?jk=857277eb991c01fd",
+    "scraped_at": "2026-11-05T00:38:46.577936"
+  },
+  {
+    "title": "Insights Analyst",
+    "company": "Paramount",
+    "url": "https://au.indeed.com/viewjob?jk=12a4672fa4a40f2c",
+    "scraped_at": "2026-11-05T00:38:46.578640"
+  },
+  {
+    "title": "IT Business Analyst \u2013 PAS|X MES Upgrade (Pharmaceutical Manufacturing) \u2013 Contract,",
+    "company": "AstraZeneca",
+    "url": "https://au.indeed.com/viewjob?jk=b5b80e7cea4626fb",
+    "scraped_at": "2026-11-05T00:38:46.579382"
+  },
+  {
+    "title": "Data/ Functional Business Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=8f4e0f4ad1da3864",
+    "scraped_at": "2026-11-05T00:38:46.580096"
+  },
+  {
+    "title": "Data Governance Analyst",
+    "company": "INGRITY",
+    "url": "https://au.indeed.com/viewjob?jk=af11be75b32f2a56",
+    "scraped_at": "2026-11-05T00:38:46.580727"
+  },
+  {
+    "title": "Client Success Manager",
+    "company": "Corto Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=9a91254ddacba871",
+    "scraped_at": "2026-11-05T00:38:46.592571"
   }
 ]
