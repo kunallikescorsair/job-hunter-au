@@ -1,53 +1,5 @@
 [
   {
-    "title": "Junior System Analyst",
-    "company": "Harris Farm Markets",
-    "url": "https://au.indeed.com/viewjob?jk=6186ede37b1a0123",
-    "scraped_at": "2026-08-20T08:26:15.855005"
-  },
-  {
-    "title": "Project Analyst, A&NZ",
-    "company": "Chubb Insurance",
-    "url": "https://au.indeed.com/viewjob?jk=9182d56e763ab19a",
-    "scraped_at": "2026-08-20T08:26:15.858581"
-  },
-  {
-    "title": "Officer, FX Settlement",
-    "company": "Citi",
-    "url": "https://au.indeed.com/viewjob?jk=93bb1954169f3a72",
-    "scraped_at": "2026-08-20T08:26:15.860347"
-  },
-  {
-    "title": "Specialist SA, Developer Transformation",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=e86c1f552f00a836",
-    "scraped_at": "2026-08-20T12:27:41.138623"
-  },
-  {
-    "title": "Data Engineer \u2013 AI",
-    "company": "4WD Supacentre",
-    "url": "https://au.indeed.com/viewjob?jk=380f2fed406c053b",
-    "scraped_at": "2026-08-20T12:27:41.140244"
-  },
-  {
-    "title": "Security Engineer II, Vulnerability Management and Remediation Operations",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=f038b8df05c47f18",
-    "scraped_at": "2026-08-20T12:27:41.142089"
-  },
-  {
-    "title": "App Quality Engineer",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=9889ab44b60bd7b9",
-    "scraped_at": "2026-08-20T12:27:41.144909"
-  },
-  {
-    "title": "Technical Business Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=5c7a2d3f2e9fabde",
-    "scraped_at": "2026-08-20T12:27:41.147987"
-  },
-  {
     "title": "Non-Financial Risk Projects \u2013 Business Analyst",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=cf226571cccb746d",
@@ -5998,5 +5950,53 @@
     "company": "Corto Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=9a91254ddacba871",
     "scraped_at": "2026-11-05T00:38:46.592571"
+  },
+  {
+    "title": "Specialist Solution Engineer, Data & Analytics",
+    "company": "Salesforce",
+    "url": "https://au.indeed.com/viewjob?jk=0c4dc00cbbc622ba",
+    "scraped_at": "2026-11-05T11:43:24.976106"
+  },
+  {
+    "title": "ILS Engineer",
+    "company": "CAE",
+    "url": "https://au.indeed.com/viewjob?jk=0737cd429f57cc5b",
+    "scraped_at": "2026-11-05T11:43:24.976675"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "KIMIA",
+    "url": "https://au.indeed.com/viewjob?jk=cd8301b9fb1323d8",
+    "scraped_at": "2026-11-05T11:43:24.976861"
+  },
+  {
+    "title": "Pricing Implementation Lead",
+    "company": "Chubb Insurance",
+    "url": "https://au.indeed.com/viewjob?jk=95f7c92692143367",
+    "scraped_at": "2026-11-05T11:43:24.984841"
+  },
+  {
+    "title": "Operations Manager",
+    "company": "Harvey Norman",
+    "url": "https://au.indeed.com/viewjob?jk=44c9d5f619ddb71d",
+    "scraped_at": "2026-11-05T11:43:24.985883"
+  },
+  {
+    "title": "Account Manager II",
+    "company": "Uber",
+    "url": "https://au.indeed.com/viewjob?jk=90d235ad33b733cc",
+    "scraped_at": "2026-11-05T11:43:24.986503"
+  },
+  {
+    "title": "Sales - Carrier Business Analyst",
+    "company": "Apple",
+    "url": "https://au.indeed.com/viewjob?jk=178c6d2a6a1dcbad",
+    "scraped_at": "2026-11-05T11:43:24.987322"
+  },
+  {
+    "title": "Software Development Engineer, AWS Border Network Engineering",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=621f4412d58de020",
+    "scraped_at": "2026-11-05T11:43:24.989760"
   }
 ]
