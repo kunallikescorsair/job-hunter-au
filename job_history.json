@@ -1,35 +1,5 @@
 [
   {
-    "title": "Non-Financial Risk Projects \u2013 Business Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=cf226571cccb746d",
-    "scraped_at": "2026-08-20T12:27:41.149592"
-  },
-  {
-    "title": "Graduate Program - Product Stream",
-    "company": "Employment Hero",
-    "url": "https://au.indeed.com/viewjob?jk=1c7515704dc7b7c1",
-    "scraped_at": "2026-08-20T12:27:41.152422"
-  },
-  {
-    "title": "Network Analyst",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=18a2e9cd9fb85b61",
-    "scraped_at": "2026-08-20T12:27:41.154926"
-  },
-  {
-    "title": "Account Executive, SMB",
-    "company": "Braze",
-    "url": "https://au.indeed.com/viewjob?jk=9282ad4d36105f70",
-    "scraped_at": "2026-08-20T12:27:41.157214"
-  },
-  {
-    "title": "Software Project Engineer",
-    "company": "Eaton",
-    "url": "https://au.indeed.com/viewjob?jk=ab15bf868566f383",
-    "scraped_at": "2026-08-20T12:27:41.160363"
-  },
-  {
     "title": "Cloud Engineer",
     "company": "Anglicare Sydney",
     "url": "https://au.indeed.com/viewjob?jk=42a219bbcf65c5e4",
@@ -5998,5 +5968,35 @@
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=621f4412d58de020",
     "scraped_at": "2026-11-05T11:43:24.989760"
+  },
+  {
+    "title": "IT Security Architect",
+    "company": "Reserve Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=689773f47d0917e9",
+    "scraped_at": "2026-11-05T19:14:41.937711"
+  },
+  {
+    "title": "Fullstack Developer",
+    "company": "NGS Super",
+    "url": "https://au.indeed.com/viewjob?jk=10585190920a613c",
+    "scraped_at": "2026-11-05T19:14:41.938469"
+  },
+  {
+    "title": "Account Manager",
+    "company": "Bazaarvoice",
+    "url": "https://au.indeed.com/viewjob?jk=4be38e7e7790dd77",
+    "scraped_at": "2026-11-05T19:14:41.951809"
+  },
+  {
+    "title": "Site Reliability Engineer",
+    "company": "Atlassian",
+    "url": "https://au.indeed.com/viewjob?jk=fa76f64826bd6cde",
+    "scraped_at": "2026-11-05T19:14:41.954178"
+  },
+  {
+    "title": "WHSE Advisor",
+    "company": "Employment Hero",
+    "url": "https://au.indeed.com/viewjob?jk=30961a9ac8cb760e",
+    "scraped_at": "2026-11-05T19:14:41.965089"
   }
 ]
