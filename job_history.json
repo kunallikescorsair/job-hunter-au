@@ -1,11 +1,5 @@
 [
   {
-    "title": "Cloud Engineer",
-    "company": "Anglicare Sydney",
-    "url": "https://au.indeed.com/viewjob?jk=42a219bbcf65c5e4",
-    "scraped_at": "2026-08-20T16:22:43.650670"
-  },
-  {
     "title": "Forward Deployed Engineer, Generative AI, GECX, Google Cloud",
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=e63c108500135efc",
@@ -5998,5 +5992,11 @@
     "company": "Employment Hero",
     "url": "https://au.indeed.com/viewjob?jk=30961a9ac8cb760e",
     "scraped_at": "2026-11-05T19:14:41.965089"
+  },
+  {
+    "title": "Azure/Databricks Cloud Architect",
+    "company": "Pyramid Global Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=8f2e1840827d0a08",
+    "scraped_at": "2026-11-06T00:37:16.595175"
   }
 ]
