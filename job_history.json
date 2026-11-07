@@ -1,11 +1,5 @@
 [
   {
-    "title": "Forward Deployed Engineer, Generative AI, GECX, Google Cloud",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=e63c108500135efc",
-    "scraped_at": "2026-08-20T16:22:43.651126"
-  },
-  {
     "title": "Software Engineer III, Full Stack .NET Developer (.NET, AWS & Microservices, React)",
     "company": "JPMorganChase",
     "url": "https://au.indeed.com/viewjob?jk=1291c5e9b40dafbf",
@@ -5998,5 +5992,11 @@
     "company": "Pyramid Global Technologies",
     "url": "https://au.indeed.com/viewjob?jk=8f2e1840827d0a08",
     "scraped_at": "2026-11-06T00:37:16.595175"
+  },
+  {
+    "title": "Data Scientist, Gen AI",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=59487b65550bd5e3",
+    "scraped_at": "2026-11-07T03:45:38.360103"
   }
 ]
