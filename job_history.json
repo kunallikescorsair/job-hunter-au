@@ -1,11 +1,5 @@
 [
   {
-    "title": "Software Engineer III, Full Stack .NET Developer (.NET, AWS & Microservices, React)",
-    "company": "JPMorganChase",
-    "url": "https://au.indeed.com/viewjob?jk=1291c5e9b40dafbf",
-    "scraped_at": "2026-08-20T16:22:43.653708"
-  },
-  {
     "title": "Forward Deployed AI Engineer - Consulting (Graduate), BCG X",
     "company": "Boston Consulting Group",
     "url": "https://au.indeed.com/viewjob?jk=641b1b3546f4f37e",
@@ -5998,5 +5992,11 @@
     "company": "Commonwealth Bank of Australia",
     "url": "https://au.indeed.com/viewjob?jk=59487b65550bd5e3",
     "scraped_at": "2026-11-07T03:45:38.360103"
+  },
+  {
+    "title": "Graduate Performance Analyst",
+    "company": "Transit Systems NSW",
+    "url": "https://au.indeed.com/viewjob?jk=868157a550067cd6",
+    "scraped_at": "2026-11-07T10:47:47.425208"
   }
 ]
