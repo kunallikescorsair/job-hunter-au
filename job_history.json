@@ -1,11 +1,5 @@
 [
   {
-    "title": "Forward Deployed AI Engineer - Consulting (Graduate), BCG X",
-    "company": "Boston Consulting Group",
-    "url": "https://au.indeed.com/viewjob?jk=641b1b3546f4f37e",
-    "scraped_at": "2026-08-21T00:43:03.510960"
-  },
-  {
     "title": "Lead Data QA Automation Engineer / QA Architect",
     "company": "Cognizant",
     "url": "https://au.indeed.com/viewjob?jk=b2e64b0aef767be7",
@@ -5998,5 +5992,11 @@
     "company": "Transit Systems NSW",
     "url": "https://au.indeed.com/viewjob?jk=868157a550067cd6",
     "scraped_at": "2026-11-07T10:47:47.425208"
+  },
+  {
+    "title": "Project Systems Lead & Control, Construction & Development",
+    "company": "Firmus Technologies",
+    "url": "https://au.indeed.com/viewjob?jk=f6aa2df65ea73f64",
+    "scraped_at": "2026-11-08T10:53:54.560146"
   }
 ]
