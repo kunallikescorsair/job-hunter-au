@@ -1,11 +1,5 @@
 [
   {
-    "title": "Lead Data QA Automation Engineer / QA Architect",
-    "company": "Cognizant",
-    "url": "https://au.indeed.com/viewjob?jk=b2e64b0aef767be7",
-    "scraped_at": "2026-08-21T00:43:03.520202"
-  },
-  {
     "title": "Software Project Engineer",
     "company": "Eaton",
     "url": "https://au.indeed.com/viewjob?jk=5e19e51f6ddc6ed7",
@@ -5998,5 +5992,11 @@
     "company": "Firmus Technologies",
     "url": "https://au.indeed.com/viewjob?jk=f6aa2df65ea73f64",
     "scraped_at": "2026-11-08T10:53:54.560146"
+  },
+  {
+    "title": "Engineer Data and AI",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=62112281c677a885",
+    "scraped_at": "2026-11-09T12:19:36.665420"
   }
 ]
