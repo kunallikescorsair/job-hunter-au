@@ -1,17 +1,5 @@
 [
   {
-    "title": "Software Project Engineer",
-    "company": "Eaton",
-    "url": "https://au.indeed.com/viewjob?jk=5e19e51f6ddc6ed7",
-    "scraped_at": "2026-08-21T00:43:03.521880"
-  },
-  {
-    "title": "Grid Connections Manager",
-    "company": "JLE Group",
-    "url": "https://au.indeed.com/viewjob?jk=8159c90e3a1ef73a",
-    "scraped_at": "2026-08-21T04:29:17.663297"
-  },
-  {
     "title": "Grid Connections Manager",
     "company": "maas group",
     "url": "https://au.indeed.com/viewjob?jk=cd71fd58c249ebab",
@@ -5998,5 +5986,17 @@
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=62112281c677a885",
     "scraped_at": "2026-11-09T12:19:36.665420"
+  },
+  {
+    "title": "Data Analyst, Service Integrity",
+    "company": "MUFG",
+    "url": "https://au.indeed.com/viewjob?jk=54dced4cdfc952bf",
+    "scraped_at": "2026-11-09T23:54:40.814918"
+  },
+  {
+    "title": "Finance Reporting Analyst - Hybrid",
+    "company": "Blackwoods",
+    "url": "https://au.indeed.com/viewjob?jk=43950c233fa4300b",
+    "scraped_at": "2026-11-09T23:54:40.818956"
   }
 ]
