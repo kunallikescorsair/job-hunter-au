@@ -1,11 +1,5 @@
 [
   {
-    "title": "Project Performance Reporting Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=ed6927821a6cc985",
-    "scraped_at": "2026-08-21T08:28:15.339707"
-  },
-  {
     "title": "Cost & Change Control Analyst",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=384a868941c5d21b",
@@ -5998,5 +5992,11 @@
     "company": "HCLTech",
     "url": "https://au.indeed.com/viewjob?jk=57ec06abc5b925fd",
     "scraped_at": "2026-11-10T05:15:04.618386"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Lorikeet",
+    "url": "https://au.indeed.com/viewjob?jk=88425d40b361c95e",
+    "scraped_at": "2026-11-10T15:56:50.954077"
   }
 ]
