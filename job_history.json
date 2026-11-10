@@ -1,17 +1,5 @@
 [
   {
-    "title": "Grid Connections Manager",
-    "company": "maas group",
-    "url": "https://au.indeed.com/viewjob?jk=cd71fd58c249ebab",
-    "scraped_at": "2026-08-21T04:29:17.663797"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Elite Educational Institute",
-    "url": "https://au.indeed.com/viewjob?jk=8ad448b1cb07c439",
-    "scraped_at": "2026-08-21T04:29:17.664645"
-  },
-  {
     "title": "Project Performance Reporting Analyst",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=ed6927821a6cc985",
@@ -5998,5 +5986,17 @@
     "company": "Blackwoods",
     "url": "https://au.indeed.com/viewjob?jk=43950c233fa4300b",
     "scraped_at": "2026-11-09T23:54:40.818956"
+  },
+  {
+    "title": "Sustainable Agriculture Data Analyst",
+    "company": "Rabobank",
+    "url": "https://au.indeed.com/viewjob?jk=d26969cc104f8d2b",
+    "scraped_at": "2026-11-10T05:15:04.602667"
+  },
+  {
+    "title": "Group Technical Architect",
+    "company": "HCLTech",
+    "url": "https://au.indeed.com/viewjob?jk=57ec06abc5b925fd",
+    "scraped_at": "2026-11-10T05:15:04.618386"
   }
 ]
