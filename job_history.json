@@ -1,35 +1,5 @@
 [
   {
-    "title": "Cost & Change Control Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=384a868941c5d21b",
-    "scraped_at": "2026-08-21T08:28:15.341276"
-  },
-  {
-    "title": "Project Engineer",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=b999aa921ced11f3",
-    "scraped_at": "2026-08-21T08:28:15.348127"
-  },
-  {
-    "title": "Manager, Loyalty Program Management, Issuer Solutions (Melbourne or Sydney)",
-    "company": "Visa",
-    "url": "https://au.indeed.com/viewjob?jk=c76d277acef20c09",
-    "scraped_at": "2026-08-21T08:28:15.349446"
-  },
-  {
-    "title": "Analytics Engineer",
-    "company": "Scape Australia",
-    "url": "https://au.indeed.com/viewjob?jk=6ca603e2e31bfd2a",
-    "scraped_at": "2026-08-21T12:27:06.808345"
-  },
-  {
-    "title": "AWS Engineering Lead",
-    "company": "Deloitte",
-    "url": "https://au.indeed.com/viewjob?jk=0b795b01c0aa2bc9",
-    "scraped_at": "2026-08-21T12:27:06.809622"
-  },
-  {
     "title": "Data Business Analyst",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=9a33e5f3066590cf",
@@ -5998,5 +5968,35 @@
     "company": "Lorikeet",
     "url": "https://au.indeed.com/viewjob?jk=88425d40b361c95e",
     "scraped_at": "2026-11-10T15:56:50.954077"
+  },
+  {
+    "title": "Microsoft Applications AI Consultant",
+    "company": "NTT DATA",
+    "url": "https://au.indeed.com/viewjob?jk=7d9fc1cc2b57f930",
+    "scraped_at": "2026-11-10T21:36:30.448736"
+  },
+  {
+    "title": "Associate Economist 2",
+    "company": "Moody's",
+    "url": "https://au.indeed.com/viewjob?jk=d4e7fb39bbf2c23e",
+    "scraped_at": "2026-11-10T21:36:30.460889"
+  },
+  {
+    "title": "People and Systems Analyst",
+    "company": "Culture Amp",
+    "url": "https://au.indeed.com/viewjob?jk=aa94a3817f8c470c",
+    "scraped_at": "2026-11-10T21:36:30.461606"
+  },
+  {
+    "title": "Investment Performance Analyst",
+    "company": "Janus Henderson Investors",
+    "url": "https://au.indeed.com/viewjob?jk=cacd1a51a42c9f57",
+    "scraped_at": "2026-11-10T21:36:30.462936"
+  },
+  {
+    "title": "Data Engineer - Databricks",
+    "company": "INGRITY",
+    "url": "https://au.indeed.com/viewjob?jk=c14a697b12bd99ef",
+    "scraped_at": "2026-11-10T21:36:30.465915"
   }
 ]
