@@ -1,23 +1,5 @@
 [
   {
-    "title": "Data Business Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=9a33e5f3066590cf",
-    "scraped_at": "2026-08-21T12:27:06.813337"
-  },
-  {
-    "title": "Analyst \u2013 Global Funding Operations",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=9d3136b1f1ac3502",
-    "scraped_at": "2026-08-21T12:27:06.813879"
-  },
-  {
-    "title": "Analyst - Infrastructure & Real Assets",
-    "company": "StepStone Group LP",
-    "url": "https://au.indeed.com/viewjob?jk=efc2b369b1dec64e",
-    "scraped_at": "2026-08-21T12:27:06.822476"
-  },
-  {
     "title": "Mid Level AI Models Engineer",
     "company": "Heidi",
     "url": "https://au.indeed.com/viewjob?jk=fc03bdc17876b9fd",
@@ -5998,5 +5980,23 @@
     "company": "INGRITY",
     "url": "https://au.indeed.com/viewjob?jk=c14a697b12bd99ef",
     "scraped_at": "2026-11-10T21:36:30.465915"
+  },
+  {
+    "title": "Technical Business Analyst",
+    "company": "Emergence Insurance",
+    "url": "https://au.indeed.com/viewjob?jk=6bfcd1151b9848a1",
+    "scraped_at": "2026-11-11T03:46:49.779035"
+  },
+  {
+    "title": "Customer Journey Analytics Consultant (Adobe AEP & CJA) tags.new",
+    "company": "Ogilvy",
+    "url": "https://au.indeed.com/viewjob?jk=c86dfa5fb314c700",
+    "scraped_at": "2026-11-11T03:46:49.787531"
+  },
+  {
+    "title": "Software Engineer II - Organic Growth",
+    "company": "Microsoft",
+    "url": "https://au.indeed.com/viewjob?jk=5229ca36e05a5ad8",
+    "scraped_at": "2026-11-11T03:46:49.790077"
   }
 ]
