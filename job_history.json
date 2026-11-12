@@ -1,23 +1,5 @@
 [
   {
-    "title": "Technical Program Manager, Data Center Delivery",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=d140df231910c633",
-    "scraped_at": "2026-08-22T00:40:11.754649"
-  },
-  {
-    "title": "DevOps Engineer",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=fe719b12b56a6512",
-    "scraped_at": "2026-08-22T16:12:48.134263"
-  },
-  {
-    "title": "Financial Analyst",
-    "company": "nan",
-    "url": "https://au.indeed.com/viewjob?jk=091253017b98108a",
-    "scraped_at": "2026-08-22T20:12:20.321750"
-  },
-  {
     "title": "Forward Deployed AI Scientist - Consulting (Graduate), BCG X",
     "company": "Boston Consulting Group",
     "url": "https://au.indeed.com/viewjob?jk=980a8989953b14e5",
@@ -5998,5 +5980,23 @@
     "company": "Environmental Resources Management",
     "url": "https://au.indeed.com/viewjob?jk=33326c29a1da3508",
     "scraped_at": "2026-11-11T19:00:28.493129"
+  },
+  {
+    "title": "Product Owner, AI Enabled First Party Lending",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=1afdcc5e2682ee40",
+    "scraped_at": "2026-11-12T01:44:35.034539"
+  },
+  {
+    "title": "Sales Operations Analyst, AWS Enterprise Support Strategy & Operations (ESSO)",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=e7dee306acd63f33",
+    "scraped_at": "2026-11-12T01:44:35.043579"
+  },
+  {
+    "title": "Data Administrator",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=3c863efdea54c61b",
+    "scraped_at": "2026-11-12T01:44:35.045402"
   }
 ]
