@@ -1,23 +1,5 @@
 [
   {
-    "title": "Customer Identity Engineer - CIAM (Full Stack & Security) - Contract",
-    "company": "NCS",
-    "url": "https://au.indeed.com/viewjob?jk=54cb808b764515ab",
-    "scraped_at": "2026-08-24T00:42:20.621843"
-  },
-  {
-    "title": "People Data Analyst",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=d85843e8cfbd448a",
-    "scraped_at": "2026-08-24T04:35:51.415198"
-  },
-  {
-    "title": "Change Analyst, 12 month FTC",
-    "company": "REST",
-    "url": "https://au.indeed.com/viewjob?jk=829e08f919cf9c18",
-    "scraped_at": "2026-08-24T04:35:51.419720"
-  },
-  {
     "title": "Junior Business Process Analyst",
     "company": "Mirait Technologies Australia",
     "url": "https://au.indeed.com/viewjob?jk=c7359177e0d0ee87",
@@ -5998,5 +5980,23 @@
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=67e9f0e1a66e1cda",
     "scraped_at": "2026-11-12T11:59:08.308357"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Lion",
+    "url": "https://au.indeed.com/viewjob?jk=11842230accaf18d",
+    "scraped_at": "2026-11-12T19:37:10.382414"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "BMP Technologies Pty. Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=2c3f4c60e90efebe",
+    "scraped_at": "2026-11-12T19:37:10.385289"
+  },
+  {
+    "title": "Expression Of Interest - Australia",
+    "company": "IREN",
+    "url": "https://au.indeed.com/viewjob?jk=2bc53c81d0724df7",
+    "scraped_at": "2026-11-12T19:37:10.385772"
   }
 ]
