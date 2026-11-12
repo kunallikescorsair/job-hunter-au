@@ -1,11 +1,5 @@
 [
   {
-    "title": "Forward Deployed AI Scientist - Consulting (Graduate), BCG X",
-    "company": "Boston Consulting Group",
-    "url": "https://au.indeed.com/viewjob?jk=980a8989953b14e5",
-    "scraped_at": "2026-08-23T20:12:11.696800"
-  },
-  {
     "title": "Customer Identity Engineer - CIAM (Full Stack & Security) - Contract",
     "company": "NCS",
     "url": "https://au.indeed.com/viewjob?jk=54cb808b764515ab",
@@ -5998,5 +5992,11 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=3c863efdea54c61b",
     "scraped_at": "2026-11-12T01:44:35.045402"
+  },
+  {
+    "title": "Systems Engineer, AWS Incident Response",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=67e9f0e1a66e1cda",
+    "scraped_at": "2026-11-12T11:59:08.308357"
   }
 ]
