@@ -1,29 +1,5 @@
 [
   {
-    "title": "Business Intelligence Developer",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=48ede4fc38264d48",
-    "scraped_at": "2026-08-24T08:37:01.307758"
-  },
-  {
-    "title": "DevOps Engineer",
-    "company": "NATIONAL HEAVY VEHICLE REGULATOR",
-    "url": "https://au.indeed.com/viewjob?jk=fad8aeb1756990e2",
-    "scraped_at": "2026-08-24T08:37:01.315732"
-  },
-  {
-    "title": "Full Stack Engineer - Hybrid",
-    "company": "Sitemate",
-    "url": "https://au.indeed.com/viewjob?jk=c8785ca80af59601",
-    "scraped_at": "2026-08-24T12:27:56.782177"
-  },
-  {
-    "title": "Site Reliability Engineer - Liquidity Platform",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=885874fccb67ee63",
-    "scraped_at": "2026-08-24T12:27:56.782819"
-  },
-  {
     "title": "Platform Account Executive (SMB)",
     "company": "Salesforce",
     "url": "https://au.indeed.com/viewjob?jk=c07736e765343272",
@@ -5998,5 +5974,29 @@
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=e36f683960cced1c",
     "scraped_at": "2026-11-13T00:48:02.093727"
+  },
+  {
+    "title": "Machine Learning Ops Engineer",
+    "company": "Optus",
+    "url": "https://au.indeed.com/viewjob?jk=456b0053798d8122",
+    "scraped_at": "2026-11-13T11:43:04.467110"
+  },
+  {
+    "title": "Technical Curriculum Developer, Dedicated Cloud Training",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=9c65fe4c3c8c7ccc",
+    "scraped_at": "2026-11-13T11:43:04.471941"
+  },
+  {
+    "title": "Payroll Data Developer",
+    "company": "Category5",
+    "url": "https://au.indeed.com/viewjob?jk=70453cc528eafe2b",
+    "scraped_at": "2026-11-13T11:43:04.489381"
+  },
+  {
+    "title": "Agentic AI Engineer",
+    "company": "Delivery Centric",
+    "url": "https://au.indeed.com/viewjob?jk=7b4aa24f8f7da0ec",
+    "scraped_at": "2026-11-13T11:43:04.491366"
   }
 ]
