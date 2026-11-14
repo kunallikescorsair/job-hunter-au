@@ -1,17 +1,5 @@
 [
   {
-    "title": "Platform Account Executive (SMB)",
-    "company": "Salesforce",
-    "url": "https://au.indeed.com/viewjob?jk=c07736e765343272",
-    "scraped_at": "2026-08-24T12:27:56.784764"
-  },
-  {
-    "title": "Devops Lead",
-    "company": "Cognizant",
-    "url": "https://au.indeed.com/viewjob?jk=24c9f1ada3183d25",
-    "scraped_at": "2026-08-24T12:27:56.788771"
-  },
-  {
     "title": "Facility Operations Center Eng, Facility Operations Center (FOC)",
     "company": "Amazon.com",
     "url": "https://au.indeed.com/viewjob?jk=8f0bb13b2bdcbed7",
@@ -5998,5 +5986,17 @@
     "company": "Delivery Centric",
     "url": "https://au.indeed.com/viewjob?jk=7b4aa24f8f7da0ec",
     "scraped_at": "2026-11-13T11:43:04.491366"
+  },
+  {
+    "title": "Automation Engineer",
+    "company": "The magnum ice cream company",
+    "url": "https://au.indeed.com/viewjob?jk=2772d5bbfc619f97",
+    "scraped_at": "2026-11-14T00:33:12.857072"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Optus",
+    "url": "https://au.indeed.com/viewjob?jk=500faf68a83a88c5",
+    "scraped_at": "2026-11-14T00:33:12.858093"
   }
 ]
