@@ -1,11 +1,5 @@
 [
   {
-    "title": "Facility Operations Center Eng, Facility Operations Center (FOC)",
-    "company": "Amazon.com",
-    "url": "https://au.indeed.com/viewjob?jk=8f0bb13b2bdcbed7",
-    "scraped_at": "2026-08-24T12:27:56.795273"
-  },
-  {
     "title": "Quality Engineer - AI (12 Months Contract)",
     "company": "Tyro Payments",
     "url": "https://au.indeed.com/viewjob?jk=0524e1512a7942e9",
@@ -5998,5 +5992,11 @@
     "company": "Optus",
     "url": "https://au.indeed.com/viewjob?jk=500faf68a83a88c5",
     "scraped_at": "2026-11-14T00:33:12.858093"
+  },
+  {
+    "title": "Customer Engineer Security, Google Cloud Security",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=e2a0e89c1f2f0473",
+    "scraped_at": "2026-11-14T17:28:32.122454"
   }
 ]
