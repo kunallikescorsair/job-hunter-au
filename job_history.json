@@ -1,17 +1,5 @@
 [
   {
-    "title": "Quality Engineer - AI (12 Months Contract)",
-    "company": "Tyro Payments",
-    "url": "https://au.indeed.com/viewjob?jk=0524e1512a7942e9",
-    "scraped_at": "2026-08-24T16:24:27.627896"
-  },
-  {
-    "title": "Analyst Engineer",
-    "company": "NAB - National Australia Bank",
-    "url": "https://au.indeed.com/viewjob?jk=97444df36a7b1b6f",
-    "scraped_at": "2026-08-24T16:24:27.629873"
-  },
-  {
     "title": "Mechanical Engineer",
     "company": "Rojone Pty Limited",
     "url": "https://au.indeed.com/viewjob?jk=0049d582b4e37781",
@@ -5998,5 +5986,17 @@
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=e2a0e89c1f2f0473",
     "scraped_at": "2026-11-14T17:28:32.122454"
+  },
+  {
+    "title": "Solutions Architect",
+    "company": "NVIDIA",
+    "url": "https://au.indeed.com/viewjob?jk=b79b716766a49186",
+    "scraped_at": "2026-11-15T03:50:51.785500"
+  },
+  {
+    "title": "Agentic AI Engineer \u2013 Cyber Security",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=d59d6a9db6431201",
+    "scraped_at": "2026-11-15T03:50:51.787359"
   }
 ]
