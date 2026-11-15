@@ -1,17 +1,5 @@
 [
   {
-    "title": "Mechanical Engineer",
-    "company": "Rojone Pty Limited",
-    "url": "https://au.indeed.com/viewjob?jk=0049d582b4e37781",
-    "scraped_at": "2026-08-25T04:30:05.109340"
-  },
-  {
-    "title": "Prompt Engineer",
-    "company": "Showtime Consulting",
-    "url": "https://au.indeed.com/viewjob?jk=60382051da68b4dd",
-    "scraped_at": "2026-08-25T08:30:49.308463"
-  },
-  {
     "title": "Product Analyst",
     "company": "Equifax",
     "url": "https://au.indeed.com/viewjob?jk=70941fb096de6aca",
@@ -5998,5 +5986,17 @@
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=d59d6a9db6431201",
     "scraped_at": "2026-11-15T03:50:51.787359"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=66b6d6e0522c981e",
+    "scraped_at": "2026-11-15T11:39:36.391065"
+  },
+  {
+    "title": "Merchandise Optimisation Analyst",
+    "company": "Woolworths Group Limited",
+    "url": "https://au.indeed.com/viewjob?jk=a2e05638a97e31c6",
+    "scraped_at": "2026-11-15T11:39:36.402010"
   }
 ]
