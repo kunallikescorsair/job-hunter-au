@@ -1,11 +1,5 @@
 [
   {
-    "title": "IT Service & Application Analyst | Sydney HQ",
-    "company": "Honey Birdette",
-    "url": "https://au.indeed.com/viewjob?jk=6f911710e02ffaf7",
-    "scraped_at": "2026-08-25T08:30:49.318509"
-  },
-  {
     "title": "Test Engineer",
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=4a25bb3eeb9a1fef",
@@ -5998,5 +5992,11 @@
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=190ff0bad3488b5a",
     "scraped_at": "2026-11-16T03:51:01.504807"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Neuronimbus Digital Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=bd7c57af4c1f461d",
+    "scraped_at": "2026-11-16T12:16:21.439155"
   }
 ]
