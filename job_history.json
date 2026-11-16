@@ -1,17 +1,5 @@
 [
   {
-    "title": "Product Analyst",
-    "company": "Equifax",
-    "url": "https://au.indeed.com/viewjob?jk=70941fb096de6aca",
-    "scraped_at": "2026-08-25T08:30:49.313895"
-  },
-  {
-    "title": "Supervisory Analyst",
-    "company": "UBS",
-    "url": "https://au.indeed.com/viewjob?jk=5aa0f6c2ce8f64df",
-    "scraped_at": "2026-08-25T08:30:49.317622"
-  },
-  {
     "title": "IT Service & Application Analyst | Sydney HQ",
     "company": "Honey Birdette",
     "url": "https://au.indeed.com/viewjob?jk=6f911710e02ffaf7",
@@ -5998,5 +5986,17 @@
     "company": "Woolworths Group Limited",
     "url": "https://au.indeed.com/viewjob?jk=a2e05638a97e31c6",
     "scraped_at": "2026-11-15T11:39:36.402010"
+  },
+  {
+    "title": "People Data Governance Analyst",
+    "company": "Optus",
+    "url": "https://au.indeed.com/viewjob?jk=d87f0e956feaed4e",
+    "scraped_at": "2026-11-16T03:51:01.498470"
+  },
+  {
+    "title": "Product Manager, Awareness & Consideration",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=190ff0bad3488b5a",
+    "scraped_at": "2026-11-16T03:51:01.504807"
   }
 ]
