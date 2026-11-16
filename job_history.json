@@ -1,17 +1,5 @@
 [
   {
-    "title": "Test Engineer",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=4a25bb3eeb9a1fef",
-    "scraped_at": "2026-08-25T08:30:49.323844"
-  },
-  {
-    "title": "Reliability Engineer",
-    "company": "Coca-Cola Europacific Partners",
-    "url": "https://au.indeed.com/viewjob?jk=d25f1c8b4ca62feb",
-    "scraped_at": "2026-08-25T08:30:49.325469"
-  },
-  {
     "title": "Applied Solutions Architect, Google Cloud",
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=fb0f8dd14ae3b475",
@@ -5998,5 +5986,17 @@
     "company": "Neuronimbus Digital Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=bd7c57af4c1f461d",
     "scraped_at": "2026-11-16T12:16:21.439155"
+  },
+  {
+    "title": "Energy & Carbon Analyst",
+    "company": "BlueScope",
+    "url": "https://au.indeed.com/viewjob?jk=baa22c2387966bf2",
+    "scraped_at": "2026-11-16T23:54:53.703590"
+  },
+  {
+    "title": "Strategic Cloud Engineer, Data Analytics and AI",
+    "company": "Google",
+    "url": "https://au.indeed.com/viewjob?jk=295cca9472124274",
+    "scraped_at": "2026-11-16T23:54:53.704840"
   }
 ]
