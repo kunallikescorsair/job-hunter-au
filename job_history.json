@@ -1,11 +1,5 @@
 [
   {
-    "title": "Applied Solutions Architect, Google Cloud",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=fb0f8dd14ae3b475",
-    "scraped_at": "2026-08-25T12:28:17.252714"
-  },
-  {
     "title": "Supplier Risk and Governance Analyst",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=b7d146d1cb9bee6e",
@@ -5998,5 +5992,11 @@
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=295cca9472124274",
     "scraped_at": "2026-11-16T23:54:53.704840"
+  },
+  {
+    "title": "Payments Client Service Analyst",
+    "company": "JPMorganChase",
+    "url": "https://au.indeed.com/viewjob?jk=767d1f3146aa8e81",
+    "scraped_at": "2026-11-17T05:44:42.831090"
   }
 ]
