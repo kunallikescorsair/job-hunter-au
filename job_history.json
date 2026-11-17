@@ -1,11 +1,5 @@
 [
   {
-    "title": "Supplier Risk and Governance Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=b7d146d1cb9bee6e",
-    "scraped_at": "2026-08-25T12:28:17.256469"
-  },
-  {
     "title": "Wealth Business Analyst",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=b3314444274e9191",
@@ -5998,5 +5992,11 @@
     "company": "JPMorganChase",
     "url": "https://au.indeed.com/viewjob?jk=767d1f3146aa8e81",
     "scraped_at": "2026-11-17T05:44:42.831090"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "ALDI",
+    "url": "https://au.indeed.com/viewjob?jk=eda6068880d5974d",
+    "scraped_at": "2026-11-17T17:12:56.292660"
   }
 ]
