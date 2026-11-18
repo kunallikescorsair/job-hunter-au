@@ -1,11 +1,5 @@
 [
   {
-    "title": "Forward Deployed Engineer",
-    "company": "Optimizely",
-    "url": "https://au.indeed.com/viewjob?jk=a849f414385cc9bd",
-    "scraped_at": "2026-08-26T00:42:24.063845"
-  },
-  {
     "title": "Cost Analyst | Infrastructure | Gold Coast",
     "company": "Turner & Townsend Pty Limited",
     "url": "https://au.indeed.com/viewjob?jk=32a61c9ecd02113f",
@@ -5998,5 +5992,11 @@
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=932dc04e46c6c0cb",
     "scraped_at": "2026-11-18T12:28:53.113236"
+  },
+  {
+    "title": "Cybersecurity Engineer - AI Vulnerability Detection",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=f657b47dff836af2",
+    "scraped_at": "2026-11-18T22:46:36.135035"
   }
 ]
