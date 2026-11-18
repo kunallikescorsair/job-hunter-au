@@ -1,23 +1,5 @@
 [
   {
-    "title": "Wealth Business Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=b3314444274e9191",
-    "scraped_at": "2026-08-25T12:28:17.257693"
-  },
-  {
-    "title": "Partner Account Manager, Worldwide Public Sector - ANZ",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=5176aa2fe7b60378",
-    "scraped_at": "2026-08-25T12:28:17.267854"
-  },
-  {
-    "title": "Applied Solutions Architect",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=275617a5a4472f65",
-    "scraped_at": "2026-08-25T16:25:14.504653"
-  },
-  {
     "title": "Full Stack Developer",
     "company": "Infosys",
     "url": "https://au.indeed.com/viewjob?jk=35f0a74b69e9ffab",
@@ -5998,5 +5980,23 @@
     "company": "ALDI",
     "url": "https://au.indeed.com/viewjob?jk=eda6068880d5974d",
     "scraped_at": "2026-11-17T17:12:56.292660"
+  },
+  {
+    "title": "AI Platform Engineer",
+    "company": "Aware Super",
+    "url": "https://au.indeed.com/viewjob?jk=c1bfa0a7b69b1246",
+    "scraped_at": "2026-11-18T01:57:31.730286"
+  },
+  {
+    "title": "ICT Business Analyst \u2013 (Part-Time)",
+    "company": "Finance Services of Australia Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=1de4aabc4869ca4f",
+    "scraped_at": "2026-11-18T01:57:31.733411"
+  },
+  {
+    "title": "Snowflake Data Engineer",
+    "company": "Neuronimbus Digital Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=b97ef05d04f14687",
+    "scraped_at": "2026-11-18T01:57:31.740710"
   }
 ]
