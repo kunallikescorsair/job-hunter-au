@@ -1,23 +1,5 @@
 [
   {
-    "title": "Full Stack Developer",
-    "company": "Infosys",
-    "url": "https://au.indeed.com/viewjob?jk=35f0a74b69e9ffab",
-    "scraped_at": "2026-08-25T16:25:14.522761"
-  },
-  {
-    "title": "GCP Data Engineer",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=a6bbc7b002f84e73",
-    "scraped_at": "2026-08-26T00:42:24.057509"
-  },
-  {
-    "title": "Group Product Manager, Information and Infrastructure Protection",
-    "company": "Google",
-    "url": "https://au.indeed.com/viewjob?jk=b200ac4089517543",
-    "scraped_at": "2026-08-26T00:42:24.058821"
-  },
-  {
     "title": "Forward Deployed Engineer",
     "company": "Optimizely",
     "url": "https://au.indeed.com/viewjob?jk=a849f414385cc9bd",
@@ -5998,5 +5980,23 @@
     "company": "Neuronimbus Digital Pty Ltd",
     "url": "https://au.indeed.com/viewjob?jk=b97ef05d04f14687",
     "scraped_at": "2026-11-18T01:57:31.740710"
+  },
+  {
+    "title": "Product Analyst",
+    "company": "Iress",
+    "url": "https://au.indeed.com/viewjob?jk=612710e8726851f2",
+    "scraped_at": "2026-11-18T12:28:53.110605"
+  },
+  {
+    "title": "AI and Automation Analyst",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=10588aee13fccaae",
+    "scraped_at": "2026-11-18T12:28:53.112734"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=932dc04e46c6c0cb",
+    "scraped_at": "2026-11-18T12:28:53.113236"
   }
 ]
