@@ -1,11 +1,5 @@
 [
   {
-    "title": "Cost Analyst | Infrastructure | Gold Coast",
-    "company": "Turner & Townsend Pty Limited",
-    "url": "https://au.indeed.com/viewjob?jk=32a61c9ecd02113f",
-    "scraped_at": "2026-08-26T00:42:24.069251"
-  },
-  {
     "title": "Google SecOps engineer",
     "company": "Tata Consultancy Services (TCS)",
     "url": "https://au.indeed.com/viewjob?jk=5075002d21c91009",
@@ -5998,5 +5992,11 @@
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=f657b47dff836af2",
     "scraped_at": "2026-11-18T22:46:36.135035"
+  },
+  {
+    "title": "Associate Reporting Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=711895d5152d9e30",
+    "scraped_at": "2026-11-19T05:03:33.224778"
   }
 ]
