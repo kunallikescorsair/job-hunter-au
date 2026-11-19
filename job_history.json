@@ -1,23 +1,5 @@
 [
   {
-    "title": "Google SecOps engineer",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=5075002d21c91009",
-    "scraped_at": "2026-08-26T00:42:24.074472"
-  },
-  {
-    "title": "Fenergo Developer",
-    "company": "Tata Consultancy Services (TCS)",
-    "url": "https://au.indeed.com/viewjob?jk=79085fa93a1f3c18",
-    "scraped_at": "2026-08-26T00:42:24.079378"
-  },
-  {
-    "title": "AI Scientist",
-    "company": "NAB - National Australia Bank",
-    "url": "https://au.indeed.com/viewjob?jk=b2e44d7ce05f4375",
-    "scraped_at": "2026-08-26T04:30:40.630580"
-  },
-  {
     "title": "AI Transformation & Enablement Partner",
     "company": "LexisNexis Legal & Professional",
     "url": "https://au.indeed.com/viewjob?jk=c71113b038a469bc",
@@ -5998,5 +5980,23 @@
     "company": "Transport for NSW",
     "url": "https://au.indeed.com/viewjob?jk=711895d5152d9e30",
     "scraped_at": "2026-11-19T05:03:33.224778"
+  },
+  {
+    "title": "Project SME",
+    "company": "Endeavour Group",
+    "url": "https://au.indeed.com/viewjob?jk=631b7f25b595af9a",
+    "scraped_at": "2026-11-19T16:56:33.991161"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Aadarsh Engineering Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=5982bd1052fed9ae",
+    "scraped_at": "2026-11-19T16:56:33.996012"
+  },
+  {
+    "title": "Asset Monitoring Systems and Insights Analyst",
+    "company": "Transgrid",
+    "url": "https://au.indeed.com/viewjob?jk=c2c9984ba03782f6",
+    "scraped_at": "2026-11-19T16:56:34.003483"
   }
 ]
