@@ -1,29 +1,5 @@
 [
   {
-    "title": "Software Engineer - NLS",
-    "company": "Nuix",
-    "url": "https://au.indeed.com/viewjob?jk=71b292249979784b",
-    "scraped_at": "2026-08-26T08:31:57.305803"
-  },
-  {
-    "title": "Analyst - Independent Valuation Control",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=ffd5876b958c2652",
-    "scraped_at": "2026-08-26T12:31:26.878093"
-  },
-  {
-    "title": "Remedial Engineer",
-    "company": "Employment Hero",
-    "url": "https://au.indeed.com/viewjob?jk=906e9b5f9ffd7d35",
-    "scraped_at": "2026-08-26T16:42:08.472962"
-  },
-  {
-    "title": "Vice President, Security Detection & Response, Global Information Security",
-    "company": "Bank of America",
-    "url": "https://au.indeed.com/viewjob?jk=da735a34103fbde9",
-    "scraped_at": "2026-08-26T16:42:08.481380"
-  },
-  {
     "title": "Vice President, Security Detection & Response, Global Information Security",
     "company": "Bank of America",
     "url": "https://au.indeed.com/viewjob?jk=8dceb2ede59b1bf4",
@@ -5998,5 +5974,29 @@
     "company": "TikTok",
     "url": "https://au.indeed.com/viewjob?jk=f5256eb10623bd4e",
     "scraped_at": "2026-11-20T12:19:57.536070"
+  },
+  {
+    "title": "Solution Engineering (Early in Profession)- Copilot & Agents",
+    "company": "Microsoft",
+    "url": "https://au.indeed.com/viewjob?jk=fcdc06202e31e46a",
+    "scraped_at": "2026-11-20T22:26:31.592211"
+  },
+  {
+    "title": "Operational Data Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=02d4a7c50b964ef3",
+    "scraped_at": "2026-11-20T22:26:31.599575"
+  },
+  {
+    "title": "Logistics Specialist, Data Center Operations, SYD InfraOps",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=d225f5324cd76bde",
+    "scraped_at": "2026-11-20T22:26:31.601670"
+  },
+  {
+    "title": "Automation Tester - two roles available!",
+    "company": "Insignia Financial",
+    "url": "https://au.indeed.com/viewjob?jk=33e5efbce074024d",
+    "scraped_at": "2026-11-20T22:26:31.607242"
   }
 ]
