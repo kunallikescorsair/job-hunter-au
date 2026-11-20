@@ -1,71 +1,5 @@
 [
   {
-    "title": "AI Transformation & Enablement Partner",
-    "company": "LexisNexis Legal & Professional",
-    "url": "https://au.indeed.com/viewjob?jk=c71113b038a469bc",
-    "scraped_at": "2026-08-26T04:30:40.634314"
-  },
-  {
-    "title": "AI Transformation & Enablement Partner",
-    "company": "RELX Group",
-    "url": "https://au.indeed.com/viewjob?jk=7f7623845471050e",
-    "scraped_at": "2026-08-26T04:30:40.635059"
-  },
-  {
-    "title": "AI Engineer",
-    "company": "Excolo Partners",
-    "url": "https://au.indeed.com/viewjob?jk=2deee21f2a3b6c2d",
-    "scraped_at": "2026-08-26T04:30:40.640307"
-  },
-  {
-    "title": "UI Developer",
-    "company": "Duxxel",
-    "url": "https://au.indeed.com/viewjob?jk=a02f82650891cb0b",
-    "scraped_at": "2026-08-26T04:30:40.647430"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Wipro Australia",
-    "url": "https://au.indeed.com/viewjob?jk=9ac6f3dccfd3e060",
-    "scraped_at": "2026-08-26T08:31:57.291153"
-  },
-  {
-    "title": "Software Engineer - Reliability",
-    "company": "Dataro",
-    "url": "https://au.indeed.com/viewjob?jk=1003468b5bd319fb",
-    "scraped_at": "2026-08-26T08:31:57.293265"
-  },
-  {
-    "title": "Performance Analyst",
-    "company": "Transport for NSW",
-    "url": "https://au.indeed.com/viewjob?jk=6108fbd9c9ce9c81",
-    "scraped_at": "2026-08-26T08:31:57.295980"
-  },
-  {
-    "title": "Data Analyst - Construction",
-    "company": "Mirvac",
-    "url": "https://au.indeed.com/viewjob?jk=6865ab21e2e61ff6",
-    "scraped_at": "2026-08-26T08:31:57.296970"
-  },
-  {
-    "title": "Treasury Operations Analyst",
-    "company": "Metcash",
-    "url": "https://au.indeed.com/viewjob?jk=031ecf85c7203592",
-    "scraped_at": "2026-08-26T08:31:57.300455"
-  },
-  {
-    "title": "Sales Planning Analyst - 6month FTC",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=403425954c350efd",
-    "scraped_at": "2026-08-26T08:31:57.301378"
-  },
-  {
-    "title": "Sales Planning Analyst - 12month FTC",
-    "company": "Woolworths Group Limited",
-    "url": "https://au.indeed.com/viewjob?jk=d00d1ba4832f54ee",
-    "scraped_at": "2026-08-26T08:31:57.302104"
-  },
-  {
     "title": "Software Engineer - NLS",
     "company": "Nuix",
     "url": "https://au.indeed.com/viewjob?jk=71b292249979784b",
@@ -5998,5 +5932,71 @@
     "company": "Transgrid",
     "url": "https://au.indeed.com/viewjob?jk=c2c9984ba03782f6",
     "scraped_at": "2026-11-19T16:56:34.003483"
+  },
+  {
+    "title": "AI Scientist",
+    "company": "NAB - National Australia Bank",
+    "url": "https://au.indeed.com/viewjob?jk=b2e44d7ce05f4375",
+    "scraped_at": "2026-11-20T12:19:57.492536"
+  },
+  {
+    "title": "Medical Researcher, Australia",
+    "company": "Careers at Eucalyptus",
+    "url": "https://au.indeed.com/viewjob?jk=33673ef08133bd8b",
+    "scraped_at": "2026-11-20T12:19:57.500938"
+  },
+  {
+    "title": "Security Engineer, AWS Security Incident Response",
+    "company": "Amazon Web Services",
+    "url": "https://au.indeed.com/viewjob?jk=bff53eb5383d049d",
+    "scraped_at": "2026-11-20T12:19:57.503347"
+  },
+  {
+    "title": "Quantitative Analyst, Non-Retail Models",
+    "company": "Commonwealth Bank of Australia",
+    "url": "https://au.indeed.com/viewjob?jk=53537d1917e79f98",
+    "scraped_at": "2026-11-20T12:19:57.514560"
+  },
+  {
+    "title": "Transformation and Change Analyst",
+    "company": "QBE",
+    "url": "https://au.indeed.com/viewjob?jk=3932094b91125cd8",
+    "scraped_at": "2026-11-20T12:19:57.516788"
+  },
+  {
+    "title": "Junior Laboratory Officer- Chemistry",
+    "company": "Vitex Pharmaceuticals",
+    "url": "https://au.indeed.com/viewjob?jk=7793ba0befef7d52",
+    "scraped_at": "2026-11-20T12:19:57.517829"
+  },
+  {
+    "title": "Business Analyst - Data Modelling and Portfolio Analysis (Contract)",
+    "company": "ScotPac Business Finance",
+    "url": "https://au.indeed.com/viewjob?jk=4de115f359caa340",
+    "scraped_at": "2026-11-20T12:19:57.518953"
+  },
+  {
+    "title": "Software Test Engineer \u2013 .Net / C# / MS SQL Server",
+    "company": "Dematic",
+    "url": "https://au.indeed.com/viewjob?jk=fdbaf04e98634a16",
+    "scraped_at": "2026-11-20T12:19:57.520517"
+  },
+  {
+    "title": "Data Security Engineer",
+    "company": "Novon",
+    "url": "https://au.indeed.com/viewjob?jk=bfadca80ef0ee056",
+    "scraped_at": "2026-11-20T12:19:57.527001"
+  },
+  {
+    "title": "Junior Architectural Technician",
+    "company": "Intelligent Structures",
+    "url": "https://au.indeed.com/viewjob?jk=6bfc9560c4ea30c6",
+    "scraped_at": "2026-11-20T12:19:57.529585"
+  },
+  {
+    "title": "Mobile Software Engineer Graduate (TikTok Foundation) - 2027 Start (BS/MS)",
+    "company": "TikTok",
+    "url": "https://au.indeed.com/viewjob?jk=f5256eb10623bd4e",
+    "scraped_at": "2026-11-20T12:19:57.536070"
   }
 ]
