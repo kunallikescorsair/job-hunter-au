@@ -1,29 +1,5 @@
 [
   {
-    "title": "Enterprise Sales Manager",
-    "company": "Heidi",
-    "url": "https://au.indeed.com/viewjob?jk=4b08c3b81e5fbbab",
-    "scraped_at": "2026-08-27T05:48:08.201970"
-  },
-  {
-    "title": "Analytics Engineer (GCP)",
-    "company": "NTT DATA",
-    "url": "https://au.indeed.com/viewjob?jk=9e59b034827a0cb0",
-    "scraped_at": "2026-08-27T05:48:08.202704"
-  },
-  {
-    "title": "Quality Engineer",
-    "company": "Corto Pty Ltd",
-    "url": "https://au.indeed.com/viewjob?jk=95eefca1fa524abd",
-    "scraped_at": "2026-08-27T05:48:08.203710"
-  },
-  {
-    "title": "Calypso Business Analyst",
-    "company": "Duxxel",
-    "url": "https://au.indeed.com/viewjob?jk=84343a44bdc79f02",
-    "scraped_at": "2026-08-27T05:48:08.208312"
-  },
-  {
     "title": "Business Analyst",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=c29d35f156baabe3",
@@ -5998,5 +5974,29 @@
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=d37373106afc5838",
     "scraped_at": "2026-11-21T15:47:24.287496"
+  },
+  {
+    "title": "AI Engineer - AI Innovation Office",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=86bd7ab4a23adb19",
+    "scraped_at": "2026-11-21T21:20:01.885925"
+  },
+  {
+    "title": "Expression of Interest - Data Analytics Professionals",
+    "company": "ING",
+    "url": "https://au.indeed.com/viewjob?jk=0dd96f0a44dd4d0a",
+    "scraped_at": "2026-11-21T21:20:01.890734"
+  },
+  {
+    "title": "Vice President, Security Detection & Response, Global Information Security",
+    "company": "Bank of America",
+    "url": "https://au.indeed.com/viewjob?jk=8dceb2ede59b1bf4",
+    "scraped_at": "2026-11-21T21:20:01.891918"
+  },
+  {
+    "title": "Engineering Quality Assurance Analyst - Advice Technology",
+    "company": "Insignia Financial",
+    "url": "https://au.indeed.com/viewjob?jk=1a4a12e1192de0f8",
+    "scraped_at": "2026-11-21T21:20:01.893401"
   }
 ]
