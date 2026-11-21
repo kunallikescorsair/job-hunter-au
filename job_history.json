@@ -1,23 +1,5 @@
 [
   {
-    "title": "Vice President, Security Detection & Response, Global Information Security",
-    "company": "Bank of America",
-    "url": "https://au.indeed.com/viewjob?jk=8dceb2ede59b1bf4",
-    "scraped_at": "2026-08-26T16:42:08.482468"
-  },
-  {
-    "title": "Vice President, Security Detection & Response, Global Information Security",
-    "company": "Bank of America",
-    "url": "https://au.indeed.com/viewjob?jk=cb9617ffee779d9f",
-    "scraped_at": "2026-08-26T16:42:08.483546"
-  },
-  {
-    "title": "Scientist Ecotoxicology",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=0804a26c7e75ddc3",
-    "scraped_at": "2026-08-27T05:48:08.196799"
-  },
-  {
     "title": "AI Engineer x 2 (AI Innovation Office)",
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=86bd7ab4a23adb19",
@@ -5998,5 +5980,23 @@
     "company": "Insignia Financial",
     "url": "https://au.indeed.com/viewjob?jk=33e5efbce074024d",
     "scraped_at": "2026-11-20T22:26:31.607242"
+  },
+  {
+    "title": "Assembly Technician - Optics Team",
+    "company": "Advanced Navigation",
+    "url": "https://au.indeed.com/viewjob?jk=c1630dfa96aa7ee5",
+    "scraped_at": "2026-11-21T04:49:14.158212"
+  },
+  {
+    "title": "Energy Modeler (Mandarin speaking for China Market)",
+    "company": "Aurora Energy Research Limited",
+    "url": "https://au.indeed.com/viewjob?jk=4b0ecb9b8e9350a9",
+    "scraped_at": "2026-11-21T04:49:14.165626"
+  },
+  {
+    "title": "AI Automation Engineer - Detection & Response",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=f2c62c04b0eef586",
+    "scraped_at": "2026-11-21T04:49:14.176911"
   }
 ]
