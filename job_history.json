@@ -1,17 +1,5 @@
 [
   {
-    "title": "Network Engineer",
-    "company": "Cuscal",
-    "url": "https://au.indeed.com/viewjob?jk=e5cf85110df63ffa",
-    "scraped_at": "2026-08-27T05:48:08.215440"
-  },
-  {
-    "title": "Services Engineer Sydney",
-    "company": "Multiplex",
-    "url": "https://au.indeed.com/viewjob?jk=8e59d80974680543",
-    "scraped_at": "2026-08-27T05:48:08.217186"
-  },
-  {
     "title": "PHP Engineer",
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=aec655e7da6e58d3",
@@ -5998,5 +5986,17 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=8eda35922bda8ac5",
     "scraped_at": "2026-11-22T15:47:14.265230"
+  },
+  {
+    "title": "Logistics Specialist, Data Center Operations, SYD InfraOps",
+    "company": "Amazon.com",
+    "url": "https://au.indeed.com/viewjob?jk=b2de7e950496fa1f",
+    "scraped_at": "2026-11-22T21:24:40.047398"
+  },
+  {
+    "title": "AWS Amazon Connect Engineer",
+    "company": "Accenture",
+    "url": "https://au.indeed.com/viewjob?jk=801dc86f7e2912f9",
+    "scraped_at": "2026-11-22T21:24:40.056728"
   }
 ]
