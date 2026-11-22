@@ -1,17 +1,5 @@
 [
   {
-    "title": "Business Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=c29d35f156baabe3",
-    "scraped_at": "2026-08-27T05:48:08.209736"
-  },
-  {
-    "title": "Clinical Development Analyst",
-    "company": "Solventum",
-    "url": "https://au.indeed.com/viewjob?jk=243cb92a00cba8a8",
-    "scraped_at": "2026-08-27T05:48:08.213559"
-  },
-  {
     "title": "Network Engineer",
     "company": "Cuscal",
     "url": "https://au.indeed.com/viewjob?jk=e5cf85110df63ffa",
@@ -5998,5 +5986,17 @@
     "company": "Insignia Financial",
     "url": "https://au.indeed.com/viewjob?jk=1a4a12e1192de0f8",
     "scraped_at": "2026-11-21T21:20:01.893401"
+  },
+  {
+    "title": "Data Engineer (mid level)",
+    "company": "FinXL",
+    "url": "https://au.indeed.com/viewjob?jk=66855604a5017750",
+    "scraped_at": "2026-11-22T15:47:14.262966"
+  },
+  {
+    "title": "Software Engineer | Investments Technology",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=8eda35922bda8ac5",
+    "scraped_at": "2026-11-22T15:47:14.265230"
   }
 ]
