@@ -1,17 +1,5 @@
 [
   {
-    "title": "PHP Engineer",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=aec655e7da6e58d3",
-    "scraped_at": "2026-08-27T05:48:08.218353"
-  },
-  {
-    "title": "Water Sensitive Urban Design (WSUD) Asset Inspector",
-    "company": "Blacktown City Council",
-    "url": "https://au.indeed.com/viewjob?jk=c6eb3216b9f876b2",
-    "scraped_at": "2026-08-27T05:48:08.218908"
-  },
-  {
     "title": "AI Associate",
     "company": "HUB24",
     "url": "https://au.indeed.com/viewjob?jk=c67497fa30c01612",
@@ -5998,5 +5986,17 @@
     "company": "Accenture",
     "url": "https://au.indeed.com/viewjob?jk=801dc86f7e2912f9",
     "scraped_at": "2026-11-22T21:24:40.056728"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "TPG Telecom",
+    "url": "https://au.indeed.com/viewjob?jk=81a0defb45523188",
+    "scraped_at": "2026-11-23T04:46:34.925944"
+  },
+  {
+    "title": "Agent Harness Engineer - Core Runtime",
+    "company": "NinjaTech AI",
+    "url": "https://au.indeed.com/viewjob?jk=713704ffb87573f2",
+    "scraped_at": "2026-11-23T04:46:34.942910"
   }
 ]
