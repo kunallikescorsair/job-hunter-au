@@ -1,35 +1,5 @@
 [
   {
-    "title": "AI Associate",
-    "company": "HUB24",
-    "url": "https://au.indeed.com/viewjob?jk=c67497fa30c01612",
-    "scraped_at": "2026-08-27T18:38:36.930256"
-  },
-  {
-    "title": "Network Planning Engineer",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=9f2c5060623e1295",
-    "scraped_at": "2026-08-27T18:38:36.939613"
-  },
-  {
-    "title": "Cloud Solution Architect (AWS | Azure | Google Cloud)",
-    "company": "Mindsprint",
-    "url": "https://au.indeed.com/viewjob?jk=9d5bf29ab9bc48d5",
-    "scraped_at": "2026-08-27T18:38:36.940236"
-  },
-  {
-    "title": "Network Planning Engineer",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=23ba4a918cffc1ce",
-    "scraped_at": "2026-08-27T18:38:36.940725"
-  },
-  {
-    "title": "Forward Deployed Engineer (AI Solutions) - APAC Market",
-    "company": "Aircall",
-    "url": "https://au.indeed.com/viewjob?jk=f8a1382d281197fd",
-    "scraped_at": "2026-08-27T18:38:36.942009"
-  },
-  {
     "title": "Delivery Manager",
     "company": "KMS Technology",
     "url": "https://au.indeed.com/viewjob?jk=cab99f3171c0164f",
@@ -5998,5 +5968,35 @@
     "company": "NinjaTech AI",
     "url": "https://au.indeed.com/viewjob?jk=713704ffb87573f2",
     "scraped_at": "2026-11-23T04:46:34.942910"
+  },
+  {
+    "title": "Graduate AI Engineer",
+    "company": "Superloop",
+    "url": "https://au.indeed.com/viewjob?jk=f5e1a0613fa29de3",
+    "scraped_at": "2026-11-23T19:39:40.123182"
+  },
+  {
+    "title": "Financial Insights Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=8797c49f9fc2a076",
+    "scraped_at": "2026-11-23T19:39:40.129358"
+  },
+  {
+    "title": "People & Culture Data Analyst",
+    "company": "IMB Bank",
+    "url": "https://au.indeed.com/viewjob?jk=d08e71d8fd761220",
+    "scraped_at": "2026-11-23T19:39:40.132491"
+  },
+  {
+    "title": "Performance Analyst",
+    "company": "Transport for NSW",
+    "url": "https://au.indeed.com/viewjob?jk=b3c1638e44d894ad",
+    "scraped_at": "2026-11-23T19:39:40.135663"
+  },
+  {
+    "title": "AI Interaction Engineer, CX",
+    "company": "NiCE",
+    "url": "https://au.indeed.com/viewjob?jk=2c9bc7eb5ddbdb92",
+    "scraped_at": "2026-11-23T19:39:40.141609"
   }
 ]
