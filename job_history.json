@@ -1,47 +1,5 @@
 [
   {
-    "title": "Delivery Manager",
-    "company": "KMS Technology",
-    "url": "https://au.indeed.com/viewjob?jk=cab99f3171c0164f",
-    "scraped_at": "2026-08-27T18:38:36.942765"
-  },
-  {
-    "title": "Advisory Solution Consultant",
-    "company": "ServiceNow",
-    "url": "https://au.indeed.com/viewjob?jk=6d4ec6e545a4af35",
-    "scraped_at": "2026-08-27T18:38:36.946071"
-  },
-  {
-    "title": "Equities Trading - Delta One - Analyst/Associate - Sydney",
-    "company": "JPMorganChase",
-    "url": "https://au.indeed.com/viewjob?jk=b095c72e4f4ef199",
-    "scraped_at": "2026-08-27T18:38:36.952558"
-  },
-  {
-    "title": "Analyst Technology Approval",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=8a3437f3983e6cf4",
-    "scraped_at": "2026-08-27T18:38:36.953654"
-  },
-  {
-    "title": "Red Hat Developer",
-    "company": "Accenture",
-    "url": "https://au.indeed.com/viewjob?jk=4ea7d9367eb071e2",
-    "scraped_at": "2026-08-27T18:38:36.962602"
-  },
-  {
-    "title": "SAP ABAP EWM Consultant",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=bd4fa34e7172f2f9",
-    "scraped_at": "2026-08-27T18:38:36.963249"
-  },
-  {
-    "title": "SAP ABAP EWM Consultant",
-    "company": "Capgemini",
-    "url": "https://au.indeed.com/viewjob?jk=c1db297bfc2df18b",
-    "scraped_at": "2026-08-27T18:38:36.963867"
-  },
-  {
     "title": "Full Stack Developer (TypeScript / Next.js)",
     "company": "OWNER INSPECTIONS",
     "url": "https://au.indeed.com/viewjob?jk=5736721e415af640",
@@ -5998,5 +5956,47 @@
     "company": "NiCE",
     "url": "https://au.indeed.com/viewjob?jk=2c9bc7eb5ddbdb92",
     "scraped_at": "2026-11-23T19:39:40.141609"
+  },
+  {
+    "title": "AI Scientist - Westpac Institutional Bank",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=ac476854d84a358e",
+    "scraped_at": "2026-11-24T04:31:06.688698"
+  },
+  {
+    "title": "Scientist (Flow)",
+    "company": "BioAgilytix Labs",
+    "url": "https://au.indeed.com/viewjob?jk=3d0dbf7f56edd7cf",
+    "scraped_at": "2026-11-24T04:31:06.696202"
+  },
+  {
+    "title": "Information Security Consultant (Cyber Threat Intelligence)",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=8849f82368dfac58",
+    "scraped_at": "2026-11-24T04:31:06.706955"
+  },
+  {
+    "title": "Embedded Threat Intelligence Analyst",
+    "company": "Sibylline Australia",
+    "url": "https://au.indeed.com/viewjob?jk=90920a1440e252bb",
+    "scraped_at": "2026-11-24T04:31:06.707754"
+  },
+  {
+    "title": "Financial Crimes Analyst",
+    "company": "Cuscal",
+    "url": "https://au.indeed.com/viewjob?jk=ed0fa27f0ea8a9a8",
+    "scraped_at": "2026-11-24T04:31:06.708606"
+  },
+  {
+    "title": "ADAPT / EDW Engineer",
+    "company": "Neuronimbus Digital Pty Ltd",
+    "url": "https://au.indeed.com/viewjob?jk=7458965ad6b199f7",
+    "scraped_at": "2026-11-24T04:31:06.708886"
+  },
+  {
+    "title": "Database Platform Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=e0e83d08074e6b45",
+    "scraped_at": "2026-11-24T04:31:06.712207"
   }
 ]
