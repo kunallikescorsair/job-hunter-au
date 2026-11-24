@@ -1,23 +1,5 @@
 [
   {
-    "title": "Full Stack Developer (TypeScript / Next.js)",
-    "company": "OWNER INSPECTIONS",
-    "url": "https://au.indeed.com/viewjob?jk=5736721e415af640",
-    "scraped_at": "2026-08-27T18:38:36.964772"
-  },
-  {
-    "title": "AI Support Engineer",
-    "company": "Westpac Group",
-    "url": "https://au.indeed.com/viewjob?jk=6c77dc3a6bc0e3d3",
-    "scraped_at": "2026-08-28T03:55:51.542882"
-  },
-  {
-    "title": "Delivery Manager",
-    "company": "KMS Technology",
-    "url": "https://au.indeed.com/viewjob?jk=713bfee2c9c02b0b",
-    "scraped_at": "2026-08-28T03:55:51.543632"
-  },
-  {
     "title": "Operations Analyst, RI Operations",
     "company": "Amazon Web Services",
     "url": "https://au.indeed.com/viewjob?jk=29c4532c38e827f5",
@@ -5998,5 +5980,23 @@
     "company": "Macquarie Group",
     "url": "https://au.indeed.com/viewjob?jk=e0e83d08074e6b45",
     "scraped_at": "2026-11-24T04:31:06.712207"
+  },
+  {
+    "title": "Workforce Data Quality Analyst",
+    "company": "Baptist Care",
+    "url": "https://au.indeed.com/viewjob?jk=6c8e7ad07dd778d8",
+    "scraped_at": "2026-11-24T19:12:58.354168"
+  },
+  {
+    "title": "Analytics Engineer",
+    "company": "Macquarie Group",
+    "url": "https://au.indeed.com/viewjob?jk=2e285d1226372df0",
+    "scraped_at": "2026-11-24T19:12:58.357524"
+  },
+  {
+    "title": "Analytics Engineer - 12M FTC",
+    "company": "REST",
+    "url": "https://au.indeed.com/viewjob?jk=1ac6dc5fe4b3dcff",
+    "scraped_at": "2026-11-24T19:12:58.358173"
   }
 ]
