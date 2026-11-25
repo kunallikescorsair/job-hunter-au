@@ -1,11 +1,5 @@
 [
   {
-    "title": "Operations Analyst, RI Operations",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=29c4532c38e827f5",
-    "scraped_at": "2026-08-28T03:55:51.550170"
-  },
-  {
     "title": "Commercial Property Analyst",
     "company": "Domain Group",
     "url": "https://au.indeed.com/viewjob?jk=34eb0639224fd7d6",
@@ -5998,5 +5992,11 @@
     "company": "REST",
     "url": "https://au.indeed.com/viewjob?jk=1ac6dc5fe4b3dcff",
     "scraped_at": "2026-11-24T19:12:58.358173"
+  },
+  {
+    "title": "Security Engineer - AI & Automation",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=b8066b5df9d1658a",
+    "scraped_at": "2026-11-25T03:15:36.779077"
   }
 ]
