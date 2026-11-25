@@ -1,17 +1,5 @@
 [
   {
-    "title": "Commercial Property Analyst",
-    "company": "Domain Group",
-    "url": "https://au.indeed.com/viewjob?jk=34eb0639224fd7d6",
-    "scraped_at": "2026-08-28T03:55:51.551332"
-  },
-  {
-    "title": "Analyst Technology Approvals",
-    "company": "NSW Government",
-    "url": "https://au.indeed.com/viewjob?jk=1741a386578f2809",
-    "scraped_at": "2026-08-28T03:55:51.554031"
-  },
-  {
     "title": "Software Engineer C++",
     "company": "AKUNA CAPITAL",
     "url": "https://au.indeed.com/viewjob?jk=e41d57d90ed596de",
@@ -5998,5 +5986,17 @@
     "company": "Westpac Group",
     "url": "https://au.indeed.com/viewjob?jk=b8066b5df9d1658a",
     "scraped_at": "2026-11-25T03:15:36.779077"
+  },
+  {
+    "title": "Observability Engineer (Elastic Stack)",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=d5f18e4fbfc4e1ef",
+    "scraped_at": "2026-11-25T13:43:46.924921"
+  },
+  {
+    "title": "Platform Engineer- Flare",
+    "company": "MYOB",
+    "url": "https://au.indeed.com/viewjob?jk=8319f41c9a521a94",
+    "scraped_at": "2026-11-25T13:43:46.940410"
   }
 ]
