@@ -1,23 +1,5 @@
 [
   {
-    "title": "Software Engineer C++",
-    "company": "AKUNA CAPITAL",
-    "url": "https://au.indeed.com/viewjob?jk=e41d57d90ed596de",
-    "scraped_at": "2026-08-28T03:55:51.555904"
-  },
-  {
-    "title": "Software Development Engineer, Internet Edge Services",
-    "company": "Amazon Web Services",
-    "url": "https://au.indeed.com/viewjob?jk=58ba0d9e2afd2219",
-    "scraped_at": "2026-08-28T03:55:51.558109"
-  },
-  {
-    "title": "Lead AI Engineer",
-    "company": "Bridgit",
-    "url": "https://au.indeed.com/viewjob?jk=75884524e148b24a",
-    "scraped_at": "2026-08-28T15:47:52.136288"
-  },
-  {
     "title": "Software Engineer, Platform - Sydney, Australia",
     "company": "Speechify",
     "url": "https://au.indeed.com/viewjob?jk=1c49a564cc4b095f",
@@ -5998,5 +5980,23 @@
     "company": "MYOB",
     "url": "https://au.indeed.com/viewjob?jk=8319f41c9a521a94",
     "scraped_at": "2026-11-25T13:43:46.940410"
+  },
+  {
+    "title": "Automation Engineer",
+    "company": "The magnum ice cream company",
+    "url": "https://au.indeed.com/viewjob?jk=64ca9cc1b4c1314c",
+    "scraped_at": "2026-11-26T05:58:32.574666"
+  },
+  {
+    "title": "Insights Analyst - Home Lending",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=d61c70a26cefe82d",
+    "scraped_at": "2026-11-26T05:58:32.579994"
+  },
+  {
+    "title": "Data Engineer - Home Lending",
+    "company": "Westpac Group",
+    "url": "https://au.indeed.com/viewjob?jk=0db89ea58afc7f7a",
+    "scraped_at": "2026-11-26T05:58:32.581220"
   }
 ]
