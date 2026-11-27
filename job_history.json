@@ -1,11 +1,5 @@
 [
   {
-    "title": "Data Quality Business Analyst",
-    "company": "Macquarie Group",
-    "url": "https://au.indeed.com/viewjob?jk=4f84a7142da766ec",
-    "scraped_at": "2026-08-28T15:47:52.152269"
-  },
-  {
     "title": "Forward Deployed Engineer",
     "company": "Avanade",
     "url": "https://au.indeed.com/viewjob?jk=018e4510ad8ea71f",
@@ -5998,5 +5992,11 @@
     "company": "Google",
     "url": "https://au.indeed.com/viewjob?jk=ce5de0bbdfa17223",
     "scraped_at": "2026-11-27T02:33:12.641152"
+  },
+  {
+    "title": "AI Associate",
+    "company": "HUB24",
+    "url": "https://au.indeed.com/viewjob?jk=cde8c646d8fbd0f9",
+    "scraped_at": "2026-11-27T13:19:13.024762"
   }
 ]
