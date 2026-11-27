@@ -1,11 +1,5 @@
 [
   {
-    "title": "Forward Deployed Engineer",
-    "company": "Avanade",
-    "url": "https://au.indeed.com/viewjob?jk=018e4510ad8ea71f",
-    "scraped_at": "2026-08-28T15:47:52.153472"
-  },
-  {
     "title": "Integration Engineer",
     "company": "Xero",
     "url": "https://au.indeed.com/viewjob?jk=d835456881aea47f",
@@ -5998,5 +5992,11 @@
     "company": "HUB24",
     "url": "https://au.indeed.com/viewjob?jk=cde8c646d8fbd0f9",
     "scraped_at": "2026-11-27T13:19:13.024762"
+  },
+  {
+    "title": "Application Analyst",
+    "company": "Blacktown City Council",
+    "url": "https://au.indeed.com/viewjob?jk=2853accdf77f5762",
+    "scraped_at": "2026-11-27T23:49:59.318828"
   }
 ]
